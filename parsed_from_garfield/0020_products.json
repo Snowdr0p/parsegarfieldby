@@ -1,0 +1,506 @@
+{
+    "Кошки": {
+        "Коррекция поведения": {
+            "url": "https://garfield.by/catalog/cats/korrektsiya-povedeniya.html",
+            "products": [
+                {
+                    "name": "Мататаби коррекция поведения кошки в период течки, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb3/k7iiypa604i3xl6mhias1ewdz2936fpp/200_200_1/966762847e43adafb01115f488f4f7f6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "STOP-спрей \"Не гадит,не метит\", 120 мл",
+                    "description": "Отучение от меток в неположенных местах",
+                    "image_url": "https://garfield.by/upload/iblock/2c6/ettimqtn9jd0lch27b8n3ldawms7aqy1/d30f5d05711196fb6ca4a7e4df83716d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Мататаби для снятия импульсной агрессии, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/15c/uswwjpjnsw4izd2wuoc0sbzj30zhial7/200_200_1/d69103b33a9c0e747d55016db5d2d4e6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Мататаби антипакостин, отучения от меток, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8cc/zkcbpf0ssjhqha5ovvqk7z44uy18l32j/200_200_1/0a3d517d28c0180376ee3a480e46d035.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,20 руб."
+                },
+                {
+                    "name": "Мататаби \"Один дома\" для снятия стресса, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/09f/i6m8n6h3vumcc947nx1ao6qfj2pw2dpa/200_200_1/dd3e2abaa90eafea40e4fac26d149adf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Мататаби устранения стресса на приеме у врача и грумера, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/480/4n48s14wcsefk6mpqixglq5rniuqzop5/200_200_1/d73158d3a2f8d59996edbbeeb650a738.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Защитный пластырь «От меток» для кота",
+                    "description": "Безопасен в случае поедания. Гипоаллергенен.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8fc/vvkpr2edjpx21gsvrgvt2njgurll24ee/200_200_1/2795b05e8f63b9de113a6dfa50eeab31.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Защитный Пластырь \"АнтиГрызин\"",
+                    "description": "Безопасен в случае поедания. Гипоаллергенен",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/850/n3np3ivacvokr4h5jpcyccfk0sbs6ryt/200_200_1/c405ef88126af6226a72592b5fb66e7e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Защитный пластырь «АнтиЕдун» для кота",
+                    "description": "Гипоаллергенен. В упаковке 3 штуки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/abf/0w1r8cxd44stb63ey5ab2f7iw4j9eo5w/200_200_1/21adb99c564747ad34b5289c167e8287.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Комплексный «Антипакостин» для собак и кошек, 240 мл",
+                    "description": "Имеет приятный, едва уловимый, нежный аромат лимона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/29c/58owuasjme2xt1aflyia54fgzhp1df1l/200_200_1/b1765d3aad46cc32c3377321c2541061.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "59,40 руб."
+                },
+                {
+                    "name": "Beaphar Диффузор No stress Starter Pack Cat, 30 мл",
+                    "description": "Успокаивающий диффузор для котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dab/vss9wsyr1yn0hxorbrplf8n7d81lqo6l/200_200_1/92bfe28abc7b5619ad61b279e77c1f94.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,00 руб."
+                },
+                {
+                    "name": "Beaphar Ошейник No Stress Cat, 35 см",
+                    "description": "Успокаивающий ошейник для котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b55/b8sueyy2vw7cxxyh7utgymdsep6425qm/200_200_1/3f1e57f3ad485c632054bc1e56dd257a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Антигадин в виде гранул для уличного применения",
+                    "description": "Геолитовые гранулы для отпугивания кошек и собак от растений",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fe/7wojs2bdgetlwpn4etdsrqbz2jjkhl1a/200_200_1/fb9656_b25eaa212b874bdc965a921611fb9b74_mv2-855x1290.jpg",
+                    "amount": "450 г",
+                    "cost": "46,30  руб."
+                },
+                {
+                    "name": "Антигадин / Антипакостин",
+                    "description": "Средство для отучения питомца от привычки гадить или пакостить",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/440/ir3cf5meb1zzawueb5gyq8fcqr13rvhs/200_200_1/4f45ec_8025ebf61fd044878729b8a283e08351_mv2-855x1290.jpg",
+                    "amount": "200 мл",
+                    "cost": "43,30  руб."
+                },
+                {
+                    "name": "Коврик с мататаби",
+                    "description": "Успокаивающий коврик для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/634/7l8zubbfihbw1nsjxy885speiej8a0uq/200_200_1/791d97a41d444f140dba58ee3583c007.jpg",
+                    "amount": "40х50 см",
+                    "cost": "34,10  руб."
+                },
+                {
+                    "name": "Экстракт кошачьей мяты Двойная сила",
+                    "description": "Экстракт кошачьей мяты",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/627/mt19dvxqhc5sibxmmzx0uwhsv55a0koi/200_200_1/5a6f4b163eb63ebd97b77e89240ad97e.jpg",
+                    "amount": "100 мл",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Gamma Универсальное средство для приучения к туалету Хорошие манеры",
+                    "description": "Спрей для привлечения внимания собаки или кошек к определенному месту",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/943/1fc1d1n9vzvxeyos3f2jjbwrmiwtj039/200_200_1/2622f49cad64bef95e60ec4156e1b0b0.jpg",
+                    "amount": "250 мл",
+                    "cost": "10,90  руб."
+                },
+                {
+                    "name": "Gamma Универсальное средство для защиты мест, не предназначенных для туалета Хорошие манеры",
+                    "description": "Спрей зоогигиенический для отучения собак и кошек от меток",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4d7/kb2xprxhw1p7rcin7xl4c1cba0as81ib/200_200_1/b9cf91cc1cfa089b60e336e1cfb8cfe1.jpg",
+                    "amount": "250 мл",
+                    "cost": "12,20  руб."
+                },
+                {
+                    "name": "Мататаби Интерес к игрушкам",
+                    "description": "Принесет заинтересованность для не играющих и ленивых котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ef/tdtien6sy1iquqvkwg6v7oh84m5oszoe/200_200_1/8359754861eb325459b94ce77decfcc8.jpg",
+                    "amount": "1 г/уп",
+                    "cost": "15,20  руб."
+                },
+                {
+                    "name": "Beaphar Спрей No Stress Spray для кошек",
+                    "description": "Успокаивающий спрей для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/526/s2jwtldqzo49f6udvdn731sdb1ut2tfk/200_200_1/257f4845bb63c6bdbef61a4def5d3d8d.jpg",
+                    "amount": "125 мл",
+                    "cost": "30,40  руб."
+                },
+                {
+                    "name": "\"Trixie\" Спрей \"Кошачья мята\"",
+                    "description": "Спрей для привлечения к игре.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2bb/xyc61p9mqstr9f0ra2vlzt5ctkvr8k65/200_200_1/bcdf28bd6f093aabb20c8b0799113239.jpg",
+                    "amount": "50 мл",
+                    "cost": "10,70  руб."
+                },
+                {
+                    "name": "Спрей Doctor VIC для приучения кошек к предмету",
+                    "description": "Спрей для привлечения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac8/bbh9mlvnuos62bwe9ty7vqo2cm5u59kd/200_200_1/8e3f100a0ebebdd2418966adb771450d.png",
+                    "amount": "100 мл",
+                    "cost": "6,80  руб."
+                },
+                {
+                    "name": "Beaphar Успокаивающий диффузор CatComfort для кошек",
+                    "description": "Диффузор со сменным блоком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b0e/dsyln105ez1d3pb4kt8sv3y1pawqqb1j/200_200_1/fe5591edffaee4e34731bf0189e1bddb.png",
+                    "amount": "за 1 ед.",
+                    "cost": "73,10 руб."
+                },
+                {
+                    "name": "Защитный пластырь «АнтиГадин»",
+                    "description": "Безопасен в случае поедания. Гипоаллергенен",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aea/igl5haul617xaepm0m69un76vrobpe0u/200_200_1/e38a28961a2bb1e7d2fbeb74b910cffc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Защитный пластырь «АнтиЦарапин»",
+                    "description": "Безопасен в случае поедания. Гипоаллергенен",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1dc/tqrkykxb4lvoyx1p1jjrcos84l2zmbvt/200_200_1/8b881205827e1ba83b8cdbed3702ca10.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Beaphar Спрей Stop It Cat, 100 мл",
+                    "description": "Спрей для отпугивания кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cac/fy7tld5yjaho88q2kaakgthybl8i4mk2/200_200_1/c7a4f1a4c6bd83c32c20f0fb36672fb9.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,50 руб."
+                },
+                {
+                    "name": "Mr. Fresh Приучение к когтеточке, 200 мл",
+                    "description": "Спрей для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad6/1tti3tj28zjzscrwfiylx1z4h6lp78rr/200_200_1/519994f7e38d8a182e3c582608760051.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,80 руб."
+                },
+                {
+                    "name": "Beaphar Гель Stop It Exterier Crystals, 480 г",
+                    "description": "Отпугивающий гель для кошек и собак вне дома",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f34/tl6o1arcx421ab1c3xzblfl812eh7o34/200_200_1/95edcdacb7ee9cc285cf92e30cce530f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,80 руб."
+                },
+                {
+                    "name": "Beaphar Спрей Stop It Exterier Crystals, 400 мл",
+                    "description": "Отпугивающий спрей для кошек и собак вне дома",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b19/v1n8o3z8taiuylgok3g489do3hj38thj/200_200_1/c3b447bbd677b9949a7a6da1a8a295b4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "42,10 руб."
+                },
+                {
+                    "name": "\"ЭКО ZOOЛЕКАРЬ\" Спрей отучение гадить и метить",
+                    "description": "Для кошек и собак, 200 мл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f65/xmtz23e7lyo2gm3rn83b1a7b5w2v18zi/200_200_1/d3bf758050b55fef46bcc15bd65c0333.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "\"ЭКО ZOOЛЕКАРЬ\" Спрей приучение к туалету и лотку",
+                    "description": "Для кошек и собак, 200 мл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ded/wf38684dy1auasawhxcc0wpc25nj15za/200_200_1/16ade5f37eced0246a3513d50f0cab2b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Спрей отпугивающий  Amstrel \"ТАБУ\", 100 мл",
+                    "description": "Корректирует поведение, для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c47/tmwpj8a70e741vl4szll8fl60z8yljef/200_200_1/4232fb2579f956c03a6660b1e5e5d38c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,70 руб."
+                },
+                {
+                    "name": "Beaphar Капли No Stress Spot On cat",
+                    "description": "Успокаивающие капли для кошек, 3 пипетки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cee/nd4rnoaof8xdlkcxu0vx3f8oiwka5g8s/200_200_1/367c142684fc09805b58332a71fd7f14.png",
+                    "amount": "за 1 ед.",
+                    "cost": "25,10 руб."
+                },
+                {
+                    "name": "Мататаби для устранения стресса в дороге, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd2/ltg9modpv7mx8xf43zvijaswcewud3q9/200_200_1/d235f19e646dc6994195df6a9c2a592d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Beaphar Catty Home, 10 мл",
+                    "description": "Средство для приучения кошек к месту",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f25/9feb2aq6ccu14j59mfskmkexy08ky64h/200_200_1/b7848cd1090c3e9398d8fb1d8b5da771.png",
+                    "amount": "за 1 ед.",
+                    "cost": "18,60 руб."
+                },
+                {
+                    "name": "Beaphar Play Spray, 150 мл",
+                    "description": "Спрей для привлечения кошек к местам для игр",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ad/2swjcj40w0273wgw16a0k7v832g88ch1/200_200_1/234e26cc37e95ead96e97cceb37603c1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "27,30 руб."
+                },
+                {
+                    "name": "\"Альпийские луга\" Спрей кошачья мята, 100 мл",
+                    "description": "Спрей для обработки предметов обихода и снятия стресса",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/22c/dekexl2zhnm1sur3b6mqkqsm5sao1f9h/200_200_1/420630cc00111675128aad63bd221b28.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Экстракт кошачьей мяты",
+                    "description": "Экстракт кошачьей мяты, 100 мл.",
+                    "image_url": "https://garfield.by/upload/iblock/aa8/loxgkwl995zqgdw4nee9eavvyby9ggy6/e91a3ab8ebd557e001b5e5b63d25019c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "16,80 руб."
+                },
+                {
+                    "name": "\"Trixie\" Спрей-отпугиватель, 175 мл",
+                    "description": "Для защиты мебели и других объектов от царапин и укусов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4db/4efkvgzm61erkjutp2n02t5pr098h150/200_200_1/5fa52b040d2941c2b6d39904d2cf30b9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,50 руб."
+                },
+                {
+                    "name": "STOP-спрей \"Не царапает, не грызет\", 120 мл",
+                    "description": "Спрей для отучения грызть или царапать вещи и места в доме",
+                    "image_url": "https://garfield.by/upload/iblock/2c0/qgys1q26vac6o4tfza7tppkt02voixa7/8b4d2a802d54db95a5610b62b85f5bb4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "STOP-спрей \"Приучение к лотку\", 120 мл",
+                    "description": "Спрей для приучения к лотку",
+                    "image_url": "https://garfield.by/upload/iblock/41e/o2de2tqqgy0ldcjt395h9bf3q1wpmxxo/ba30037e0880dad7fffc98274774d535.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Stop-спрей \"Приучение к когтеточке\", 120 мл",
+                    "description": "Спрей для приучение кота к когтеточке",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c3e/a94ov7aonjbntfnuo0p1msffl4h3dfuu/200_200_1/4eb1c051f52c273939e2625fc283da43.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Mr. Fresh Приучение к месту для кота, 200 мл",
+                    "description": "Для выработки привычки ходить в туалет в специальном месте",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d74/kjr2k3l58p1noor3dgjjcch4w7mlhswx/200_200_1/6e564ff990315c5ef826303b9f842024.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Mr.Fresh Cat Защита от царапания, 200 мл",
+                    "description": "Защита мебели и других предметов от царапания.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d95/ynwejtwarlthazz7vwl3pe1rt9tlj87x/200_200_1/64d5e36febbb46d80e589373f3c8d720.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Mr.Fresh Expert Отучение гадить для кошек, 200 мл",
+                    "description": "Отучение питомца справлять свою нужду в неположенных местах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ee2/rwjmrfheqfgy8t3f43xbztkju6lfgd56/200_200_1/84132093146d68250aa19d41a9866d57.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,30 руб."
+                },
+                {
+                    "name": "Спрей Doctor VIC отпугивающий для кошек",
+                    "description": "Средство для коррекции поведения кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/406/1cxoi71a7yijmdpjue5b5dg53ssoghq5/200_200_1/1 (2).jpg",
+                    "amount": "100 мл",
+                    "cost": "9,50  руб."
+                },
+                {
+                    "name": "Beaphar Сменный баллон No Stress Refill Cat, 30 мл",
+                    "description": "Сменный баллон к успокаивающему диффузору для котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/61e/v62ka33od8wh9af2scxa11vx3wvena0y/200_200_1/8de72a4057a94536995eef13d22def95.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,60 руб."
+                },
+                {
+                    "name": "БиоВакс Спрей-лосьон для кошек \"Отпугивать? Да!\", 180 мл",
+                    "description": "Отпугивающий спрей для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1da/b669klpl29r3fcdvwr0buvk2mzdoomir/200_200_1/543dd9ada8800b275cbd25edd59afc12.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Спрей Animal Play \"Приучение к туалету\" для собак и кошек, 200 мл",
+                    "description": "Спрей коррекции поведения на природных ферментах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/508/45yxuzwa5zgiz7no8kz0m5zmd2avuvgq/200_200_1/e5f5c44c2acc40a72b62ca5eb728d802.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Антистрессовый массажер для кошек",
+                    "description": "Удобный массажер для всех частей тела кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6af/clhtjy2x0rdtb2t2fsw1wxukt67s905o/200_200_1/afa9a6c70e18ba8782d50d202bd1d572.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,50 руб."
+                },
+                {
+                    "name": "Beaphar Успокаивающий спрей для кошек Cat Comfort, 30 мл",
+                    "description": "Успокаивающее средство с феромонами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/552/vsd1wpd4u36809bozen312589hseds5g/200_200_1/7f7a5c326fbd38afb0738812372343d6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,30 руб."
+                },
+                {
+                    "name": "SENTRY Ошейник Calming Collar для кошек, 1 шт",
+                    "description": "Успокаивающий ошейник с феромонами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/072/qs3px07wpl2665oyezac14vhsdefqc73/200_200_1/efee014199b8f2963f34d83cfcbd0942.png",
+                    "amount": "за 1 ед.",
+                    "cost": "63,80 руб."
+                },
+                {
+                    "name": "Le Artis Спрей с кошачьей мятой для кошек, 200 мл",
+                    "description": "Спрей для коррекции поведения",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1c6/rql9c3fu6h2jcgibkx6tawu08nx40332/200_200_1/1ba53a86d2f321aabb8fc829554f3ec4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "Le Artis Спрей Аккуратист, 200 мл",
+                    "description": "Средство для отпугивания домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/88b/2ezpgq1loffelmt1qdw90uwitgvrly1s/200_200_1/4f076b76a003cb10234d43621df0bd30.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "Le Artis Спрей Умница, 200 мл",
+                    "description": "Средство, защищающее от грызения",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3af/cmys5lnyko2but7zm2shb5387ehgd1ok/200_200_1/a3fa30500681cad135657bb3804ffa6d.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "Мататаби для приучения к когтеточке, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a61/gxu39sofxh31yjjsm4b0hk2551o0dsfy/200_200_1/af12fd4b4cf54c1dc4996f532cfea78d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,20 руб."
+                },
+                {
+                    "name": "Beaphar Сменный блок успокаивающего диффузора CatComfort для кошек",
+                    "description": "Диффузор для предотвращения стресса у кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9bf/s5pczvrp9t5nctlqoe85tk2g8qw66rlo/200_200_1/b59aeea793f92fc86c3f824bb868d494.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,80 руб."
+                },
+                {
+                    "name": "Sanilove Средство для защиты мест не для туалета, 500 мл",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/735/kk2sxoa5z82qcefaac2d84i867bqpcda/200_200_1/0ffa7f6b1d6d2d2a66bb4566b08be10c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "18,10 руб."
+                },
+                {
+                    "name": "Sanilove Средство для приучения животных к лотку, 125 мл",
+                    "description": "Подходит для всех поверхностей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/210/5v58xxt68w67pg7nc1gsxjna125pzo9v/200_200_1/8bcc0f86dbd0f89568f2d8b99870f8de.png",
+                    "amount": "за 1 ед.",
+                    "cost": "15,40 руб."
+                },
+                {
+                    "name": "Спрей Amstrel \"Catnip\", 100 мл.",
+                    "description": "Привлекающий спрей для кошей и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea4/qentxyu1v9sk2eoqshqi95or5ahboo6c/200_200_1/a37b4763c9d5650f168d41d7632c0855.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,70 руб."
+                },
+                {
+                    "name": "Feliway Friends Феромон для кошек (диффузор + флакон)",
+                    "description": "Помогает уменьшить конфликты и агрессию между кошками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b00/9mbuzdspwawh3u5jgu8fiukhbzbgkqs2/200_200_1/fc97768ae99afdb0c5b96156de714197.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "185,10 руб."
+                },
+                {
+                    "name": "Feliway Friends Феромон для кошек (сменный флакон), 48 мл",
+                    "description": "Помогает уменьшить конфликты и агрессию между кошками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/079/ifzcxejsq2a00jtnadipj5dpvb7cgyjj/200_200_1/fbcbc24ab39cf4fee10a7d8513ea20f2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "131,80 руб."
+                },
+                {
+                    "name": "\"ЭКО ZOOЛЕКАРЬ\" Спрей приучение к когтеточке и игрушке",
+                    "description": "Для кошек и котят, 200 мл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e88/o3f71uje3k8yxp87ryspp43t600s5bin/200_200_1/489b596b6c3398a5669218a9e3676217.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "\"ЭКО ZOOЛЕКАРЬ\" Спрей защита от царапанья и погрызов",
+                    "description": "Для кошек и собак, 200 мл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e58/3jm3n00snimbx9bwyrkg9ja4bwbeq7k5/200_200_1/ae1686e96f60e7446dbee57cec99ceda.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "БиоВакс Спрей \"Поглотитель запахов\", 180 мл",
+                    "description": "Спрей-эмульсия для домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65c/5w7lgupalae7jy8rtm7xe5lzybbe1rz0/200_200_1/5866b113ba60b3e8a3fd19f1a15b55cf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "БиоВакс Спрей для кошек \"Мое место? Да!\", 180 мл",
+                    "description": "Приучающий спрей для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f5e/wbgzpelluimv66ez1t0k8esa8k5ztnir/200_200_1/b6979bdcb33512664bc7507f60bb19e0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "БиоВакс Спрей для кошек \"Гадить? Нет!\", 180 мл",
+                    "description": "Отучающий спрей-лосьон для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f9/14g40ih3atzr7upcg4bbi4nq0ojyvv8c/200_200_1/06c8293b8702737016cfc7a968a5f75c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Beaphar No Stress Tablets, 20 таб.",
+                    "description": "Успокоительное для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bef/ry28gynh07j1eite858aopvl5nrhd1qk/200_200_1/37fd2aba05f54ea279db5b6cb2dbbf6c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Спрей Ms.Kiss \"Приучает к когтеточке\", 200 мл",
+                    "description": "С маслом котовника и экстрактом валерианы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff9/fedpvoqvmrs8y6nyzh4mdianexznrsyw/200_200_1/2ef20a81693c46e4d7800c2a23c42ea4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Спрей Ms.Kiss \"Приучает к лотку\", 200 мл",
+                    "description": "Зоогигиенический спрей для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/357/aps9shngchcjkvfrgcoedasxn4368rsp/200_200_1/a5e783ee22e8972352490f6f6ae20e61.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,20 руб."
+                },
+                {
+                    "name": "FELIWAY Classic",
+                    "description": "Успокоительное средство для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff5/eic6zdo5d1znapkenflnnv9zzngx4rxq/200_200_1/7987d1eb4bd8644eff6f2121eaa6b836.jpg",
+                    "amount": "48 мл",
+                    "cost": "131,80  руб."
+                }
+            ]
+        }
+    }
+}

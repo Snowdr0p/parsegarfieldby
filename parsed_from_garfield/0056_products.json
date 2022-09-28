@@ -1,0 +1,114 @@
+{
+    "Птицы": {
+        "Груминг": {
+            "url": "https://garfield.by/catalog/birds/gruming.html",
+            "products": [
+                {
+                    "name": "Triol 624B Когтерез-ножницы \"Стандарт\"",
+                    "description": "Когтерез для животных, 70х140 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ca/92u1t3a66y07rnoreg3od7tha0yuwpyw/200_200_1/8a15f3926fd3890904841a0cb98ad5f8.jpg",
+                    "amount": "Блистер",
+                    "cost": "15,20  руб."
+                },
+                {
+                    "name": "Triol Когтерез \"Премиум\"",
+                    "description": "Боковой когтерез из металла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c9/w480srr1236u1q4fcsbcspldppjc0foj/200_200_1/06b1c4954b5b2d739c7680f13de34d22.jpg",
+                    "amount": "S",
+                    "cost": "27,60  руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-ножницы малый прямой",
+                    "description": "Для кошек, собак, кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f3/0n2wc0ty8ru12y404asqnuy5gwq1qw8f/200_200_1/b6ea834061c9358e7413724994755a23.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,40 руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" для когтей, 13 см",
+                    "description": "Ножницы для когтей, нержавеющая сталь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/064/ixt2ki2kerwjxi12su5b6y1fv98yoawg/200_200_1/f79ccb9b0844532210b71f30ecb8bc97.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "14,60 руб."
+                },
+                {
+                    "name": "Triol 179AB Когтерез-гильотина",
+                    "description": "Когтерез-гильотина для животных, 75х130 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae0/rapolydu5mtgdvzodhdx1sfh442ehyys/200_200_1/d192819136eacee8ae74b11bfc110b57.jpg",
+                    "amount": "Блистер",
+                    "cost": "14,70  руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" \"Pro Care\", 8см",
+                    "description": "Ножницы для когтей мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/859/7g90n7g3na5c18t3y2hwvi0yqq9ckath/200_200_1/1308d63083983393a6be9755707634ac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,10 руб."
+                },
+                {
+                    "name": "Hello Pet Когтерез-гильотина черный с цвет. покрытием ПВХ",
+                    "description": "Для стрижки когтей из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f79/7jfowf47maroclc2r3bqrjrtjoh7ek6a/200_200_1/f053725da36d98a09542b4d310559ae9.jpg",
+                    "amount": "Большое отверстие",
+                    "cost": "15,00  руб."
+                },
+                {
+                    "name": "Hello Pet Когтерез-ножницы малый прямой",
+                    "description": "Когтерез из нержавеющей стали для животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c9/buu06p9nadwfop76k8msfbddv2wl4xdj/200_200_1/caf61c674fad359da9811578a4cd9980.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,30 руб."
+                },
+                {
+                    "name": "Ferplast Когтерез GRO",
+                    "description": "Когтерез для собак с защитным механизмом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/da8/spa0qs0i2mgrc0u1n7y7weqov8slggxd/200_200_1/7509397de08d506950ea0470caf2bae6.jpg",
+                    "amount": "13,7 x 4,8 x 1,3 см",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Ferplast Когтерез GRO 5984, 10,5 x 6 x h 0,7 см",
+                    "description": "Ножницы-когтерез для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b7d/cc65ubkwewv8i516xufshv7twhdk0klb/200_200_1/cd8d3661230c257a734981ed890c7802.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,30 руб."
+                },
+                {
+                    "name": "COMFY Когтерез \"Katana\"",
+                    "description": "Когтерез-секатор из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e41/pycf2k2hny81hhma30iagz26nwak89rw/200_200_1/ea1246213295fafb2313d6a6ec5a32b2.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "14,00 руб."
+                },
+                {
+                    "name": "COMFY Когтерез \"Samurai\"",
+                    "description": "Когтерез ножницы для небольших животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f5/m9jxe8zab5fcdhy23u782yzbxdw9jetj/200_200_1/2c422f3a4028e8e1518feb5939567fcc.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "19,00 руб."
+                },
+                {
+                    "name": "COMFY Когтерез \"Shogun\"",
+                    "description": "Когтерез-гильотина для стрижки когтей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/925/tkjv30bak1ge1f2p1wpyfa2ka1rplcfy/200_200_1/6af243febbfc77ae1406456c86a2188d.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "20,50 руб."
+                },
+                {
+                    "name": "Triol Когтерез-гильотина \"Стандарт\", 75*140 мм",
+                    "description": "Когтерез-гильотина для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d82/j5sghfjjpjcgihbl8cd7nxqjmyn2qe1y/200_200_1/690c7ddbce1763aaadc174b6af00a7c7.jpg",
+                    "amount": "Блистер",
+                    "cost": "13,20  руб."
+                },
+                {
+                    "name": "Ножницы с закругленными концами \"TRIXIE\", 9см",
+                    "description": "Ножницы для морды и когтей, металл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b32/4g1ojvy6xqkvayanz387fgrelexlwtl7/200_200_1/750bbb4dbc61ffcf1665346e83d93c85.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,10 руб."
+                }
+            ]
+        }
+    }
+}

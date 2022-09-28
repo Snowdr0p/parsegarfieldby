@@ -1,0 +1,3012 @@
+{
+    "Кошки": {
+        "Наполнители": {
+            "url": "https://garfield.by/catalog/cats/napolniteli.html",
+            "products": [
+                {
+                    "name": "Cat's Way Carbon Effect",
+                    "description": "Комкующийся наполнитель без аромата с антибактериальным углем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/6eszza2plcu39pn5sag7a0hinw4jsghs/200_200_1/УГОЛЬ.jpg",
+                    "amount": "5 л",
+                    "cost": "27,60  руб."
+                },
+                {
+                    "name": "Деревяшка Древесный наполнитель",
+                    "description": "Для туалетов кошек и других домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/422/u181oc0rv0jdjoi0ibt8n7tk0p4gl1og/200_200_1/924e2caff1b12cbaca7ba9d4ce6241b8.png",
+                    "amount": "15 кг",
+                    "cost": "13,90  руб."
+                },
+                {
+                    "name": "Cat's Best Original",
+                    "description": "Древесный комкующийся наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3e5/1odnf45clcrrblk9ad5anmds862rjjp4/200_200_1/2,1.jpg",
+                    "amount": "5 л (2,1 кг)",
+                    "cost": "33,90  руб."
+                },
+                {
+                    "name": "Древесный наполнитель с хиноки (японская ель)",
+                    "description": "Наполнитель с высокими антибактериальными свойствами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0f3/lh1eo6sxtwpg1t2ygtefjfcrw2n30pmt/200_200_1/0e05c041cedecd30cd5a9c49dc9dee38.jpg",
+                    "amount": "7 л",
+                    "cost": "42,30  руб."
+                },
+                {
+                    "name": "Наполнитель Elegant Cat (без запаха)",
+                    "description": "Силикагелевый наполнитель без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c36/1buet2pcdx391gb7soz75w0av80mqb4f/200_200_1/5c5ca3fd98cc9701c8c3af7ef779dc0b.jpg",
+                    "amount": "3,8 л",
+                    "cost": "51,90  руб."
+                },
+                {
+                    "name": "Наполнитель Elegant Cat (лаванда)",
+                    "description": "Силикагелевый наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fa4/pzore11j3e1p9jfb54lo243qk8ptoid0/200_200_1/a35bfd074945cf2e0f619d7126877768.jpg",
+                    "amount": "3,8 л",
+                    "cost": "51,90  руб."
+                },
+                {
+                    "name": "Наполнитель на основе японского чая",
+                    "description": "Уничтожает сильнейшие запахи мочи и фекалий",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/282/b9txzqdzh3vsvaoafzyg9ubxjllf5udl/200_200_1/09eab8df44098d4b2e2cd1c5e72d4ff8.jpg",
+                    "amount": "7 л",
+                    "cost": "50,30  руб."
+                },
+                {
+                    "name": "Cat's Best Smart Pellets",
+                    "description": "Древесный комкующийся, для длинношёрстных котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d7b/3twdbo6vbk5u01w8qucfq5s1p452nr46/200_200_1/9c5369d2aae848b069efa4a2b9fdb39b.jpg",
+                    "amount": "5 л (2,5 кг)",
+                    "cost": "94,40  руб."
+                },
+                {
+                    "name": "Наполнитель Целлюлозно-полимерный с голубым индикатором",
+                    "description": "Уничтожает неприятные запахи на 99,8%.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9cf/oxx18eqn4hk93d1tcom4ktefad822o2h/200_200_1/04dc00d1819ea146b63eb23a4f4b8cdf.png",
+                    "amount": "3,5 л",
+                    "cost": "28,30  руб."
+                },
+                {
+                    "name": "Fresh Step Extreme",
+                    "description": "Впитывающий наполнитель, тройной контроль запахов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d87/j74ryl4eb3cbblh8k4co0we9kckvq68k/200_200_1/7bc5a107dab9df82ea5503eab6bc816f.png",
+                    "amount": "3,17 кг (6 л)",
+                    "cost": "249,30  руб."
+                },
+                {
+                    "name": "Растительный наполнитель с луговыми травами",
+                    "description": "Наполнитель на основе кукурузы с ароматом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1d/7msb2h1bm5h4ux311xoa77upqx6n3t7q/200_200_1/1cf0ee590eea3d87baf7414f50b61fae.png",
+                    "amount": "7 л",
+                    "cost": "42,30  руб."
+                },
+                {
+                    "name": "Super Benek - НАТУРАЛЬНЫЙ СТАНДАРТ",
+                    "description": "Гигиенический наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/804/7710xevj1ogvmqflwe0hwscgls0h7uxc/200_200_1/65dd40a72c327c065da70625c21d2756.jpg",
+                    "amount": "5 л",
+                    "cost": "12,30  руб."
+                },
+                {
+                    "name": "Super Benek - ЦИТРУСОВЫЙ СТАНДАРТ",
+                    "description": "Гигиенический наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/239/0bapf41afai08t1j4vvfvc7nxs9m7jka/200_200_1/c148b4b10b3e2720e82302bfdd32a1e6.jpg",
+                    "amount": "5 л",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Super Benek - НАТУРАЛЬНЫЙ КОМПАКТ",
+                    "description": "Гигиенический наполнитель с мелкими гранулами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e65/vqr3kctd60bgparzxl6a25y02dl43e2t/200_200_1/6d76eafcc31d1a6ee1a202a5cbea3a5a.jpg",
+                    "amount": "5 л",
+                    "cost": "23,20  руб."
+                },
+                {
+                    "name": "Super Benek - ЦИТРУСОВЫЙ КОМПАКТ",
+                    "description": "Гигиенический наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce3/l7xtm1gcpj7wiiom383ryw3qxv0tf0w0/200_200_1/d3aa3848cab6856a46e7234bb50238f7.jpg",
+                    "amount": "10 л",
+                    "cost": "27,10  руб."
+                },
+                {
+                    "name": "Super Benek - ЗАПАХ КОМПАКТ",
+                    "description": "Мелкий наполнитель с ароматом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/582/6uv3aegaj22mnb1c331yvsp02ti3p9f7/200_200_1/9a18d6e689b124c002edb7b42f98a158.jpg",
+                    "amount": "10 л",
+                    "cost": "26,70  руб."
+                },
+                {
+                    "name": "Super Benek - ЗЕЛЁНЫЙ ЛЕС СТАНДАРТ",
+                    "description": "Гигиенический наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab0/m6nriiwfaq9x75dmg9avhyfbjiwilxbm/200_200_1/2be4a52d4e8d78eba759d1037593c792.jpg",
+                    "amount": "5 л",
+                    "cost": "12,30  руб."
+                },
+                {
+                    "name": "Super Benek - ЛАВАНДА КОМПАКТ",
+                    "description": "Гигиенический наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/531/f5yyjek4zpkj2u08qbnhnthz7nuynjzx/200_200_1/5f689b20786d22b4879aad1d487a8bc5.jpg",
+                    "amount": "5 л",
+                    "cost": "13,00  руб."
+                },
+                {
+                    "name": "Super Benek - ЛАВАНДА СТАНДАРТ",
+                    "description": "Гигиенический наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de6/g3ovxcj1kd3twkqht4caskb83h5uxkct/200_200_1/2c8fc63a124cf135baf43d5e1e1bb1bb.jpg",
+                    "amount": "5 л",
+                    "cost": "12,30  руб."
+                },
+                {
+                    "name": "Super Benek - ЭКОНОМИК",
+                    "description": "Комкующийся наполнитель из бентонитовых глин",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/156/p4zeku6mgh0vxcufxwdgaajyw3gzdh54/200_200_1/e4555ae983b2fa8fae4a604452283370.jpg",
+                    "amount": "10 л",
+                    "cost": "23,30  руб."
+                },
+                {
+                    "name": "Cat's Best Universal (Клубника)",
+                    "description": "Древесный, универсальный наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/579/bghdz3p6f7q6fpnftwz1onatpugzvmg6/200_200_1/21238ce4f204932a05f7fb1df1f7cc83.jpg",
+                    "amount": "10 л (5,5 кг)",
+                    "cost": "21,70  руб."
+                },
+                {
+                    "name": "Cat's Best Universal",
+                    "description": "Древесный, универсальный наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77d/nwx8no7o0qpwlstac0wbof0e9zc7p046/200_200_1/415302559e0f1d6d0ef6a7cdd0e7911d.png",
+                    "amount": "7 л (4 кг)",
+                    "cost": "17,50  руб."
+                },
+                {
+                    "name": "Fresh Cat Комкующийся наполнитель Лаванда",
+                    "description": "Бентонитовый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e6/hy711s0fhxz85zqgg5s12iont38fx600/200_200_1/lavand1.jpg",
+                    "amount": "6 л",
+                    "cost": "58,80  руб."
+                },
+                {
+                    "name": "Fresh Cat Комкующийся наполнитель Морской бриз",
+                    "description": "Бентонитовый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc8/pxneujob04q0llcnzwc9ychtdhjw5k5b/200_200_1/sea1.jpg",
+                    "amount": "6 л",
+                    "cost": "58,80  руб."
+                },
+                {
+                    "name": "Fresh Cat Комкующийся наполнитель Цветущий сад",
+                    "description": "Бентонитовый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d8c/q8ob4qj25eodenydh66772uo37pl2mgn/200_200_1/flowgard1.jpg",
+                    "amount": "6 л",
+                    "cost": "58,80  руб."
+                },
+                {
+                    "name": "Fresh Cat Комкующийся наполнитель Алоэ вера",
+                    "description": "Бентонитовый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/da5/gfet4r30unjssomm8zw39i632b9bnsik/200_200_1/4.jpg",
+                    "amount": "6 л",
+                    "cost": "58,80  руб."
+                },
+                {
+                    "name": "Fresh Cat Комкующийся наполнитель Активированный уголь",
+                    "description": "Комкующийся наполнитель с углем, без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/46d/fwryfiolsbiel685jbwb01kd2oi67qgi/200_200_1/1.jpg",
+                    "amount": "6 л",
+                    "cost": "58,80  руб."
+                },
+                {
+                    "name": "Fresh Cat Силикагелевый наполнитель Морской бриз",
+                    "description": "Впитывающий наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/549/q0zj0kye11kglhlxfr7jve4klpaw946v/200_200_1/01.jpg",
+                    "amount": "5 л",
+                    "cost": "54,10  руб."
+                },
+                {
+                    "name": "Fresh Cat Силикагелевый наполнитель Утренняя свежесть",
+                    "description": "Впитывающий наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/89f/9lo80y4nwzuo8dazawpe63dlg40cuh8d/200_200_1/03.jpg",
+                    "amount": "5 л",
+                    "cost": "54,10  руб."
+                },
+                {
+                    "name": "Fresh Cat Силикагелевый наполнитель Летняя прохлада",
+                    "description": "Впитывающий наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb3/n0aipv98p8xfoeekxz2rbhiay3epbyfi/200_200_1/test.jpg",
+                    "amount": "5 л",
+                    "cost": "54,10  руб."
+                },
+                {
+                    "name": "Fresh Cat Силикагелевый наполнитель Кристаллы чистоты",
+                    "description": "Впитывающий наполнитель для кошачьего туалета, без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c85/0sru9on02krpt57qd3yehgue0e5w6t81/200_200_1/04.jpg",
+                    "amount": "5 л",
+                    "cost": "54,10  руб."
+                },
+                {
+                    "name": "Best Clean Наполнитель бентонитовый (Лимон)",
+                    "description": "Комкующийся наполнитель в форме шариков с ароматом лимона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/38b/wg5v1a6y0iis9t3ms6yq4wmhzciwc7iy/200_200_1/GTefcEoUiXg0NLbg7yk4TxZ2ze9zHj6NOLsnCA8h.jpg",
+                    "amount": "5 л",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "Best Clean Наполнитель бентонитовый (Лаванда)",
+                    "description": "Комкующийся наполнитель в форме шариков с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b1/s0zz3dv2ovhjuezoupb96zn1p0exz5k2/200_200_1/61dhmzn0cfs._sx425_.jpg",
+                    "amount": "5 л",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "Best Clean Наполнитель бентонитовый (Зеленое яблоко)",
+                    "description": "Комкующийся наполнитель в форме шариков с запахом зеленого яблока",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82b/5ikxt2lyuoq694zy1g9vqsywj1gcro6i/200_200_1/пипип.jpg",
+                    "amount": "5 л",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "Best Clean Наполнитель бентонитовый (Натуральный)",
+                    "description": "Комкующийся наполнитель в форме шариков, без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7df/tzdwu2r7xas23co9hofpeuo3mqoj0a4u/200_200_1/1.JPG",
+                    "amount": "5 л",
+                    "cost": "18,30  руб."
+                },
+                {
+                    "name": "Наполнитель СиСиКэт Традиционный",
+                    "description": "Комкующийся наполнитель из бентонитовой глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/668/lt55uc1ikcn224o1dh7ikkm5ts3e7nok/200_200_1/yr6yqqvp6uq4zdbtydih26vogcgltb4z.jpg",
+                    "amount": "8,5 л",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "Little Friends Ocean Cиликагелевый наполнитель",
+                    "description": "Наполнитель для кошачьего туалета с ароматом свежести океана",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9b8/i1966rtgik94ib1t2l165ixjyg3lkyte/200_200_1/lzhn0uoc29odtvce25w44cq7tb6xhnpz.jpg",
+                    "amount": "5 л",
+                    "cost": "44,10  руб."
+                },
+                {
+                    "name": "Кошкина полянка Устранитель запаха Cat's Glade Oxymix, 0,5 л",
+                    "description": "Для ликвидации и нейтрализации неприятных запахов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b24/btpa2gj6l8uj1rwfv0bzpnycigybrhln/200_200_1/устранитель 1.jpg",
+                    "amount": "Лаванда",
+                    "cost": "6,50  руб."
+                },
+                {
+                    "name": "VanCat Baby Powder",
+                    "description": "Комкующийся бентонитовый наполнитель с ароматом детской присыпки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d52/8bxsqx678e2xdadtq7ai6kfw4fte3zu9/200_200_1/Vancat-W225-Baby-Powder-Perfumed-10kg-1.jpg",
+                    "amount": "5 кг (5,9 л)",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "VanCat Fresh",
+                    "description": "Комкующийся бентонитовый наполнитель с ароматом весенней свежести",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e2f/e22xrfcmm7w815wkt40y53ma1u1namki/200_200_1/Vancat-W225-Fresh-Perfumed-10kg-1.jpg",
+                    "amount": "5 кг (5,9 л)",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "VanCat Lavender",
+                    "description": "Комкующийся бентонитовый наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/50f/314cnmiipi2i3eh3vwy07n7gbqhrdyur/200_200_1/Vancat-W225-Lavander-Perfumed-10kg-1.jpg",
+                    "amount": "5 кг (5,9 л)",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "RO-CAT Наполнитель бентонитовый Lavander",
+                    "description": "Комкующийся наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/351/3dlcpdxr9na0uy7b4i4migzwon2e1sys/200_200_1/изображение_viber_2022-06-15_14-03-52-486.jpg",
+                    "amount": "5 л",
+                    "cost": "14,00  руб."
+                },
+                {
+                    "name": "RO-CAT Наполнитель бентонитовый Marseille Soap",
+                    "description": "Комкующийся наполнитель с ароматом марсельского мыла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1c8/z2ihzud624527bhk23imlrmgk2ae5uxp/200_200_1/изображение_viber_2022-06-15_14-03-50-939.jpg",
+                    "amount": "5 л",
+                    "cost": "14,00  руб."
+                },
+                {
+                    "name": "RO-CAT Наполнитель бентонитовый Orange",
+                    "description": "Комкующийся наполнитель с ароматом апельсина",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5af/dmebx6bx3oed0obm6sya4vay4w1l8l4i/200_200_1/изображение_viber_2022-06-15_14-03-46-393.jpg",
+                    "amount": "5 л",
+                    "cost": "14,00  руб."
+                },
+                {
+                    "name": "RO-CAT Наполнитель бентонитовый Baby Powder",
+                    "description": "Комкующийся наполнитель с ароматом детской присыпки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/469/qcoucmpa8mtgcou4o0fjrnxvuwvt8zf8/200_200_1/изображение_viber_2022-06-15_14-03-49-074.jpg",
+                    "amount": "5 л",
+                    "cost": "14,00  руб."
+                },
+                {
+                    "name": "RO-CAT Наполнитель бентонитовый (Без аромата)",
+                    "description": "Комкующийся бентонитовый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/933/pk0eh06memoj18u71c7hy87rnytdiqk1/200_200_1/266989399.jpg",
+                    "amount": "5 л",
+                    "cost": "13,30  руб."
+                },
+                {
+                    "name": "Cat Step Tofu Tutti Frutti",
+                    "description": "Комкующийся растительный наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b9/l0dl8a3qfo3tvdied4suwgy7ggi8inz4/200_200_1/9725807d-280c-11ec-bb9e-1866da6865b0.jpg",
+                    "amount": "12 л",
+                    "cost": "55,10  руб."
+                },
+                {
+                    "name": "CatWC Готовый туалет для котов и кошек",
+                    "description": "Полностью готовый туалет для котов и кошек, 36х24х11 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82e/l5psmdeunp43wdwnq0opex6vo2dmkns3/200_200_1/ffa8be6da1ef6980510a7919ca1e4a9a.jpg",
+                    "amount": "3 кг",
+                    "cost": "30,00  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель Эконом Кубанская семечка",
+                    "description": "Впитывающий наполнитель для кошекс",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c86/vfrmkqo6hbjh15900uax5fyt2wfip13x/200_200_1/semechka.jpg",
+                    "amount": "4,54 л",
+                    "cost": "10,40  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель Эконом с эффектом комкования",
+                    "description": "Комкующийся наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/03a/q552i7on9iraz0easn1apkp52s2808ta/200_200_1/ekonom_s_komkov.jpg",
+                    "amount": "4,54 л",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель Эконом впитывающий",
+                    "description": "Впитывающий наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cff/2hxn0nvgckt24032otf3te442iqh2lmm/200_200_1/ekonom_15l.jpg",
+                    "amount": "4,54 л",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель Комкующийся",
+                    "description": "Комкующийся наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c5/0grjk1g6b9oa03mpfayk1jzic9rts2ho/200_200_1/komkuyshisya.jpg",
+                    "amount": "4,54 л",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель 3D эффект (Лаванда)",
+                    "description": "Впитывающий наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6d5/d7j1k39x1kznjjvfjxr8j8uvcimfetnd/200_200_1/3d_lavanda_cvet.jpg",
+                    "amount": "4,54 л",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель Стандарт",
+                    "description": "Впитывающий наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b79/dnxmhss3152odbc73715h17rojy3ghmj/200_200_1/standart_4,54l.jpg",
+                    "amount": "4,54 л",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель TOFU Кукурузный",
+                    "description": "Комкующийся соевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aba/ahq6s6nvozs5ubis06zrnsboe2q4jmxy/200_200_1/Tofu Corn 15_425x425.jpg",
+                    "amount": "4,54 л",
+                    "cost": "27,70  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель TOFU Зелёный Чай",
+                    "description": "Комкующийся соевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ba6/k3byx5siw5ggqi1h74fe20ygv7zphnbr/200_200_1/Tofu TEA 15_425x425.jpg",
+                    "amount": "4,54 л",
+                    "cost": "27,70  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель Соломенный",
+                    "description": "Впитывающий наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/846/y4l48ig1p7h80k1dflhe3n0vqkriiffo/200_200_1/solomennyi.jpg",
+                    "amount": "4,54 л",
+                    "cost": "10,40  руб."
+                },
+                {
+                    "name": "Барсик Наполнитель (Альпийская свежесть)",
+                    "description": "Впитывающий наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fc6/8xxuy45u14h02dgjg7swiydxeks3tcfc/200_200_1/alpen_fresh.jpg",
+                    "amount": "4,54 л",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "VanCat Vanilla",
+                    "description": "Комкующийся бентонитовый наполнитель с ароматом ванили",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3e7/h59iqm4osiv3ac1vmwmkb5s31htacf1q/200_200_1/Vancat-W225-Vanilla-Perfumed-10kg-1.jpg",
+                    "amount": "5 кг (5,9 л)",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "VanCat Marseille Soap",
+                    "description": "Комкующийся бентонитовый наполнитель с ароматом марсельского мыла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/633/m8psgvrb2t8u42r6ogjxahh2twhlwhst/200_200_1/Vancat-W225-Marseille-Soap-Perfumed-5kg-1.jpg",
+                    "amount": "5 кг (5,9 л)",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "VanCat Aloe Vera",
+                    "description": "Комкующийся бентонитовый наполнитель с ароматом алое вера",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc0/mtjfr0zepx3jf8v49p7q0oos5lt18me3/200_200_1/Vancat-W225-Aloe-Vera-Perfumed-10kg-1.jpg",
+                    "amount": "5 кг (5,9 л)",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "VanCat Classic (Без запаха)",
+                    "description": "Комкующийся бентонитовый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/490/pby3d0iho2gguca18u4ttpc8r8joh088/200_200_1/Vancat-W225-Unscent-10kg-1.jpg",
+                    "amount": "5 кг (5,9 л)",
+                    "cost": "30,70  руб."
+                },
+                {
+                    "name": "Cat's Way Aloe Vera",
+                    "description": "Комкующийся наполнитель с ароматом алоэ вера",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e83/rgyya9mr4towacbyviivg0w7d8vch53z/200_200_1/Новый рисунок (1).jpg",
+                    "amount": "5 л",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "Cat's Way Box PREMIUM Carbon",
+                    "description": "Комкующийся наполнитель с активированным углем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/74e/6a6hyeb6b6adjttno4ojn9n5jhyn83bm/200_200_1/de21f_w800.jpg",
+                    "amount": "6 л",
+                    "cost": "27,00  руб."
+                },
+                {
+                    "name": "Cat's Way Box PREMIUM Baby Powder",
+                    "description": "Комкующийся наполнитель c ароматом детской пудры",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/648/zrw02em4zvizjhc0e412h7karfrwsyqv/200_200_1/0e7e1_w800.jpg",
+                    "amount": "6 л",
+                    "cost": "27,00  руб."
+                },
+                {
+                    "name": "Cat's Way Box PREMIUM Marseliile Soap",
+                    "description": "Комкующийся наполнитель с ароматом марсельского бриза",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a0/f64ep03056kh5nycim1c9vzj94go5hot/200_200_1/a30b7_w800.jpg",
+                    "amount": "6 л",
+                    "cost": "27,00  руб."
+                },
+                {
+                    "name": "ECO-Premium (Тутти-фрутти)",
+                    "description": "Древесный комкующийся наполнитель тутти-фрутти, разноцветный",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c3/hoi7bculylgsb464baika9uye13evzng/200_200_1/НОВИНКА 5 л тутти-фрутти.jpg",
+                    "amount": "5 л",
+                    "cost": "22,50  руб."
+                },
+                {
+                    "name": "ECO-Premium (Ромашка)",
+                    "description": "Древесный комкующийся наполнитель с ромашкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9dc/0ge5hjkxzbq1y91ltj13kqfj4jrharnq/200_200_1/НОВИНКА 5 л ромашка.jpg",
+                    "amount": "5 л",
+                    "cost": "22,50  руб."
+                },
+                {
+                    "name": "ECO-Premium (Персик)",
+                    "description": "Древесный комкующийся наполнитель с ароматом персика",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/569/372936egfj6vwscn1hvwr6y007udcgjt/200_200_1/НОВИНКА 5 л персик.jpg",
+                    "amount": "5 л",
+                    "cost": "22,50  руб."
+                },
+                {
+                    "name": "ECO-Premium (Лаванда)",
+                    "description": "Древесный комкующийся наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a82/kh7sdhayrkqxu1fnshpj4y2gglnap0as/200_200_1/НОВИНКА 5 л лаванда.jpg",
+                    "amount": "5 л",
+                    "cost": "22,50  руб."
+                },
+                {
+                    "name": "ECO-Premium (Зеленый чай)",
+                    "description": "Древесный комкующийся наполнитель с ароматом зеленого чая",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f53/wofrwp30p2xgzmceakyxdy2h96vxzbdb/200_200_1/НОВИНКА 5 л зеленый чай.jpg",
+                    "amount": "5 л",
+                    "cost": "22,50  руб."
+                },
+                {
+                    "name": "ECO-Premium (Алоэ)",
+                    "description": "Древесный комкующийся наполнитель с ароматом алоэ",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/838/fqc7wt100hmmyzj0td6x6bpueqqbb7at/200_200_1/НОВИНКА 5 л алоэ.jpg",
+                    "amount": "5 л",
+                    "cost": "22,50  руб."
+                },
+                {
+                    "name": "ECO-Premium Green (без запаха)",
+                    "description": "Древесный комкующийся наполнитель без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/095/nnevat4fcn987llkww6m7zsxpz82yyuf/200_200_1/5 л зеленый перед.jpg",
+                    "amount": "5 л",
+                    "cost": "21,40  руб."
+                },
+                {
+                    "name": "ECO-Premium Blue (без запаха)",
+                    "description": "Древесный комкующийся наполнитель без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7f8/3miewhx2j9pbckkxbn94jszy1dnx29ae/200_200_1/5 л синий перед.jpg",
+                    "amount": "5 л",
+                    "cost": "21,40  руб."
+                },
+                {
+                    "name": "Cat's Way Baby Powder",
+                    "description": "Комкующийся наполнитель с ароматом детской пудры",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/79f/334zr05u90sh6remb29gfiqnqsnyyvvl/200_200_1/ДЕТСКАЯ ПРИСЫПКА.jpg",
+                    "amount": "5 л",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "Cat's Way Lavander",
+                    "description": "Комкующийся наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d8e/syt7lyhtxo0dodpf95mlm72xnvau8oa2/200_200_1/ЛАВАНДА.jpg",
+                    "amount": "5 л",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "Cat's Way Natural",
+                    "description": "Комкующийся наполнитель без аромата для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/37e/ozj5c12yt74uc783c5plaanqcm7tfuha/200_200_1/БЕЗ АРОМАТА.jpg",
+                    "amount": "5 л",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "iCat Наполнитель комкующийся Без запаха",
+                    "description": "Комкующийся бентонитовый наполнитель, белый",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f43/owpka60k0edfcyhjb1f3gd9hr21abgr1/200_200_1/napolnitel_icat_dlya_koshek_bentonitovyj_bez_aromatizatora_belyj_5_kg_20211028161053.jpg",
+                    "amount": "5 кг",
+                    "cost": "26,60  руб."
+                },
+                {
+                    "name": "iCat Наполнитель комкующийся Зеленый сад",
+                    "description": "Комкующийся бентонитовый наполнитель с ароматом зеленого сада",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f7f/jhhckxch190b8asa0bzkqpez7iywfnae/200_200_1/napolnitel_icat_dlya_koshek_bentonitovyj_s_formuloj_kontrol_zapaha_i_aromatom_zelenogo_sada_5_kg_20211028161007.jpg",
+                    "amount": "5 кг",
+                    "cost": "27,20  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель TOFU Радужный MIX",
+                    "description": "Комкующийся соевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fb/m64n55x7pb381plyi5nf10ffy7omzei0/200_200_1/изображение_viber_2021-12-01_13-51-56-812.jpg",
+                    "amount": "6 л",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель TOFU Ванильный MIX",
+                    "description": "Комкующийся соевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/869/77o7adojleoeazb1fg6svxeshygh54qv/200_200_1/изображение_viber_2021-12-31_14-02-03-335.jpg",
+                    "amount": "6 л",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "Кошкина Полянка \"Silicamix Сила кислорода\" Лаванда",
+                    "description": "Для кошачьего туалета, впитывающий",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b73/qxk2fpog1qo5o8nti1g3ir4ezbi2nr3n/200_200_1/9fd31d30066dec0f019cc2a3f21b2847.jpg",
+                    "amount": "6 л",
+                    "cost": "12,60  руб."
+                },
+                {
+                    "name": "Eco One Тофу Персик",
+                    "description": "Комкующийся растительный наполнитель с ароматом персика",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/23b/j5nxrl5rqi7c0p170fx8a1fiy5rx99ek/200_200_1/5791.1.jpg",
+                    "amount": "6 л",
+                    "cost": "24,70  руб."
+                },
+                {
+                    "name": "Eco One Тофу Лаванда",
+                    "description": "Комкующийся растительный наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f66/2qocdan1q994kbk5hio8ubsdg8b9c2tb/200_200_1/5788.1.jpg",
+                    "amount": "6 л",
+                    "cost": "24,70  руб."
+                },
+                {
+                    "name": "Eco One Тофу Зеленый чай",
+                    "description": "Комкующийся растительный с ароматом зеленого чая",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cdb/vw98emqhqq4fj87ql8pye0a06wbi7p21/200_200_1/5790.1.jpg",
+                    "amount": "6 л",
+                    "cost": "24,70  руб."
+                },
+                {
+                    "name": "Eco One Тофу Натуральный",
+                    "description": "Комкующийся растительный наполнитель без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/24d/my7zf638ukrygqnz66p4lsrcaz93nrox/200_200_1/5789.1.jpg",
+                    "amount": "6 л",
+                    "cost": "24,70  руб."
+                },
+                {
+                    "name": "Деревяшка Наполнитель Био Друг",
+                    "description": "Древесный наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/64c/qwa97z26v3uf17r27obhubdw96wsim99/200_200_1/7ed46033f926a4d82b9633c2f52f8a78.png",
+                    "amount": "2,5 кг",
+                    "cost": "2,90  руб."
+                },
+                {
+                    "name": "Cat Step Wood Original",
+                    "description": "Наполнитель комкующийся растительный для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/232/dy7utv6jrxid3hjk9lr3511n7q4d586e/200_200_1/0c0d8d95-5f97-11ea-9e77-00505694cf31.jpg",
+                    "amount": "5 л",
+                    "cost": "22,60  руб."
+                },
+                {
+                    "name": "КОТУ бентонитовый наполнитель Крепкий комок",
+                    "description": "Наполнитель для кота комкующийся мелкий",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c42/vgfhgvbtausto4f1fp0yebax459cqsc5/200_200_1/1204ff381c6cb070ef4ca3f80683e5f3.jpg",
+                    "amount": "2,85 кг",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "КОТУ бентонитовый наполнитель",
+                    "description": "Наполнитель для кота комкующийся",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/534/wsfsmrajnl9npu622kb89dzjl80qzeb0/200_200_1/2fb4862113f27d51a9a336b4b3ea5650.jpg",
+                    "amount": "2,85 кг",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Комкующийся наполнитель на основе силикагеля и геолита",
+                    "description": "Селикагель-геолит с ромашкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d5e/8l56vzpq3g43rr13n7nz5yayg422q5my/200_200_1/f42a5af8eebeceb38865af9459d2313a.jpg",
+                    "amount": "3 л",
+                    "cost": "52,70  руб."
+                },
+                {
+                    "name": "Силикагелевый наполнитель на основе нанокристаллов",
+                    "description": "Силикагелевый наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc6/adgqe2koluoh5lzq5kvs63sicu8pmk0g/200_200_1/e0da74827460bd85dbfdc473e7182d0b.jpg",
+                    "amount": "4,6 л",
+                    "cost": "41,00  руб."
+                },
+                {
+                    "name": "Наноканальный силикагелевый наполнитель Toyota silica gel",
+                    "description": "Силикагелевый наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/256/dlyu33vu7gu41obodstg2e3c3j1654ts/200_200_1/1ad8b16979a2f3a17137a60f77a256ed.jpg",
+                    "amount": "3,6 л",
+                    "cost": "105,80  руб."
+                },
+                {
+                    "name": "Наполнитель для контроля за здоровьем",
+                    "description": "Комкующийся наполнитель с индикатором здоровья",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8e2/f60i8invesyx3otoaht7kgw6dy8wh79z/200_200_1/83a762991d0a25f160e67cb241ecf9d4.jpg",
+                    "amount": "7 л",
+                    "cost": "45,70  руб."
+                },
+                {
+                    "name": "Cat Step Compact White Baby Powder",
+                    "description": "Комкующийся минеральный наполнитель для котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/68a/e6kw9a5ciuscdab6u2cnfydu6omydo29/200_200_1/f0f5314142d76c46bfe3d2bd224feb8e.jpg",
+                    "amount": "5 л",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Комкующийся наполнитель Bent-O2-Sil",
+                    "description": "Наполнитель с силикагелем и активным кислородом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d0/z54n077h1fty3nazyau0eagnhuzv2an1/200_200_1/f8fa902619cb30c21beae6095f0678ca.jpg",
+                    "amount": "5 л",
+                    "cost": "13,80  руб."
+                },
+                {
+                    "name": "КОТУ древесный наполнитель Хвойный",
+                    "description": "Наполнитель для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ab/ic7ihoar8bd5afj76g1ymuxr3elnihlk/200_200_1/a1b794e3632a795b247b3790fd806889.JPG",
+                    "amount": "6 л",
+                    "cost": "13,50  руб."
+                },
+                {
+                    "name": "For Friends силикагелевый наполнитель (без аромата)",
+                    "description": "Силикагелевый наполнитель без аромата",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d62/vkxwxuclivzb4ptliih0xjyv724x0002/200_200_1/d89abcdff4f7fd42c1ccf2b6c93166f7.jpg",
+                    "amount": "3,8 л",
+                    "cost": "23,20  руб."
+                },
+                {
+                    "name": "For Friends силикагелевый наполнитель (лаванда)",
+                    "description": "Силикагелевый наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/711/hucr72gc36x4rpdl2ybfb130yh71y7vw/200_200_1/251e4c5ab22339c24f6e8f0169d9e189.jpg",
+                    "amount": "3,8 л",
+                    "cost": "23,20  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель силикагель (Лаванда)",
+                    "description": "Наполнитель для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aae/gzgg56c38y9gsp6t1zlcxsk2lj8ovfk9/200_200_1/kotu-silikagelevyj-napolnitel-lavanda.jpg",
+                    "amount": "4 л",
+                    "cost": "17,20  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель силикагель (без запаха)",
+                    "description": "Наполнитель для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/051/kcbwnai2f703zb5ihk6zacd3op56x9qv/200_200_1/4327-img-0-500x500q90.jpg",
+                    "amount": "4 л",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Bioclean супервпитывающий для котов",
+                    "description": "Наполнитель для кошачьего туалета, крупный",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b97/7mn1v3jxrkv14tlm6kwr0sdminwfm89z/200_200_1/977354aa48e36b5fddb0060b29700a83.jpg",
+                    "amount": "6 л",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "Bioclean супервпитывающий для кошек",
+                    "description": "Наполнитель для кошачьего туалета, стандартный",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ed5/sw7mvhe0mbdvut3yx5x0x6o4qoda918c/200_200_1/1603fd7ff444c5378d36ed5e21fc2e45.jpg",
+                    "amount": "6 л",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "Bioclean Древесный наполнитель",
+                    "description": "Наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/52c/1e1eeb4xcpmjneuwcngd4pumoj5v100o/200_200_1/cf008ed2e0581ccef7b4860431fb1134.jpg",
+                    "amount": "4 кг",
+                    "cost": "5,20  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель Tofu Natural (лаванда)",
+                    "description": "Экологически чистый наполнитель из соевых волокон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8f9/dio94esidz8ut78rq4g2gik9xzep2bku/200_200_1/dc404951f723431b31570b1749100d27.jpg",
+                    "amount": "7 л",
+                    "cost": "26,50  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель Tofu Natural (зеленый чай)",
+                    "description": "Экологически чистый наполнитель из соевых волокон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/617/8i67byef1y64x1rn3j8kvr6t2ae4bb9j/200_200_1/f981527f6b2fb99054f6c762018e7f8c.jpg",
+                    "amount": "7 л",
+                    "cost": "26,50  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель Tofu Natural (без запаха)",
+                    "description": "Экологически чистый наполнитель из соевых волокон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/558/g3m3vm1gno9j7kl33itejqpatm5noz83/200_200_1/11cfdaadfc273dd116e63c7b25cebf8d.jpg",
+                    "amount": "7 л",
+                    "cost": "26,50  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель TOFU Гламурный PINK",
+                    "description": "Комкующийся соевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dbd/ck1m5197mw4fvktwhjg74a0dj4v22kx8/200_200_1/изображение_viber_2021-12-31_14-02-08-457.jpg",
+                    "amount": "6 л",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель TOFU Таинственный PURPLE",
+                    "description": "Комкующийся соевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b90/87egaxrwsky6evc2b3uez1wdt2j1et31/200_200_1/изображение_viber_2021-12-31_14-02-03-127.jpg",
+                    "amount": "6 л",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель TOFU Природный GREEN",
+                    "description": "Комкующийся соевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91f/unp9m26ol6rkc5xmlrwftlezpuior9yf/200_200_1/изображение_viber_2021-12-31_14-02-03-011.jpg",
+                    "amount": "6 л",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "Наполнитель \"Молоко кокосовое\" с экстрактом бамбука и японского чая",
+                    "description": "Комкуется и смывается в туалет",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/tj303zkblpkx2yvmm65kla18wpx8anr4/200_200_1/176a84dcdbdcdd1a25b33b10b41120d5.JPG",
+                    "amount": "6 л",
+                    "cost": "42,30  руб."
+                },
+                {
+                    "name": "Little Friends Original Cиликагелевый наполнитель",
+                    "description": "Наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/24b/4mqkzga4h46qp9r4h847df30scledwpa/200_200_1/d61951d2afce78e7e0c98021d4b5e32c.jpg",
+                    "amount": "5 л",
+                    "cost": "44,10  руб."
+                },
+                {
+                    "name": "Little Friends Aloe Vera Cиликагелевый наполнитель",
+                    "description": "Наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7db/p01ajmto7dss9fmivg8jst4b7o99kv9k/200_200_1/d63748ff99522dc1c3afaf58824c22ce.jpg",
+                    "amount": "5 л",
+                    "cost": "44,10  руб."
+                },
+                {
+                    "name": "Йо! Наполнитель комкующийся Tofu (Классика)",
+                    "description": "Наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/16e/o9uwoqcr1ucde7yy9by9zuyv7ep7q8f9/200_200_1/e064bc2641e63b53ba1121db98630a5e.jpg",
+                    "amount": "6 л",
+                    "cost": "25,40  руб."
+                },
+                {
+                    "name": "Йо! Наполнитель комкующийся Tofu (Персик)",
+                    "description": "Наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/794/hkzeixu2yv0bq4aza8tebiq2dbj4x6fk/200_200_1/06d15a3e3f809d54c85dd55b3ffbbfc5.jpg",
+                    "amount": "6 л",
+                    "cost": "25,40  руб."
+                },
+                {
+                    "name": "Йо! Наполнитель комкующийся Tofu (Зелёный чай)",
+                    "description": "Наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/114/wcvoni49zymh4nxeurueu4n681rjlte8/200_200_1/308b2059642efe5d4e30a9a1bc71fa13.jpg",
+                    "amount": "6 л",
+                    "cost": "25,40  руб."
+                },
+                {
+                    "name": "Йо! Наполнитель комкующийся Tofu (Лаванда)",
+                    "description": "Наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c46/mip6fytxcwv9cr3ysvdm0vmap1thkk23/200_200_1/10f452e7373bb43ee754312c92f0ca40.jpg",
+                    "amount": "6 л",
+                    "cost": "25,40  руб."
+                },
+                {
+                    "name": "Love Sand Древесный наполнитель",
+                    "description": "Подходит для кошек, кроликов, рептилий, грызунов, птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e3a/e8ub24t17lf9a0zqfbjsumlc1jm8x44f/200_200_1/c39ba302702918855a8586f39eb7549a.png",
+                    "amount": "3 кг",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Древесный наполнитель No Name",
+                    "description": "Древесный наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f94/by5qznqu0eafebv6mw3hukwqtx6b1h8v/200_200_1/ca966d6f16ea0dd3c6e788d276ba2065.png",
+                    "amount": "9,3 кг",
+                    "cost": "20,30  руб."
+                },
+                {
+                    "name": "Древесный наполнитель СиСиКэт",
+                    "description": "Древесный наполнитель для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e29/t03x96bm2gam7ghw8whrayx91aifexxm/200_200_1/673a6851462101c1d91bee2293e6061b.jpg",
+                    "amount": "8 л",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Силикагелевый (Яблоко)",
+                    "description": "Силикагелевый наполнитель с ароматом яблока.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/899/imyn68g7h88sxqd0i3ceq9upzpv349bc/200_200_1/6f2b8bc4d86665d23090c944e32a9958.png",
+                    "amount": "7,6 л",
+                    "cost": "43,70  руб."
+                },
+                {
+                    "name": "Cat Litter Силикагель (Морской бриз)",
+                    "description": "Силикагелевый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/878/5gnviroykwellpfgh6ozzjbetwgmcoq4/200_200_1/e9680df40e699f6ab2c5d4b1f0868f4d.png",
+                    "amount": "3,8 л",
+                    "cost": "56,30  руб."
+                },
+                {
+                    "name": "Cat Litter Силикагель (Яблоко)",
+                    "description": "Силикагелевый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d1a/6wnykgsxnn52rlo3u93u4joxlkqwp21t/200_200_1/a61f7809d8bb95c608dde14e42529b48.png",
+                    "amount": "3,8 л",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "Cat Litter Силикагель (Клубника)",
+                    "description": "Силикагелевый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1c1/ajzm4wle8i6qf851rd4j6773mfuia405/200_200_1/a7bc89c2853f4189ef9a08de133ed4ed.png",
+                    "amount": "3,8 л",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "Cat Litter Силикагель (Лаванда)",
+                    "description": "Силикагелевый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a42/bfbayfsjz9t0w195mczie1su2vw03ygs/200_200_1/80bc584a59fa778c30e11fd8170905cd.png",
+                    "amount": "3,8 л",
+                    "cost": "17,40  руб."
+                },
+                {
+                    "name": "Cat Litter Силикагель (Звездный песок)",
+                    "description": "Силикагелевый наполнитель для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c0e/0y3nflp8cve8t7grmggt9r4k0hzr7bhs/200_200_1/30e8585a65e33e52130e9a73c39713b3.png",
+                    "amount": "3,8 л",
+                    "cost": "17,40  руб."
+                },
+                {
+                    "name": "Cat Litter Силикагель",
+                    "description": "Силикагелевый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0eb/gv59qccxpx1g6ykbplvqzlj8se190lci/200_200_1/c6e4abf633eb9dfd298bb549de1642ab.jpg",
+                    "amount": "3,8 л",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель силикагелевый (зеленый чай)",
+                    "description": "Экологически чистый наполнитель с крупной гранулой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea8/b28rgnklnzi88bkdgv8arjws3mijnpdo/200_200_1/9b7a7a00e7eb81a727c5c6d1ccce71e7.png",
+                    "amount": "4 л",
+                    "cost": "23,60  руб."
+                },
+                {
+                    "name": "Cat Step Compact White Carbon",
+                    "description": "Комкующийся минеральный наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82d/6ryyeuxd9btp609m2nwe7vdcroi1zmx4/200_200_1/27ec64d3d90236eab951180ef756e59b.jpg",
+                    "amount": "5 л",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Cat Step Compact White Lavеnder",
+                    "description": "Комкующийся минеральный наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/868/8xwfliyd02ehwrn8akxtp74699ync6ph/200_200_1/e15fed2e6b4766b4798b133f75a106f2.jpg",
+                    "amount": "5 л",
+                    "cost": "17,70  руб."
+                },
+                {
+                    "name": "Cat Step Compact White Original",
+                    "description": "Комкующийся минеральный наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e63/1q2wm3oztd11zgfk5m3juccq70xerob5/200_200_1/b1d2b15546cace82fe6d72d68099f8ba.jpg",
+                    "amount": "5 л",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Наполнитель Elegant Cat (морской бриз)",
+                    "description": "Силикагелевый наполнитель с ароматом морского бриза",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/868/3ff89imoj8lp487uxo4zhaqho40j7lkw/200_200_1/dd73e6147b581dac4c3cfd82de0c093e.jpg",
+                    "amount": "3,8 л",
+                    "cost": "51,90  руб."
+                },
+                {
+                    "name": "Pet Clean Tofu (Персик)",
+                    "description": "Растительный комкующийся наполнитель для лотка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/635/865zjpfh758yf517lbsix8hfytuuxai4/200_200_1/ce9a1d625d5e1527947700139e5a813e.png",
+                    "amount": "6 л",
+                    "cost": "23,10  руб."
+                },
+                {
+                    "name": "Pet Clean Tofu (Зеленый чай)",
+                    "description": "Растительный комкующийся наполнитель для лотка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e2/wbuicz5xdy4xopxk02tmeacetdue0vur/200_200_1/32b2404e1210e1bfbd62bfe6b9263e0b.png",
+                    "amount": "6 л",
+                    "cost": "23,10  руб."
+                },
+                {
+                    "name": "Pet Clean Tofu (Лаванда)",
+                    "description": "Растительный комкующийся наполнитель для лотка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/206/nu3l1s21c4qf0k34inhq3eor978709yz/200_200_1/b742709f215d4304f418b805470132a7.png",
+                    "amount": "6 л",
+                    "cost": "23,10  руб."
+                },
+                {
+                    "name": "Pet Clean Tofu (Оригинальный)",
+                    "description": "Растительный комкующийся наполнитель для лотка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/039/fxly3p2hd2x5b6lv9tp7us54t4tqtrqs/200_200_1/fb0ad2d795993206dd1cd8cc1fee6ada.png",
+                    "amount": "6 л",
+                    "cost": "23,10  руб."
+                },
+                {
+                    "name": "Cat Step Crystal Мята",
+                    "description": "Силикагелевый впитывающий наполнитель для лотков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db9/nr319wr5jo1lqftcxagra3jbdedyw1d9/200_200_1/27c96c4f9acbf3eac0c2d816675bde0e.jpg",
+                    "amount": "3,8 л",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Cat Step Arctic Лаванда",
+                    "description": "Силикагелевый впитывающий наполнитель для лотков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc0/ugunbdflhwp409i08jechwdv62yk90k4/200_200_1/569de95132e88fd8e39f447c642a7aec.jpg",
+                    "amount": "7,6 л",
+                    "cost": "38,90  руб."
+                },
+                {
+                    "name": "Наполнитель Pi-Pi-Bent Морской бриз",
+                    "description": "Комкующийся наполнитель с ароматом свежести моря",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6d5/cmh1kc97b0iida6qjrbnm6ebsrghnn72/200_200_1/13a701e5f1b67c5f7a348bcfd48aa5f3.png",
+                    "amount": "5 кг",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "Наполнитель Pussy Cat минеральный",
+                    "description": "Впитывающий наполнитель из природного диатомита",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e6/3khdnihqh0knex0s11gc18ta97o7ar5n/200_200_1/a64653ec2a4e42ccb2d1b31b2decdc3f.jpg",
+                    "amount": "4,5 л",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Наполнитель Pussy Cat древесный",
+                    "description": "Экологически чистый наполнитель из древесных опилок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e89/atmfnaeui2mt46tftym7x4z87gmu7s4f/200_200_1/72fefc023bb9dfe7c3ab47c3a3cc51e7.jpg",
+                    "amount": "4,5 л",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Наполнитель Pussy Cat комкующийся (Просковейская глина)",
+                    "description": "Экологически чистый наполнитель для кошачьих туалетов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a3/ab9kx709z8cw1f2aiq809kzuhuecpw2u/200_200_1/e31fb50801066066e81e23b6d475ef3f.jpg",
+                    "amount": "4,5 л",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Наполнитель Pi-Pi-Bent Нежный прованс",
+                    "description": "Комкующийся наполнитель с ароматом лавандовых полей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f20/fmthw42azn1ns3ko0tjshkil9jvy48qx/200_200_1/abc1043af5edc83e895bfe4adbe6d83a.png",
+                    "amount": "5 кг",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "Кошкина Полянка \"Silicamix Сила кислорода\"",
+                    "description": "Для кошачьего туалета, впитывающий",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a95/e0su0u1fcn44s0524vm4eat1gh6gvzv4/200_200_1/5737ac0c7cd037f55db084cd32038f3e.jpg",
+                    "amount": "6 л",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Наполнитель \"Зеленый горошек\"с бамбуком и японским чаем",
+                    "description": "Комкующийся наполнитель с экономичным расходом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a9e/kdko5a3ncwbposnilllt0j05zb2ftj5d/200_200_1/71d5b40e8058e0eaf2e67441f5281716.jpg",
+                    "amount": "6 л",
+                    "cost": "42,30  руб."
+                },
+                {
+                    "name": "FOUR PETS силикагелевый наполнитель (клубника)",
+                    "description": "Силикагелевый наполнитель с ароматом клубники",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1e0/6nss8rf55zojts385vhsloqetkotj7iw/200_200_1/c19d7a62ea0af002c7fae4d37c18371b.jpg",
+                    "amount": "3,8 л",
+                    "cost": "23,20  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель силикагелевый",
+                    "description": "Экологически чистый наполнитель с крупной гранулой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/484/acu9f0vfoh6349y8v4jq9kn5x1s0oacq/200_200_1/5f4425d50039e7b482d0aa72e84d500c.png",
+                    "amount": "4 л",
+                    "cost": "23,60  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель силикагелевый Fresh Powder (звездная пыль)",
+                    "description": "Экологически чистый наполнитель с мелкой гранулой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81a/slepl6a3hs2gtxr3kmeaka8hklmf4kyp/200_200_1/7e6a800b3dc0fd040012f605b2861814.png",
+                    "amount": "4 л",
+                    "cost": "23,60  руб."
+                },
+                {
+                    "name": "Наполнитель Elegant Cat \"Звездный песок\"",
+                    "description": "Силикагелевый наполнитель с мелкой гранулой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/580/3zo7gl9ouqdga3anexz998nzwp2zqp3r/200_200_1/ac5a01108a12218610ec3f9a6f2d40cb.jpg",
+                    "amount": "3,8 л",
+                    "cost": "51,90  руб."
+                },
+                {
+                    "name": "Наполнитель Elegant Cat (клубника)",
+                    "description": "Силикагелевый наполнитель с ароматом клубники.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2b1/rkl163gfgxrb4ej4f5dqa2l85shb39n4/200_200_1/157f97c4b775b1019f73e8d5770b8342.jpg",
+                    "amount": "3,8 л",
+                    "cost": "51,90  руб."
+                },
+                {
+                    "name": "Наполнитель Elegant Cat (яблоко)",
+                    "description": "Силикагелевый наполнитель с ароматом яблока.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a16/qocvevl0n602r2lrt80h4svy7ky1u7pa/200_200_1/3253e7e9615c014ffd9c9148b70315c6.jpg",
+                    "amount": "3,8 л",
+                    "cost": "51,90  руб."
+                },
+                {
+                    "name": "Cat’s Best Sensitive",
+                    "description": "Древесный комкующийся, с антибактериальной добавкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/284/30xyu7f4flv6kxguuffi3fj3spfobpxj/200_200_1/66becccc94a67c99239177a6e0203b4c.jpg",
+                    "amount": "8 л (2,9 кг)",
+                    "cost": "34,30  руб."
+                },
+                {
+                    "name": "Наполнитель бентонитовый \"No name\"",
+                    "description": "Натуральный комкующийся наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c46/qjntxw0x7a9lbn0ocerbrcralsghnx8s/200_200_1/37c9839d97b25771aa2a9c173763a534.png",
+                    "amount": "15 кг",
+                    "cost": "28,30  руб."
+                },
+                {
+                    "name": "Наполнитель \"СиСиКэт\" силикагелевый",
+                    "description": "Экономичный силикагелевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/853/v5d8s3wzu9xs1ya9dctzc6705guc318c/200_200_1/01021.png",
+                    "amount": "3,8 л",
+                    "cost": "30,80  руб."
+                },
+                {
+                    "name": "Йо! Перечная мята",
+                    "description": "Силикагелевый наполнитель с ароматом перечной мяты.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb7/9fiy8racire02qh12zpizjs8rk1dtdqp/200_200_1/aea35a7a646acda078b1e2a6f47c4ce1.jpg",
+                    "amount": "4,1 л (1,6 кг)",
+                    "cost": "21,60  руб."
+                },
+                {
+                    "name": "Cat Step Tofu Green Tea",
+                    "description": "Комкующийся растительный наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/435/1ztk34pcuijs89wya8nlu2ge5rmt3mmp/200_200_1/ecc099cb12c3bde52dc8393771b5da75.jpg",
+                    "amount": "6 л",
+                    "cost": "29,40  руб."
+                },
+                {
+                    "name": "Cat Step Tofu Original",
+                    "description": "Комкующийся растительный наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a4/39ipj58y0ojg1561z2kgxpxlxmv1mh3w/200_200_1/b447bd70c079a639d7c432ab61d0d8f3.jpg",
+                    "amount": "6 л",
+                    "cost": "26,50  руб."
+                },
+                {
+                    "name": "Гамма Наполнитель впитывающий древесный (крупный)",
+                    "description": "Наполнитель из прессованной древесины, крупные гранулы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f56/iyo5gal02quuqfgk8p43q6b5k20nry2e/200_200_1/5ffbdad5197f5cc38febffb7a2bbfc36.jpg",
+                    "amount": "5 л",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Гамма Наполнитель впитывающий древесный (мелкий)",
+                    "description": "Наполнитель из прессованной древесины, мелкие гранулы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb2/d1fkvitmey4klmjkipkg0o03ucbxa831/200_200_1/2755a8db-fc2b-11eb-bb98-1866da6865b2.jpg",
+                    "amount": "5 л",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Гамма Наполнитель впитывающий",
+                    "description": "Наполнитель на основе силикоцеолита и диатомитовой крошки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ee/x2zd4r06b0r66l6a5tvkkkzmxoy72h2k/200_200_1/f55bd8c45c2aac86bbca22c9d134fbcd.jpg",
+                    "amount": "5 л",
+                    "cost": "11,90  руб."
+                },
+                {
+                    "name": "FOUR PETS силикагелевый наполнитель (лаванда)",
+                    "description": "Силикагелевый наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/282/hpbu6ic0lk5quwqkv0g8bynrpsjdsmg1/200_200_1/6baec9db4ba76eacd46e806315a93434.jpg",
+                    "amount": "3,8 л",
+                    "cost": "23,20  руб."
+                },
+                {
+                    "name": "Наполнитель Pussy Cat комкующийся",
+                    "description": "Экологически чистый комкующийся наполнитель, бентонит.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b18/8u6esltvzqm93i48xrazdrj9hspizo49/200_200_1/159bf5ebb0747e1efacbc51f2d11e2b7.jpg",
+                    "amount": "4,5 л",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Наполнитель Pussy Cat океанический",
+                    "description": "Впитывающий наполнитель, поверхностный цеолит.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af3/akw27bl8fzmddg5g1eq3xcxowrf1oqjc/200_200_1/ef5ebdfb9013eff44b75ad0bd01e9d0a.jpg",
+                    "amount": "4,5 л",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Наполнитель Pussy Cat цеолитовый",
+                    "description": "Экологически чистый наполнитель, цеолит",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c8/sx6c74qhj6b4xs5v6mqqmpihmiz9v3cm/200_200_1/4f6b3fd5af8a96504b188a6249b5867b.jpg",
+                    "amount": "4,5 л",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Cat Step Лаванда",
+                    "description": "Силикагелевый наполнитель для лотков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/abc/yqeycv4i3xhavvluepmwyspuv2iti7rm/200_200_1/99807ebbe0ee010c8ed4095140545acc.jpg",
+                    "amount": "3,8 л",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Super Benek Поглотитель запаха Силикагель, 200 г",
+                    "description": "Поглотитель запаха для лотков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/457/faiv7o87ytglvq96bvpqffqh7d1mvg60/200_200_1/50b5c98f7f4682bbf2b86c4d44910499.jpg",
+                    "amount": "Фруктовый",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Наполнитель \"Pi-Pi Bent DeLuxe\" Clean Cotton",
+                    "description": "Комкующийся наполнитель с ароматом хлопка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cdb/wrzthlcl7xgpkzw7ms31u3spe6u2ujpl/200_200_1/89dce05f1baa91853ef8085f1e35acd6.jpg",
+                    "amount": "5 кг",
+                    "cost": "22,60  руб."
+                },
+                {
+                    "name": "Super Benek  Нейтрализатор запаха, 500 г",
+                    "description": "Добавка к наполнителю",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a7e/9rgbpdv797bdtybpxxsbfdlas2llvsbm/200_200_1/8628e242d032e2e39a379706b942ff58.jpg",
+                    "amount": "Лаванда",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Кошкина Полянка \"Силикамикс\"",
+                    "description": "Для кошачьего туалета, впитывающий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8df/mwne92vgc7pkhn1kak9gsaqugcqrjji2/200_200_1/c11c5d1534d3a37e295d094ed50b130c.jpg",
+                    "amount": "2,75 кг",
+                    "cost": "11,00  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Лянок",
+                    "description": "Впитывающий гранулированный, гипоаллергенный",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/14e/pih148pcdfiiqvfg85vhr8r28oqggovp/200_200_1/e18b4933415b57595a8fc1942018b442.jpg",
+                    "amount": "5 л",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Super Benek Поглотитель запаха, 450 г",
+                    "description": "Нейтрализует неприятные запахи в лотке",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1f/jvuolvqfsxee702ql7sjg7lw1sie7gj1/200_200_1/af150b14f1717a7962bf646f8a9a708c.jpg",
+                    "amount": "Натуральный",
+                    "cost": "4,90  руб."
+                },
+                {
+                    "name": "Сима Древесный наполнитель",
+                    "description": "Древесный наполнитель для туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/19a/gklncvm0p718gl3b8xsiofkkyfrz4a4w/200_200_1/40dcd0f0db1aa17f78bd0e9d17823934.jpg",
+                    "amount": "3 кг",
+                    "cost": "6,00  руб."
+                },
+                {
+                    "name": "FOUR PETS древесный наполнитель",
+                    "description": "Древесный наполнитель для туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e37/es34killfqott32huc422pmoy0kxwdr1/200_200_1/3d41b530bea7b16887d7258d59e495a8.png",
+                    "amount": "2,5 кг",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Cat Step Клубника",
+                    "description": "Силикагелевый наполнитель для лотков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/68d/kawg1xlc2u77ukiuzkynm7zcze3i36i7/200_200_1/3bc6fc75d03a15403bbdd11cd71247fd.jpg",
+                    "amount": "3,8 л",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Cat Step Arctic Blue",
+                    "description": "Силикагелевый наполнитель для лотков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/337/bthwdvtw4wzvzx5nqkmryda7sftige40/200_200_1/9de64dcf24e939d4c12cf14c80ecea92.jpg",
+                    "amount": "3,8 л",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Cat Step Arctic Pink",
+                    "description": "Силикагелевый наполнитель для лотков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d00/ugdskl3elpv8g0e0knakm3wipw2zu15y/200_200_1/aaf2c664cfff0d7af262c88fc98f70ba.jpg",
+                    "amount": "3,8 л",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Наполнитель Pi-Pi Bent Котяра с активированным углем",
+                    "description": "Комкующийся наполнитель, без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b5e/kz3rarrr00q0fp9ucljk8ljrd9vlaccv/200_200_1/9d5549d1f8f374223adba0e9091558e9.jpg",
+                    "amount": "4,2 кг",
+                    "cost": "10,30  руб."
+                },
+                {
+                    "name": "Beaphar Уничтожитель запаха \"Odour Killer\", 400 г",
+                    "description": "Уничтожитель запаха для кошачьих туалетов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9d/56yvuw91vqatb68fxtoiqrpze26wb4pi/200_200_1/058e9642c89234ba86f91e02300ad612.png",
+                    "amount": "за 1 ед.",
+                    "cost": "30,30 руб."
+                },
+                {
+                    "name": "Наполнитель Pi-Pi Bent Котяра классический",
+                    "description": "Комкующийся наполнитель, без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47f/32xv3h67a5flm5nnvksm1rsjhgkxafsf/200_200_1/363885c9630c0144760f9ca1b870037c.jpg",
+                    "amount": "4,2 кг",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "Кошкина полянка Устранитель запаха Cat's Glade, 750 мл",
+                    "description": "Для ликвидации и нейтрализации неприятных запахов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/353/3l8qyfcka027cnnkgj3dhsxiif4zp4ol/200_200_1/86ed24c6a94838c4257a0aeca2a8d070.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,60 руб."
+                },
+                {
+                    "name": "Наполнитель Pi-Pi Bent Котяра (Луговые травы) 4,2 кг",
+                    "description": "Комкующийся наполнитель с ароматом луговых трав",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ceb/gnccjsanuiu1qhvl831acm6viuxx2zp6/200_200_1/41ff6c87c0baccdec777b2f60e8e3aa0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,30 руб."
+                },
+                {
+                    "name": "Наполнитель \"Pi-Pi Bent DeLuxe\" Classic",
+                    "description": "Комкующийся наполнитель классик, без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b7/7u7c4mtukrfecgoehh2d3pqd9j3ewxdx/200_200_1/c44d51500d925e092ac9d797e5d44b8b.jpg",
+                    "amount": "5 кг",
+                    "cost": "22,60  руб."
+                },
+                {
+                    "name": "Наполнитель \"Pi-Pi Bent Deluxe Fresh Grass\"",
+                    "description": "Комкующийся наполнитель с ароматом травы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4df/0di0eh5spqjdrxm862s9k6j8b2dcntbl/200_200_1/00855582122adfc27d3bea30550bfe17.png",
+                    "amount": "5 кг",
+                    "cost": "22,60  руб."
+                },
+                {
+                    "name": "Beaphar Уничтожитель запаха \"Multi Frisch Orchidee\", 400 г",
+                    "description": "Уничтожитель запахов с ароматом орхидеи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/faf/n785utjqg0u3irbx2xkaz4g50c9r3lmc/200_200_1/7cae665e6f10851bdd0f058468819506.png",
+                    "amount": "за 1 ед.",
+                    "cost": "27,90 руб."
+                },
+                {
+                    "name": "FOUR PETS силикагелевый наполнитель (без запаха)",
+                    "description": "Силикагелевый наполнитель без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f10/lozb8s9jvyfhvz1ct8wmzk8n6d22n7f4/200_200_1/ee91328ce9fddcbf12db442a70a7c869.jpg",
+                    "amount": "3,5 л",
+                    "cost": "21,70  руб."
+                },
+                {
+                    "name": "Наполнитель Canadian Cat (Лаванда)",
+                    "description": "Наполнитель с запахом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b8/1v563k0wnt1tjo6wuto9srj62hlxcu49/200_200_1/a888b0972f638fc1af0355da3cd641f6.jpg",
+                    "amount": "10 л",
+                    "cost": "35,40  руб."
+                },
+                {
+                    "name": "Наполнитель Canadian Cat Unscented (Натуральный)",
+                    "description": "Наполнитель без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/95b/z8crs7t9ow1ditseiso73u649yp1ce1k/200_200_1/0e18da76d82b2b31f204b01c047d55cf.jpg",
+                    "amount": "10 л",
+                    "cost": "34,10  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat кукурузный",
+                    "description": "Кукурузный комкующийся наполнитель без аромата",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/245/cqxylbnh4zywr3a9g02gz1xtqs1k5948/200_200_1/5367169d8ff877a85d27d64e52c462ad.jpg",
+                    "amount": "7 л",
+                    "cost": "39,50  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat кукурузный (Морской бриз)",
+                    "description": "Кукурузный комкующийся наполнитель, аромат морской",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/725/62e6xdj9ezje0gtfvq5yo4n8zr4d0m03/200_200_1/e4d37114b6801c43aa29bda3f223bafa.jpg",
+                    "amount": "7 л",
+                    "cost": "65,80  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat кукурузный (Свежая трава)",
+                    "description": "Кукурузный комкующийся наполнитель, аромат свежей травы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/66b/x7n0qn8n1gd7rncywry8q6pk35ei684p/200_200_1/65759d0eeafa22ed2e80365590c3e7c8.jpg",
+                    "amount": "7 л",
+                    "cost": "65,80  руб."
+                },
+                {
+                    "name": "Наполнитель Pi-Pi-Bent Классик",
+                    "description": "Комкующийся наполнитель из бентонитовой глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d2c/ugkp1xja0avjujeavyt1zuqzegqq6s22/200_200_1/bf198584ffeb5f08130785493dcdec5a.png",
+                    "amount": "3 кг",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Наполнитель Pi-Pi-Bent Сенсация свежести",
+                    "description": "Комкующийся наполнитель из бентонитовой глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/71c/p2fjvaeczycjik0bapu18ewlzqe4cfyj/200_200_1/edb92d6511ad6f3180746838c315d52d.png",
+                    "amount": "5 кг",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "Наполнитель СиСиКэт",
+                    "description": "Комкующийся наполнитель из бентонитовой глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0a/s0rl6etlrbn5a9tkvbopz6njp9wc1jq8/200_200_1/97738f83ddb34540cf1dc1e07895890d.png",
+                    "amount": "5,3 л",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Mr. Fresh Expert Ликвидатор запаха 2в1, 500 г (порошок)",
+                    "description": "Ликвидатор запаха для кошачьих туалетов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd0/xvisp99rnq68tsw1kddmujyixibueujf/200_200_1/487cacf84b5a93b660dd7b6a7b4cf541.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель силикагелевый (лаванда)",
+                    "description": "Экологически чистый наполнитель с крупной гранулой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a9f/31l7x1ucfmk4e3ktsbn1sr6i5poaxduk/200_200_1/f8b948bf8745b9df458d124c32b59427.png",
+                    "amount": "4 л",
+                    "cost": "23,60  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель силикагелевый (клубника)",
+                    "description": "Экологически чистый наполнитель с крупной гранулой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/918/ceaxtci2lpte2csfx21ht4tjdh7p7npx/200_200_1/6650e47a06243500025db26b667d2a5d.png",
+                    "amount": "4 л",
+                    "cost": "23,60  руб."
+                },
+                {
+                    "name": "Йо! Кристал",
+                    "description": "Силикагелевый наполнитель",
+                    "image_url": "https://garfield.by/upload/iblock/c4a/tmg2lwd42lwkkc9ntlb3mhuvoyoc6yx4/24a15719fd247fc28768cfa0a3062359.png",
+                    "amount": "4,1 л (1,6 кг)",
+                    "cost": "19,60  руб."
+                },
+                {
+                    "name": "Йо! Классик",
+                    "description": "Силикагелевый наполнитель.",
+                    "image_url": "https://garfield.by/upload/iblock/30b/h7mvd2t6bssbwn92e8dqt4k5p83v6rwi/6c68bdb3fa4e07f77a0900ef3ce66e1e.png",
+                    "amount": "4,1 л (1,6 кг)",
+                    "cost": "21,60  руб."
+                },
+                {
+                    "name": "Йо! Лаванда",
+                    "description": "Силикагелевый наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/iblock/615/rt28hr7zjc9k1qzyvey8vweh7rgbm0lu/78aa81f6ca5686052da3f4c63c7325b5.png",
+                    "amount": "4,1 л (1,6 кг)",
+                    "cost": "21,60  руб."
+                },
+                {
+                    "name": "Йо! Абрикос",
+                    "description": "Силикагелевый наполнитель с ароматом абрикоса.",
+                    "image_url": "https://garfield.by/upload/iblock/b20/frxwzuholver5tynb9n1ghsis49xo9vt/fbdc01dc7f71f60787c278c45e36646d.png",
+                    "amount": "4,1 л (1,6 кг)",
+                    "cost": "21,60  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Силикагелевый (без запаха)",
+                    "description": "Силикагелевый наполнитель для котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/207/rthpqxja3po5scaq7o6901ba9mv7nen8/200_200_1/a0053fd5903ad3a6ebe2168614d56ccc.jpg",
+                    "amount": "3,8 л",
+                    "cost": "22,10  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Цеолит",
+                    "description": "Впитывающий наполнитель на основе цеолита.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/113/9vv74a71hvrlzscz50s2qxpumpffkeup/200_200_1/66c8bdbd94c0171458d55feaa00d6e01.jpg",
+                    "amount": "5 л",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Древесный",
+                    "description": "Древесный наполнитель из хвойных пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e5/zfls764kdp1zuz7yk81lelykl1kypzib/200_200_1/27bf3a2cb990794711916b31a2c47ab0.jpg",
+                    "amount": "3 кг",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Бентонитовый",
+                    "description": "Комкующийся бентонитовый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb5/rh9r3v57ewobzr5ii5i2iolqz7xrpdcu/200_200_1/2da853be147815948dcb66e250cf080c.png",
+                    "amount": "3 кг",
+                    "cost": "5,30  руб."
+                },
+                {
+                    "name": "Cat's Way Box PREMIUM Lavander",
+                    "description": "Комкующийся наполнитель с ароматом лаванды для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e24/ijgxf2j14m3kyr8r7j02rfbbqxxy3fov/200_200_1/7ffec_w800.jpg",
+                    "amount": "6 л",
+                    "cost": "27,00  руб."
+                },
+                {
+                    "name": "Catsan Наполнитель Active Fresh",
+                    "description": "С активированным углем для контроля над запахом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/534/0j9e4fny8bsykvsbqwbt9ivp4i75aszj/200_200_1/ec3cfe5871e7572a568fe3ec66cac688.jpg",
+                    "amount": "5 л",
+                    "cost": "39,50  руб."
+                },
+                {
+                    "name": "Catsan Наполнитель Hygiene plus",
+                    "description": "Впитывающий наполнитель для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/767/0yxbuu6w0l90gakl5b12229labnu0gyy/200_200_1/87926ca9407020b26d8b51e0e5311d77.jpg",
+                    "amount": "5 л",
+                    "cost": "23,10  руб."
+                },
+                {
+                    "name": "Sanicat Classic Fragrance Free",
+                    "description": "Впитывающий наполнитель из сепиолита",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e5/lyyji1ag4nk0a8buhfr16tyfo68trus9/200_200_1/67308d6dbfb94e623f60ae4cbf310a4d.jpg",
+                    "amount": "10 л",
+                    "cost": "20,20  руб."
+                },
+                {
+                    "name": "Sanicat Professional силикагелевый (Fresh)",
+                    "description": "Наполнитель силикагелевый без запаха.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/122/xtxzta3u5gt8pnc1dahmvdlfbt0lt9mm/200_200_1/17a701443d4b09fae238e82e8f84ffe6.png",
+                    "amount": "3,8 л",
+                    "cost": "18,20  руб."
+                },
+                {
+                    "name": "Sanicat Professional силикагелевый (Aloe Vera)",
+                    "description": "Наполнитель силикагелевый, аромат алоэ.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e5f/9z5if8onr30tlgccwgi4t3ow4x59tu4w/200_200_1/09d328bda5d2af9ac167d7daddff804f.png",
+                    "amount": "5 л",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Sanicat Classic Marseille Soap",
+                    "description": "Впитывающий наполнитель с активным кислородом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/714/wq56anwwulc631bt5eyn8t2zxynghl1g/200_200_1/506baad0dc61cce56b3ba2321321a459.jpg",
+                    "amount": "10 л",
+                    "cost": "22,20  руб."
+                },
+                {
+                    "name": "Sanicat Classic Lavander",
+                    "description": "Впитывающий наполнитель с лавандой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cce/3w6lo0vdjlgs0yqs3mwk0chjcqsbqmxn/200_200_1/da3aacdca68647b26758f33395db5942.jpeg",
+                    "amount": "8 л",
+                    "cost": "20,40  руб."
+                },
+                {
+                    "name": "Sanicat Clumping Fragrance Free",
+                    "description": "Комкующийся наполнитель из бентонита",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/759/ze7z4e9cn1coz906es107mk29e20sbd9/200_200_1/01b995ce811d9388e6e4350c38b07e61.png",
+                    "amount": "10 л",
+                    "cost": "29,10  руб."
+                },
+                {
+                    "name": "Love Sand Original Наполнитель (Без запаха)",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/29c/eh582dwk32iewo9prc780qeojiy804vt/200_200_1/9a7ff636d0e749992edd17f5a60475b3.jpg",
+                    "amount": "5 л",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Love Sand Наполнитель (Лаванда)",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/066/1rn08i7ztdh3m59h79bxmojzsxsnzl6t/200_200_1/b0d8e9d32a5cc4b2644391900c97e54b.jpg",
+                    "amount": "5 л",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Love Sand Наполнитель (Лимон)",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ea/3tg5rx5i3ibkvgueezjahgem6bo6t4v6/200_200_1/9e4e4c224057407d491b88e3d8af23d9.jpg",
+                    "amount": "5 л",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Love Sand Наполнитель (Роза)",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f19/3137v1cndg4hg4ap5h6lwd0o5kte9pn8/200_200_1/8a692b8ced820d8ba0e6d07c60099269.jpg",
+                    "amount": "5 л",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Sepicat LightWeight Extreme Fresh",
+                    "description": "Наполнитель комкующийся, аромат детской присыпки.",
+                    "image_url": "https://garfield.by/upload/iblock/66e/sgsdrnh72tbgryftcftxp7s16we8m1pc/68522a6798cf9441ec62f81ed57614c3.jpg",
+                    "amount": "8 л",
+                    "cost": "19,50  руб."
+                },
+                {
+                    "name": "Древесный наполнитель с горным кипарисом",
+                    "description": "Тотально уничтожает неприятные запахи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/617/6nm5sa2qnrfdefqzsx3yt6wasu3nyndm/200_200_1/bdf006edabefcdc1b6e5b973fdb5a188.png",
+                    "amount": "7 л",
+                    "cost": "55,70  руб."
+                },
+                {
+                    "name": "Sanicat Compact Forest, 5 л",
+                    "description": "Ультракомкующийся наполнитель, аромат леса.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/896/8twi4v36ptn2f1cxbfdu15y7cued1cxm/200_200_1/678ed47f6c2411b910703963d5696e75.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,60 руб."
+                },
+                {
+                    "name": "Sanicat Compact Lavanda, 5 л",
+                    "description": "Ультракомкующийся наполнитель с ароматом лаванды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b8/7ztgufgmp9bdd2ksi00sppfqsw91rcn7/200_200_1/46955a636f4266707fe4c1ae8ad2ff3e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,60 руб."
+                },
+                {
+                    "name": "Sepicat Lightw Ultra Anti",
+                    "description": "Наполнитель для кошачьего туалета, комкующийся.",
+                    "image_url": "https://garfield.by/upload/iblock/9d1/1nwyovmx9a4thlpx0kn25fzhvuujq2lz/bed72f42341120053ff8332cf7cd5a5a.jpg",
+                    "amount": "10 л",
+                    "cost": "13,80  руб."
+                },
+                {
+                    "name": "Sanicat Professional силикагелевый (Citric)",
+                    "description": "Наполнитель силикагелевый, аромат цитруса.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6b/px9v3ukf8l5qecw4dz2k968he4wynlxh/200_200_1/1ee411d53a84191d5648d637a3d849ae.png",
+                    "amount": "3,8 л",
+                    "cost": "17,30  руб."
+                },
+                {
+                    "name": "Sanicat Professional силикагелевый (Lavender)",
+                    "description": "Наполнитель силикагелевый, аромат лаванды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/86f/s2xu7jgj6zm5eb0sm8mr5xxmz9xp9vw8/200_200_1/a3c0f78b746ffe87f56762dcc6e0d137.png",
+                    "amount": "3,8 л",
+                    "cost": "18,20  руб."
+                },
+                {
+                    "name": "Sepicat LightWeight Ultra Fresh",
+                    "description": "Наполнитель для кошачьего туалета, комкующийся.",
+                    "image_url": "https://garfield.by/upload/iblock/c38/2st9coozy8conu5g57j5ylt3l197g1pv/27d7f48d2274a0f421db344fea31c4a8.jpg",
+                    "amount": "12 л",
+                    "cost": "19,80  руб."
+                },
+                {
+                    "name": "Sanicat Professional Clumping Orange 5 л",
+                    "description": "Комкующийся наполнитель с ароматом апельсина, 5 л (4,35 кг).",
+                    "image_url": "https://garfield.by/upload/iblock/d4f/8dbc9papzpi2ws0311s3xs1xf8tlc9u9/c8774f4e8ee270eb22ad65ddebd5bedd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,20 руб."
+                },
+                {
+                    "name": "Наполнитель ультракомкующийся Sepicat Klump Light Fresh 10 л",
+                    "description": "Наполнитель из белой глины, с ароматом СПА.",
+                    "image_url": "https://garfield.by/upload/iblock/d3c/2mv6xxbehowtvs6r17hptc7zuifqquq5/6bdc99979f5440361162d9ed36aa42e0.jpg",
+                    "amount": "10 л",
+                    "cost": "11,70  руб."
+                },
+                {
+                    "name": "Ever Clean Fast Acting",
+                    "description": "Комкующийся наполнитель с быстрым контролем запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae3/sagr4e1ik01eb76qywxxrm8joqu1yocx/200_200_1/ad87fe15e0cfc097a72da39c2e25d791.jpg",
+                    "amount": "6 л",
+                    "cost": "53,50  руб."
+                },
+                {
+                    "name": "Super Benek - УНИВЕРСАЛЬНЫЙ КОМПАКТ",
+                    "description": "Гигиенический мелкий наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b0c/0gx824dm2ak5ywa1q84gntch8rbnz2zt/200_200_1/927968414f5cf088882270c30008bbb5.jpg",
+                    "amount": "5 л",
+                    "cost": "13,10  руб."
+                },
+                {
+                    "name": "Super Benek - УНИВЕРСАЛЬНЫЙ СТАНДАРТ",
+                    "description": "Гигиенический наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/017/sfvfznoz5pr9wmog6luirzi3fpsjk7vx/200_200_1/8cf60bd893f8006586717340d62f3709.jpg",
+                    "amount": "5 л",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Sanicat Sani & Clean",
+                    "description": "Ультра гигиенический экстра белый комкующийся наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c86/z75x8opm4p7b7sl5twb1ij0n05zqmmda/200_200_1/efd6704ae70319fdde07ef51a4fe41b5.jpg",
+                    "amount": "6 л",
+                    "cost": "17,00  руб."
+                },
+                {
+                    "name": "Sanicat Compact, 5 л",
+                    "description": "Минеральный ультракомкующийся наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/026/ki3l8ozjsdbbkztzeza1iyzjyke70j8v/200_200_1/2dbfd8809ebb97aa2bab34a870bafc71.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,60 руб."
+                },
+                {
+                    "name": "Super Benek - ГАЛАПАГОС ОПТИМУМ",
+                    "description": "Гигиенический наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c31/1rsy8n3rnwoyszsvywervjc108xcqw32/200_200_1/187dd5f67d2f2e93126eedc22696f145.jpg",
+                    "amount": "5 л",
+                    "cost": "14,30  руб."
+                },
+                {
+                    "name": "Super Benek - НАТУРАЛЬНЫЙ ОПТИМУМ",
+                    "description": "Гигиенический наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e2b/93y6kxweql1dyuqog79a7xcmcgu5opoc/200_200_1/1065be13041935864dd56117da62cd65.jpg",
+                    "amount": "5 л",
+                    "cost": "12,80  руб."
+                },
+                {
+                    "name": "Super Benek- АНТИБАКТЕРИАЛЬНЫЙ",
+                    "description": "Комкующийся наполнитель из бентонитовой глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/748/lvjyhloviwg2wrudul13r46luiroxf62/200_200_1/ae627d1bdf8369d9de8ed60b037973fa.jpg",
+                    "amount": "5 л",
+                    "cost": "14,20  руб."
+                },
+                {
+                    "name": "Sanicat 7 days Freshness Aloe Vera",
+                    "description": "Впитывающий наполнитель с ароматом алоэ вера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eca/1d1hr0zqv9vf26d639ln5jhssx8f3o7n/200_200_1/18bfe47d2dbb948bb08adec4d380e9e0.jpg",
+                    "amount": "4 л",
+                    "cost": "16,30  руб."
+                },
+                {
+                    "name": "Ever Clean Aqua Breeze",
+                    "description": "Комкующийся наполнитель с ароматом морского бриза",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f25/jh8w1vt78vqtp28primb6qhpyn3t9he1/200_200_1/c2d1bc9f000132ec3a69b315e70b0347.jpg",
+                    "amount": "6 л",
+                    "cost": "53,50  руб."
+                },
+                {
+                    "name": "Ever Clean Lavander",
+                    "description": "Комкующийся наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e76/v4w1qyifk47ttnlmi26zd3ulpy7d8yhw/200_200_1/a36b5c1459831f7cfa525bc608dd391a.jpg",
+                    "amount": "6 л",
+                    "cost": "53,50  руб."
+                },
+                {
+                    "name": "Ever Clean Multiple Cat",
+                    "description": "Комкующийся наполнитель для нескольких кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/733/1izm2hq61hp81c1x8trt1c2uj3qn862k/200_200_1/4653e456ca50b014f82a02f959afb4a6.jpg",
+                    "amount": "6 л",
+                    "cost": "53,50  руб."
+                },
+                {
+                    "name": "Ever Clean Extra Strong Clumping Unscented",
+                    "description": "Комкующийся наполнитель без аромата",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aa8/bjdxxcr9l3ja5kzknmkvlxpsek4c2rvu/200_200_1/b93d6594d0b9a77a8de450e53f1d3b2f.jpg",
+                    "amount": "6 л",
+                    "cost": "58,90  руб."
+                },
+                {
+                    "name": "Ever Clean Extra Strong Clumping Scented",
+                    "description": "Комкующийся наполнитель с ароматом свежести",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/238/gry4ay95he77sgb1cv4l4lvc53nmo1xr/200_200_1/b8b68038b22bb207d920b67fb3295d5f.jpg",
+                    "amount": "6 л",
+                    "cost": "53,50  руб."
+                },
+                {
+                    "name": "Ever Clean Litterfree Paws",
+                    "description": "Комкующийся наполнитель для длинношерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/38f/qo8ucrbuwczkvjzfdpq573xbnlb1nb5y/200_200_1/121f3963c4bb92f723abc18e6f7de38f.jpg",
+                    "amount": "6 л",
+                    "cost": "53,50  руб."
+                },
+                {
+                    "name": "Ever Clean Multi Crystals",
+                    "description": "Комкующийся наполнитель с кристаллами силикагеля",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bcf/tuqznomwvsavlk69mcmnj61e6ouvkh01/200_200_1/5df051c3dc0673baa271f7cd74200276.jpg",
+                    "amount": "6 л",
+                    "cost": "53,50  руб."
+                },
+                {
+                    "name": "Cat Step Arctic Neon",
+                    "description": "Наполнитель впитывающий силикагелевый c неоновыми кристаллами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c8e/wf30ofvb1r29ptpupwa06tadc2putsx5/200_200_1/66b4c84d-566d-11ec-bbb5-1866da6865b2.jpg",
+                    "amount": "3,8 л",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Cat Step Tofu Lotus",
+                    "description": "Комкующийся растительный наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/776/fvem1zmz34xta1dby2eh2yjb5civ8ndy/200_200_1/8760b6e88ebee539e981b771a63a25f0.jpg",
+                    "amount": "6 л",
+                    "cost": "34,50  руб."
+                },
+                {
+                    "name": "Sanicat Clumping White Unscented",
+                    "description": "Комкующийся бентонитовый наполнитель без запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/945/i6eo5u39p8slhbs0t3mn3iiwrf3urkh2/200_200_1/5cfe8748d7b8896e722fba0371182ae5.jpg",
+                    "amount": "10 л",
+                    "cost": "36,00  руб."
+                },
+                {
+                    "name": "FOUR PETS древесный универсальный наполнитель",
+                    "description": "Впитывающий наполнитель для туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/381/yyqe0c7xcvg4jvnppfoc7ee017iwnjsj/200_200_1/a692c16efc76ff0abe878cda28765f82.jpg",
+                    "amount": "2,5 кг",
+                    "cost": "3,30  руб."
+                },
+                {
+                    "name": "Древесный наполнитель с горным кипарисом ультракомкующаяся серия",
+                    "description": "Тотальное уничтожение неприятных запахов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c70/huh9idcabxn4jrhoq8rj64fc018hwkw2/200_200_1/f281157875571b6372e4a32fe3a1e3dc.jpg",
+                    "amount": "5 л",
+                    "cost": "37,50  руб."
+                },
+                {
+                    "name": "Sanicat Advanced Hygiene Fragrance Free",
+                    "description": "Впитывающий наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ba/35wpn573bvjxjp7wmsnhktmm87he2gzi/200_200_1/b035a795b01b6721c0b8cdb5a89cd801.jpg",
+                    "amount": "5 л",
+                    "cost": "21,50  руб."
+                },
+                {
+                    "name": "Catsan Наполнитель Ultra plus",
+                    "description": "Комкующийся наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4eb/0w2ha2dhsbh4kk2ql13z4p00bexp1ug1/200_200_1/25d67c4350c3d15110164c3c16b52093.jpg",
+                    "amount": "5 л",
+                    "cost": "39,50  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Light+",
+                    "description": "Комкующийся сверхлегкий наполнитель c мелкими гранулами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ca/15oyp5m4fzknnzk9sdzfzbqllhytron7/200_200_1/e7c42bd740b0324901de09530cc1553f.png",
+                    "amount": "10 л",
+                    "cost": "31,50  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Control+",
+                    "description": "Комкующийся наполнитель, контроль pH мочи",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/841/287wvdtmbtjfnaozip9m6r85x7pky8qu/200_200_1/4299df21cd895d17cbf370a2889d23dc.png",
+                    "amount": "6 л",
+                    "cost": "27,20  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Green+",
+                    "description": "Древесный наполнитель без ароматизаторов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/431/f2n5w5jmnu9hu2ytneypafn0ug7bga1w/200_200_1/a6cb5d516476fc22fdf15bdb5c665597.png",
+                    "amount": "7 л",
+                    "cost": "31,80  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Clumping + Active Carbon",
+                    "description": "Суперкомкующийся наполнитель с активированным углем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a7b/v3nomic0nksyuk0ojdcm4fqtu3ouu43y/200_200_1/0a2081c7ca87c0f56df8973f12ad8bc7.jpg",
+                    "amount": "10 л",
+                    "cost": "43,80  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Crystal Lemon",
+                    "description": "Силикагелевый наполнитель с ароматом лимона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/048/e4ame8qxot87hbhjovk0sebul6s8vitw/200_200_1/0f8174260500c9af4e9f69bb3973c11c.png",
+                    "amount": "5 л",
+                    "cost": "33,20  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Crystal Lavender",
+                    "description": "Силикагелевый наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be5/phyvapbzm0rxjky6kul8i4hvnpw4anny/200_200_1/a6a03af62f26ca38534845b67deef074.jpg",
+                    "amount": "5 л",
+                    "cost": "33,20  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Crystal Aloe Vera",
+                    "description": "Силикагелевый наполнитель с ароматом алоэ вера",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/735/cq58aechoatbep89265coyoqgoe3ndm5/200_200_1/91df8bc5d108b2b5a10e0f87e994886b.png",
+                    "amount": "5 л",
+                    "cost": "33,20  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Crystal",
+                    "description": "Силикагелевый гипоаллергенный наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/205/cfilaese9xs2ya7cow86pdflrxfnj95p/200_200_1/c639e50f4364db3364d8a75929316ff7.png",
+                    "amount": "5 л",
+                    "cost": "31,80  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Essential",
+                    "description": "Впитывающий наполнитель из 100% уразита",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/99b/tvdm5xav8l0mxke4i2rew8ah30wqfrgv/200_200_1/4621908be5eb92bb66dcbf176b8fa22f.png",
+                    "amount": "10 л",
+                    "cost": "17,90  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Charme",
+                    "description": "Комкующийся наполнитель c календулой и ароматом восточного янтаря",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f61/mn1t5xfoi79mrqgwlc02ibulycwhkfg2/200_200_1/1f34042a417edbf49196cd6202b8d8c7.png",
+                    "amount": "10 л",
+                    "cost": "32,30  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Prestige",
+                    "description": "Комкующийся наполнитель c ароматом детской присыпки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/896/qjjrq5zgl9pnt6lpx1x2pg32cmonkycj/200_200_1/44f42a48a7c6f7b61183b9c1e0cacf6b.jpg",
+                    "amount": "5 л",
+                    "cost": "17,20  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Smell good!",
+                    "description": "Комкующийся наполнитель с ароматом цветов и фруктов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a74/x0zijxa1sg3pfqfucn8qr2kc3pb0dcvw/200_200_1/3d2217177240a580212f8a54a9176099.png",
+                    "amount": "8 л",
+                    "cost": "21,50  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Natural White",
+                    "description": "Комкующийся наполнитель из белого бентонита",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb2/c6ghtjv301lsitvy40ysl096efbrzp1r/200_200_1/3f276f24d49a1b3fb44c37b0437a428a.png",
+                    "amount": "15 л",
+                    "cost": "43,20  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Classic",
+                    "description": "Комкующийся наполнитель первого класса",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/39f/gtxo79i9pornlp4z7n8k3s1rz8hvfiwc/200_200_1/a89d98974fa0d7b17419bf5b355a6b66.jpg",
+                    "amount": "8 л",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Double Action",
+                    "description": "Комкующийся наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/689/ab65ld82thbwrmdbbalj9ac6agwsn2vk/200_200_1/a2523f4b3bb8934f635b629a773e239a.jpg",
+                    "amount": "5 л",
+                    "cost": "18,80  руб."
+                },
+                {
+                    "name": "Lindocat Наполнитель Active plus",
+                    "description": "Комкующийся наполнитель с добавлением активированного угля",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/885/4hpju6qiaukz4nd3boomt775iyic5b2x/200_200_1/fef2abed89fd3299d72942d5d7dd70d7.png",
+                    "amount": "6 л",
+                    "cost": "25,60  руб."
+                },
+                {
+                    "name": "Цеосан Гигиенический древесный наполнитель",
+                    "description": "Впитывающий наполнитель для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/434/vrwq4d1wnyj10ksdhygx0ql7t9lhfoml/200_200_1/5d12d0c6887bd7ca9f49f7599fde7ede.jpg",
+                    "amount": "5 л",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "Цеосан Гигиенический кукурузный наполнитель",
+                    "description": "Впитывающий наполнитель для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/808/vpxo8ax8xbs9mm7t4g1plc7o6oy3623k/200_200_1/ef4f47f063f48f77690b54988a3d0ee2.jpg",
+                    "amount": "5 л",
+                    "cost": "11,60  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель Universal Ultra",
+                    "description": "Комкующийся на основе бентонитовой глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/757/aaamj7b800ys8aqswsfmnrrmc0w6zyn5/200_200_1/c3ba6128772a00e97271f46191756da6.jpg",
+                    "amount": "5 л",
+                    "cost": "12,60  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель Original White",
+                    "description": "Комкующийся на основе бентонитовой глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57b/s6v39f8ulnd4nbj8xwdq3uu88q9rw4h6/200_200_1/cc20a1d4b0b26158c60ea1ac17e64bbb.jpg",
+                    "amount": "5 л",
+                    "cost": "13,90  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель Natural Ultra",
+                    "description": "Комкующийся на основе бентонитовой глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/823/4amik0zpoe3ymdt25g3wez63rqn35u3k/200_200_1/df91a95712d8946781f1ef1f45516fcf.jpg",
+                    "amount": "10 л",
+                    "cost": "23,70  руб."
+                },
+                {
+                    "name": "FOR CATS Наполнитель Natural Herbal Ultra (аромат трав и цветов)",
+                    "description": "Комкующийся на основе бентонитовой глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e7/4gcm52zagmk6bga4mwnpxhzokf13d1gs/200_200_1/2badc4dc80c120f0c17a7373e973ae6c.jpg",
+                    "amount": "5 л",
+                    "cost": "14,80  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель силикагель (Голубая лагуна)",
+                    "description": "Наполнитель для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d84/gerjdmx6emh83x75j0v2bdfl6d2fhtu7/200_200_1/c71f79c1f91184fc4aac131bd53bb2c1.jpg",
+                    "amount": "20 л",
+                    "cost": "46,30  руб."
+                },
+                {
+                    "name": "КОТУ наполнитель древесный Лиственный",
+                    "description": "Древесный наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/643/0zyln8reytrjvvu41cqkg23webak29zf/200_200_1/553d624cfe12b2eca8b949bc14c1ee10.jpg",
+                    "amount": "12 л",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat Ultra (Морской бриз)",
+                    "description": "Наполнитель кукурузный комкующийся",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b5b/z9yp4detrzyxbmoxpi5z0we0tdvi1wv1/200_200_1/05e0cbd6f36306eadede5b38c3dee9ae.JPG",
+                    "amount": "7 л",
+                    "cost": "26,40  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat Ultra (Натуральный)",
+                    "description": "Наполнитель кукурузный комкующийся",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0f5/ncqc8e8c4m4a6wmnb5mc20opbs08iubq/200_200_1/027c7313df166c169c4bce34fd711131.JPG",
+                    "amount": "7 л",
+                    "cost": "25,30  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat Ultra (Свежая трава)",
+                    "description": "Наполнитель кукурузный комкующийся",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c47/v8c18ekem8ravfqt125gk0qskwju2cri/200_200_1/c1fc1917103878547010ac6efce99aed.JPG",
+                    "amount": "7 л",
+                    "cost": "26,40  руб."
+                },
+                {
+                    "name": "Bioclean супервпитывающие шарики",
+                    "description": "Наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/304/fjzxj9qor478f3j59yqnq8j8q74n670c/200_200_1/dc8dcebab3d6826e179130f9977cb311.jpg",
+                    "amount": "6 л",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Bioclean Комкующийся наполнитель",
+                    "description": "Наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/25a/4rhwpu71w25e4gfv95e1b2mip9q9odae/200_200_1/e837e9d0861eee9f58029d6028ada177.jpg",
+                    "amount": "5 л",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Comfy Benta Cornelius",
+                    "description": "Комкующийся кукурузный наполнитель с ароматом трав",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/855/lpfg6e7w7uem3mei8e23nuvtd61mvgk8/200_200_1/403aff4dcde5e02330d0cee53669feff.jpg",
+                    "amount": "7 л",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель TOFU Молочный",
+                    "description": "Комкующийся соевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76b/fdamn3zmm24o3qfwu3z3sdhec5stjyza/200_200_1/71dad1245130e73fc5699fa6749af13d.jpg",
+                    "amount": "6 л",
+                    "cost": "16,40  руб."
+                },
+                {
+                    "name": "КОТУ Наполнитель TOFU Натуральный IVORY",
+                    "description": "Комкующийся соевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b12/74vbqaa1e9rnehk5ljkwcu2c9uwev0e1/200_200_1/4aadfcdaf52fb83813782ee5858fc18a.jpg",
+                    "amount": "6 л",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "Ever Clean Spring Garden",
+                    "description": "Комкующийся наполнитель с ароматом весеннего сада",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dbe/2c9b7byvp737di9klx3zsno1r9boaw8n/200_200_1/45c5d815c605112831ab08edac36eaad.jpg",
+                    "amount": "6 л",
+                    "cost": "53,50  руб."
+                },
+                {
+                    "name": "Sanicat Clumping Marseille Soap",
+                    "description": "Комкующийся наполнитель с ароматом марсельского мыла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c6/2agpo6jut3joxph4fi8m1pt5e9kv41gv/200_200_1/76a29dc021df54c74c1d3e698eb5b0f0.jpg",
+                    "amount": "10 л",
+                    "cost": "28,80  руб."
+                },
+                {
+                    "name": "Sanicat Clumping Vanilla-Mandarin",
+                    "description": "Комкующийся наполнитель с ароматом ванили и мандарина",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6bf/bjw1mj3p66l08a78h7rxa2r89pi5aid9/200_200_1/c1e5b52ba468aff4b39f1e03cffb71bd.jpg",
+                    "amount": "8 л",
+                    "cost": "24,70  руб."
+                },
+                {
+                    "name": "Calitti Crystals Силикагелевый",
+                    "description": "Cиликагелевый наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/043/iihkdfq7nlc6y4g2rv5i9hcg6pf7o738/200_200_1/62a4f5341809b055c999a13f9f3aaed4.jpg",
+                    "amount": "3,8 л",
+                    "cost": "16,70  руб."
+                },
+                {
+                    "name": "Calitti Strong Бентонитовый (Лаванда)",
+                    "description": "Комкующийся наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd1/882mn7x8qvqxteh6qq14r2yjt6a9p9sy/200_200_1/96b67ea24a8f38bcabf5e5f2b4daa45e.jpg",
+                    "amount": "5 л",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Calitti Strong Бентонитовый без запаха",
+                    "description": "Комкующийся наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc8/wsm1fk6c1kbzl0n3yyda2exyf8cb24am/200_200_1/dcfed0eeaf4dc7abf10bcf44153c44c9.jpg",
+                    "amount": "5 л",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Calitti Corn Наполнитель кукурузный",
+                    "description": "Комкующийся наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a95/7vkejcbuf5451ucrdy1oyf5xq3kho1ol/200_200_1/c064d68c4c980bc6ce866e6237d76bbf.jpg",
+                    "amount": "6 л",
+                    "cost": "22,20  руб."
+                },
+                {
+                    "name": "Love Sand Original Наполнитель беспыльный (Без запаха)",
+                    "description": "Комкующийся наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a89/glb43aan3pl6hwy1uun46zv95mm77kh0/200_200_1/ab0da0a8129a342e710ecc8b8f924e8c.png",
+                    "amount": "10 л",
+                    "cost": "21,80  руб."
+                },
+                {
+                    "name": "Love Sand Original Water Soluble Наполнитель смываемый (Без запаха)",
+                    "description": "Комкующийся наполнитель для кошачьих туалетов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/650/2ykol3v06vq0pepnnmjyfvokxah5nibs/200_200_1/7525c495671c0f9416f2c727ea744d4e.jpg",
+                    "amount": "10 л",
+                    "cost": "24,60  руб."
+                },
+                {
+                    "name": "FOUR PETS силикагелевый наполнитель (зеленый чай)",
+                    "description": "Силикагелевый наполнитель с ароматом зеленого чая",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/868/k8tczb1nfknkhykmb7q7ktk68jttw3ki/200_200_1/6564875fb1eba708325408fee0e583bd.jpg",
+                    "amount": "12 л",
+                    "cost": "64,30  руб."
+                },
+                {
+                    "name": "Котики Собачки наполнитель (морской бриз)",
+                    "description": "Силикагелевый наполнитель с ароматом морского бриза.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af4/ip8yc2tiszdjydnivz2xdcho326incwa/200_200_1/1358f61b7c602d424d5ccca037585a0b.png",
+                    "amount": "3,8 л",
+                    "cost": "9,80  руб."
+                },
+                {
+                    "name": "Котики Собачки наполнитель (лаванда)",
+                    "description": "Силикагелевый наполнитель с ароматом лаванды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/25a/2fqegz7qwziuid3edq6als2dops2wcl8/200_200_1/fee70135ae05ec70256bef18543a39ea.png",
+                    "amount": "3,8 л",
+                    "cost": "9,80  руб."
+                },
+                {
+                    "name": "Котики Собачки наполнитель (без аромата)",
+                    "description": "Силикагелевый наполнитель без запаха.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c3/r242vozn0g3jwr0h3s4nej643cq7eb11/200_200_1/d6ba799f57d422505d5379829a7d78ad.png",
+                    "amount": "3,8 л",
+                    "cost": "9,80  руб."
+                },
+                {
+                    "name": "Comfy Benta Standart Forest",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/6sb9io8a4bb12ak4qp1vhmna5utl90di/200_200_1/833558bbe56207853e4637266b3c2d26.jpg",
+                    "amount": "10 л",
+                    "cost": "22,90  руб."
+                },
+                {
+                    "name": "Comfy Benta Basic",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/196/sqh2d9xfn350xx3hpf3gesbeu726romk/200_200_1/31d9e9900d38cd8768aeadd69760e111.jpg",
+                    "amount": "10 л",
+                    "cost": "20,20  руб."
+                },
+                {
+                    "name": "Comfy Benta Compact Lavender",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1fa/9wncnh0ob66qx63jwkq02gw8752gm5au/200_200_1/79eedf521ed810583f763d93fc1cfddc.jpg",
+                    "amount": "10 л",
+                    "cost": "24,70  руб."
+                },
+                {
+                    "name": "Comfy Benta Standard Marine",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/72f/m5o404zitcw24gd4mzgkaa7gbstzj1lu/200_200_1/d04c3439218505eab7ff16c2c0a3317c.jpg",
+                    "amount": "5 л",
+                    "cost": "12,70  руб."
+                },
+                {
+                    "name": "Comfy Benta Compact Baby Powder",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83d/spbwxbo8jlwj48tkpmksowxrh9pk31f7/200_200_1/5046e9808dd37511b578c388cf5b2d81.jpg",
+                    "amount": "5 л",
+                    "cost": "13,40  руб."
+                },
+                {
+                    "name": "Emily Pets Наполнитель Tofu (Зеленый чай)",
+                    "description": "Комкующийся наполнитель для кошек с ароматом зеленого чая.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c3/mevrdc22gbtw9dy3cix10fkd5tqdz0dt/200_200_1/8ea86e1815bb1efcd5fbc08ee82893c3.jpg",
+                    "amount": "6 л",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Emily Pets Наполнитель Tofu (Лаванда)",
+                    "description": "Комкующийся наполнитель для кошек с ароматом лаванды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/49f/rtnjipkrwwqglum62dq36869kgouh19j/200_200_1/463bddbd30880707a09bdcdfb14341e5.jpg",
+                    "amount": "6 л",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Emily Pets Наполнитель Tofu (Персик)",
+                    "description": "Комкующийся наполнитель для кошек с ароматом персика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d75/7xakhk2bvuu7yzviwvzobj5n5vipxkti/200_200_1/d14ee0409b2e65f54dbe889cb530e76a.jpg",
+                    "amount": "6 л",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Emily Pets Наполнитель Tofu (Активированный уголь)",
+                    "description": "Комкующийся наполнитель с антибактериальным эффектом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd7/tp86i26zefj5ds24g16li1p5fsm6404n/200_200_1/cbff7e355f3403b695a8101b4a85369b.jpg",
+                    "amount": "6 л",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Emily Pets Наполнитель Tofu (Кукурузный)",
+                    "description": "Натуральный комкующийся наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c47/0xuhwysuxdeyub7f8g3h3c5ddj3k9n4f/200_200_1/02cb19d022cabf805ba0806b78f90b4b.jpg",
+                    "amount": "6 л",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Emily Pets Наполнитель Tofu (Original)",
+                    "description": "Комкующийся наполнитель для кошек без запаха.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/23d/gymvd8cnqix40yneh06bh797uruuc6sw/200_200_1/9c0dcad90b89157cd72ad32fc28f30ae.jpg",
+                    "amount": "6 л",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Love Sand Наполнитель (Детская пудра)",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0cb/shbc9vlgfeywstwpex172o1mm58mcsr5/200_200_1/f47d549221add03a556c95c306287e6a.jpg",
+                    "amount": "5 л",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Мистер МЯУ! Древесный наполнитель",
+                    "description": "Комкующийся наполнитель для кошачьих туалетов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f59/8u1qq7pyjc355vmye4yxhaajltcwcv0e/200_200_1/abf16709e01ceb5e02cb5f1162890a0c.jpg",
+                    "amount": "5 л",
+                    "cost": "14,00  руб."
+                },
+                {
+                    "name": "Biokat's Diamond Care Vet Line Attracting & Calmin",
+                    "description": "Бентонитовый наполнитель для кошек в стрессе",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/da5/vjffesqaykhzj1qzmdhaoiihxx46uqbq/200_200_1/ea93c4b52939e573471c21cb2582fb90.png",
+                    "amount": "8 л",
+                    "cost": "33,30  руб."
+                },
+                {
+                    "name": "Sanicat Strong Clumps (Baby Powder)",
+                    "description": "Ультракомкующийся наполнитель с ароматом детской присыпки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34d/ugzocilrrk7iew2yps58s4fvs88naxzi/200_200_1/12d5329f64b026d2061e5816d79fecf9.jpg",
+                    "amount": "6 л",
+                    "cost": "29,50  руб."
+                },
+                {
+                    "name": "Sanicat Clean & Green Cellulose",
+                    "description": "Экологичная гигиеничная бумажно-целлюлозная подстилка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b59/t04w0qmlctzajwc8a2yx5hhm870hk8sa/200_200_1/faf5f754229816b8906af30efec3e975.png",
+                    "amount": "7 л",
+                    "cost": "23,30  руб."
+                },
+                {
+                    "name": "Наполнитель для туалета \"Силикагель жемчужный\"",
+                    "description": "Впитывающий наполнитель на основе гранул с силикагелем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fa8/0dt7udura79zw4n1jo7ohk4dngii4n8b/200_200_1/e7a5ac5f85292a2e8de71d89a3639f36.jpg",
+                    "amount": "1,5 кг (3,8 л)",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Love Sand Наполнитель (Яблоко)",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cbd/hr6gvm1c20i9sub7lgaa0jeewezcil7v/200_200_1/a054d98eefad5736e8a87bd31f827df8.jpg",
+                    "amount": "5 л",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Love Sand Наполнитель (Кофе)",
+                    "description": "Комкующийся бентонитовый наполнитель для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d7b/c0ebrxdb27wrxz72rzqb08j14m8066f6/200_200_1/725a8070b0797b9a2813b3fee9df04a0.jpg",
+                    "amount": "5 л",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Наполнитель Cattus Accuratus Classic комкующийся",
+                    "description": "Бентонитовый наполнитель для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7bb/twkedu6oxd9vn43bbrniscv1qy1cnpr9/200_200_1/39cf934a10b654101791269a538ebd28.jpg",
+                    "amount": "5 кг",
+                    "cost": "10,40  руб."
+                },
+                {
+                    "name": "My Happy Pets Силикагелевый наполнитель \"Классик\"",
+                    "description": "Натуральный наполнитель для кошачьего туалета, без запаха.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/99a/7j6gq2hc9abar8kc1ue9lp7b32gis8o2/200_200_1/4edd444253338be74058cd1446136636.jpg",
+                    "amount": "4 л",
+                    "cost": "9,70  руб."
+                },
+                {
+                    "name": "My Happy Pets Силикагелевый наполнитель \"Лаванда\"",
+                    "description": "Натуральный наполнитель для кошачьего туалета, с ароматом лаванды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d92/p350u92095q11b35cfib3mzdt045b9q3/200_200_1/90574c322f1f0f69273c27e206ac5bcd.jpg",
+                    "amount": "4 л",
+                    "cost": "9,70  руб."
+                },
+                {
+                    "name": "My Happy Pets Силикагелевый наполнитель \"Сакура\"",
+                    "description": "Натуральный наполнитель для кошачьего туалета, с ароматом сакуры.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fd/z2ba2fx8bo7lwj3573h27wqxr6aqkjh3/200_200_1/0c2f25416979459e2f6271fbac246148.jpg",
+                    "amount": "4 л",
+                    "cost": "9,70  руб."
+                },
+                {
+                    "name": "My Happy Pets Силикагелевый наполнитель \"Океан\"",
+                    "description": "Натуральный наполнитель для кошачьего туалета, с ароматом океана.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43e/tp40vm1fxwo2mt1anytn0n5kab2m43qy/200_200_1/942f971d0840796a5273fb9484eb8309.jpg",
+                    "amount": "4 л",
+                    "cost": "9,70  руб."
+                },
+                {
+                    "name": "Цеосан Наполнитель впитывающий \"Т для Кота\"",
+                    "description": "Гигиенический наполнитель из цеолита.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dbf/h3yr1usal3fgfmdt6kbp370729jj3qzs/200_200_1/0128c3ddb264102be858b6a910d7fd5c.jpg",
+                    "amount": "5 л",
+                    "cost": "7,10  руб."
+                },
+                {
+                    "name": "Цеосан Гигиенический комкующийся наполнитель",
+                    "description": "Наполнитель из бентонита и цеолита для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/117/11w1g9i6qmtftd7z495nzkc12m5l875d/200_200_1/28eaa14c90904e82e833e88f2f7c91a2.jpg",
+                    "amount": "5 л",
+                    "cost": "8,50  руб."
+                },
+                {
+                    "name": "Цеосан Гигиенический наполнитель для котят",
+                    "description": "Наполнитель из цеолита для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2f/xdi5ojslqlgvs8mcwlmdc6h8yoojduqu/200_200_1/4f41d2a511b47bd4d588af391d4795f4.jpg",
+                    "amount": "5 л",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Цеосан Гигиенический наполнитель для гладкошерстных кошек",
+                    "description": "Наполнитель из цеолита для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d94/7htqzec2p1fcd0s00gdb0af165hywr2o/200_200_1/5e15866476692e4b4489cd312a030db6.jpg",
+                    "amount": "5 л",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "Цеосан Гигиенический наполнитель для длинношерстных кошек",
+                    "description": "Наполнитель из цеолита для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/179/pj13n74a8mw2rdkfb1x7tubd7f2xckms/200_200_1/d21dafb0b50dbc3464c8b61692c0788e.jpg",
+                    "amount": "5 л",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "iCat Силикагелевый наполнитель Snow Flakes",
+                    "description": "Силикагелевый наполнитель с гранулами snow flakes",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/05c/97ahzumc0wez350aiigv95jvc8tici08/200_200_1/10e0d2464fa8b621129bcb43f3871525.jpg",
+                    "amount": "5 л",
+                    "cost": "30,50  руб."
+                },
+                {
+                    "name": "iCat Силикагелевый наполнитель Алоэ",
+                    "description": "Силикагелевый наполнитель с ароматом алоэ вера",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/abf/otegrcq0qjj9w26rjj9fn3lul8k51hg7/200_200_1/ab175296102578612bfe288840f662ce.jpg",
+                    "amount": "5 л",
+                    "cost": "28,70  руб."
+                },
+                {
+                    "name": "iCat Силикагелевый наполнитель Без запаха",
+                    "description": "Силикагелевый наполнитель для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/569/n1w2awhqchte4gtibc5lgo6lmunsdp75/200_200_1/852c0c95f01db94851feb137e4e68866.jpg",
+                    "amount": "5 л",
+                    "cost": "28,30  руб."
+                },
+                {
+                    "name": "Наполнитель Pussy Cat для котят \"Океанический\"",
+                    "description": "Экологически чистый наполнитель для кошачьих туалетов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b7/yj10oq38et0zo2acp9fzjyjzgoofm3xf/200_200_1/45683c448ac2dc39819c506eb269deb1.jpg",
+                    "amount": "2,5 л",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Ever Clean Total Cover",
+                    "description": "Комкующийся наполнитель с микрогранулами двойного действия",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e1e/hz28t7hbzmq11tjg1520od7l73u0oy8g/200_200_1/f0c7b9d8eba704a179e89713a3120f60.png",
+                    "amount": "6 л",
+                    "cost": "53,50  руб."
+                },
+                {
+                    "name": "Sanicat Selection American",
+                    "description": "Наполнитель бентонитовый, комкующийся.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af6/r7jdcc587o35skffdi0qtoh634u0s4y2/200_200_1/5855f3d56e60e2cb6432814573aac43a.png",
+                    "amount": "6 кг",
+                    "cost": "18,50  руб."
+                },
+                {
+                    "name": "Силикагелевый наполнитель (звездная пыль)",
+                    "description": "Силикагелевый наполнитель без запаха.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fde/1jdsuh6orms5gb56ljrq4ek4gohkus8e/200_200_1/25313c37241d6e8b5379e24f3cded264.jpg",
+                    "amount": "20 кг",
+                    "cost": "137,40  руб."
+                },
+                {
+                    "name": "Chicopee Бентонитовый наполнитель",
+                    "description": "Комкующийся наполнитель для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/315/x6pkb7qxq8awevgq647kvf7r3p7p6tvr/200_200_1/b6662d65923313cbeed1c76da7220587.png",
+                    "amount": "10 кг",
+                    "cost": "29,90  руб."
+                },
+                {
+                    "name": "Наполнитель Kitty Clean",
+                    "description": "Произведен из лучшего сорта природного натриевого бентонита.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ab/bifohcpaosh30xfrdpsl2smdfly444zp/200_200_1/fe3632b26ec957da0ac77cb51828d0a8.jpg",
+                    "amount": "5 кг",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Super Benek Shaggy для длинношерстных (Лаванда)",
+                    "description": "Комкующийся наполнитель для длинношерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/93b/2hj84jm08iimnij6jcve74sg9k5lx435/200_200_1/851097af4f068f80efc30b78c9a6c65a.jpg",
+                    "amount": "5 л",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Super Benek Shaggy для длинношерстных",
+                    "description": "Комкующийся наполнитель для длинношерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/14a/l35rk4pp1vfg1dmpw21igz8raz7awlrn/200_200_1/0db3366f9bd62ae1ba1c59afd1be9f87.jpg",
+                    "amount": "5 л",
+                    "cost": "18,80  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Наполнитель с акт. серебром (классик)",
+                    "description": "Комкующийся наполнитель с силикагелем и серебром",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/74b/1tgqiz2ocgwqmvyno9a3p3vw9wgrvsc9/200_200_1/6613dd60f8ae310b8b4a4549593139f1.png",
+                    "amount": "5 л",
+                    "cost": "7,30  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Наполнитель с акт. серебром (лаванда)",
+                    "description": "Комкующийся наполнитель с силикагелем и серебром.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e93/fcbvo3vnwd7xuufaxt3kqv2wmqqi5lxo/200_200_1/bf52439038ec6191c90722362131bd38.png",
+                    "amount": "5 л",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Наполнитель с серебром (зеленый лес)",
+                    "description": "Комкующийся наполнитель с силикагелем и серебром.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f46/mo5fji49zo2cxuahwhl7veli0zuyy0q1/200_200_1/2ab4aec00b8f9acaa8c8918a4259aa35.png",
+                    "amount": "5 л",
+                    "cost": "10,90  руб."
+                },
+                {
+                    "name": "Наполнитель Pronature HOLISTIC с ароматом детской присыпки",
+                    "description": "Комкующийся супервпитывающий наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/00c/vm0qqpk5fkaw71zqdznwumlp7nkttzf1/200_200_1/fe1a4610c705dc36482ff99b61c84a63.jpg",
+                    "amount": "6 кг",
+                    "cost": "36,70  руб."
+                },
+                {
+                    "name": "\"Хвостун\" Наполнитель впитывающий",
+                    "description": "Впитывающий наполнитель из натуральной глины.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e3b/7j4v7c6k0g22lep45blh36hkld96vdja/200_200_1/2e69bc35e3fd0621f9fd2dd378fbc915.jpg",
+                    "amount": "3,2 кг",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Biokat's Micro White Fresh",
+                    "description": "Комкующийся наполнитель с мелкими и белыми гранулами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/342/w03pr26u01lg8hy7wqhy58l1x7ox5wks/200_200_1/f348bbb67c6d30315295e9654dfb6d4e.jpg",
+                    "amount": "14 л",
+                    "cost": "53,00  руб."
+                },
+                {
+                    "name": "Biokat’s Classic 3 in 1",
+                    "description": "Комкующийся наполнитель из натуральной глины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/287/p0zy540kvvsnokao1880639cxsc8472m/200_200_1/2da66419d5b6b4b467859ca170b9cbdf.jpeg",
+                    "amount": "10 л",
+                    "cost": "29,20  руб."
+                },
+                {
+                    "name": "Гамма Наполнитель комкующийся бентонитовый",
+                    "description": "Комкующийся наполнитель из натуральной глины.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cda/hil6ek0axx2zs83cc0v5y54zxwabo28r/200_200_1/f172abd8d67d6e34a6f2fe7a9f2fe3c4.jpg",
+                    "amount": "5 л",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Экономик (без запаха)",
+                    "description": "Комкующийся бентонитовый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4d/z122mky7fowrwq94ojsk58sj46sz0dux/200_200_1/907506c1a0633abd5b91186cd6814f77.jpg",
+                    "amount": "5 л",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Наполнитель \"ХВОСТУН\" древесный",
+                    "description": "Экологически чистый и безопасный.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/582/22jht3h8vwnm6aboa5f2scazrewchjbj/200_200_1/93b649b9d81d3271e7e1e2a4ab8698ca.jpg",
+                    "amount": "4 кг",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Наполнитель Flamingo Silica Premium",
+                    "description": "Силикагелевый наполнитель с крупными гранулами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/38f/thkkdkwxg6ain14cpzcfquuoazz3iais/200_200_1/e136ecf0570a3fcdec12f5f5bd175c97.jpg",
+                    "amount": "5 л",
+                    "cost": "29,90  руб."
+                },
+                {
+                    "name": "Sanicat Kitty Friend CLUMPING",
+                    "description": "Экономичный комкующийся наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fee/xtx2fhc0ogpou993kh4ix5pqqjwgmghm/200_200_1/ae1a83b41939b55677b64757b051df4d.jpg",
+                    "amount": "5 л",
+                    "cost": "12,80  руб."
+                },
+                {
+                    "name": "Sanicat Hygiene+ Fragrance Free",
+                    "description": "Самый белый и лёгкий впитывающий наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/78a/yfiq0v2zsn3j6x6yazwefztc0jkmgua1/200_200_1/7e637f24ccfb26846257f691a17d21d6.jpg",
+                    "amount": "10 л",
+                    "cost": "21,50  руб."
+                },
+                {
+                    "name": "Наполнитель Pronature HOLISTIC с маслом эвкалипта",
+                    "description": "Комкующийся супервпитывающий наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/08f/sw27q55df6y3bpdyx47ansaddcbwul5l/200_200_1/8470a98cbe705a05c9553d1291f18a11.jpg",
+                    "amount": "6 кг",
+                    "cost": "30,90  руб."
+                },
+                {
+                    "name": "Наполнитель Silitter Crystal (клубника)",
+                    "description": "Силикагелевый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/902/qkhjhlbms80nw6cf2ex4zwvcggdh4fgj/200_200_1/d6890b8f2f34578a97ab121b745cd76c.jpg",
+                    "amount": "5 л",
+                    "cost": "15,00  руб."
+                },
+                {
+                    "name": "Наполнитель Silitter Crystal (лаванда)",
+                    "description": "Силикагелевый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a4/06bp74f9ukrctqodb101br0wgolweacc/200_200_1/b84fc877aba3a829a20f0696046124ae.jpg",
+                    "amount": "3,8 л",
+                    "cost": "9,80  руб."
+                },
+                {
+                    "name": "От кошки до мышки древесный",
+                    "description": "Древесный наполнитель для кошачьих лотков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3bc/qi28m888mi8js6vihol957mgcp9j8sbp/200_200_1/0f3bbd0ae5a7adff569df8c1a5d6d25d.jpg",
+                    "amount": "5 кг",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "Cat Step Laguna",
+                    "description": "Силикагелевый наполнитель для лотков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/56c/qfdobg3m4uzr33mf8g76psoqq6etvla2/200_200_1/46925cfb9abf83dd9a702d05f4bee1ff.jpg",
+                    "amount": "3,8 л",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Biokat’s Classic Fresh 3 in 1 Cotton Blossom",
+                    "description": "Комкующийся наполнитель с ароматом хлопка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a5/l69xa5v87jxp1pv48z8fjm3bjesxi110/200_200_1/b4332f115bafba4d892b8e3785c00c0e.jpg",
+                    "amount": "10 л",
+                    "cost": "32,90  руб."
+                },
+                {
+                    "name": "Biokat’s Diamond Care Multicat",
+                    "description": "Комкующийся наполнитель с активированным углем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9c6/xcpl4brcitxw67okiq23dzbde1o1o6d9/200_200_1/83b1609bcad416fc605f1aeed277e5c3.jpg",
+                    "amount": "8 л",
+                    "cost": "44,00  руб."
+                },
+                {
+                    "name": "Уничтожитель запахов туалета, аромат луговых трав (2 таб./45 г)",
+                    "description": "Функциональный уничтожитель запахов для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/69f/w7pyjb5sjxl5e1z11h5sk7sed3dzy4zk/200_200_1/bce11ef7e1e95b8caca04316cd12af4c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,50 руб."
+                },
+                {
+                    "name": "Силикагелевый наполнитель в виде пластин \"Toyоta Silica\"",
+                    "description": "В упаковке: 3 пластины  размером 35 х 42 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b1f/2tirwfh0ns0wrknv0qhweg0em4u09a2o/200_200_1/636c6228c7fa7fda2df36b0a3b8d2e82.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,90 руб."
+                },
+                {
+                    "name": "Биотуалет Древесный хиноки с полимером",
+                    "description": "Для кошек не требующий уборки. Размер: 31х41х10 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/401/troptj4ogbuphe0h9d7hvje2h0s30lvo/200_200_1/219d0066808e64a35db32d25cf39a1aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "82,10 руб."
+                },
+                {
+                    "name": "Биотуалет Целлюлозный с полимером",
+                    "description": "Для кошек не требующий уборки. Размер: 31х41х10 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3a9/6658i5lbcfca5wekigu6500yj2ivsnqo/200_200_1/1e30a0b4e2c9ffbf5bb4098eaafd3751.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "82,10 руб."
+                },
+                {
+                    "name": "Bazyl Наполнитель Силикагелевый 5 л",
+                    "description": "Силикагалевый наполнитель для лотков, 5 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/119/ssmvamu9ti23795ckfybmv2xv0l3w8pp/200_200_1/d307289925b29799b1ae8dafdbb73248.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,50 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl White (без запаха), 5 л",
+                    "description": "Из белого бентонита, антибактериальный.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/405/rfx325t3uc1zmnunvcf3jd2sb8ovdc04/200_200_1/e45038936ea59407de7d9b31eda1f78b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Sea (морской), 5,3 л",
+                    "description": "Комкующийся бентонитовый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7df/mzb57qha29g8thbm7tc4ddbqvftahgsi/200_200_1/c9e1f63b26a3d0e413798e5b67390742.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Pine (хвоя), 5,3 л",
+                    "description": "Комкующийся бентонитовый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f82/35d6krqxc8h0fs3hkpzvtb09f7jdg2a1/200_200_1/1d23350315f0940a6e844f4b14eafa9c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "9,90 руб."
+                },
+                {
+                    "name": "Bazyl Наполнитель универсальный (без запаха), 5,3 л",
+                    "description": "Комкующийся бентонитовый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9e0/33w3uqqgubkf6wr4ngzjwhmpmpx801hy/200_200_1/8865f30346afb001a3dfd0295f576e1d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Уничтожитель запахов туалета, аромат персика (2 таб./45 г)",
+                    "description": "Функциональный уничтожитель запахов для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a0/b08wekyx1y1kbix4s3d7la4hu7fdxxes/200_200_1/438219734ad37092ca919391915d7257.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,60 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Ag+ Компакт (без запаха),10 л",
+                    "description": "Бентонитовый наполнитель с ионами серебра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a7/38sia2hwqh1fwt08o8w45m2qewr8s9c0/200_200_1/d539afcc2af6c9fac7ab34b076389ab4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,80 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Ag+ Компакт (лаванда), 10 л",
+                    "description": "Бентонитовый наполнитель с ионами серебра, лаванда.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/604/4iqj712bh9jjn3yx2sorei5zccachvd4/200_200_1/c74a36eb40fc5eaec620ea0506ef86e7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,80 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Ag+ Компакт (фреш), 10 л",
+                    "description": "Бентонитовый наполнитель с ионами серебра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e2/1tbaw3bvq13lbh92yc5i4wwb4z4z4teu/200_200_1/9c4638731f0d14c1393073167f4a52a8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,80 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Ag+ Компакт (детская присыпка), 10 л",
+                    "description": "Бентонитовый наполнитель с ионами серебра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ba/9wjygaj1mfdqg19vkx7p0acdb84mhevo/200_200_1/bf7221c455e71ae37bcd5aa0501de648.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,80 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Ag+ (лаванда), 10 л",
+                    "description": "Бентонитовый наполнитель с ионами серебра, лаванда.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f5a/zgcu177zegx9tz993zkn31zhsb2w61m9/200_200_1/59c6344050980c7f3ef3d9b0f8ae0973.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,80 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Ag+ Стандарт, 10 л",
+                    "description": "Бентонитовый наполнитель с ионами серебра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d3/vfubu0p4b7x6b9wr78dn1nwdn2pzlu13/200_200_1/fd0d0b7d599475ba36201d937b879b2e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,80 руб."
+                },
+                {
+                    "name": "Fresh Step (Simply Unscented), 6,35 кг",
+                    "description": "Комкующийся наполнитель с активированным углем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc8/cq0zwkmcw2xb65fh8sed0yxaaaz4y1qh/200_200_1/9f6043e288d1e92a2ef1c3663cce4a47.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "51,20 руб."
+                },
+                {
+                    "name": "Уничтожитель запахов туалета, аромат мыла (2 таб./45 г)",
+                    "description": "Функциональный уничтожитель запахов для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/201/8l671qnna288awrnf4z20cjof9t0t72b/200_200_1/fef6bf8ec8e73a866439bdc57143d487.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,50 руб."
+                },
+                {
+                    "name": "Наполнитель Тофу с натуральным яблоком, 7 л",
+                    "description": "Комкующийся наполнитель с ароматом яблока.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/777/zb7w0wtvtbl63rq5jkeun6p3hixoqhlt/200_200_1/6c4e4a6c505675f26ae08bbb0a9c978d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "118,50 руб."
+                },
+                {
+                    "name": "Beaphar Спрей Cat Toilet Deodorant, 150 мл",
+                    "description": "Спрей дезодорант для кошачьих туалетов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c07/qktftveovk8e8fenh6sis7e8wilw226c/200_200_1/7ab65cfc9d037ce70eab6bba64c02463.png",
+                    "amount": "за 1 ед.",
+                    "cost": "27,50 руб."
+                },
+                {
+                    "name": "Наполнитель Тофу с натуральным персиком, 7 л",
+                    "description": "Комкующийся наполнитель с ароматом персика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/52d/fz1nf2115ukp2ugpdvfv3cb6gewv4oge/200_200_1/e28dd8f56099a4d0daa841a71ab21234.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "118,50 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl (лаванда), 5,3 л",
+                    "description": "Комкующийся бентонитовый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7d0/fkolnqlpyvz4n3ca076t98q8jlw2r92m/200_200_1/1a2d661bc091fdede06f6cf6229558a0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,10 руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Perfume Компакт (лаванда), 5,3 л",
+                    "description": "Комкующийся бентонитовый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3a9/0s3jozyw3a4lor38doofm1w61fbjtp7z/200_200_1/9029e4c35076cacfe6b65b7ccead2286.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,10 руб."
+                },
+                {
+                    "name": "Trixie Наполнитель силикагелевый \"Simple'n'Clean\"",
+                    "description": "Силикагелевый наполнитель для кошачьих туалетов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/765/3q863ajjfa4jzw7zgh2iazfdre1xj61r/200_200_1/56e3ea296d3f19015f453c9bbf76ccc5.jpg",
+                    "amount": "3,8 л",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "Biokat’s Diamond Care Fresh",
+                    "description": "Комкующийся наполнитель с древесным углем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6c/b98x3a2nnzfls469g00umbf8bry4xlbc/200_200_1/0f4768fb5714ee2586876cf75fc75f52.png",
+                    "amount": "8 л",
+                    "cost": "50,00  руб."
+                },
+                {
+                    "name": "Biokat’s Diamond Care Classic",
+                    "description": "Комкующийся с древесным углем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cf2/ojq1z7g054haznfgbop16tiucxrf3p5r/200_200_1/b673db54d88de9548e11aec9bd133e86.png",
+                    "amount": "8 л",
+                    "cost": "48,80  руб."
+                },
+                {
+                    "name": "iCat Силикагелевый наполнитель Лаванда",
+                    "description": "Силикагелевый наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76b/g2nvtd7vmqbbz15w4b9a63x64th9pwwc/200_200_1/93d57218445ba7a512352e148b569eba.jpg",
+                    "amount": "5 л",
+                    "cost": "28,70  руб."
+                },
+                {
+                    "name": "Sepicat Klump Light Ultra, 10 л",
+                    "description": "Наполнитель из белой глины, для чувствительных кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/456/c5p8b01l4mpivvpgqksztgi7sijkdgcz/9be602bba1a48b4274178f9c1e7a1eaa.jpg",
+                    "amount": "10 л",
+                    "cost": "13,80  руб."
+                },
+                {
+                    "name": "Sanicat Clumping Zen",
+                    "description": "Комкующийся, из белого бентонита, с ароматом лотоса.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e1a/1uzntdith2yu46g8f9di0rmg2zrj6bgv/200_200_1/0b79ba6e18aa7fa1555c3904b7fa935a.jpg",
+                    "amount": "6 л (5 кг)",
+                    "cost": "25,90  руб."
+                },
+                {
+                    "name": "Sanicat Professional Roses 7 days, 4 л",
+                    "description": "Впитывающий наполнитель с ароматом дикой розы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f70/b53ahufef39zq1t732k615gkw87srnq1/200_200_1/9b8f763e1c30572fe3216294c987ac43.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,70 руб."
+                },
+                {
+                    "name": "Biokat's Micro Classic",
+                    "description": "Мелкий комкующийся наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b46/j8nc4afruc1gqkrkwxh0b6ptkrplrz5r/200_200_1/72c308351f66345b9e17afb9502d72c7.png",
+                    "amount": "7 л",
+                    "cost": "25,00  руб."
+                },
+                {
+                    "name": "Biokat's Micro Fresh",
+                    "description": "Мелкий, комкующийся с ароматом цветов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/155/4ezrx3xqj3vcctftu7zakisemvyti31w/200_200_1/607f7621fac20b8e6192f45dac8c5612.png",
+                    "amount": "7 л",
+                    "cost": "27,50  руб."
+                },
+                {
+                    "name": "Biokat's Classic fresh 3 in 1",
+                    "description": "Комкующийся с ароматом весенних трав",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e0/3x7arugfw8vte5l2a8qhzo2j6nguxul1/200_200_1/16f66e17c52ef12f0672a6b51e9b0e30.jpg",
+                    "amount": "10 л",
+                    "cost": "32,90  руб."
+                },
+                {
+                    "name": "Noriko наполнитель (бентонит)",
+                    "description": "Комкующийся наполнитель из бентонита.",
+                    "image_url": "https://garfield.by/upload/iblock/a84/3v5vrlfw3ehn324il0xp950qo0gx7c21/358f3fcd09eb380e03e29817f730e9e4.png",
+                    "amount": "6 кг",
+                    "cost": "20,40  руб."
+                },
+                {
+                    "name": "Noriko наполнитель с ароматом фруктов (бентонит)",
+                    "description": "Комкующийся наполнитель из бентонита.",
+                    "image_url": "https://garfield.by/upload/iblock/89d/lkhpicrmrbcbzbnzst0m27lty6d1rs71/1ae3d1b137904fc4cce2a16a840cdcce.jpg",
+                    "amount": "6 кг",
+                    "cost": "22,90  руб."
+                },
+                {
+                    "name": "Sepicat Klump Light",
+                    "description": "Комкующийся наполнитель из белой глины, без запаха.",
+                    "image_url": "https://garfield.by/upload/iblock/550/l9koh8w8wojkbeuc6hiz6rmind7lzsa8/9f86075a51cc806aef992abf57d9d173.jpg",
+                    "amount": "20 л",
+                    "cost": "19,20  руб."
+                },
+                {
+                    "name": "Sepi Cat Klump Light Ultra Fresh",
+                    "description": "Наполнитель из белой глины (детская пудра).",
+                    "image_url": "https://garfield.by/upload/iblock/ead/g5cp9xkrclvbsc1fxv9fgaynmuvqnnp2/30f714bc7260729e0f2ab6d728841515.jpg",
+                    "amount": "12 л",
+                    "cost": "19,90  руб."
+                },
+                {
+                    "name": "Sepicat Klump Light Ultra Odour Control, 10 л",
+                    "description": "Наполнитель из белой глины (детская пудра).",
+                    "image_url": "https://garfield.by/upload/iblock/d19/4uh7c4jtfn4e7a0dec1utlhapw7llmuz/d2a97641942ed458c9eef70cd661bcdf.jpg",
+                    "amount": "10 л",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "SepiCat Antibac",
+                    "description": "Впитывающий наполнитель из глины, с цветочным ароматом.",
+                    "image_url": "https://garfield.by/upload/iblock/d1d/uq1gvmqagviccbh2rs9z4l0z4ruk0srl/502228d6909bf3e94aaee138a92aa328.jpg",
+                    "amount": "8 л",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Sepicat basic Clumping 5 л",
+                    "description": "Комкующийся наполнитель.",
+                    "image_url": "https://garfield.by/upload/iblock/5c1/c2zcu0y9rsxqxfia5xpze2vzwpw8xav8/855260d3c51e268f3b6fe0f9a42905da.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "SepiСat basic Non Clumping 5 л",
+                    "description": "Впитывающий наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c3/48sdibip3arfk5sdaxhj0eaqlz2e2j3w/200_200_1/2c65a51ee075529b2278a80faf709aaf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "SepiCat Natural",
+                    "description": "Впитывающий наполнитель из глины.",
+                    "image_url": "https://garfield.by/upload/iblock/66b/d55t4ptn4nsvr3sc3dqmrnl7sj6pjjzs/e0094f67ba11416ef44dddc964546fea.jpg",
+                    "amount": "8 л",
+                    "cost": "9,70  руб."
+                },
+                {
+                    "name": "Кондиционер \"Trixie\" \"Весенняя свежесть\", 750 гр",
+                    "description": "Кондиционер для кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/iblock/d8d/evhk48b4facpos5zsqnze7pw7086gd5l/169f2ed162a73a930af6d406fbef9801.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,00 руб."
+                },
+                {
+                    "name": "Кондиционер \"Trixie\" \"Бэйби пудра\", 750 гр",
+                    "description": "Кондиционер для  кошачьего туалета.",
+                    "image_url": "https://garfield.by/upload/iblock/177/hlkyh5cigtk3uwmrenm3nh3aq8b31gf1/cebfdeabf8c3a084ff6fb21e2d19719a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,30 руб."
+                },
+                {
+                    "name": "Cat's Best Green Power",
+                    "description": "Древесный комкующийся, с антибактериальной добавкой.",
+                    "image_url": "https://garfield.by/upload/iblock/a73/428dq3cbzrw42ybx2x3ap3j978dnb5vy/dc78628018f9d815acfd06573538161e.jpg",
+                    "amount": "8 л (3,2 кг)",
+                    "cost": "0  руб."
+                },
+                {
+                    "name": "Cat's Best Comfort",
+                    "description": "Древесный некомкующийся наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7db/iorif51zya6z3gh6kxw2398v9c0nyshf/200_200_1/1f4400982ff7e034daa2a7319f1afc1c.png",
+                    "amount": "10 л (4,3 кг)",
+                    "cost": "19,40  руб."
+                },
+                {
+                    "name": "Biokat's DuoActive Fresh",
+                    "description": "Комкующийся, из глины, с ароматом детской присыпки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9af/9y7o12iw7gu6kmudwfquejrpahe3r7l6/200_200_1/0c9b206a19b9b33b091cf230883f3478.jpg",
+                    "amount": "10 л",
+                    "cost": "32,90  руб."
+                },
+                {
+                    "name": "Biokat's Natural Classic 3 in 1",
+                    "description": "Комкующийся наполнитель, 3 вида гранул",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b38/q8cuc9fgnknqvgcz6gy7pc01bv6zrw4r/200_200_1/9c2a26fb89ae60a79c8f9acb5f7a419b.PNG",
+                    "amount": "5 кг",
+                    "cost": "14,60  руб."
+                },
+                {
+                    "name": "Наполнитель Canadian Cat (Детская пудра)",
+                    "description": "Наполнитель с запахом детской присыпки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/98b/x3kbzzfmtrhek1rpdtt09arxjuo7swjx/200_200_1/a557f02147fe92ede728e7348620b7c9.jpg",
+                    "amount": "10 л",
+                    "cost": "35,40  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat кукурузный Golden",
+                    "description": "Комкующийся гранулированный с улучшенной формулой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/58d/hqq415r7m1nrg6nuqxafevqblu6tnnca/200_200_1/013dcc5c0eac41416b4771a2e1307c5b.jpg",
+                    "amount": "7 л",
+                    "cost": "25,30  руб."
+                },
+                {
+                    "name": "Наполнитель SPinio Kruszon",
+                    "description": "Древесный комкующийся наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fe0/mlnhf5w9mbxvq7c2u6nlk2ce02iv4125/200_200_1/7b6fbd5561c0a22a4e49520304329a3d.PNG",
+                    "amount": "7 л",
+                    "cost": "23,30  руб."
+                },
+                {
+                    "name": "Наполнитель Silitter Crystal (без запаха)",
+                    "description": "Силикагелевый наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/791/1dy7x02f002ap583oyyyxmbsp3tq59jm/200_200_1/813e4020a71acc851c12c07803d8c2d3.jpg",
+                    "amount": "3,8 л",
+                    "cost": "9,80  руб."
+                },
+                {
+                    "name": "Наполнитель Single Aloe Vera, 3,8 л",
+                    "description": "Силикагелевый наполнитель.",
+                    "image_url": "https://garfield.by/upload/iblock/e50/argkutrz74vde1zo92ql3w52sx17u4mp/850411e201a5109e9d2e668a95cbf81c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "Наполнитель Single Lavender, 3,8 л",
+                    "description": "Силикагелевый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/618/pf5idsws1mhv9p801f18x0zdli3ja9y8/200_200_1/b9dd001469a33972243371fcaba0ecde.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "Наполнитель Happy Animals Белый",
+                    "description": "Наполнитель силикагелевый, 100% белый.",
+                    "image_url": "https://garfield.by/upload/iblock/b3a/mi5i582bs12zv57fu84n6l83e06dhp62/92946094ec08c90b15f59d2b4c27e84b.jpg",
+                    "amount": "5 л",
+                    "cost": "15,30  руб."
+                },
+                {
+                    "name": "Наполнитель Happy Animals Синий",
+                    "description": "Наполнитель силикагелевый, 3% синий.",
+                    "image_url": "https://garfield.by/upload/iblock/850/wixter3fhg1hdfmscanc7rn1rqprx6x6/951cc976bb79c02a67437a98c04efb60.jpg",
+                    "amount": "5 л",
+                    "cost": "15,30  руб."
+                },
+                {
+                    "name": "Наполнитель Happy Animals Лаванда",
+                    "description": "Наполнитель силикагелевый, 3% пурпурная лаванда.",
+                    "image_url": "https://garfield.by/upload/iblock/d87/b07yewi8dtx1rq8gsvgvd056wnmaa5vx/7d856450827b82c2fd95bf833939d4c5.jpg",
+                    "amount": "5 л",
+                    "cost": "15,30  руб."
+                },
+                {
+                    "name": "Citycat Clumping, 5 кг",
+                    "description": "Комкующийся наполнитель из бентонитовой глины.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a2/l2fa5ypex8fkkjiphu1de7bnvmwovtmc/200_200_1/f186a036a80c77e14e14452d1ef56f42.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,60 руб."
+                },
+                {
+                    "name": "Citycat Non Clumping, 5 кг",
+                    "description": "Впитывающий наполнитель из аттапульгита.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6de/czjgzyghgbzc6a9lpzf0gp83v4h3qvsj/200_200_1/13508759afd3f0a93f2182d7c5b66cb5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,30 руб."
+                },
+                {
+                    "name": "Citycat Ultra Clumping, 5 кг",
+                    "description": "Ультракомкующийся наполнитель из бентонитовой глины.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ca0/9mmnzy7uaudvaxpzttpze75uwg88m0fc/200_200_1/608b89fde417af94608ae8eaf9c9698f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Sanicat Professional Breeze, 5 л (3,5 кг)",
+                    "description": "Впитывающий наполнитель с ароматом океанского бриза",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e23/73bcbsbzqmca1gbcqsewyi0byamjihvu/200_200_1/4c751f9222f9621ac97d80b628a34c58.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,20 руб."
+                },
+                {
+                    "name": "Sanicat Professional Biosan",
+                    "description": "Из природного необработанного бентонита.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a6f/jy59ig5f24f8qksjwcrxw6q22o6b1iqb/200_200_1/f74a3c3a97c4a95f3cacee979d99d46a.png",
+                    "amount": "10 л",
+                    "cost": "27,80  руб."
+                },
+                {
+                    "name": "Sanicat Biofresh 10 л",
+                    "description": "Из природного необработанного бентонита.",
+                    "image_url": "https://garfield.by/upload/iblock/638/30wiinwwmxk68nqzyvvd6gf1lfvl8bat/443f25bb86067c1020499e7c4d627bc9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,00 руб."
+                },
+                {
+                    "name": "Кошкина Полянка \"Звездный Песок\"",
+                    "description": "Наполнитель с вкраплением голубых гранул.",
+                    "image_url": "https://garfield.by/upload/iblock/5d5/ux0q9q0v8lh2q4xh5s6bntovdv8kz9h7/cd42822c58569aad901e8fed6bbc72f0.jpg",
+                    "amount": "3,8 л",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Силикагелевый (Лаванда)",
+                    "description": "Силикагелевый наполнитель с ароматом лаванды",
+                    "image_url": "https://garfield.by/upload/iblock/f54/ki88vhwezhc7czyrfnojd10usx1cmeke/1361b87f64e7d73f66c7e5cd8199d8b2.jpg",
+                    "amount": "3,8 л",
+                    "cost": "23,00  руб."
+                },
+                {
+                    "name": "Sanicat Kitty Friend EXTRA",
+                    "description": "Впитывающий наполнитель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/553/zhcde4sobcbij4q833oarb327v1olxcr/200_200_1/9a5e687223aceda4692334058efd5373.jpg",
+                    "amount": "5 л",
+                    "cost": "9,70  руб."
+                },
+                {
+                    "name": "Sanicat Kitty Friend BUDGET (absorbent)",
+                    "description": "Впитывающий наполнитель из сепиолита, без добавок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/078/oq5b8mnp0wmofvuus7vypszsrm2hjz9a/200_200_1/8bd5e0023c068653deeea02256d4b246.jpg",
+                    "amount": "10 л",
+                    "cost": "12,70  руб."
+                },
+                {
+                    "name": "Intersand Extreme Classic (Детская присыпка)",
+                    "description": "Комкующийся наполнитель премиум-класса",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4bb/mh801xcipd3h302i1401luern6sylf1e/200_200_1/aa5e99cae5e7b779354e4d99cdbd33fb.jpg",
+                    "amount": "7 кг",
+                    "cost": "26,00  руб."
+                },
+                {
+                    "name": "Intersand Extreme Classic (Без запаха)",
+                    "description": "Комкующийся наполнитель премиум-класса",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/302/v4nygvk37ec67dvuw2pwq8fl5ypqv7i9/200_200_1/af30527ee92b5b10776bd7d9971aac23.jpg",
+                    "amount": "15 кг",
+                    "cost": "44,10  руб."
+                },
+                {
+                    "name": "Intersand Extreme Classic (Лаванда)",
+                    "description": "Комкующийся наполнитель премиум-класса",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e04/cf8zzapzhaeibjty5zudtjh97ar5jfka/200_200_1/2479684be3e1262819c3572ae49c36fb.jpg",
+                    "amount": "15 кг",
+                    "cost": "44,10  руб."
+                },
+                {
+                    "name": "Fresh Step Crystals",
+                    "description": "Наполнитель силикагелевый для кошачьего туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b0d/sdq5axvcxsdert1clbcruu9ckjg91vo7/200_200_1/08bde834ceefb7b3adc0ade67891df4b.jpg",
+                    "amount": "1,81 кг",
+                    "cost": "51,80  руб."
+                },
+                {
+                    "name": "Наполнитель Bazyl Компакт (без запаха), 5,3 л",
+                    "description": "Комкующийся бентонитовый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d2/t9un7fcbj3yyn28gwvt6s9g4gn1h0r08/200_200_1/d1525ce7870b234169902c47dbe95e39.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,30 руб."
+                },
+                {
+                    "name": "Наполнитель Silitter Crystal (яблоко)",
+                    "description": "Силикагелевый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/000/dxfzlwq66tl7hph59sg0r3h0x5kk3b7a/200_200_1/84fa0b6a3fc27ef81811772179c543e3.jpg",
+                    "amount": "5 л",
+                    "cost": "15,00  руб."
+                },
+                {
+                    "name": "Наполнитель \"ХВОСТУН\"  силикагелевый",
+                    "description": "Силикагелевый наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e67/6rh1qtmy7lqxisibn3f48qi2s65z2egr/200_200_1/8f727313fa9408e540d274b4609375b7.png",
+                    "amount": "3,8 л",
+                    "cost": "24,10  руб."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1360 @@
+{
+    "Кошки": {
+        "Витамины и добавки": {
+            "url": "https://garfield.by/catalog/cats/vitaminy-i-dobavki.html",
+            "products": [
+                {
+                    "name": "Мататаби коррекция поведения кошки в период течки, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb3/k7iiypa604i3xl6mhias1ewdz2936fpp/200_200_1/966762847e43adafb01115f488f4f7f6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Мататаби для снятия импульсной агрессии, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/15c/uswwjpjnsw4izd2wuoc0sbzj30zhial7/200_200_1/d69103b33a9c0e747d55016db5d2d4e6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Мататаби \"Один дома\" для снятия стресса, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/09f/i6m8n6h3vumcc947nx1ao6qfj2pw2dpa/200_200_1/dd3e2abaa90eafea40e4fac26d149adf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Мататаби устранения стресса на приеме у врача и грумера, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/480/4n48s14wcsefk6mpqixglq5rniuqzop5/200_200_1/d73158d3a2f8d59996edbbeeb650a738.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Мататаби для перевода на новый корм, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d91/x0fp8e6sjcggyg0gejqi177g1ez13fnb/200_200_1/c518d2629dd82261f0286a4285448c66.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Мататаби \"Сила Таурина\" для иммунитета, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби, таурин.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a13/dsnq2cpz7wnrisx7yxo24cxw2umke947/200_200_1/9cba74a167f40591981e68ed681d3096.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Мататаби \"Сила Глюкозамина\" улучшение шерсти, 1 гр",
+                    "description": "Состав:100%очищенный мататаби, глюкозамин.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/80d/93jzzsrrzpfa0zvf5vv0b78r1u0q0a4b/200_200_1/7b2d17df5e481968163e4877d942e7a9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "8in1 Excel Brewer's Yeast",
+                    "description": "Комплексная добавка на основе пивных дрожжей и чеснока.",
+                    "image_url": "https://garfield.by/upload/iblock/337/s5c1ega56siphg9n1m2e56qffc0ryosn/88289b6437867fdf57196885f86aedd8.png",
+                    "amount": "140 табл.",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets (Говядина + солод)",
+                    "description": "Хрустящие подушечки со вкусной начинкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df8/9klvgm67t339r2s0xhfjbz1zqhrm44h9/200_200_1/198018666.jpg",
+                    "amount": "60 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets (Кошачья мята + мультивитамин)",
+                    "description": "Хрустящие подушечки со вкусной начинкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c4b/zvmkj6k1bxi5h0p96j6mr5yfdehyiw4j/200_200_1/198019241.jpg",
+                    "amount": "60 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Альпийские луга Кошачья мята",
+                    "description": "Игрушка с кошачьей мятой для кошки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/462/q8pzplw1i9irsk3994trvwuoq243kwdd/200_200_1/a209-2.jpg",
+                    "amount": "1 шт",
+                    "cost": "11,10  руб."
+                },
+                {
+                    "name": "Альпийские луга Кошачья мята сушеная",
+                    "description": "Сушеная кошачья мята",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7f2/p5yvjwah61lra2p40aig63198qon11kh/200_200_1/a206_alpiiskieluga_sushenaia-2.jpg",
+                    "amount": "20 г",
+                    "cost": "7,10  руб."
+                },
+                {
+                    "name": "Vetdietolog Adult Balance",
+                    "description": "Дополнительный корм для взрослых собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e9/ib2lekj1n0yzzmebp7acwgl8q5xhojq4/200_200_1/Vetditolog-Adult-Balance-600-1 (1).jpg",
+                    "amount": "250 г",
+                    "cost": "45,10  руб."
+                },
+                {
+                    "name": "Альпийские луга Фитопаста для вывода шерсти",
+                    "description": "Способствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/824/ehjaxbkneiq3rb8n7393ryf8s8nfqj8h/200_200_1/a211_800.jpg",
+                    "amount": "75 мл",
+                    "cost": "16,70  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Универсальная травка для домашних животных",
+                    "description": "Универсальная травка для домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/burgcg5cw22ttd285rmvwil6eftqyrzw/200_200_1/08d9cc84912c6478f950e6d781c5596e.jpg",
+                    "amount": "150 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Кошачья мята Деревенские лакомства Тимьян + Пустырник",
+                    "description": "Кошачья мята в пакетике",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/318/oemcq13wrr99voo7mud0x9w3fou6vt5g/200_200_1/90d158b5b54b70fda5bc0c27e2f6ae68.JPG",
+                    "amount": "15 г",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Кошачья мята Деревенские лакомства Лимонник + Мелисса",
+                    "description": "Кошачья мята в пакетике",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/465/jjhtgucbco8i2674ihjf6l7tpi80maud/200_200_1/5dcc01ed3eed233f68b9bcf51f6471e3.JPG",
+                    "amount": "15 г",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Кошачья мята Деревенские лакомства Календула + Корень солодки",
+                    "description": "Кошачья мята в пакетике",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/58b/9a71sd5d2x5xztug9lb1l371wgt1e54d/200_200_1/1cb101dda28caa918b85ef92e6ed794c.JPG",
+                    "amount": "15 г",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Кошачья мята \"Мятный шар\" Тимьян+пустырник",
+                    "description": "Эксклюзивная игрушка-лакомство для кошек из кошачьей мяты.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a9/kqs26fh2d2g4wx2lc3pu1jnuvlumoh23/200_200_1/fc2ad1af4be45af636a343dacbe5f742.jpg",
+                    "amount": "22 г",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Кошачья мята \"Мятный шар\" Лимонник+мелисса",
+                    "description": "Эксклюзивная игрушка-лакомство для кошек из кошачьей мяты.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/39e/xavooudwhkezp17xcrvc1b5mfvq7m729/200_200_1/7223b622830505eb77e2247d26af5315.jpg",
+                    "amount": "22 г",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Кошачья мята \"Мятный шар\" Календула+корень солодки",
+                    "description": "Эксклюзивная игрушка-лакомство для кошек из кошачьей мяты.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a40/e810tpm1jyb3aefnynqmbqft0wz2hnoz/200_200_1/5cd0d949f9b870b9aa096f8e4820ce0f.jpg",
+                    "amount": "22 г",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Brit Care Cat Paste Multivitamin",
+                    "description": "Функциональная паста с витаминным комплексом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/473/n4emrl6sm3dq4e0etwvl2knzbfhrdtae/200_200_1/8722789c1d7d94b3b4cf4c85bec4c44d.jpg",
+                    "amount": "100 г",
+                    "cost": "22,30  руб."
+                },
+                {
+                    "name": "Вит-Актив Здоровье шерсти кошек",
+                    "description": "Витаминно-минеральный комплекс для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9e/pr1ais7x0qv5kbejszzxanchfwvy7fbd/200_200_1/5963d2ea36dea4458034685807c087e4.jpg",
+                    "amount": "120 табл.",
+                    "cost": "21,40  руб."
+                },
+                {
+                    "name": "Вит-Актив для котят",
+                    "description": "Витаминно-минеральный комплекс для котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6b/558qbvtn9ucg1sjt1c68407v2odzjkan/200_200_1/9a205df223749a7310f3026269bd405d.jpg",
+                    "amount": "120 табл.",
+                    "cost": "21,40  руб."
+                },
+                {
+                    "name": "Вит-Актив Формула здоровья кошек",
+                    "description": "Витаминно-минеральный комплекс для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a50/5oa31qphc3vaod5e22ebd47qhvmgbfky/200_200_1/2ba0481fb28d12e30c0506ebc86b1573.jpg",
+                    "amount": "120 табл.",
+                    "cost": "21,40  руб."
+                },
+                {
+                    "name": "Canina Fell O.K. Tabletten для собак",
+                    "description": "Добавка для восстановления здоровья кожи и шерсти собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6f/sjg6n3y2ia0pnd3cf843ck4tqwxbyg4o/200_200_1/8ca787c83db10cb4b2bba1ea38fe15da.jpg",
+                    "amount": "1000 г",
+                    "cost": "186,90  руб."
+                },
+                {
+                    "name": "Gimcat Сырные шарики Cheezies для кошек",
+                    "description": "Для профилактики зубного камня.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/35f/5nzq5y0ji6nv2kx7vb6n2hb146fblyvk/200_200_1/9304d379266cbb49e031fb8a48241509.jpg",
+                    "amount": "425 г",
+                    "cost": "72,10  руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Сыр)",
+                    "description": "Способствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a2/quo1bkcnv11lwyl0nulijac7fanjtu3e/200_200_1/8ca527b1fae29c77f4c37d582ff5a73c.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Лосось)",
+                    "description": "Способствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9fe/wodn63lblyifoatrphloz6xfam8h9wah/200_200_1/ba673713dca1301cf0668dad9dca7df9.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Курица)",
+                    "description": "Cпособствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/157/3s2dnvbascop2dfsdpefx4xwstsh9rmk/200_200_1/4426da20066dfa471b46b73db3ac9549.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Irbis Rubia Добавка при мочекам. болезни для кошек/собак",
+                    "description": "Является источником метионина и био-активных веществ.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b2/li2enlommcsw8bs9w4vu2g0we4snikcp/200_200_1/3ac195e952896280b94ffff34cc6a956.jpg",
+                    "amount": "30 мл",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "Gimcat Паста мульти-витаминная экстра",
+                    "description": "Комплекс полиненасыщенных жирных кислот Омега-3 и Омега-6.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dfe/x1b1qroqpe23b4072nmi3x1cs6ogwak2/200_200_1/e2edd00d82c2f6fe7696d099cd62bd88.png",
+                    "amount": "50 г",
+                    "cost": "20,00  руб."
+                },
+                {
+                    "name": "Gimcat Паста для котят",
+                    "description": "Специально с учетом потребностей котят возрастом от 6 недель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/078/71h0e0shjwi92c6wp2fxjru6gpf9co4w/200_200_1/15c9cfa77b54cac55083a1c94016cf06.png",
+                    "amount": "50 г",
+                    "cost": "27,90  руб."
+                },
+                {
+                    "name": "Gimcat Витамины для кошек с кошачьей мятой",
+                    "description": "Вкусные снеки с ароматной кошачьей мятой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/602/80qgbsqigod9an3mg3gp34cizho2g2dd/200_200_1/3125428613910a00ddc40a13eb8c2edb.png",
+                    "amount": "40 г",
+                    "cost": "9,50  руб."
+                },
+                {
+                    "name": "Gimcat Витамины для кошек с травой",
+                    "description": "Вкусные снеки с высоким содержанием травы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e5f/0ufjxpcfcmeafvi1swv93q79hnx0thi2/200_200_1/d4547fbb9d6651406b90be4f16f5c12b.png",
+                    "amount": "425 г",
+                    "cost": "65,90  руб."
+                },
+                {
+                    "name": "Gimcat Витамины для кожи и шерсти кошек",
+                    "description": "Поддерживают блестящую и здоровую шерсть.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f7/u10gy2sva35agzkfqhytxmlsp8jktevn/200_200_1/43cec9c51eeeebf7b827a679dc5acb67.png",
+                    "amount": "40 г",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "Gimcat Мультивитамины для кошек",
+                    "description": "Содержат важные витамины и полезный бета-глюкан.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60a/60xdr0ozujj3fquucnfugg4jgcspeez2/200_200_1/fb7654f5fdbf7304ef24c1c5e686d769.png",
+                    "amount": "40 г",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "Фармавит Актив для кошек \"Красота и здоровье шерсти\"",
+                    "description": "Витаминно-минеральный комплекс с фруктовыми энзимами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/50b/m55uu8n98l7994kuhbn8wd8qyg5ho4kj/200_200_1/145d7602341c512c1c0158dfb1a00643.jpg",
+                    "amount": "60 таб",
+                    "cost": "16,60  руб."
+                },
+                {
+                    "name": "Фармавит Актив для кошек и котят",
+                    "description": "Витаминно-минеральный комплекс с фруктовыми энзимами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ce/ezsce4ltb4pz5xkaob7ce8brh0znia24/200_200_1/a9fb18c85bef28c8a6405f2e5ae6789c.jpg",
+                    "amount": "60 таб",
+                    "cost": "16,60  руб."
+                },
+                {
+                    "name": "Фармавит Актив для кастрированных котов и кошек",
+                    "description": "Витаминно-минеральный комплекс с фруктовыми энзимами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bef/61gpmfxhteqb28c9n2hqwucwrujqexeo/200_200_1/4a3d87bd7ba119d32ce43593615908e4.jpg",
+                    "amount": "60 таб",
+                    "cost": "16,60  руб."
+                },
+                {
+                    "name": "Pro Plan Veterinary Diets FortiFlora Feline",
+                    "description": "Добавка для здоровья кишечника у кошек любого возраста.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/915/ize68pvubyozn3lvviy6l20bai07lvrs/200_200_1/c23dbf71f027f6fbc3131737872da3b5.jpg",
+                    "amount": "1 пакетик",
+                    "cost": "2,90  руб."
+                },
+                {
+                    "name": "Gimcat Мальт-софт экстра паста",
+                    "description": "Содержит уникальный комплекс двойного действия",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/064/bn55rtjttqu949ex77jq0pqsmnte99ag/200_200_1/4de9bc0b8ab82a6d9e1503a798882df8.jpg",
+                    "amount": "20 г",
+                    "cost": "11,20  руб."
+                },
+                {
+                    "name": "Polidex Super Wool Cats",
+                    "description": "Для улучшения состояния шерсти, кожи, когтей и профилактики дерматитов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ef1/bm5i3xbbsbak8fixdugighqcbsj29kza/200_200_1/polidex_super_wool_polideks_super_vul_2016-02-05_191102.jpg",
+                    "amount": "200 табл.",
+                    "cost": "42,10  руб."
+                },
+                {
+                    "name": "Polidex Multivitum Cats",
+                    "description": "Поливитаминно-минеральный комплекс для кошки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0e/hlv7k34rfsn4wjkjy8o1vny75n7er67z/200_200_1/polidex_multivitum_polideks_multivitum__2016-02-05_191346.jpg",
+                    "amount": "200 табл.",
+                    "cost": "51,40  руб."
+                },
+                {
+                    "name": "Polidex Immunity Up Cats",
+                    "description": "Для повышения иммунитета ослабленных и часто заболевающих кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ec/eqm7razxaa2dr92fglr53wdhxcsme4rr/200_200_1/polidex_immunity_up_polideks_immuniti_ap_2016-02-05_181928.png",
+                    "amount": "200 табл.",
+                    "cost": "52,90  руб."
+                },
+                {
+                    "name": "Polidex Gelabon",
+                    "description": "Для профилактики и лечения кошек на любой стадии заболевания суставов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/504/scq83heto2vklnc9z25pt7hkqorgdiji/200_200_1/gelabon_plus_glucozamine_polideks_gelabon_plyus_glyukozamin_2016-02-05_192416.jpg",
+                    "amount": "200 табл.",
+                    "cost": "72,30  руб."
+                },
+                {
+                    "name": "GimCat Паста для кошек Gastro Intestinal Paste, 50 г",
+                    "description": "Витаминная паста для здоровья желудка и кишечника.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d3/1x3lwjgufeoxnxs2ossv13bi4qkj2b4u/200_200_1/d9da18e08a72560e314fd2305c4a9815.png",
+                    "amount": "за 1 ед.",
+                    "cost": "27,40 руб."
+                },
+                {
+                    "name": "Альпийские луга \"Кошачья мята\" (шарик), 3,5 см",
+                    "description": "Игрушка с кошачьей мятой для кошки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b45/xe4h4b15cbp02cewojjvahz0meit93vl/200_200_1/c0492d2dc189969c9eefd05bdb90c647.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,40 руб."
+                },
+                {
+                    "name": "Pchelodar Нефрокэт для кошек, 15 таб.",
+                    "description": "Комплексная профилактика МКБ",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/72a/f4bas4sm6td3rjj8hhk17i3s92qdh4no/200_200_1/e37f493e82d1caea6c718915da0e91db.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,50 руб."
+                },
+                {
+                    "name": "Фармавит NEO \"Совершенство шерсти\" для кошек 60 табл.",
+                    "description": "Кормовая добавка для кожи и шерсти",
+                    "image_url": "https://garfield.by/upload/iblock/3f6/3jas3bgtbo7xufxifwtvhj6hj4q128av/ad8692df4dc647dc5fedabd9acf25193.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,30 руб."
+                },
+                {
+                    "name": "Amstrel Биокормовая добавка \"Антисекс\"",
+                    "description": "Для регулирования половой активности,10 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e4/9fiuvjvv5tk9qd968pop5hjia3soql4c/200_200_1/be54d28591a25d0794152982a558f533.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Веда Фитопаста для выведения шерсти, 75 г",
+                    "description": "Способствует выведению шерсти из ЖКТ.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a2f/z7uzwj21nu9e445j1b771p4z76nydv14/200_200_1/2154513b5a547106d69c40ddc943c2b2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,50 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Витамины для котят, беременных и кормящих кошек",
+                    "description": "Мультивитаминное лакомство, 120 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/95f/s79w7u33mu55bmem6n5auqa5n6zb7eud/200_200_1/57166171872cde5b2b062a79149fd84c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Витамины для кошек \"Здоровый иммунитет\"",
+                    "description": "Мультивитаминное лакомство, 120 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ef/0cx4bp37278esvu4zdzzkq9j7memqt27/200_200_1/99a886c6475041dcdf21801b2249d059.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Витамины для котов \"Здоровье и красота\"",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b11/ln9q7sb3604bbhqr96etzic7vi925579/200_200_1/dfe58737dd21b85b62872976e0559cbb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Витамины для котов \"Здоровье кожи и шерсти\"",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0a/6z2pu7leai03y70iyxlopyhshkjxr01p/200_200_1/325d8cf37b7ad3341a62be334b93c071.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Витамины для кастрированных и стерилизованных",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/52d/fcwc37bdzrmrg56b7hkr642n6ee3aah1/200_200_1/5a2a9394e38734ee8b49861f6a479bbc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Мататаби для коррекции поведения в прайде, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/75f/0r8qztycymbn8223x42sbg9evic8vbvj/200_200_1/b65e0e4a42304b4e46ac0c742c69f223.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Мататаби для устранения стресса в дороге, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd2/ltg9modpv7mx8xf43zvijaswcewud3q9/200_200_1/d235f19e646dc6994195df6a9c2a592d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Trixie Набор для вскармливания",
+                    "description": "Набор для вскармливания щенков и котят.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/22b/tnrva5bnrzjc3spokovv0sb22ihc8mbu/200_200_1/92ef002e139ef45607d5de0453ecf733.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "Кошачья мята, 15 гр",
+                    "description": "Кошачья мята — лучший стимул для игр и тренировок.",
+                    "image_url": "https://garfield.by/upload/iblock/0e2/y3fi2n0wdn5eo972whd0ghtwfxlp5uof/0fb9329eec295a3154cc96da265bc2cb.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,70 руб."
+                },
+                {
+                    "name": "\"Sanal\" Для кошек мальт паста, 20 г",
+                    "description": "Натуральное питательное лакомство для котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/126/wn8j2ztiq3etgoxxk9rxfpsx7ym2lwsz/200_200_1/afed7418c4b2ee665a4f0cbb1c6e22e6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "\"Sanal\" Для кошек мальт паста, 100 г",
+                    "description": "Натуральное питательное лакомство для котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/963/o15j9ns13tf0ok500j1rs2c8gmow7zis/200_200_1/8b8b779887041d12d130de0e85adeefe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,20 руб."
+                },
+                {
+                    "name": "Trixie Набор для кормления щенков и котят",
+                    "description": "Набор для кормления щенков и котят.",
+                    "image_url": "https://garfield.by/upload/iblock/a29/eosvz9fo7vc94imzmm8dp6cv2wx07t9c/12c814341d2097c33018430eb8c1f9d6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Солод)",
+                    "description": "Паста для вывода шерсти из организма",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c68/u5662pylvn081xk721swpz6w52406y2t/200_200_1/k111_new-3.jpg",
+                    "amount": "30 мл",
+                    "cost": "34,50  руб."
+                },
+                {
+                    "name": "GIGI Ветсорбин",
+                    "description": "Для нормализации деятельности ЖКТ у собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b03/cetsqu4ph3datrcl1ku07c66m73n6c7j/200_200_1/67e23a4c31a20a36d1285a5d8a9a552d.jpg",
+                    "amount": "60 таб",
+                    "cost": "17,30  руб."
+                },
+                {
+                    "name": "GIGI Уро-Урси",
+                    "description": "Профилактика и лечение циститов у кошек и собак.",
+                    "image_url": "https://garfield.by/upload/iblock/b5d/4e06m6o9qe6ixg51to471xtvf67m0ivn/e7269a4a63d5f6aab3d2f7bec668f3aa.jpg",
+                    "amount": "14 капсул",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "GIGI да-ба Релакс Плюс",
+                    "description": "Укрепление нервной системы собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/2b2/tz3v2gl5oosbm1x3ez2fele6m1yvy8hb/cc3b3c0a4267558d7612a463620dd71f.jpg",
+                    "amount": "30 таб",
+                    "cost": "23,60  руб."
+                },
+                {
+                    "name": "Веда Кот Баюн",
+                    "description": "Для коррекции поведения кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/815/ryg6to0dsq7zjxjrwui9ry1ukgs6kn71/200_200_1/dc1b8550b1f61742b289c1b5eebdd895.jpg",
+                    "amount": "50 таб",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Веда Кот Баюн (настой)",
+                    "description": "Для коррекции поведения кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a64/xl1db1tzyn5moik1hbun8kdk8i7fxz44/200_200_1/d01fb790dcc658d0a704c54285595e25.jpg",
+                    "amount": "3 фл. х 10 мл",
+                    "cost": "9,80  руб."
+                },
+                {
+                    "name": "Веда Биоритм для котят",
+                    "description": "Дополнительный функциональный корм для котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/78a/i0p9fits2t1u4alomns22g82lx40r3dc/200_200_1/92604632d269872951e5cc779379dd5d.jpg",
+                    "amount": "48 таб",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Веда Биоритм для кошек с кроликом",
+                    "description": "Дополнительный функциональный корм для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/67c/1z32f51y1s1sf9kqsqyntrgefk7efuha/200_200_1/4037c88334260fa38ebad5274adf133a.jpg",
+                    "amount": "48 таб",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Веда Биоритм для кошек с курицей",
+                    "description": "Дополнительный функциональный корм для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ee/104dvcxbar82c2ep7r4z78awqx2xhcqe/200_200_1/d28f095f7b041bfd00019492a2f8d86d.jpg",
+                    "amount": "48 таб",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Веда Биоритм для кошек с морепродуктами",
+                    "description": "Дополнительный функциональный корм для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e3/ytgxsys7m1uvlr80e1tx7qudse7nu1qc/200_200_1/5bb3878843f7c25f31f658198b0bac75.jpg",
+                    "amount": "48 таб",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Веда Фитомины ГематоКэт",
+                    "description": "Для ускорения роста и развития котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd1/9rdvjdfrxmialxv81879l4hqan41jb22/200_200_1/2e014e0dc6041fd1e3c0d616367d128e.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Веда Фитомины урологический комплекс",
+                    "description": "Витамины с урологическим фитокомплексом для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad5/fsf82owt88tthyalxw1zy0h3k2jm3185/200_200_1/93d04bb4cdf8a099cc3c6846b22f2d68.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Веда Фитомины для кастрированных котов",
+                    "description": "Для кастрированных котов и стерилизованных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/940/5daz0jbh9fmjqg91e4zmcpbqxyzxayh3/200_200_1/2ee5720fe85d943918a6437e29659b05.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Веда Фитомины для зубов и костей кошек",
+                    "description": "Фитокомплекс для зубов и костей кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/567/d3au8mtgmcqogr9zeg33q362qez7vfgg/200_200_1/04b482c40c9a234bf6cda4c416ca2425.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Веда Фитомины антиаллергические для кошек",
+                    "description": "Противоаллергический фитокомплекс для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2c7/fa9t3v84009hnb1tx9x3ky1q4lvypnv2/200_200_1/e58385ec73548c81592a47fefeb1b9c4.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Веда Фитомины для шерсти кошек",
+                    "description": "Фитокомплекс для шерсти кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/13c/4jb1s61ewuexu5od9ix3jujkwpu7fjg0/200_200_1/42e611e61b4c61e2ab8e20b2926f2482.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Веда Фитомины для выгонки шерсти кошек",
+                    "description": "Фитокомплекс для выгонки шерсти из организма кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c4/y6vhr95mit9f34nh7uyglf0jje2vr8id/200_200_1/1f714c5321c11272e3b2ee56b0249825.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Агроветзащита Радостин для кошек до 8 лет",
+                    "description": "Витаминно-минеральный комплекс для кошек до 8 лет.",
+                    "image_url": "https://garfield.by/upload/iblock/06d/56q2coiw1sy3yv9t1uz7z2aub1pf2n8o/0b572d4ca56a5ce8f512adf8e0f505c6.jpg",
+                    "amount": "90 таб",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Агроветзащита Радостин для кастрированных",
+                    "description": "Витаминно-минеральный комплекс для кастр. котов.",
+                    "image_url": "https://garfield.by/upload/iblock/1a4/e85orz8h23kkhzeq8w8ggf6tywevp507/ed13e292c6164f57d2b50a27742cd0b8.jpg",
+                    "amount": "90 таб",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Агроветзащита Радостин для котят",
+                    "description": "Витаминно-минеральный комплекс для котят 1-6 месяцев.",
+                    "image_url": "https://garfield.by/upload/iblock/48e/poqahl1l6rmuc759a5z19ne1uub88n3x/d8aabd2e4d98372f8be48eeacbdb5511.jpg",
+                    "amount": "90 таб",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Мататаби \"Сила Хитозана\" выведение шерсти, 1 гр",
+                    "description": "Состав: 100% очищенный мататаби, хитозан.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/199/rsb86f3yivex6yvoxm44vd5cabwjexut/200_200_1/5da741cda87ec0a0f9d17005ff8c9e84.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,20 руб."
+                },
+                {
+                    "name": "Canina Canhydrox GAG tabletten",
+                    "description": "Хондропротектор для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5df/ouvanf8xpe2vavffflul7csl4mj927yo/200_200_1/63675d7e02e0fbf15e76c68851cd6ce5.jpg",
+                    "amount": "100 г",
+                    "cost": "69,40  руб."
+                },
+                {
+                    "name": "Canina Petvital Derm-Caps",
+                    "description": "Для восстановления здоровья кожи и шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fad/silr61b67d8hk4f3im0y7cdfv30i8sjq/200_200_1/04b3d4e0a6ae6ce7d891850b126b4bb6.png",
+                    "amount": "40 г",
+                    "cost": "42,10  руб."
+                },
+                {
+                    "name": "Canina Seealgen Tabletten",
+                    "description": "Для улучшения пигментации.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/85f/woe0i7sseua03apwz8jzhr1bb146jfsi/200_200_1/ab0ffb55fe0c2910a0e737494a8c9f2e.jpg",
+                    "amount": "225 г",
+                    "cost": "44,70  руб."
+                },
+                {
+                    "name": "Canina Canivita (мультивитаминный сироп)",
+                    "description": "Витаминная эмульсия для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c2/1ery0mjo01u80qh4n2yy3zrmitptsea2/200_200_1/d9d0ba5f4a0a1ac1b05b85dbab0cbf60.jpg",
+                    "amount": "100 мл",
+                    "cost": "32,20  руб."
+                },
+                {
+                    "name": "Canina Katzenmilch (для котят)",
+                    "description": "Заменитель молока для котят",
+                    "image_url": "https://garfield.by/upload/iblock/f67/tr5v3pxsxmuglqk2fvyaryud02c11zmo/1aa4ecbbeb6918f29398283535aaa4da.jpg",
+                    "amount": "150 г",
+                    "cost": "60,50  руб."
+                },
+                {
+                    "name": "Canina Cat-Vitamin Tabs",
+                    "description": "Для восполнения дефицита витаминов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab2/ejt82wvay1xxcofecj5bcfcl8mx3xl6a/200_200_1/423b45f4a2a9b935d003449be05a6bbf.jpg",
+                    "amount": "50 г",
+                    "cost": "20,40  руб."
+                },
+                {
+                    "name": "Canina Cat-Fell O.K. Tabletten для кошек",
+                    "description": "Для восстановления здоровья кожи и шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b4/n6t4pibuyuh0sf3uhq2yrv5qbz9fital/200_200_1/2ecacb6bf32ba58abcade00a6c367f5a.jpg",
+                    "amount": "50 г",
+                    "cost": "20,40  руб."
+                },
+                {
+                    "name": "Canina терапия Баха №2",
+                    "description": "Смесь \"Страх\".",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/950/c048udc5ma3vzrl6idbgjzeom09y4dym/200_200_1/9826923aa7068a07aa3f49079a2eceee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,40 руб."
+                },
+                {
+                    "name": "Canina терапия Баха №3",
+                    "description": "Смесь \"Агрессия\".",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/229/tr8cg1o41y3jgeq1rhoj0g6bbrev05dn/200_200_1/cf69f3cebd2d775737ee86cf364a96bc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,30 руб."
+                },
+                {
+                    "name": "Felifriend спрей",
+                    "description": "Спрей для нормализации поведения котов",
+                    "image_url": "https://garfield.by/upload/iblock/819/jomfdcojtv9vj1jgxlmdpcr8h60zxf1j/f27dd903c970c272bce3fefa4a4b0f32.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "127,60 руб."
+                },
+                {
+                    "name": "Bitch Pills",
+                    "description": "Витамины для самок.",
+                    "image_url": "https://garfield.by/upload/iblock/6e3/unhfxezjp9rw3wfpy44z9xij3q8vpnk7/2c4b3815ec2d7b775e53122f0ebd7016.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "39,10 руб."
+                },
+                {
+                    "name": "Nutri-Cal",
+                    "description": "Высококалорийная витаминная добавка.",
+                    "image_url": "https://garfield.by/upload/iblock/d8a/ohniwwm9rcog3wadmgdo0t2a7iln490y/fad869b1c6f137b313ef936261eef84c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,30 руб."
+                },
+                {
+                    "name": "Nutri Stat",
+                    "description": "Для стимулирования аппетита.",
+                    "image_url": "https://garfield.by/upload/iblock/c8d/9qgoh7rltf3nfp35ej3wpcl7z2728cob/ed7d68b20d83e468cedde4e12e01a2cc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,30 руб."
+                },
+                {
+                    "name": "Neoterica UT БиотинПлюс паста",
+                    "description": "Добавка для улучшения состояния кожи и шерсти у кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e4/pbwyumzafssgsbohqm88f2e0hbcg8mwl/200_200_1/u305-2.jpg",
+                    "amount": "120 мл",
+                    "cost": "21,70  руб."
+                },
+                {
+                    "name": "Neoterica UT ImmunoCat с Q10 для кошек",
+                    "description": "Добавка для повышения иммунитета и нормализации обмена веществ",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/012/g6uzco02gyzk1ns5j7i1qd3nswxzsttc/200_200_1/u303-3.jpg",
+                    "amount": "120 табл.",
+                    "cost": "21,50  руб."
+                },
+                {
+                    "name": "Neoterica UT BiotinPlus с Q10 для кошек",
+                    "description": "Добавка при сухости, неэластичности и шелушении кожи, интенсивном выпадении шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/151/1xh1xj2fewotn12vt18s0811em0tifc5/200_200_1/u301-3.jpg",
+                    "amount": "120 табл.",
+                    "cost": "21,50  руб."
+                },
+                {
+                    "name": "CAMON Палочки мататаби",
+                    "description": "Натуральная игрушка для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/304/metv2fy3eba1c3v01alicddkkw5atpyj/200_200_1/0e60a97f2dcf3b7660ef1bf836592b91.jpg",
+                    "amount": "10 г",
+                    "cost": "10,70  руб."
+                },
+                {
+                    "name": "Brit Care Cat Paste Anti Hairball Taurine",
+                    "description": "Паста для выведения шерсти с таурином",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b25/3sufw93qz2yi98sni1yh1dft04c9zn51/200_200_1/d022629820dd2e860fa4c04e1d99689d.jpg",
+                    "amount": "100 г",
+                    "cost": "22,30  руб."
+                },
+                {
+                    "name": "Хондропротектор для кошек STRIDE PLUS, сироп",
+                    "description": "Препарат для профилактики и лечения воспалительных и дегенеративных заболеваний суставов у кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/938/hxr2i4qrwp5q384xwq28bkzbplg3h7gi/200_200_1/8e3435cf6e1286fe50921022477ef610.jpg",
+                    "amount": "160 мл",
+                    "cost": "118,70  руб."
+                },
+                {
+                    "name": "VetExpert ArthroVet HA Complex (Артровет Комплекс)",
+                    "description": "Для собак и кошек с нарушениями функций суставов и суставных хрящей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81e/l2cpi5umg1k0ui0txwbzax7nm0y93en4/200_200_1/50a0fbc986824f6fc5d6951213266f8c.jpg",
+                    "amount": "60 капсул",
+                    "cost": "93,80  руб."
+                },
+                {
+                    "name": "CAMON Бутылочка для кормления",
+                    "description": "Подходит для щенков, котят и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f6/n1wemf7f8j26us6cbun1ke6unsyhzdju/200_200_1/99457c897c981973a832c3e7f6f51615.JPG",
+                    "amount": "57 мл",
+                    "cost": "6,20  руб."
+                },
+                {
+                    "name": "CAMON Комплект для кормления",
+                    "description": "Подходит для щенков, котят и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff7/1hb4miw3ulc46yych19u3r7agsr0oyb5/200_200_1/eabf206044280227e5655c27fcafe7ed.JPG",
+                    "amount": "57 мл",
+                    "cost": "15,50  руб."
+                },
+                {
+                    "name": "Веревки для уничтожения запаха из желудка и пасти с глобигеном",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ad/6xqc9qsux73zrvfthrp41pjg7kuud9wv/200_200_1/5d476ceeac9d8743cc786b1781b5806d.jpg",
+                    "amount": "20 г",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Kitty's + Cheese",
+                    "description": "Витаминизированное лакомство с сыром для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cbc/z0ks849yhur4yrcxcjm0jg1djffxti8g/200_200_1/113de3f980441e7ba3961d65a6023188.png",
+                    "amount": "180 табл.",
+                    "cost": "20,60  руб."
+                },
+                {
+                    "name": "Beaphar Fresh Breath Tablets",
+                    "description": "Таблетки для собак и кошек против запаха из пасти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ead/m6nyqnuuruztrq7ih7p8t0b11cf1ven9/200_200_1/95ef1e7d695d698c993eb4812bfa41d9.jpg",
+                    "amount": "40 табл.",
+                    "cost": "32,80  руб."
+                },
+                {
+                    "name": "VetExpert VetoSkin",
+                    "description": "Для собак и кошек с дерматологическими нарушениями",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e9/2nll1njlu38n1xqncm06swof8tbitzyx/200_200_1/117ed39a1706dbd6a111dbcf3bfae8d1.jpg",
+                    "amount": "60 капсул",
+                    "cost": "73,20  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Капсулы Омега 6",
+                    "description": "Капсулы для здоровья кожи и шерсти у собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fb/zp5711rxrojtu4e3qso3bafkero8u82m/200_200_1/0eb0c0002562e2499247f925188eb855.png",
+                    "amount": "60 капс.",
+                    "cost": "44,10  руб."
+                },
+                {
+                    "name": "Gimcat Паста сырная c биотином",
+                    "description": "Для кожи и шерсти в период линьки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/acb/sni4kb7h3wvocjczoamf2ipguyw8d1kv/200_200_1/36e66ceeea1a44d634c99e41a883a3e0.png",
+                    "amount": "50 г",
+                    "cost": "21,30  руб."
+                },
+                {
+                    "name": "Gimcat Витаминные \"сердечки\"с таурином и лососем",
+                    "description": "Поддерживает зрение и сердечную функцию.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/25e/1jxi2u2235myedx3fp8l115jsl6iw8p0/200_200_1/dedb00b5a36610db5325d1035d14a8c8.jpg",
+                    "amount": "420 г",
+                    "cost": "73,70  руб."
+                },
+                {
+                    "name": "Gimcat Витаминные \"мышки\" с творог и таурином",
+                    "description": "Для хорошей работы сердца и острого зрения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/907/v1mnvwn8olvl4334v8b4zb0yew802kft/200_200_1/85a47477db8b22232e482baabfa9dc08.jpg",
+                    "amount": "220 г",
+                    "cost": "35,00  руб."
+                },
+                {
+                    "name": "Gimcat Витаминизированные сырные шарики для кошек",
+                    "description": "Вкусное лакомство с благородным сыром.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/498/3kpqy53qd7hn4tbypgn0t7bnw5bddhql/200_200_1/a267a9afc299e6324695b712884fedde.jpg",
+                    "amount": "50 г",
+                    "cost": "11,00  руб."
+                },
+                {
+                    "name": "Gimcat Витаминные \"мышки\" с форелью и таурином",
+                    "description": "Витаминизированное лакомство для кошек в форме мышек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43f/7mnf97wemo4vpn5nc2fg0ufuu2h6611i/200_200_1/08f09438e0b7b3a01ce5d7680222ee7f.jpg",
+                    "amount": "220 г",
+                    "cost": "32,60  руб."
+                },
+                {
+                    "name": "Gimcat Витаминные \"мышки\" с кроликом и таурином",
+                    "description": "Ежедневная добавка к питанию кошки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/428/50wabszw0z1ys3h6kc3tg8faf805n499/200_200_1/02508a2238f40062173f43583880a3c2.png",
+                    "amount": "220 г",
+                    "cost": "32,70  руб."
+                },
+                {
+                    "name": "Gimcat Витамины для котов с морскими водорослями и биотином",
+                    "description": "Витамины для великолепной густой шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/051/romupwryrnkfj3oy4env7y9zp515b2rk/200_200_1/ebf3a75506f5c9dafeec91985f9de657.jpg",
+                    "amount": "425 г",
+                    "cost": "63,00  руб."
+                },
+                {
+                    "name": "Gimcat Витамины Бьюти-кисс с биотином и цинком",
+                    "description": "Витаминизированное лакомство для кошек с биотином и цинком.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e75/kkjmxhg2adn1joagocnjtuax9cs6ueq0/200_200_1/6f7e097ad5e362f97a511c2185a7f053.jpg",
+                    "amount": "40 г",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Gimcat Паста антивозрастная Сеньор",
+                    "description": "Для удовлетворения потребностей стареющих кошек (от 7 лет).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c7/zi0g9thue6cop075f3sehl6g6oh3tk0o/200_200_1/0439bbc316538c3afe23e395286b1e24.png",
+                    "amount": "50 г",
+                    "cost": "23,00  руб."
+                },
+                {
+                    "name": "Gimcat Паста мультивитаминная, тунец",
+                    "description": "Укрепляет иммунную систему.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0f/6qia8txfekiettjpx7dn3m3s6rw4xa22/200_200_1/d574daa1fbdc783c4167dffb722e0db3.png",
+                    "amount": "50 г",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Gimcat Паста мультивитаминная для кошек, сыр",
+                    "description": "Укрепляет защитные силы организма.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b8/hu1zpbwja0yhkyftz1w7ags4y90j2fn7/200_200_1/064afbddecb27f39a3e297e255771b4c.png",
+                    "amount": "50 г",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Gimcat Паста при заболеваниях мочевывод. путей",
+                    "description": "Сокращает риск возникновения заболеваний мочевыв. системы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/17b/4d9h14wj6pz12z8ep68ssyr5p9x7hwr6/200_200_1/73b4fa9fcb46906b56022b7a97f286ba.png",
+                    "amount": "50 г",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "Gimcat Паста Дуо для выгонки шерсти с сыром и солодом",
+                    "description": "Полезное лакомство для вашей кошки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/904/33wlnx9d1t3alhjt9mxr0fa44beampwm/200_200_1/16a7aadd25088899c605cddba426e919.png",
+                    "amount": "50 г",
+                    "cost": "20,30  руб."
+                },
+                {
+                    "name": "Gimcat Паста для выгонки шерсти с курицей и солод",
+                    "description": "Здоровое лакомство для вашей кошки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60e/1av4fybave01hdeedeeqwwizqz0grao2/200_200_1/df347338d8741f15b94826e780ae628d.jpg",
+                    "amount": "50 г",
+                    "cost": "20,30  руб."
+                },
+                {
+                    "name": "Gimcat Паста с таурином экстра",
+                    "description": "Для поддержания органов зрения и сердечно-сосудистой системы кошки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/228/i6a7l5a915p8tj15wf515ozxxmrqbrky/200_200_1/56563902bca9241a59bf439603f7c481.png",
+                    "amount": "50 г",
+                    "cost": "23,00  руб."
+                },
+                {
+                    "name": "Gimcat Паста мультивитаминная",
+                    "description": "Уникальный комплекс 3-в-1, включающий 12 важных витаминов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e32/uzjwm6uh7q92n48mlt0xpvpf9qtxscp6/200_200_1/286596a3252325a029f4f1d5df3053c3.png",
+                    "amount": "50 г",
+                    "cost": "15,80  руб."
+                },
+                {
+                    "name": "Gimcat Витаминное лакомство с кошачьей мятой",
+                    "description": "Вкусные снеки с ароматом кошачьей мяты",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/090/nb1ot9jz8ccvfqdbtfar5ura4j917zcp/200_200_1/34b2c4816996f30a40015b93f49c38eb.jpg",
+                    "amount": "200 г",
+                    "cost": "48,90  руб."
+                },
+                {
+                    "name": "Gimcat Витаминное лакомство \"Мышки микс\" форель и творог",
+                    "description": "Благотворно сказывается на кишечной флоре.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/abe/od4h2k588wgdt508t892qb3batecfad6/200_200_1/963bc874c98ebdfa2ba45bd90091c2d4.png",
+                    "amount": "40 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Gimcat Витаминные \"сердечки\" с таурином и курицей",
+                    "description": "Для хорошей работы сердца и острого зрения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/047/ouzuc2kw19qe782ut98d6l45kw4gzd4m/200_200_1/52e1f2ab05f58b4d9195db77c1873b44.png",
+                    "amount": "40 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Gimcat Витамины для кошек с рыбой и маскарпоне",
+                    "description": "Для мягкой шерсти и яркой окраски.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/450/oe6kp1kayr7zuftbhd2ljcfardt88zar/200_200_1/5ff69344ca5326eb988eabd3cd5ca56c.png",
+                    "amount": "40 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Gimcat Витамины для выгонки шерсти",
+                    "description": "Содержат ароматный экстракт солода, кору вяза.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/97a/wdupehamfys5f3eze3mi377uf9b79df2/200_200_1/7e2dab781734b56be39b96abc675cdc3.png",
+                    "amount": "40 г",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "Gimcat Витамины Мальт-Кисс",
+                    "description": "Содержит солодовый экстракт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b84/uwq993zkaicumlbahyywaimcv1mgrr7p/200_200_1/879ff4b6fa3bc0ea6ce29d45c5d541d3.png",
+                    "amount": "40 г",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Gimcat Витаминное лакомство Jokies",
+                    "description": "Способствуют развитию интереса к игре у вашей кошки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f62/0dz3spbgw0tfavv1s5ddor2ru0cgdiac/200_200_1/69516f9ff31fd75ea9ec5981a5e8863a.png",
+                    "amount": "40 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "Gimcat Витамины для котов с рыбой и биотином",
+                    "description": "Лакомство для мягкой шерсти и яркой окраски.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ae/0qtjbs8qu21j30l7m09c1b0pr7ff0n45/200_200_1/f84d2fce664654aebe1934f7fb347a40.png",
+                    "amount": "210 г",
+                    "cost": "36,20  руб."
+                },
+                {
+                    "name": "Gimcat Витамины для котят",
+                    "description": "Комбинация жизненно важных витаминов для котенка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fd/dbb2muuuwegquepg1dinrzcsttosnz58/200_200_1/7fe38be7a4062f8cb772e28241ed9222.png",
+                    "amount": "40 г",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Gimcat Витаминизированное лакомство Тауринис",
+                    "description": "Оказывают благотворное влияние на сердечную деятельность и зрение.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f84/qw9sruilgci5fs4ndlihupayyc248sc9/200_200_1/956d42aca464a15d07e8faafda449cd9.png",
+                    "amount": "40 г",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Gimcat Паста сырная",
+                    "description": "Содержит комплекс из сыра, биотина, цинка и льняного масла.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/887/f2qesxt90rl6a0u7pdkk9xdfv2g9irlk/200_200_1/f1d71f3e5fbbd192f2e7007a41cbc7db.png",
+                    "amount": "100 г",
+                    "cost": "31,60  руб."
+                },
+                {
+                    "name": "Beaphar Lactol Kitty Milk Молочная смесь для котят",
+                    "description": "Молочная смесь для роста и развития.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e2/47xqjei7yvvjojtlfwq06o3z1eyw72ey/200_200_1/3c0aa1ddcb85b7c95f5de6ca457dac69.jpg",
+                    "amount": "250 г",
+                    "cost": "47,90  руб."
+                },
+                {
+                    "name": "Gimcat Таблетки для кошек с маскарпоне и биотином",
+                    "description": "Лакомство из витаминов и деликатесного сыра «маскарпоне».",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb3/pgcjjqc29xgxqfj7bjmd41mk5b6047xk/200_200_1/5658a6529e7b49a907fe95021d23a2a5.png",
+                    "amount": "210 г",
+                    "cost": "29,00  руб."
+                },
+                {
+                    "name": "Canina Petvital Energy-Gel",
+                    "description": "Для быстрого возмещения дефицита питательных веществ.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce8/sla9a0c5ysockc708uh393owo11rq70x/200_200_1/580f53d1ea13417b6192264199bd640a.jpg",
+                    "amount": "100 мл",
+                    "cost": "32,50  руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Kitty's Protein",
+                    "description": "Витаминизированное лакомство с протеином для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/162/nl8cztu82fzqr4uleqnqq7funfl69hv6/200_200_1/735485d999a273133f2a6c415724d743.png",
+                    "amount": "75 таб",
+                    "cost": "12,60  руб."
+                },
+                {
+                    "name": "Amstrel Лакомство для кошек \"Альпийская говядина\", 45 г",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/605/3sf2qninjto6svoooxnn8h2hn1f1kmtt/200_200_1/24bfc182c04b1ba48dbc841098850717.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Amstrel Лакомство для кошек \"Деревенский творог со сметаной\", 45 г",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/232/lsugibihpsxlz0zmt3vu3qr9xaqbnd19/200_200_1/55036d5433ab9c941294bcfc43cde179.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Amstrel Лакомство для кошек \"Норвежский лосось\", 45 г",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ce/msfh2jpagjll5yg6vt8m1it4xz1ld4b3/200_200_1/b80994526cd77e0ab85df94ab61d9642.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Beaphar Паста с лососевым маслом для кошек, 100 г",
+                    "description": "Источник омега-3 и омега-6 жирных кислот.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e1/rjv9suulvx3qwhkaufy3107vrkpg9ooh/200_200_1/2f07a0ac28ecaa6148e55a34e7db2a43.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Trixie Палочки жевательные мататаби для кошек, 10 г",
+                    "description": "Уход за зубами, антистресс.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d56/l2nz5l8t771alxms49ip7uudiwmi3r8e/200_200_1/722140c9d57dfc0a8545dcd098672fac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Део, 60 таб.",
+                    "description": "Таблетки против неприятных запахов у собак, кошек и хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c2e/xrwlfbw2r13iivdnxgr3ws2ij11uy45h/200_200_1/ab71a1684df736c468b5d64cea74c90b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,80 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Масло Омега 3 с лецитином, 250 мл",
+                    "description": "Укрепляет натуральный иммунитет организма",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac1/pvfb1xzdegxwhu00sx0q4flachs74jnp/200_200_1/91213cd9e7a4c4f4c3cf33f68200b7a7.png",
+                    "amount": "за 1 ед.",
+                    "cost": "27,10 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Масло Омега Комплекс, 250 мл",
+                    "description": "Для здоровья кожи и шерсти у кошек, собак и хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bf4/2e3odljbbn3jpjb5vvl8rba3l53oethz/200_200_1/ec922874f49f2142e12a3f39491165e1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "27,60 руб."
+                },
+                {
+                    "name": "Beaphar Паста для кошек Crunchy Joghurt Paste, 100 г",
+                    "description": "Йогуртовая витаминная паста для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/62b/wublpwq5v2r52wcjyqm6vx6shlp9un3t/200_200_1/47f4bcefd46e221cc76e15bab02c1827.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,10 руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Kitty's + Cheese, 75 таб/уп",
+                    "description": "Лакомство для кошек, с сыром.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb9/e142zt0tnizjff6rj56po0njabx5ohig/200_200_1/967ec3b7f03774400e3b765cc99ecc46.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Renaletten, 75 таб/уп",
+                    "description": "Витамины для котов с почечными проблемами.",
+                    "image_url": "https://garfield.by/upload/iblock/6a7/9ppzjkbm39xtx7gn1ot802sfpndekeku/478c639fddada41a3f2ccc101ab0b9f8.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,20 руб."
+                },
+                {
+                    "name": "Beaphar Irish Cal, 150 таб.",
+                    "description": "Кормовая добавка для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc6/ur8sakdizfqqdjf38etr8yoeftzprssc/200_200_1/2a1ea705804871927de5a9cea5e92f79.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,60 руб."
+                },
+                {
+                    "name": "Beaphar Salvikal, 250 г",
+                    "description": "Кормовая добавка для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65d/6t2bjbrl2qubbgrx7wo3nl6fyxsq32pc/200_200_1/0adf9e6611d0f443884fb2554d9fbcda.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "GimCat Паста для кошек Anti-Stress Paste, 50 г",
+                    "description": "Витаминная паста для кошек, подверженных стрессу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/877/k3d0u0ceplcy3wkmmc5og7yurlsvi68i/200_200_1/1c99bbcef517b36d5d16ca0724b66306.png",
+                    "amount": "за 1 ед.",
+                    "cost": "29,80 руб."
+                },
+                {
+                    "name": "VIYO Reinforces Cat Senior пребиотический напиток 7x30 мл.",
+                    "description": "Вкусный напиток с активными пребиотиками, для кошек старше 7 лет.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/403/15fji3qlvlcuwy2v9givjidlbhqxnavs/200_200_1/fe0fe934d4119efbfea7b1ad1931df93.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,50 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Омега, 250 мл",
+                    "description": "Лососевое масло для собак, кошек и хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/21a/m8q3x3b7zhy2xeg7tqg1qf68yel6b3vh/200_200_1/301de56270999247048b9aab504a0397.png",
+                    "amount": "за 1 ед.",
+                    "cost": "25,80 руб."
+                },
+                {
+                    "name": "Beaphar Мультивитаминная паста Milk Paste Cat, 100 г",
+                    "description": "Функциональное лакомство со сливочным вкусом для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/66a/6dy6hay1vfawitgy0vupe2l49v3ii7jv/200_200_1/2e5ef3d5d7d759691d7b8160079a7a56.png",
+                    "amount": "за 1 ед.",
+                    "cost": "22,80 руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Bea Vit Total, 50 мл",
+                    "description": "Кормовая добавка для собак,кошек, птиц и грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e03/mfa36e8fz19ryxlggi60t38fnw5v4m9n/200_200_1/bb7e1fb2fb864f1357eb83f91dbe0422.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Beaphar Мультивитаминная добавка Cat Snaps, 75 таб/уп",
+                    "description": "Мультивитаминная кормовая добавка для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/574/djyh72te0o4cgd8d77ic7dp297exg7ue/200_200_1/4aae08cfdbfa056c6c5674ca44b60435.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,10 руб."
+                },
+                {
+                    "name": "Beaphar Паста для выведения шерсти Duo Malt Paste, 100 г",
+                    "description": "Паста двойного действия для выведения шерсти из желудка у кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c4/p7r16zkocbiluczm0oiwev8sz24gp4e2/200_200_1/b2773adeee12b9f46987007554c12a5f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "22,00 руб."
+                },
+                {
+                    "name": "Beaphar Подушечки No Stress Cat Treats, 35 г",
+                    "description": "Натуральные успокаивающие подушечки для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/092/mnzud0fkoc0du2va23ovo737mrblz9wu/200_200_1/6a288c61f7c2f28cc72915e6361ae888.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Кошачья мята \"Мятная игрушка яйцо\"",
+                    "description": "Эксклюзивная игрушка — лакомство для кошек из кошачьей мяты.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b3/6bwumzdwqop9ew7vxni0134e9mtc2rff/200_200_1/57a1c03779da23375b6f3c9c28034ac3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,60 руб."
+                },
+                {
+                    "name": "Кошачья мята \"Мятный шар Гигант\"",
+                    "description": "Эксклюзивная игрушка — лакомство для кошек из кошачьей мяты.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd3/tqt62octct6tpjl7p9woumzfhv1kl20u/200_200_1/0c684bba5aee8eea95b8358c8e68b288.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,40 руб."
+                },
+                {
+                    "name": "GimCat Паста для кошек Urinary Paste 50 г",
+                    "description": "Паста для поддержания мочевыделительной системы кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/21f/i1yugtxvnc1zslqq2g93cevaioeu0v7k/200_200_1/7c9cc7563bf1924d00a539362984d8aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,10 руб."
+                },
+                {
+                    "name": "Кошачья мята \"Мятный шар\"",
+                    "description": "Эксклюзивная игрушка-лакомство для кошек из кошачьей мяты.",
+                    "image_url": "https://garfield.by/upload/iblock/172/ijfxc2ayp8fm1lsxmlayh5i8iparrbbi/b524a7721f6dd8be62f83395cb884786.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,50 руб."
+                },
+                {
+                    "name": "Canina dog stop tabletten (60 табл.)",
+                    "description": "Таблетки для течных сук, 60 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/1e0/84zjhaf4phvtla7qdv2fbdbgiiusru30/fa4be1f1c2b32ac7a99ad225f9ab248a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,90 руб."
+                },
+                {
+                    "name": "Canina dog stop sprey, 100 мл",
+                    "description": "Спрей для течных сук.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/264/skxm21k8nwipmtzijitvza9p5u60a0qu/200_200_1/1170f93e12fd5b51cbb4907b32c49cf1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,40 руб."
+                },
+                {
+                    "name": "Tropiclean Stay Away Антигрызин, 236 мл",
+                    "description": "Спрей отучает питомца грызть предметы домашнего обихода.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/649/4yzzuk1iq0xtt7kblyiknrmf495z1me3/200_200_1/5a317bc24050274b26d0fc7c3796739a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "24,20 руб."
+                },
+                {
+                    "name": "Royal Canin Babycat Milk",
+                    "description": "Заменитель кошачьего молока, до 2 мес.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/166/bnnmz1pxvgn0w056negn56wav7jds7z5/200_200_1/b30f0551db4c08d6f7fd47dc479eaee5.jpg",
+                    "amount": "300 г",
+                    "cost": "49,90  руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Algolith, 250 г",
+                    "description": "Минеральная смесь для активизации пигмента.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/32d/p7drcci2saj1wuf43kq40zq7wcpm0gc6/200_200_1/676ce34fd11c330b1340dee16a5f71f5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,90 руб."
+                },
+                {
+                    "name": "Витаминно-минеральная смесь Beaphar DruCal, 250 г",
+                    "description": "Минеральная смесь для питомцев с ослабленной мускулатурой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/076/bseydid4t2eau3weji614uz9zjqigz3m/200_200_1/5cf314b951c73ba80c38b7449cdbb1ee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,00 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Junior Cal, 200 г",
+                    "description": "Минеральная смесь для щенков и котят.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/afc/ml5wi8tjxl1533c7yzxysn2ojib6gxg2/200_200_1/9604a9dc4b4cf00026b51eb6542ca4d6.png",
+                    "amount": "за 1 ед.",
+                    "cost": "22,70 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Irish Cal, 250 г",
+                    "description": "Для щенков, беременных и кормящих собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/211/egx1zm3x650wq00gg5unk74swwp2pc1g/200_200_1/d8568c0492170b01d74b4f2e9feefec6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,20 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Vitamin Cal, 250 г",
+                    "description": "Сбалансированная пищевая добавка к корму.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a6b/yh57f9fztv7wa2y32ph5pgd3entw3z9t/200_200_1/ff1ebf996e109e080228c38471292b4a.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "23,60 руб."
+                },
+                {
+                    "name": "Beaphar Комплекс витаминов группы В, 50 мл",
+                    "description": "Витамины для здоровья шерсти (оперения) и нервной системы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f52/1wkka6gtysg5ri22cmzddeslbdc55lf5/200_200_1/21d6869b729a67620b6eea43c76c21eb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,90 руб."
+                },
+                {
+                    "name": "Витамины для шерсти Laveta Super for Cats, 50 мл",
+                    "description": "Витамины для здоровья шерсти кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/0f8/hqt1bd04ax3cg1nd0hdw1phah54mt03z/8a1cd1b2df921006b8f4a47207f5f08d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,20 руб."
+                },
+                {
+                    "name": "Beaphar Пивные дрожжи Brewers Yeast Tablets, 250 таб",
+                    "description": "Пивные дрожжи с чесноком.",
+                    "image_url": "https://garfield.by/upload/iblock/78a/9uglimrhuqj25swzk61zmnr303e54389/d767c1003a09264afe2be3d2ad39d240.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "38,80 руб."
+                },
+                {
+                    "name": "Кормовая добавка для кота Beaphar Top 10, 180 таб",
+                    "description": "Мультивитаминная добавка с биотином и таурином.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae1/3k56hphti39cur134ecrgisu3su2rota/200_200_1/73d2bc93ed50fbbaeb4ac2b886156bfe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,50 руб."
+                },
+                {
+                    "name": "Кормовая добавка Beaphar Kitty's Junior",
+                    "description": "Кормовая добавка с биотином, для котят.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a5f/cv7upydmy3vnooxvdik12c6twv5k60sy/200_200_1/c5d58f0a27c6f659b5bce1d5aa9367a8.jpg",
+                    "amount": "150 табл.",
+                    "cost": "14,40  руб."
+                },
+                {
+                    "name": "Витаминизированное лакомство Beaphar Kitty's Mix",
+                    "description": "Комплекс витаминов в виде лакомства.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/087/vqw56bo85vr168e23jazb3e7n3p9y3hq/200_200_1/45a2f3656f4f6170e2d000bbad735af7.jpg",
+                    "amount": "180 табл.",
+                    "cost": "24,30  руб."
+                },
+                {
+                    "name": "Кормовая добавка Beaphar Kitty's + Taurine-Biotine",
+                    "description": "Лакомство с биотином и таурином.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1e7/eb0gaohvxdx1aiqjj206jvpjz824w0b8/200_200_1/8f767ec2924a39cb9e19c7eb87bc05f6.PNG",
+                    "amount": "75 табл.",
+                    "cost": "12,20  руб."
+                },
+                {
+                    "name": "Мальт-паста для кошек Beaphar",
+                    "description": "Мальт-паста для вывода шерсти из кишечника",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac4/q5g6gen54frmcqawko71v0vujkq79621/200_200_1/91791d48e210e94a8975d97e4da15208.jpg",
+                    "amount": "25 г",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Мультивитаминная паста Beaphar Duo Active Сat, 100 г",
+                    "description": "Для кошек при недостатке витаминов и минералов в корме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f6f/am3ycw2frhpgj3924k5sousilx53ezvd/200_200_1/c588f3364326028fb1acb90d5eda97bf.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,90 руб."
+                },
+                {
+                    "name": "Canina PETVITAL® Catlax-Gel (гель для выведения шерсти из желудка для кошек)",
+                    "description": "Для выведения шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/iblock/d27/og29yzvtzh4uq4xmmsd1wwrw74c24tpn/3c44fc42238cdd43591f3bfeefcca071.jpg",
+                    "amount": "100 г",
+                    "cost": "40,10  руб."
+                },
+                {
+                    "name": "Canina Cat-Mineral Tabletten (минеральные таблетки для кошек)",
+                    "description": "Для укрепления костей и мышц",
+                    "image_url": "https://garfield.by/upload/iblock/5bf/5s4rxx41xpwa3te4k5n5jx88d0yfq5fe/13628367943978db1ea68dbb5724aefb.jpg",
+                    "amount": "75 г",
+                    "cost": "24,20  руб."
+                },
+                {
+                    "name": "GIGI Код-Омега-Плюс",
+                    "description": "Для улучшения кожно-шерстяного покрова собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/50a/81nluhvh9goyn35escabb1ar1kkzh1e9/e64ebfc50e012880f7bf0827baa7f5d9.jpg",
+                    "amount": "21 таб",
+                    "cost": "15,70  руб."
+                },
+                {
+                    "name": "GIGI Имунофил",
+                    "description": "Снижение запаха во время течки у собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/927/3kjncevcjir03p43or7ybuiamw321vrq/0da4a2932bdcd65213f1d2fca9e01d82.jpg",
+                    "amount": "12 капсул",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "GIGI Медро ПЕТ",
+                    "description": "Для прерывания половой охоты у кошек и собак.",
+                    "image_url": "https://garfield.by/upload/iblock/fc2/uhitevmoayxxoznn2wmeqoc0wtm5umzs/a9dd207ee48ae4b302b5a235e157b10d.jpg",
+                    "amount": "10 таб",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Агроветзащита Радостин для кошек старше 8 лет",
+                    "description": "Витаминно-минеральный комплекс для кошек старше 8 лет.",
+                    "image_url": "https://garfield.by/upload/iblock/f17/5gqnsrajufdqxtu0dw5ca77w83j4tb14/f707db74c8ae061ca980a611f4c909f6.jpg",
+                    "amount": "90 шт",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Агроветзащита Радостин для беременных",
+                    "description": "Комплекс для беременных и кормящих кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/9db/bnb05cfp31a99yrxiff24bli9x6m4ayt/a4da6aac9b9e956e422a91da74f85187.jpg",
+                    "amount": "90 шт",
+                    "cost": "17,10  руб."
+                }
+            ]
+        }
+    }
+}

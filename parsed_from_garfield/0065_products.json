@@ -1,0 +1,660 @@
+{
+    "Грызуны": {
+        "Миски, поилки": {
+            "url": "https://garfield.by/catalog/gryizunyi/miski-poilki.html",
+            "products": [
+                {
+                    "name": "Джи Пи Ай Миска для хомяка",
+                    "description": "Пластиковая миска для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/96d/g1br0yj72lst8bq6tlfxxixn1vk0sd0o/200_200_1/Миска для хомяка 120мл.PNG",
+                    "amount": "60 мл",
+                    "cost": "2,10  руб."
+                },
+                {
+                    "name": "Sum-Plast Миска для мышей",
+                    "description": "Пластиковая миска для маленьких грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ea/oms3mqu95ly15fz261i8r7psbzefj5rl/200_200_1/Mouse-Bowl-plastic-small-bowl-for-rodents-reptiles-or-small-animals-600x398 — копия.jpg",
+                    "amount": "7х7х3,5 см",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "DaYang Поилка в клетку",
+                    "description": "Поилка для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/38a/m2yfune52m4n07i1mtjqqu5dsddmjxxe/200_200_1/NV1400.jpg",
+                    "amount": "50 мл",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Trixie Миска керамическая для кроликов",
+                    "description": "Керамическая миска для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4c/ym2yldz1xva7ijegmska7ak2sbl7mmm7/200_200_1/265522_PHO_PRO_CLIP_60736-3.jpg",
+                    "amount": "0,24 л",
+                    "cost": "16,30  руб."
+                },
+                {
+                    "name": "Trixie Миска керамическая для морских свинок",
+                    "description": "Керамическая миска для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e9/gz0f2c34pwjytk1n9550oo1chghlvsc8/200_200_1/PHO_PRO_CLIP_60735-3_SALL_AWK_V1.jpg",
+                    "amount": "0,24 л",
+                    "cost": "16,30  руб."
+                },
+                {
+                    "name": "Trixie Миска для кроликов",
+                    "description": "Керамическая миска для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c09/z4u2h5fvlyuo8cr6pkiyvo33w8564lb8/200_200_1/0085.jpg",
+                    "amount": "250 мл",
+                    "cost": "16,30  руб."
+                },
+                {
+                    "name": "Triol Миска металлическая с держателем, бежевая",
+                    "description": "Миска подвесная с пластиковым держателем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b2/5okbi73irv423bmqah94qxrwfnlm9yrn/200_200_1/9afdf196-4d30-11ec-bbb5-1866da6865b2.jpg",
+                    "amount": "0,22 л",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Red Plastic Кормушка для сена",
+                    "description": "Кормушка для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/315/3wo75x15j03pxwy569c8ftx8nolhg8mr/200_200_1/RP4400.jpg",
+                    "amount": "11х14х16 см",
+                    "cost": "12,70  руб."
+                },
+                {
+                    "name": "Trixie Миска керамическая для хомяков",
+                    "description": "Миска с принтом для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/059/5ooejkt25ii76594djfnn53g518vka50/200_200_1/39eb1eb845fdc58a863eb00a660b13f5.jpg",
+                    "amount": "90 мл",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Triol Поилка для мелких животных с креплением",
+                    "description": "Практичная поилка для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e0/w5wcdufqf0htpji3ygmc2d6t9g12dwoy/200_200_1/adf4ecfb6c6167087e8a722ce0ad1e65.jpg",
+                    "amount": "50 мл",
+                    "cost": "8,50  руб."
+                },
+                {
+                    "name": "Triol Поилка для мелких животных",
+                    "description": "Практичная поилка для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/480/pxb44h63f59ae4ro7s2hwxfp4eo32isd/200_200_1/7cc87c81b902d91ea51ae552042c77bb.jpg",
+                    "amount": "500 мл",
+                    "cost": "22,60  руб."
+                },
+                {
+                    "name": "Triol Поилка B2 для мелких животных",
+                    "description": "Практичная поилка для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a3/av6q1tjcchs4539wmktlwwyn7qt22fyq/200_200_1/d228f6585ed7d6ab1ac00e5b4a4bf96d.jpg",
+                    "amount": "80 мл",
+                    "cost": "11,10  руб."
+                },
+                {
+                    "name": "Гамма Миска пластиковая для грызунов",
+                    "description": "Универсальная миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cb/owrl4qqlywu5mqwwqvvhiuiojaoqlagt/200_200_1/b083f3831f929137c3b6980e82ce48b7.jpg",
+                    "amount": "30 мл",
+                    "cost": "0,90  руб."
+                },
+                {
+                    "name": "Hagen Миска керамическая синяя",
+                    "description": "Керамическая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/11a/8eg3njr0053a4ls58huc6s5vnwikjm73/200_200_1/65506353df02c899122b155771c698d7.jpg",
+                    "amount": "12.7 x 12.7 x 5.1 см",
+                    "cost": "26,60  руб."
+                },
+                {
+                    "name": "Beeztees Миская для морских свинок Hally, 11 см",
+                    "description": "Керамическая миска для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2c3/64hs3z48hdg392vl413idjwk21z51ypw/200_200_1/e2a786f86fbbe58ec7a2218f53b021dd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,90 руб."
+                },
+                {
+                    "name": "Triol Кормушка для мелких животных Мишка",
+                    "description": "Керамическая кормушка для мелких животных, 11х8,5х9 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/486/r5kiqisb7h5y9d3fts4xoc1j9kavj1kk/200_200_1/3e7c3fb1dd8393913aeb156de6bfbc5d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Triol Поилка для мелких животных Птенчик",
+                    "description": "Керамическая поилка для мелких животных, 110х90х100 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/161/z7eef9kn805z7dtx53u1cn06ygxcsys0/200_200_1/555e0442159330695761e0be72f21cbd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Triol Миска для мелких животных \"Малышка\", 0,03 л",
+                    "description": "Керамическая миска для мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b6/8grsh9zc2ku050961qxymax7d2s9iw9z/200_200_1/52239ad2cb4d51b1dbf207d8c468ab08.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Green Farm Кормушка для сена для средних грызунов",
+                    "description": "Деревянная кормушка для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/063/njx7t9dwx39y33fjjb5npha17zx71mck/200_200_1/6b1e0b69beb4e0f1babb15712a3f6117.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,70 руб."
+                },
+                {
+                    "name": "Triol Миска для мелких животных \"Полянка\", 0,045 л",
+                    "description": "Керамическая угловая миска.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/933/1x1c7sjno82syfb18r82ffync59gqe51/200_200_1/0cdfd16c9e94eb822db9312cf8f8f779.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,90 руб."
+                },
+                {
+                    "name": "Beeztees Миска керамическая с кроликом",
+                    "description": "Миска для кроликов, 0,3 л / диаметр 11,5 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2c3/abkrckvhoisob6sad8mmbvarfr3dl945/200_200_1/5cca8db775787dc6d0436458777f45d3.jpg",
+                    "amount": "Голубая (уценка)",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "Triol Миска для мелких животных \"Хомка\", 0,055 л",
+                    "description": "Керамическая миска для мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/10e/9iayoxizm2hynpvf1t6tierrddst033j/200_200_1/4b3fa0301e6fb3ae33a27672f6ea9805.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,90 руб."
+                },
+                {
+                    "name": "Triol Домик-поилка LITTLE TOWN для мелких животных 2в1, 80 мл",
+                    "description": "Домик-поилка для мелких животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b88/zyss4b0qgiov0zglvq5g8osorwbzcz2q/200_200_1/ac7c6e0809972854bfe39a5a020caa81.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,10 руб."
+                },
+                {
+                    "name": "Triol Домик-поилка-кормушка для мелких животных 3в1, 60 мл",
+                    "description": "Автономный домик-поилка-кормушка, d120/120 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/264/qpctig1yyk1uhh7eu4r9ukrdj1qrp74c/200_200_1/826204f85ea41d090054087fc64aedf2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,10 руб."
+                },
+                {
+                    "name": "Набор мисок \"Trixie\" с подставкой, 0,3 л",
+                    "description": "Керамические миски для мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3d5/b9iwmry6eqz0lunrra649ftrya1gxapu/200_200_1/9110ab676743ac651022e1335a61527d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,60 руб."
+                },
+                {
+                    "name": "Beeztees Миска для кроликов Jomi, 12 см",
+                    "description": "Керамическая миска для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/20f/hojg0a8xuid7qwqjo7tw4bb21pimj8up/200_200_1/8192a213058a94525f280421de3b0a98.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,50 руб."
+                },
+                {
+                    "name": "Happy Pet Миска для корма, 20х16х9 см",
+                    "description": "Миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e4d/c24qbtp5b8c4tyg4wntfiknzih7ah4co/200_200_1/034fc16b0df1fd4f35c521488512ff57.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Triol Миска для мелких животных \"Хомячок\", 0,06 л",
+                    "description": "Керамическая миска для мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a4/1yr2490l6qgnaxhgfw6ag8mf3wv8f51d/200_200_1/42d31c8928580187a273cace40489d33.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,90 руб."
+                },
+                {
+                    "name": "Triol СВ01 Миска \"Апельсин\", 100 мл",
+                    "description": "Керамическая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/108/1vbsyuqdobh3epu422jadey8n5vnu8zj/200_200_1/49105f3d60ca4b5bee01c1aa8deaf493.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,30 руб."
+                },
+                {
+                    "name": "Triol CB02 Миска \"Мышонок\", 100 мл",
+                    "description": "Керамическая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1db/5uxv6wpne0yq8bn5bc1ga4dwgveogiwq/200_200_1/366cd94b69f966775311348da7925aba.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,30 руб."
+                },
+                {
+                    "name": "Triol CB04 Миска \"Сыр\", 250 мл",
+                    "description": "Керамическая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7dc/dqht089mg2v3y9t8rdz8wlqlf2f9h7ds/200_200_1/16fc07edab9f21429cfd4ba56d3529e6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,20 руб."
+                },
+                {
+                    "name": "Triol CB06 Миска \"Нежность, 200 мл",
+                    "description": "Керамическая миска.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b3/adtenehyt4ivuckdt1kkdijiixzjyg78/200_200_1/2ee31709c33e158aef137f97bf0bae35.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "16,60 руб."
+                },
+                {
+                    "name": "Держатель для фруктов/овощей \"Trixie\"",
+                    "description": "Для грызунов, металл, 20 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/958/4v1xx8sp6kyyye5mw5vlbmx02bp8hnc6/200_200_1/6b8e44f078d0eb4fd04de9cbcb6cf7a1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для грызунов \"Шар\"",
+                    "description": "Кормушка для грызунов, металл.",
+                    "image_url": "https://garfield.by/upload/iblock/cbc/o5plwgi9j7gzffmxukqqimxsvlk06k4o/398b949c856bf8a3ea8ccfc09f29c5fd.jpg",
+                    "amount": "Ø 8 см",
+                    "cost": "13,40  руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" керамическая, белая, 25 мл",
+                    "description": "Миска грызунов, диаметр 5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/785/ic4dg2dlgaudmis1nr8bah3euqhvxl3h/200_200_1/0f90a9e06e11bf0f93854713312d9587.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" керамическая в полоску",
+                    "description": "Керамическая миска для хомяков и мышей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/96f/wsuxflbqk9ze47df6dxpeiq6dqsdt3ky/200_200_1/e3ed58017f4ff27d44b9aaa70b3d3420.jpg",
+                    "amount": "Ø 8 см",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" пластиковая,  для грызунов",
+                    "description": "Цвет в ассортименте.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/01b/n7kbgadccbx2itchuamzmz58heh2qoyt/200_200_1/767755a2965643abb0221a112db051fe.gif",
+                    "amount": "60 мл/диам. 6 см",
+                    "cost": "2,70  руб."
+                },
+                {
+                    "name": "Поилка \"Trixie\" стеклянная \"Honey & Hopper\"",
+                    "description": "Поилка для мышей и хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/556/3jv9abq7tjy9zodsbxtrdmohdoat8spx/200_200_1/9aaac292ed8fa4c3e8ea0c1fdc6efbfe.jpg",
+                    "amount": "125 мл",
+                    "cost": "24,80  руб."
+                },
+                {
+                    "name": "Поилка \"Trixie\" стеклянная для морских свинок",
+                    "description": "Поилка для морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/63b/733wd0mfjjytb0k6d1uivu6yc7ip0els/200_200_1/6260c9d3fb929e1169e229a27635168c.jpg",
+                    "amount": "125 мл",
+                    "cost": "22,20  руб."
+                },
+                {
+                    "name": "Savic Миска для грызунов",
+                    "description": "Миска для грызунов, пластик.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76c/yxugy78wpc5s6t1tc63e4x9vz3510fbz/200_200_1/49e8479d99d7d738557ef05df2f83290.jpg",
+                    "amount": "12х12х4,5 см",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Ferplast Поилка DRINKY на крючках (цветная коллекция)",
+                    "description": "Поилка с шариком для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d82/u3o5ayw250sdths2l1h20qovl4lx8uqd/200_200_1/f108220dc6088acafdaca46df12bd2c2.jpg",
+                    "amount": "150 мл",
+                    "cost": "10,30  руб."
+                },
+                {
+                    "name": "Ferplast Поилка DRINKY на крючках",
+                    "description": "Поилка с шариком для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3e3/pu8zmsjqrxa09j6x4mb8892ipgpylhev/200_200_1/07c386c89916c951acf042e2b00afad6.jpg",
+                    "amount": "75 мл",
+                    "cost": "10,80  руб."
+                },
+                {
+                    "name": "Ferplast Поилка DRINKY с креплением",
+                    "description": "Поилка с шариком для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/69b/01zaxd9h0ho5tm5h8lookrpgkmtlrupa/200_200_1/cefef15d8b9ac3137afb5fa7e8109923.jpg",
+                    "amount": "75 мл",
+                    "cost": "15,30  руб."
+                },
+                {
+                    "name": "Trixie Миска для морских свинок",
+                    "description": "Керамическая миска для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/45d/7ulevn9b77xrgih47lo55qg7z850nixp/200_200_1/15381f613a3a0c39d8f803aba81ea357.jpg",
+                    "amount": "250 мл",
+                    "cost": "16,30  руб."
+                },
+                {
+                    "name": "CAMON Поилка для мелких животных",
+                    "description": "Пластиковая поилка для маленьких питомцев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/568/9mifdz6ool8x26ctwnwdf0mlpqaqnpcs/200_200_1/ad981f4a04f4a2e59e54c1e725640d8b.jpg",
+                    "amount": "50 мл",
+                    "cost": "12,80  руб."
+                },
+                {
+                    "name": "Trixie Миска для хомяков",
+                    "description": "Керамическая миска для хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b07/lthuipmw4mhdmk1sgt0k99zpfp62wp81/200_200_1/c7855102f62519dd8c6faa8689e14094.jpg",
+                    "amount": "90 мл",
+                    "cost": "11,00  руб."
+                },
+                {
+                    "name": "Ferplast PA 1089 Миска керамическая для кроликов",
+                    "description": "Цвет в ассортименте",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ad/narejp0bsgl3i4g8j103l7nv1r4a66ik/200_200_1/05b0d621519e9737819e541478061e48.jpg",
+                    "amount": "0,36 л",
+                    "cost": "23,80  руб."
+                },
+                {
+                    "name": "Savic Поилка для грызунов Biba",
+                    "description": "Пластиковая поилка для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a0e/g971ieoxe4b05f9tbbhby2b8c8n3g0c3/200_200_1/c2ce3e937bd2c4d9a49c48e1b2a10b94.jpg",
+                    "amount": "150 мл",
+                    "cost": "8,80  руб."
+                },
+                {
+                    "name": "Beeztees Миска керамическая для хомяков",
+                    "description": "Миска для воды или корма.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d2a/p1euy0q2q40cjgv0wm6flz2w8fc9hma3/200_200_1/556a89eb09b3bb7d76f14b6fd0358331.jpg",
+                    "amount": "7,5 см",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Ferplast Миска для грызунов Giove",
+                    "description": "Керамическая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d6/clrze02z6krhjq9l2mygcfa2qvhhn1cv/200_200_1/7cc77742db54e0598ceca14c08e1f051.jpg",
+                    "amount": "0,25 л",
+                    "cost": "17,70  руб."
+                },
+                {
+                    "name": "Поилка \"Trixie\" для грызунов",
+                    "description": "Поилка для хомяков и песчанок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/444/c78pdnsynm5xppgis6tydqa3weyi68j0/200_200_1/d84ff5496e8d96bd9e882a917c700ffd.jpg",
+                    "amount": "100 мл",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Поилка \"Trixie\", объем 450 мл",
+                    "description": "Поилка для шиншилл для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/156/hwbrqofvgcldb9z4u02atadyu7fhw03p/200_200_1/d71b49d378596b9618f7690a31891580.jpg",
+                    "amount": "1 шт.",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Поилка \"Trixie\", объем 250 мл",
+                    "description": "Поилка для морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7d5/e77szxpoa6tj1jfxzlnae3a0ik20rg7g/200_200_1/3a9f4a1e41b66aba81835825cb49d2eb.jpg",
+                    "amount": "1 шт.",
+                    "cost": "9,70  руб."
+                },
+                {
+                    "name": "Поилка \"Trixie\", объем 100 мл",
+                    "description": "Поилка для хомяков и песчанок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/03f/y91tnmwwn5zb9mjnwnazq06f7il5qwuo/200_200_1/d75018f85ab1eff025bbb9154f5c3e1d.jpg",
+                    "amount": "1 шт.",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Поилка \"Trixie\", объем 50 мл",
+                    "description": "Поилка для мышей и грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d25/p59ddyjsbota070wj1u78ft80we5t218/200_200_1/5a3e4c6393269bbb319307ed018367c1.jpg",
+                    "amount": "1 шт.",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Pet Inn Поилка для животных \"Drinking-trough\"",
+                    "description": "Поилка для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c30/qjjdzkpg55sdpzrle52w29kkm651zw1z/200_200_1/94c555fdd56c0912ef475ab43622f9ff.jpg",
+                    "amount": "200 мл",
+                    "cost": "15,40  руб."
+                },
+                {
+                    "name": "Hagen Миска Living World из нержавеющей стали",
+                    "description": "Миска для песчанок и хомячков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/09c/682bds0mz53naht0q21xd4ckgxvsy949/200_200_1/d65963491b304be3e80d0ad11d9cdf7c.jpg",
+                    "amount": "Маленькая (150 мл)",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Hagen Миска керамическая терракотовая",
+                    "description": "Керамическая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/719/ng3arevdvadp3zjb78xbhac861kwjq6k/200_200_1/2d928ec95a0df0b06ba2244116b2737c.png",
+                    "amount": "8.9 x 8.9 x 2.5 см",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Hagen Миска керамическая розовая",
+                    "description": "Керамическая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ff/1oud8pqumeik6xszk4qqxkj22f1v0ec8/200_200_1/0b633854199989a65c11ad5c80e27149.png",
+                    "amount": "8.9 x 8.9 x 2.5 см",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Hagen Миска керамическая зеленая",
+                    "description": "Керамическая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4da/3du9sr71azd0ls0u0om4bt2xmah3guxf/200_200_1/f4691220e74365e631e80f4c77998b74.jpg",
+                    "amount": "8.9 x 8.9 x 2.5 см",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Поилка Living World стеклянная для грызунов",
+                    "description": "Для хомяков, песчанок и мышей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/116/jq0t4qfv4lomvs1fuyqpv0xywlcfyo90/200_200_1/d7c0684bc2637334f21e3d010b71d28d.jpg",
+                    "amount": "177 мл",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "For Friends Миска двойная пластмассовая, 0,3 л",
+                    "description": "Пластмассовая миска для кошек, собак и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d43/embvn7tdlxqec65oxy4mjpkbi402av73/200_200_1/0c63ef5471c3533f41f5022de5e0bc10.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "For Friends Миска для мышей, 7х7х3,5 см",
+                    "description": "Пластиковая миска для мышей и других мелких грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a9c/nyiqto0oq4vxc0t9s0cuqhzc4fx85vr2/200_200_1/377997c8b6d297039f52698b663d159a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,20 руб."
+                },
+                {
+                    "name": "For Friends Миска для хомяков, 10,7х7,8х3,1 см",
+                    "description": "Пластиковая миска для хомяков и других мелких грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9be/vuddpy39x6dlccd7t5kt25jqqi533u38/200_200_1/a50d6c97877d459fbe24a720e625b281.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,70 руб."
+                },
+                {
+                    "name": "For Friends Миска для грызунов, 15х9,3х4 см",
+                    "description": "Пластиковая миска для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/870/p6l3zbzidwa5zy1rtmmj8og3be7oma3f/200_200_1/dc2b665fe8502933e2257a2e0965aa1b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,80 руб."
+                },
+                {
+                    "name": "Beeztees Миска керамическая для кроликов, 11,5 см",
+                    "description": "Миска для воды или корма.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6b/z3pnzeijjcdl2udu2nvwsbbey1t9rq02/200_200_1/70208801f4b3e4b76aaa5fcb614e6c29.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,80 руб."
+                },
+                {
+                    "name": "Кормушка для грызунов \"Trixie\", 24х19x7 см",
+                    "description": "Пластиковая кормушка для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9c2/fllx0wv9e532zru8bcif9tkoujo5uzb2/200_200_1/7ae4fc2fabafd8016b681850e5a914f1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,20 руб."
+                },
+                {
+                    "name": "Beeztees Миска керамическая с морской свинкой, 10 см",
+                    "description": "Голубая миска для морских свинок, 0,16 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3fc/ohcpjivlj9ebc2spym5yqb67rhe31dh7/200_200_1/1c782964e31509da3b104e27f4df768e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,30 руб."
+                },
+                {
+                    "name": "Beeztees Миска керамическая с хомяком, 8,5 см",
+                    "description": "Голубая миска для хомяков, 0,12 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2c/xjju3w6t92h01k0eago3hgqgq4rcimh4/200_200_1/74cdca6b337bff8b4522933cd985d68f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,80 руб."
+                },
+                {
+                    "name": "Triol BR51K Кормушка для птиц и грызунов",
+                    "description": "Размер: 8х5,5х3 см. Цвета в ассортименте.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/20c/zq02gghgalokn76pvhw8ub0mcxddzaym/200_200_1/d699af91816aaddb477e48e32b09f9ea.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,60 руб."
+                },
+                {
+                    "name": "ВАКА Миска для грызунов, 70 мм",
+                    "description": "Пластмассовая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/477/4t8urdzsc8b1927u222iwypnqwdfn14s/200_200_1/51885abd47e297786dbbd130fc6f0403.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,80 руб."
+                },
+                {
+                    "name": "Beeztees Миска для хомяка Doki, 7,5 см",
+                    "description": "Керамическая миска для хомяка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/86d/psuozifsskge529zjvty4jne9g9zfcs2/200_200_1/77eda21badac1f93f4f4f5d260857dce.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,20 руб."
+                },
+                {
+                    "name": "Миска BOLSA 1 COMED (C30)",
+                    "description": "Миска для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/22f/84jxkszzu6c0mva8t6yknc0zvtg9ocz5/200_200_1/740684f30e491fac5c17f78d701bebe3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Triol CB03 Миска \"Морковка\", 100 мл",
+                    "description": "Керамическая миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0c8/hx6adls5ihc44baevusffn3z1so8uste/200_200_1/6dcb05f9a3f50e2b0a2a66610bf22f92.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Металлическая кормушка \"Trixie\" для грызунов",
+                    "description": "Кормушка для сена",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/300/kn1kur9p4v9z6e55mz9l0zl9sv10o1rm/200_200_1/924278a4ced4a8ebbb2a639b2195279a.jpg",
+                    "amount": "13х18х12 см",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" керамическая, коричневая, 125 мл",
+                    "description": "Миска для грызунов, диаметр 10 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42d/xguj3frjwcjtnxy91vx5n8iz8s2cnyij/200_200_1/c0a4520999cdc6f2103a03d18b8c1f78.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,70 руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" керамическая для хомяков и мышей",
+                    "description": "Миска для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9fa/kmy0c3ua5o6p8gfpdaauhz8yx0qg19k0/200_200_1/63c7a7bf9bf7e1757f3d350fa44826ec.jpg",
+                    "amount": "400 мл",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" с кроликом, 300 мл",
+                    "description": "Керамическая миска для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c75/3kipkwo27ux3r45zzkp6rw3od390uzkd/200_200_1/72947f0469152ab3571afae776e8f5aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,70 руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" 11",
+                    "description": "Керамическая миска для кроликов, 200 мл/диам. 13 см.",
+                    "image_url": "https://garfield.by/upload/iblock/c6b/qhlr3oc5vql2j7t1gv3opplmho2cs2by/e4f73a22d22caab66a946d95bbf5309b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "Набор мисок \"Trixie\" 12",
+                    "description": "Набор керамических мисок, 75 мл, 140 мл, 330 мл.",
+                    "image_url": "https://garfield.by/upload/iblock/767/rk1v2m18f9cwfrgbmrydg2xln4w2xhnb/73217474325c115e13b8feac8fffea7b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,10 руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" 14",
+                    "description": "Керамическая миска для морских свинок, 240 мл/диам. 11 см.",
+                    "image_url": "https://garfield.by/upload/iblock/fc3/l6oicraz2vk1gchxc96opopauko5f1ak/8bedab7f1e88a0dc308e09eaf2fb4203.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" керамическая для грызунов, 100 мл",
+                    "description": "Миска для мышей и хомяков, диаметр 7 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a4/fd8hw2uo4uou0flyvttlafp7z4jvqnci/200_200_1/e6e3d001d21a167fc974c55504b26b93.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" керамическая для хомяков, 80 мл",
+                    "description": "Цвет в ассортименте, диаметр 8 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/803/ahlj0rnwc0cup0ll4nemuxsklukf64hh/200_200_1/2e402afee8e8e2a8896d4d823380cc75.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" 17",
+                    "description": "Керамическая миска для морских свинок, 250 мл/диам. 11 см.",
+                    "image_url": "https://garfield.by/upload/iblock/36f/vk7r19jg3lgt31f43jeodwg81kawfok9/90e114f62c62b46de1acc8619203a0c0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,80 руб."
+                },
+                {
+                    "name": "Миска \"Trixie\" 18",
+                    "description": "Керам. миска, для кроликов и морских свинок 250 мл/диам. 11 см.",
+                    "image_url": "https://garfield.by/upload/iblock/68a/9n5fh4pprtn4l1ozixy4mgt94rtm7hrt/00d325850940bdb5688e90cad7f877b4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,70 руб."
+                },
+                {
+                    "name": "Набор поилок \"Trixie\", 125 мл",
+                    "description": "Поилки для хомяков и песчанок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ca/senbf3ic7blaf3r5pt5xjd5pdps5uk43/200_200_1/7273b2d4c60f6e39f77a9ad60b4672ec.jpg",
+                    "amount": "1 шт.",
+                    "cost": "10,40  руб."
+                },
+                {
+                    "name": "Набор поилок \"Trixie\" 1, 250 мл",
+                    "description": "Поилки для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84a/ajuiqglpyxa8ckmnknda82c03r8enji2/200_200_1/269978_PHO_PRO_CLIP_60572-6.jpg",
+                    "amount": "1 шт.",
+                    "cost": "12,50  руб."
+                },
+                {
+                    "name": "Поилка \"Trixie\" стеклянная для хомяков, 50 мл",
+                    "description": "Поилка для мышей и хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bee/9qp4zgdddx5ivbgvnn2m85kb4t9gawxq/200_200_1/e8cf4bbd7d3548761bce74255e082126.png",
+                    "amount": "за 1 ед.",
+                    "cost": "15,60 руб."
+                },
+                {
+                    "name": "Savic Миска для мелких животных",
+                    "description": "Миска для мелких животных, пластик.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a6/eqn1w0d80qqfxxnflevg9dx96enz4mby/200_200_1/27679c07bba2dcf1651fa6f22884472c.jpg",
+                    "amount": "17х10х4 см",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "NIKKI Сенница для грызунов",
+                    "description": "Размеры в ассортименте.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e3/ohuxr00yokq1igi0pylf93u3b8iv6d70/200_200_1/c427923a6651c1b9b6627c3acb050f9b.jpg",
+                    "amount": "L (12х16х13 см)",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "NIKKI Деревянная кормушка для грызунов",
+                    "description": "Размер (Ø х выс.): 16 х 20 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a9/4fu02lpjzgj73h7dedt27rq6au7s0x29/200_200_1/6ebf8c3d89de4d2023482124239aaaee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "NIKKI Деревянная дровница для грызунов",
+                    "description": "Размер (шир. х глуб.): 12 х 16 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e13/indd0xgtqakncbdcq7721a3mczfapck0/200_200_1/2a18eec4444f69cc1d5a14056dba51c0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Георпласт Автопоилка Drinkspenser",
+                    "description": "Автопоилка для домашних питомцев.",
+                    "image_url": "https://garfield.by/upload/iblock/50a/788tzgs0tyytmuga4c1rsl4fa0568f71/fbe7856ae32d56a74d54d958bd6dd289.jpg",
+                    "amount": "23 x 20 x 6 см",
+                    "cost": "11,20  руб."
+                }
+            ]
+        }
+    }
+}

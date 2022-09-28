@@ -1,0 +1,1220 @@
+{
+    "Рыбки": {
+        "Витамины, лекарства и химия": {
+            "url": "https://garfield.by/catalog/akvariumistika/lekarstvennyie-sredstva-177049.html",
+            "products": [
+                {
+                    "name": "Zoolink AQUA PURA",
+                    "description": "Кондиционер для подготовки воды для аквариума из водопроводной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/619/emr12ubynf4126p7hbma60pa6gjbzwmv/200_200_1/cac59e658d7c2df55fc188e96754e31d.jpg",
+                    "amount": "150 мл",
+                    "cost": "14,30  руб."
+                },
+                {
+                    "name": "Tetra Кондиционер Goldfish EasyBalance",
+                    "description": "Кондиционер для стабилизации среды обитания рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f39/bwlfihm160fzd1zdeczak70bm4entkv5/200_200_1/Tet-183285.png",
+                    "amount": "100 мл",
+                    "cost": "11,90  руб."
+                },
+                {
+                    "name": "Tetra Кондиционер для воды ReptoClean",
+                    "description": "Кондиционер для воды в террариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/87e/as90ti93y37emgufbc12poi17d6954jm/200_200_1/tetra-reptoclean-100ml-211565-en.jpg",
+                    "amount": "100 мл",
+                    "cost": "14,60  руб."
+                },
+                {
+                    "name": "Зоомир Кондиционер Трипафлавин-ультра",
+                    "description": "Кондиционер для профилактики и уничтожения инфекций",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8a0/khv34uevho09zus42yay75044t2vw77u/200_200_1/трипафлавин.jpg",
+                    "amount": "50 мл",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "Зоомир Кондиционер Метиленовый синий",
+                    "description": "Для подавления развития вредных микроорганизмов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ad/nahilaa5bx7d2dd9tdcgc2yge7y0ra2v/200_200_1/метиленовый.jpg",
+                    "amount": "50 мл",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Зоомир Кондиционер Малахитовый зеленый",
+                    "description": "Санитарный кондиционер для поддержания безопасной среды в аквариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/72a/scgtlbz1wvipo935uhyme2jr3htajjmo/200_200_1/малахитовый.jpg",
+                    "amount": "50 мл",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Зоомир Aquacons кондиционер Чистая вода",
+                    "description": "Для создания и поддержания безопасной, здоровой среды в аквариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/623/rbnfe373eriee1kvnlf713lzafwwek0b/200_200_1/aa7e006b0343905d51aad07548d6f45e.jpg",
+                    "amount": "50 мл",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "Зоомир Aquacons кондиционер против водорослей",
+                    "description": "Для создания здоровой среды за счет подавления роста водорослей в пресноводных аквариумах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/355/65laz7gmx6kiitnoxkcgadmubosv33r6/200_200_1/20210625110610635_1014576113.jpg",
+                    "amount": "50 мл",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "Зоомир Aquacons кондиционер для воды против улиток",
+                    "description": "Для создания и поддержания безопасной, здоровой среды в аквариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bf9/qhd0rb4o0cmaems3b2d6jvhdzig1313r/200_200_1/6067800601.jpg",
+                    "amount": "50 мл",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "Зоомир Aquacons кондиционер Антихлор",
+                    "description": "Для создания и поддержания безопасной, здоровой среды в аквариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/249/2uec1sntzlbm38cvv2e8fws0tfcs2emk/200_200_1/f45a459580935ec6c8067a2aa6a6539f.jpg",
+                    "amount": "50 мл",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "Tetra Кондиционер для воды ReptoSafe",
+                    "description": "Кондиционер для подготовки водопроводной воды для рептилий",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/74a/d1jr01b0uercajnwauhohaopleiu0ikw/200_200_1/de62536911c79648c14e505a0d6bffb8.jpg",
+                    "amount": "100 мл",
+                    "cost": "13,40  руб."
+                },
+                {
+                    "name": "Зоомир Ихтиофор Кондиционер для аквариумной воды",
+                    "description": "Кондиционер для создания здоровой среды в пресноводных и морских аквариумах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e1d/lbk0f1yuo5cvq2wzea6a9ezq91qscy0r/200_200_1/2a1a4dd7d2681f8a0deac6c0ba4ac80e.jpg",
+                    "amount": "50 мл",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Зоомир Унифлор Аква-7 удобрение",
+                    "description": "Минеральное удобрение для аквариумных растений нейтральное",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/692/mgff60r7r8r3lq6fodqrqie3j7brap3u/200_200_1/17c98529980f133e2610569a1a9bb3a2.jpg",
+                    "amount": "100 мл",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Tetra Goldfish AquaSafe",
+                    "description": "Средство для подготовки водопроводной воды в аквариуме с холодноводными рыбками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/287/kvm9spl76kletkxscbtdulziqyt4e4u0/200_200_1/2b3225a3da19ea3e9dea360ccc8ea9d8.png",
+                    "amount": "100 мл",
+                    "cost": "11,30  руб."
+                },
+                {
+                    "name": "Tetra FilterActive Bacteria",
+                    "description": "Средство для поддержания биологической активности в аквариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d2/pei9i2dzhpk80bfr55v7rb1obeyavf2v/200_200_1/47bffbaf0a339003e27311029abc40ec.png",
+                    "amount": "250 мл",
+                    "cost": "34,70  руб."
+                },
+                {
+                    "name": "Tetra Диффузионный набор CO2 Optimat",
+                    "description": "Комплект оптимизации содержания углекислого газа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/622/f48zxl4qv7qppa0nndeo1qm2k69qt81r/200_200_1/0843fbf2c6ef738e6b7acde53d10108a.jpg",
+                    "amount": "для аквар. до 130 л",
+                    "cost": "70,30  руб."
+                },
+                {
+                    "name": "Tetra Кондиционер для воды Crusta AquaSafe",
+                    "description": "Средство для подготовки воды для ракообразных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4af/7gcj3vldhaxa2akuumsac05xucffu69v/200_200_1/cd926facf08d5dadf2b274019647943b.png",
+                    "amount": "100 мл",
+                    "cost": "16,40  руб."
+                },
+                {
+                    "name": "Tetra Кондиционер для воды Betta AquaSafe",
+                    "description": "Кондиционер для подготовки воды аквариума с петушками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd9/1qmfcdwzkn508lzvcggicymi49zueb99/200_200_1/6cec188d0e45afdefaf1b881db9e5086.png",
+                    "amount": "100 мл",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Sera Кондиционер для воды \"Phyto med Baktazid\"",
+                    "description": "Средство против внешних бактериальных инфекций на коже и жабрах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/87a/4biq6cqeant2wau79w1v013xyn6ci6to/200_200_1/0e444decad96b483572956bfe4deec97.png",
+                    "amount": "30 мл",
+                    "cost": "51,50  руб."
+                },
+                {
+                    "name": "Eheim AquaCare Кондиционер для воды",
+                    "description": "Для связывания тяжелых металлов и вредных веществ в воде.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b9/gy5epdlj2s0u9457qn7k6udz2qj7snqm/200_200_1/85669c85bcaa1e3bd8024fe5ca793c11.jpg",
+                    "amount": "500 мл",
+                    "cost": "40,10  руб."
+                },
+                {
+                    "name": "Sera Средство для водных черепах \"Reptibioclear\"",
+                    "description": "Для устранения неприятного запаха и разложения отходов в акватеррариумах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ab/cht06um8m14w3y3h4ubro5imksqo04g1/200_200_1/1908d70eb127fcf5765133708e4c5bc2.png",
+                    "amount": "100 мл",
+                    "cost": "25,20  руб."
+                },
+                {
+                    "name": "Sera Листья индийского миндаля \"Catappa Leaves\"",
+                    "description": "Листья позволяют подготовить воду как в природных биотопах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff4/p7i09xrjz08cs9ba0szrn2v5gno2ozrr/200_200_1/f8587e01395a0262d6c1e7b6a0dad947.png",
+                    "amount": "M",
+                    "cost": "26,40  руб."
+                },
+                {
+                    "name": "Aquayer pH/KH минус",
+                    "description": "Для снижения карбонатной жесткости (КН) и рН воды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/88b/o8yce4s0ca9n5rhwdkhjqrz8bktul7qb/200_200_1/c6fee504a370c06d424d42dcdab27bae.png",
+                    "amount": "60 мл",
+                    "cost": "7,10  руб."
+                },
+                {
+                    "name": "Sera Кондиционер для запуска аквариума \"Bio-Nitrivec\"",
+                    "description": "Создает биологически активную окружающую среду в аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/782/mkevlo4mj9sn9qkfht4k870pijvzvctx/200_200_1/90fb6623792892ef837a82691a4897c3.png",
+                    "amount": "50 мл",
+                    "cost": "16,60  руб."
+                },
+                {
+                    "name": "Eheim pH/KH buffers (регулятор kH, gH, pH)",
+                    "description": "Нейтрализатор тяжелых металлов и аммиака.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ed7/3cgyt2jgyaz4jbnhs45vu63xb8jht8b1/200_200_1/1a1a9a75aee8313e4dafff702eac7813.jpg",
+                    "amount": "370 г",
+                    "cost": "65,10  руб."
+                },
+                {
+                    "name": "Sera Кондиционер для прозрачной воды \"Phosvec-Clear\"",
+                    "description": "Средство для удаления фосфатов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/016/infrh1yd9kgz7mk09zud9cvjsdl8pjvs/200_200_1/4615e8a415f4b35ae3f8cabcb1f73745.jpg",
+                    "amount": "100 мл",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Sera Кондиционер для запуска аквариума \"Filter Biostart\"",
+                    "description": "Ускоритель биологического запуска для фильтров и аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/244/b9phkj8wg9k7c3avzy0n56nkyzxid7n2/200_200_1/9694620b694e4e163a45210411fd6ef8.png",
+                    "amount": "50 мл",
+                    "cost": "23,20  руб."
+                },
+                {
+                    "name": "Sera Кондиционер для воды \"Aquatan\"",
+                    "description": "Средство для очищения водопроводной воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ee/sxivcc58iixhhw5qau243om5vse3nwg5/200_200_1/9896b1eed186ebf1172db7a563ecb21f.jpeg",
+                    "amount": "100 мл",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "Zoolink CIDEX (Сайдекс)",
+                    "description": "Средство от нежелательных водорослей в аквариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42e/3w4dd7hy2cgma3fel45uc4h08xcqjayy/200_200_1/1d3e988809ce82b54e52fe3e53a01b8c.jpg",
+                    "amount": "150 мл",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Aquayer КреВит",
+                    "description": "Удобрение для мхов в аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c91/5kae8u4dg4vsdmqissgdkc86hubpk98f/200_200_1/b37b38223aa3e7aa610e0194a51c3c04.jpg",
+                    "amount": "60 мл",
+                    "cost": "10,40  руб."
+                },
+                {
+                    "name": "Aquayer NO3 минус",
+                    "description": "Для снижения концентрации нитратов в воде.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/96e/krr3ybdc612a2a9nwq3jrnaxcgjkuybq/200_200_1/c53786508c080092b4337ac5ceb2e0e2.png",
+                    "amount": "60 мл",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Aquayer АкваБактол",
+                    "description": "Дезинфицирующее средство против внешних бактериальных инфекций.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ed/ycu68bkvhud2yh6tiqp0li67g9a8ii18/200_200_1/b69a651d5f3894587033b7575c30f608.png",
+                    "amount": "60 мл",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "Tetra PhosphateMinus",
+                    "description": "Средство для снижения концентрации фосфатов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c0/vgxlpnbzsoctd8hzyd6rc86vyrzb2k8b/200_200_1/d2a156640181aa2089ef9dba53f6b3ca.jpg",
+                    "amount": "100 мл",
+                    "cost": "11,10  руб."
+                },
+                {
+                    "name": "Tetra PH/KH Minus",
+                    "description": "Средство для снижения уровня рН и кН.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fe1/0hyx09yzn8i3v2pmj738nn5243uzhu41/200_200_1/80ca4056aa5b5984a5baa54ca9812946.jpg",
+                    "amount": "250 мл",
+                    "cost": "34,30  руб."
+                },
+                {
+                    "name": "Tetra CO2-Plus",
+                    "description": "Удобрение для растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/67c/3vt8pdutqqg1vgzg4r2br37ezfjtsvlb/200_200_1/bca5ba53fe1c96355bcd64b33220c326.jpg",
+                    "amount": "250 мл",
+                    "cost": "21,80  руб."
+                },
+                {
+                    "name": "Tetra Test NO2-",
+                    "description": "Для точного определения количества нитритов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cc/08m558aayrzr229i27qh66xq8lobssmj/200_200_1/85dc2900e1cf60261cd5048d95425ce4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,00 руб."
+                },
+                {
+                    "name": "Aquayer Тест KH, 15 мл",
+                    "description": "Для определения карбонатной жесткости, щелочности воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/564/7r8a4fj2km437k5mxbhpzehk8tivs15i/200_200_1/3724c95550214e353a9d79d45dd2cdb7.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Агроветзащита Антипар, 20 мл",
+                    "description": "Антисептический лекарственный препарат для наружной обработки аквариумных рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ddc/passc7ssg9s81jt9plwzahkw1i0rcync/200_200_1/eaa8a90a481e416fc5187ddee4c3cf5d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,70 руб."
+                },
+                {
+                    "name": "Tetra Test NO3-",
+                    "description": "Капельный тест на нитриты",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/358/xc8o1tc9c2r5qoj04zhxxrp7wvluytpz/200_200_1/c18235b1775be64729df52975595ef51.png",
+                    "amount": "за 1 ед.",
+                    "cost": "37,80 руб."
+                },
+                {
+                    "name": "Hagen Добавка для воды \"Fluval Sea Total Clear\"",
+                    "description": "Средство для поддержания чистоты в аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dcb/fr15jnmauhc04rftszn6x6ptty8hovpe/200_200_1/9735a2d7aa76c05f46b3135b69f5629f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "112,20 руб."
+                },
+                {
+                    "name": "Aquayer Нитрат, 250 мл (компонент Смарт МАКРО)",
+                    "description": "Для приготовления удобрения Смарт МАКРО.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ece/u4yz0y6g76sf1h630y96ucniiluudrc0/200_200_1/6fc27b90a63779d7e69df77a3b1a7922.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,40 руб."
+                },
+                {
+                    "name": "Aquayer Смарт МАКРО, 2х250 мл",
+                    "description": "Удобрение открывает новую методику питания растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/534/jhsil5tr61uz1ilel92bo4rbwthial4e/200_200_1/98ed91c304e90a403f1dd8cf71b6eb95.png",
+                    "amount": "за 1 ед.",
+                    "cost": "41,10 руб."
+                },
+                {
+                    "name": "Tetra Тест pH",
+                    "description": "Для точного определения показателя pH в аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d0/0v6sykyh624x8b325wb8f5kemdzyhtnu/200_200_1/03ca0c529f08fdb381550ffd0748c8b9.png",
+                    "amount": "за 1 ед.",
+                    "cost": "22,00 руб."
+                },
+                {
+                    "name": "Tetra Тест GH",
+                    "description": "Для точной определения общей жесткости в пресноводном аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea4/sx2xw8g908gv4271ysdtaetysab71r6r/200_200_1/4a18b9fb5d85c2254fa9d9d636dda7c0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "19,70 руб."
+                },
+                {
+                    "name": "Зоомир Унифлор Аква-9 удобрение, 100 мл",
+                    "description": "Минеральное удобрение для аквариумных растений",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e8/akkbxtdlcipqx93md93o5i81fads5smf/200_200_1/5ee4f3ca4f4dbd8ac7d4342056a4c651.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Tetra Test PO4",
+                    "description": "Тест-система для определения фосфатов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/67a/j95i0n41656kofmonyfi35ft5wa9cu1p/200_200_1/8a4e7512023f30a7c813b87ccb001595.png",
+                    "amount": "за 1 ед.",
+                    "cost": "55,40 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Costaforte\", 50 мл",
+                    "description": "Средство против паразитов кожи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ec/zz0a4we3i0l98ik3cbj4d0xx8o3eg8bs/200_200_1/038abb51f0c5501fa9b851577887c094.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,10 руб."
+                },
+                {
+                    "name": "Зоомир Аквастоп Кондиционер для аквариумной воды, 100 мл",
+                    "description": "Кондиционер для устранения сине-зеленых водорослей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/738/diya2bfmof26x3jg3qw97nu033okgyab/200_200_1/0dc0979806dea3de8ac81024d44e4b58.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,20 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Omniforte\", 50 мл",
+                    "description": "Против большинства патогенных микроорганизмов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6a/w4537hb9xw2zskzaccpindt6dxq0xuk4/200_200_1/5bf704b8c25dd5cae107e32df18e81b5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,70 руб."
+                },
+                {
+                    "name": "Tetra Test AlgaeControl 3in1, 25 полосок",
+                    "description": "Тест для проверки фосфатов, нитратов и карбонатной жёсткости воды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cca/2j378v9fuykkos2tl4f8c2mms2ssaxyv/200_200_1/c3a470e481e3b2d3ceada1978cd4358d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "42,70 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Baktoforte\", 50 мл",
+                    "description": "Уничтожает бактериальные заболевания.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9a/h823hfkrtblyfcdpjkeg1n3zk0ntn1od/200_200_1/cc127ad8644e3c69ac42e489a3e4cb99.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,70 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Mycoforte\", 50 мл",
+                    "description": "Против возникновения микоза.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af6/qnfli6wc1kvboa05jif9b4tmtgv5abkg/200_200_1/904d3eaaeaf74360bcb102ab66492a84.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,70 руб."
+                },
+                {
+                    "name": "Aquayer Таблетки Железо плюс",
+                    "description": "Грунтовое удобрение с усовершенствованной формулой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ab/8oojececbgliruhikuc9lfm9wmljk4b1/200_200_1/647dbba771f362b32c18f2c1fab66252.png",
+                    "amount": "за 1 ед.",
+                    "cost": "19,30 руб."
+                },
+                {
+                    "name": "Sera Тест для воды \"gH-Test\", 15 мл",
+                    "description": "Для измерения постоянной жесткости аквариумной воды.",
+                    "image_url": "https://garfield.by/upload/iblock/23e/ai6lf4v4duk5amzhp7rn0c7z037gdqfi/bf1498f68f86caa509812d83ecfe61de.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,50 руб."
+                },
+                {
+                    "name": "Sera Тест для воды \"pH-Test\", 15 мл",
+                    "description": "Тест на кислотность (рН) для пресной и морской воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/25d/580mf9dnrv4fgnp9kmnu1q0d1kxccxs8/200_200_1/026c2f0bf39239417e96c8afe9fe5cb3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,40 руб."
+                },
+                {
+                    "name": "Tetra Средство Algetten, 12 таб/уп",
+                    "description": "Средство для долговременного уничтожения водорослей.",
+                    "image_url": "https://garfield.by/upload/iblock/a46/c2cfs11i6klgry8ig9bg92xc4chajqm9/a0c9b299c5b129e700ffd5f788560bf5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,30 руб."
+                },
+                {
+                    "name": "Tetra Средство TetraAgua Algizit, 10 таб/уп",
+                    "description": "Для уничтожения водорослей при сильном их развитии.",
+                    "image_url": "https://garfield.by/upload/iblock/7da/cfwm4j4i8s9i0tz3441oaa85u2cojqut/81a991b257d363b999c1993c3decc361.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,60 руб."
+                },
+                {
+                    "name": "Tetra Средство AlquMin Plus",
+                    "description": "Для предотвращения появления водорослей в аквариуме.",
+                    "image_url": "https://garfield.by/upload/iblock/d56/ku5p23oabshfm4mzoffdzmjaec48z1dn/860989052f0a043ea4ae2b76777e4db1.png",
+                    "amount": "100 мл",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Tetra Тест для воды Test 6 in 1",
+                    "description": "Тестовые полоски для определения качества воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9af/sys0dxw56qmvbh4gmi3rxmbbwp1ku3i5/200_200_1/41bdf4d86fc3b0964571d2d4242a79ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "52,40 руб."
+                },
+                {
+                    "name": "Tetra Кондиционер для воды AquaSafe",
+                    "description": "Кондиционер для подготовки водопроводной воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ce/mfcm39ksul4do2ftcyh7jt24m91wt4g5/200_200_1/d7164871df452a49a9146159a3ffa324.jpg",
+                    "amount": "50 мл",
+                    "cost": "8,00  руб."
+                },
+                {
+                    "name": "Tetra Кондиционер EasyBalance",
+                    "description": "Кондиционер для стабилизации среды обитания рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7fa/hi2gzfkhi1286i4wownlwaevzy30ewer/200_200_1/b4896e7e073767df43c0cafcf3029126.jpg",
+                    "amount": "100 мл",
+                    "cost": "11,70  руб."
+                },
+                {
+                    "name": "Tetra Кондиционер Vital",
+                    "description": "Кондиционер для воды, улучшает общее состояние.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dfd/j9nhlio0memq78szzfr730uozwzuu8ij/200_200_1/1e439237ff8ec55acfb01979e94e10c1.png",
+                    "amount": "100 мл",
+                    "cost": "15,70  руб."
+                },
+                {
+                    "name": "Tetra Кондиционер CrystalWater",
+                    "description": "Кондиционер для очистки воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/041/xky0obj6mqbkq1i0vs5z5c2hcmdi1dst/200_200_1/042402548052ef10b2ebbd91e7f6af19.png",
+                    "amount": "100 мл",
+                    "cost": "14,30  руб."
+                },
+                {
+                    "name": "Tetra Средство Bactozym",
+                    "description": "Для биологической активности фильтра и аквариума",
+                    "image_url": "https://garfield.by/upload/iblock/25c/7s903vou9w7hve5oklxw7hmhyvgg0ra5/6fd089dd6479b642df7a01957c01c13d.jpg",
+                    "amount": "1 капсула",
+                    "cost": "3,40  руб."
+                },
+                {
+                    "name": "Tetra Средство ToruMin",
+                    "description": "Средство для создания эффекта природной черной воды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d9/lfjw3gbo2htxbgciymi0bipcvxcnfd55/200_200_1/ef1d10a818f9fd51a6fa71986e7949ab.jpg",
+                    "amount": "250 мл",
+                    "cost": "33,90  руб."
+                },
+                {
+                    "name": "Tetra NitrateMinus",
+                    "description": "Средство для снижения нитратов в воде, 100 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f79/mnh0u85juyw42u2fur1syamfukiwhm2s/200_200_1/63d804f4fb4bd8306aa28e3929914331.png",
+                    "amount": "за 1 ед.",
+                    "cost": "9,90 руб."
+                },
+                {
+                    "name": "Tetra Средство NitrateMinus Pearls, 100 мл",
+                    "description": "Средство для снижения нитратов в воде.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8f7/g8oihgk5ife09gp1yqjikypsxbpdphs9/200_200_1/899322947b147e72c694b6aa5b472ded.png",
+                    "amount": "за 1 ед.",
+                    "cost": "20,40 руб."
+                },
+                {
+                    "name": "Tetra FilterActive",
+                    "description": "Для поддержания биологической активности.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/48a/ccmaeccm34ykrjb42rtusasaffhnif5z/200_200_1/913b084ab4d9984c96e89ebc8a20e351.png",
+                    "amount": "100 мл",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "Aquayer Тест pH+КН",
+                    "description": "Определяет кислотность и карбонатную жесткость воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e44/vsf4wbf8t797o5s4tu5tpx3j05456sls/200_200_1/7ead3fcd0abd6588afab8bbd50b05054.png",
+                    "amount": "за 1 ед.",
+                    "cost": "25,70 руб."
+                },
+                {
+                    "name": "Aquayer АльгоШок",
+                    "description": "Средство против зеленых нитчатых водорослей и цветения воды.",
+                    "image_url": "https://garfield.by/upload/iblock/a8d/ov8jbdqgkn9fclrvr5erpoihug8gzdrl/f7ca67cdec7eb9eb4626e0b20b6936ca.png",
+                    "amount": "500 мл",
+                    "cost": "31,70  руб."
+                },
+                {
+                    "name": "Aquayer \"Удо Ермолаева Макро+\"",
+                    "description": "Ежедневное удобрение для аквариумных растений.",
+                    "image_url": "https://garfield.by/upload/iblock/ed1/r5zwl09u2qg3g6be3rji0is1tiawhelj/2a27c38676e6b9c449bafb0dee538640.png",
+                    "amount": "60 мл",
+                    "cost": "7,10  руб."
+                },
+                {
+                    "name": "Aquayer \"Удо Ермолаева Микро+\"",
+                    "description": "Удобрение для подкормки аквариумных растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e3/b5czz4g2ebwpg5d1h1p3ry4ntg347dcv/200_200_1/f74a8395499b81d590f012d29f918f96.png",
+                    "amount": "60 мл",
+                    "cost": "7,10  руб."
+                },
+                {
+                    "name": "Aquayer \"Удо Ермолаева Железо+\"",
+                    "description": "Концентрированный источник железа и марганца.",
+                    "image_url": "https://garfield.by/upload/iblock/f71/8bikxg2w121wpmy2n1uz2jb6g9cvmlh3/339bfd8767ef7bf7feb4634784ad738a.png",
+                    "amount": "60 мл",
+                    "cost": "7,10  руб."
+                },
+                {
+                    "name": "Aquayer АнтиТоксин+К",
+                    "description": "Устраняет хлор и хлорамин, а также токсичные тяжелые металлы.",
+                    "image_url": "https://garfield.by/upload/iblock/ac3/p1tgfugxw6v3co3hsty6mh0rckp1r6s9/53423bbd3e8c7fd35a0f58c45d8e728f.png",
+                    "amount": "1 л",
+                    "cost": "52,90  руб."
+                },
+                {
+                    "name": "Aquayer АнтиТоксин Vita",
+                    "description": "Для подготовки воды в аквариуме.",
+                    "image_url": "https://garfield.by/upload/iblock/764/yy5ecb9ndc0gul1k7535c1rmlq8wd787/91557bed989ae51e6f3c3be86243856b.png",
+                    "amount": "1 л",
+                    "cost": "52,90  руб."
+                },
+                {
+                    "name": "Aquayer Ихтиофтирицид",
+                    "description": "Средство против ихтиофтириоза.",
+                    "image_url": "https://garfield.by/upload/iblock/765/15hrnnk0n3ugnk976a1e45cdocxqjk6z/287ef39b9cfa9b5efff63e4b52fd241c.png",
+                    "amount": "60 мл",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "Aquayer Парацид",
+                    "description": "Эффективно уничтожает эктопаразитов.",
+                    "image_url": "https://garfield.by/upload/iblock/765/kvbgrqpnibp61n0s9vte1zfegs70zlah/30f6448ade9aed24c1114d86f1b9277c.png",
+                    "amount": "60 мл",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "Нилпа Тест Нитрит NO2",
+                    "description": "Индикатор для определения концентрации нитрит-ионов в аквариумной воде",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/52d/kd5emrp9z70123r2acbke3lekh6uiauf/200_200_1/3-9376bc9a4e93560d04e608491e3e159d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,80 руб."
+                },
+                {
+                    "name": "Нилпа Тест Нитрат NO3",
+                    "description": "Индикатор для определения концентрации нитрат-ионов в аквариумной воде",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aa9/4k5zybyfxg4kdv69elegom4ztu1zygp2/200_200_1/3-9ff94394bc9e20d29df2ff91be9d03b7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,50 руб."
+                },
+                {
+                    "name": "Sera Удобрение для растений \"Florena\"",
+                    "description": "Жидкое удобрение для всех видов водных растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4e/ujl4nv3heuc3lcxvhub8knyimbhvn1uk/200_200_1/37142e486f6b1100203289b4e7c23cdb.jpg",
+                    "amount": "50 мл",
+                    "cost": "9,30  руб."
+                },
+                {
+                    "name": "Sera Удобрение для растений \"Florenette A\", 24 таб в уп.",
+                    "description": "Удобрение для растений с развитой корневой системой.",
+                    "image_url": "https://garfield.by/upload/iblock/b30/jzyz7nawoh5dpg4puix8xvmogksqg38a/442473e0509c60b36592d0440f2bcd29.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,50 руб."
+                },
+                {
+                    "name": "Aquael Средство против водорослей Magic Algae Stop",
+                    "description": "Универсальный наполнитель для фильтра против водорослей.",
+                    "image_url": "https://garfield.by/upload/iblock/7e6/v8imm71y03svt2agp40z0w1f8et2elzz/c0c9b1ca1f602a3a615afce8c08c7499.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,40 руб."
+                },
+                {
+                    "name": "Sera Активированный уголь \"Super Carbon\"",
+                    "description": "Специальный активированный уголь для аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/840/m1jstf2nvmnljjkjlddmuqxpqbahn97m/200_200_1/bb53c05da6441b8d3a0f33eaafe86039.jpg",
+                    "amount": "29 г",
+                    "cost": "9,30  руб."
+                },
+                {
+                    "name": "Зоомир Унифлор Аква-5 удобрение",
+                    "description": "Минеральное удобрение для аквариумных растений подкисляющее",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d28/squmhlt250crs14uqpjypqdl4hlfh9bi/200_200_1/879-uniflor-5.jpg",
+                    "amount": "100 мл",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Химола Очиститель аквариумной воды",
+                    "description": "Очиститель аквариумной воды в виде порошка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb3/scdwppes8vwnvucl0boxtk46y4jvh9o6/200_200_1/9718727-1 (1).jpg",
+                    "amount": "25 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Зоомир Aquacons кондиционер Антисептический",
+                    "description": "Для создания и поддержания безопасной, здоровой среды в аквариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a8/d0dcbg8hod3a3i63xtq6t99boodnlp5l/200_200_1/Антисепт_2601.jpg",
+                    "amount": "50 мл",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Tetra Средство для очистки воды ReptoClean",
+                    "description": "Средство для биологической очистки воды в террариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/32e/1i0ju54zvxny55xym49a68sxvj3mtm9f/200_200_1/b937e73f4caf08d20dc20c2eaa8bd9c9.jpg",
+                    "amount": "12 капсул",
+                    "cost": "27,20  руб."
+                },
+                {
+                    "name": "Tetra CO2-Depot Дополнительный баллон к TetraPlant CO2-Optimat",
+                    "description": "Сменный баллон для Тетра CO2 Optimat",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/436/p2tn51xjj8opyqbeljqorvjlp115r11n/200_200_1/e2a6569f4908c638ad6d19ca8efadfb8.jpg",
+                    "amount": "650 мл",
+                    "cost": "28,90  руб."
+                },
+                {
+                    "name": "Sera Кондиционер для воды \"Phyto med Protazid\"",
+                    "description": "Средство против болезни «белых пятен» и одноклеточных кожных паразитов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c2/u32y7l80720vz2r4rz00qyar4y2wx9f4/200_200_1/2368b0a0873d4174a461f299252e48fe.png",
+                    "amount": "100 мл",
+                    "cost": "78,60  руб."
+                },
+                {
+                    "name": "Sera Кондиционер для воды \"Phyto med Tremazid\"",
+                    "description": "Средство против жаберных и кожных сосальщиков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ed/nzyes27hz6qbg09jljls4dpkd844nnzq/200_200_1/e68c40b92e2a4bcf58f363d74b54f089.png",
+                    "amount": "30 мл",
+                    "cost": "51,50  руб."
+                },
+                {
+                    "name": "Aquayer Реминерал GH/KH+",
+                    "description": "Для реминерализации воды после фильтра обратного осмоса.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d05/0cnoya09w0d75ahk32odj0ftrypta7o2/200_200_1/09534b31a589820bcfa6847fdcecffb6.png",
+                    "amount": "330 г",
+                    "cost": "28,20  руб."
+                },
+                {
+                    "name": "Tetra Удобрение PlantaPro Micro",
+                    "description": "Быстроусвояемые микроэлементы и витамины для растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/94f/jutowmaw305fvzq810xav2aznevmd8pi/200_200_1/56a3464309bec44dd964b4774a656f08.jpg",
+                    "amount": "250 мл",
+                    "cost": "24,40  руб."
+                },
+                {
+                    "name": "Eheim Еженедельное удобрение - комплекс железа",
+                    "description": "Комплекс железа для аквариумных растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/427/1jcdmrthfaihbr9vl9otr55q8jz1h0ob/200_200_1/08af2110cad872c4bf73eb9047b50169.jpg",
+                    "amount": "250 мл",
+                    "cost": "35,00  руб."
+                },
+                {
+                    "name": "Eheim Еженедельное удобрение 7 дней",
+                    "description": "Еженедельное удобрение для аквариумных растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d8e/2uftarwq59p1f9yj5zw95uhc3lacenin/200_200_1/7f0246848dbcba9cfbecc6e2bfccdefe.jpg",
+                    "amount": "140 мл",
+                    "cost": "23,00  руб."
+                },
+                {
+                    "name": "Eheim Algozid Средство от водорослей",
+                    "description": "Биоцид для борьбы с водорослями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/33e/8itnvpuuuhl0et7vgcet5pz1qkmiekg5/200_200_1/ac5a2f66895f8f8f2cf485cc99c20688.jpg",
+                    "amount": "250 мл",
+                    "cost": "49,00  руб."
+                },
+                {
+                    "name": "Eheim NitratBIOex",
+                    "description": "Удаляет органику и нитраты.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ec7/wd2n6joegele4m2nyy7nc9ey6jxy79qt/200_200_1/958c0699f888c99855855595fca561a0.jpg",
+                    "amount": "250 мл",
+                    "cost": "50,00  руб."
+                },
+                {
+                    "name": "Eheim Bacteria STARTER Биостартер для фильтров",
+                    "description": "Биостартер для пресной воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac3/x15u0y1lkbcupnut3ldqyjxaalytdur1/200_200_1/45e958c4f917114e877da173c5bee09e.jpg",
+                    "amount": "100 мл",
+                    "cost": "35,00  руб."
+                },
+                {
+                    "name": "Eheim Кондиционер для воды",
+                    "description": "Средство для связывания тяжелых металлов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea4/0i160l3dworzkg42mbibwibp0ex0gfhx/200_200_1/5c9dbb77ecab1686130a35ca4631d121.jpg",
+                    "amount": "140 мл",
+                    "cost": "17,00  руб."
+                },
+                {
+                    "name": "Hagen Биологическая добавка \"Fluval Biological Enhancer\"",
+                    "description": "Высокоэффективная биологическая добавка для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/788/pqqexkocaw9mxdq0tcyh8cq2ocgccv2s/200_200_1/6f74efdeeab56ddf01a765f16e58ead9.jpg",
+                    "amount": "120 мл",
+                    "cost": "19,10  руб."
+                },
+                {
+                    "name": "Sera Удобрение для растений \"Flore 4 Plant\"",
+                    "description": "Удобрение для аквариумов с небольшим количеством обитателей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/593/wlqt4tudmicbsun2mfuz1563nfgyd014/200_200_1/3821ec5c07b1ea7a6d6f5d0b7388418c.jpg",
+                    "amount": "50 мл",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "Sera Удобрение для растений \"Flore 3 Vital\"",
+                    "description": "Удобрение для повышения выносливости растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4d3/6x96lxmg5jdgxrb6d66spqsb458j7ouy/200_200_1/d2dc116f911aaef493e0ba1bf394beb3.jpg",
+                    "amount": "50 мл",
+                    "cost": "17,50  руб."
+                },
+                {
+                    "name": "Sera Удобрение для растений \"Flore 2 Ferro\"",
+                    "description": "Удобрение для растений с дополнительным железом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/774/tmq1cnmcd075imecut40dtf6n7rkrzwf/200_200_1/b686784f6cff52456d679f6693b2f13e.jpg",
+                    "amount": "50 мл",
+                    "cost": "14,80  руб."
+                },
+                {
+                    "name": "Sera Удобрение для растений \"Flore 1 Carbo\"",
+                    "description": "Удобрение для растений с дополнительным углеродом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cae/8cggyfrmuwdeuq1n55vh8q4vr2hc9eau/200_200_1/251d7b05bdb72d0c9c93c934483b44dc.jpg",
+                    "amount": "50 мл",
+                    "cost": "10,80  руб."
+                },
+                {
+                    "name": "Sera Кондиционер для воды против водорослей \"Algovec\"",
+                    "description": "Кондиционер для воды против водорослей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/632/1v8wl3nfkk2khct5g2vwgn2l7mo7kwp2/200_200_1/ef7b81b65b263da743d2b5d031abef81.jpg",
+                    "amount": "50 мл",
+                    "cost": "18,40  руб."
+                },
+                {
+                    "name": "Tetra Удобрение PlantaPro Macro",
+                    "description": "Обогащает аквариум с живыми растениями важными питательными макроэлементами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/814/la3x2h2he003iuxws5zjv19b0qjxnf99/200_200_1/9ebf9678a0a4f0f6c0095da4acb93c22.png",
+                    "amount": "250 мл",
+                    "cost": "24,80  руб."
+                },
+                {
+                    "name": "Aquayer Витамин",
+                    "description": "Комплекс витаминов для аквариумных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c72/8rqrphniv96lfwa40q65551tfqakd2rm/200_200_1/7df0c37796d5d19d43df58e2bfde0291.png",
+                    "amount": "60 мл",
+                    "cost": "10,90  руб."
+                },
+                {
+                    "name": "Aquayer Кристалл",
+                    "description": "Для устранения в аквариуме мути любого происхождения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/691/6ran933hw8xhamfix31yrfocdps1w91e/200_200_1/a0a4c519a7a1d15eeb4462ad001e6395.png",
+                    "amount": "60 мл",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "Tetra Test NH3/NH4+",
+                    "description": "Для точного определения общего количества аммиака.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a7/y1i031pgull1661sre8lma9snr3o71l0/200_200_1/c304a30baa95812a088c3ea626e97f22.png",
+                    "amount": "за 1 ед.",
+                    "cost": "36,70 руб."
+                },
+                {
+                    "name": "Aquayer Тест PH, 15 мл",
+                    "description": "Для определения кислотности воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/44b/a1akfoc2y8itjjz9gs9y3l1jvgcntw29/200_200_1/b7d111cd89fbee50d0ef20486c47ca47.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Aquayer Тест GH, 15 мл",
+                    "description": "Для точного определения общей жесткости.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af0/3991d7dktmlhfp6jd1b2nynpuu5fd5ge/200_200_1/0a78918637b671fbaad03ecbf2ed3eac.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Sera Для минерализации воды креветкам \"Shrimp Mineral Salt\" 100 мл",
+                    "description": "Средство для насыщения витаминами и микроэлементами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/48e/qak4b10oneqnpeaq1trmppy65c0i370r/200_200_1/90b8b71241b8d6ea92eb72d298d2efff.png",
+                    "amount": "за 1 ед.",
+                    "cost": "26,30 руб."
+                },
+                {
+                    "name": "Hagen Уголь активированный для воды, 300 г",
+                    "description": "Активированный уголь для пресной и морской воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df0/5nw6dh3kj9udc41qzs405q92yszk04hv/200_200_1/849494ffea288efc995ab5f84fa02b26.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,60 руб."
+                },
+                {
+                    "name": "Hagen Биологический очиститель аквариума \"Fluval\", 250 мл",
+                    "description": "Средство для биологической очистки аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e99/vcadiycyif1rp54ec9x60dqp4uw6errh/200_200_1/54321447154336c032a452dc59b2c8c9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,70 руб."
+                },
+                {
+                    "name": "Hagen Добавка для воды \"Fluval Sea Phos Clear\"",
+                    "description": "Средство для снижения уровня фосфатов и силикатов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a7a/ukij3gkqpstu5g3ae9l47a1oswjpx3ni/200_200_1/7df11a555c1bd8acb80c648d7685dd87.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "184,80 руб."
+                },
+                {
+                    "name": "Sera Кондиционер для эффекта темной воды \"Blackwater Aquatan\", 100 мл",
+                    "description": "Кондиционер для водопроводной воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/837/i2bra220sxl4as7a0lsyiaqo5wjad62f/200_200_1/a62a6fc9591c29949f0834235dd4e43b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,10 руб."
+                },
+                {
+                    "name": "Tetra Medica ContraIck",
+                    "description": "Для борьбы с кожными паразитами, 100 мл.",
+                    "image_url": "https://garfield.by/upload/iblock/75f/lbhjhe160rtgyln2a3c9f2kgtw42k681/46961c0400208f589040b8e65bb870c9.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,20 руб."
+                },
+                {
+                    "name": "Beaphar Turtle Vit, 20 мл",
+                    "description": "Кормовая добавка для черепах и рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f88/s3phb2ujl09zqd6tfy0lcoarfwj4zbk1/200_200_1/8071560266c0b67e72d8b738fe8853e2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,90 руб."
+                },
+                {
+                    "name": "Sera Тест для воды \"Quick Test 5-in-1\"",
+                    "description": "Упаковка содержит 50 тестовых полосок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/58f/3a7js6oi97q3h4l74wm186hetf1nhbro/200_200_1/b75b442a468d349f506e774dc81a0378.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "64,60 руб."
+                },
+                {
+                    "name": "Tetra TestStrips Ammonia",
+                    "description": "Тестовые полоски для определения уровня аммиака.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b4d/slz5z34sj94vimd5lygvq9dtcijtyst1/200_200_1/b84df0abd1d5a7c0182060145a03e559.png",
+                    "amount": "за 1 ед.",
+                    "cost": "55,40 руб."
+                },
+                {
+                    "name": "Aquayer Фосфат, 250 мл (компонент Смарт МАКРО)",
+                    "description": "Для приготовления удобрения Смарт МАКРО.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/836/6nu7pmmvim5eolb4mfewls6gkk76s09g/200_200_1/9bc8b5ab8151f7f9639c911aa11c7605.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,40 руб."
+                },
+                {
+                    "name": "Fiory Кальций для водных черепах, 26 г",
+                    "description": "Для укрепления панциря черепах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ec/zxpyzoqw0z89wnzw9bk9zl32swh2bpve/200_200_1/d47b8c361404a31943df9569e666ebb4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Tetra Тест KH",
+                    "description": "Для точно определения карбонатной жесткости в аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b9e/5anm40ocwdto6ej9cr0jp0qruru6mm5y/200_200_1/93b2f8c87886658c86553fb2b139a3a4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "19,40 руб."
+                },
+                {
+                    "name": "Tetra Кондиционер AquaSafe (500 мл)+EasyBalance (100 мл)",
+                    "description": "Кондиционеры для поддержания здоровья аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34c/1duizisdgv58u2h8rj6gm1ynim1r43ug/200_200_1/31ccde82b7971b1d8330f484b032150b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "47,20 руб."
+                },
+                {
+                    "name": "Eheim Autoliquid Автодозатор жидких удобрений",
+                    "description": "Электронный автоматический дозатор удобрений для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ca8/u3edjc8vthd134rev0oyxtrnffhey8ko/200_200_1/04384e746f51fe7224a242651842d91c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "120,00 руб."
+                },
+                {
+                    "name": "Eheim AutoFertilizer Жидкие удобрения (6 ампул)",
+                    "description": "Жидкое удобрение для автодозатора.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43a/xgqz4qnmu8rn663pdey5migdz4x49vxx/200_200_1/b3e1213c638abdb82c2c5dc1bdb16519.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "44,00 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Omnipur\", 50 мл",
+                    "description": "Борется с распространенными заболеваниями декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df2/sabys91duz4ngjtrh6wodoz6j60gyxye/200_200_1/c2c337e6e3a3e4e47a62f3e7567fb439.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,10 руб."
+                },
+                {
+                    "name": "Aquayer Гексаметрил",
+                    "description": "Против гексамитоза и других флагеллятов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c4a/de2rjdm7ba2kvb4u81sy3t14260pdq0l/200_200_1/60edd690d202619919cbc98ed46daa16.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,70 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Baktoforte S\", 8 таб в уп.",
+                    "description": "При бактериальной инфекции у пресноводных и морских рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b41/0n71tfzj6y7pco6f0vmvbf6gf8kvk95s/200_200_1/925764c0069cc8444fc6f3bc57c8748c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,00 руб."
+                },
+                {
+                    "name": "Sera Кондиционер для очистки воды \"Toxivec",
+                    "description": "Для быстрой очистки воды в аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/924/f1prk0kx9c8r1dfu35hep23ijx8gy79g/200_200_1/8100f9d6389bf8e08e29cdc0f2df7c91.jpg",
+                    "amount": "100 мл",
+                    "cost": "17,50  руб."
+                },
+                {
+                    "name": "Sera kH-тест, 15 мл",
+                    "description": "Тест на определение жесткости для пресной и морской воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/062/eloah8jwgquza1lmgd68sut584p1pa7f/200_200_1/dbfc5dc902cd8d69d4432f532cc5bb05.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,80 руб."
+                },
+                {
+                    "name": "Sera Нитрит-тест (NO2), 15 мл",
+                    "description": "Позволяет определить уровень загрязнения воды нитритами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/641/abvrik0bojhbtrxl9ejo3mqg0z1ebhzh/200_200_1/2ea2a82e285d643bf30d55d1844afb1e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,90 руб."
+                },
+                {
+                    "name": "Sera Нитрит-тест (NO 3), 15 мл",
+                    "description": "Для определения уровня содержания нитратов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6b/t4ghzd1twibsc2272mp31hosgv38nx0m/200_200_1/15948b2d6c71017f0218560904489139.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,00 руб."
+                },
+                {
+                    "name": "Tetra Капли ReptoSol, 50 мл",
+                    "description": "Витаминный комплекс для рептилий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d98/lbd6wqmev19k1w00k5icw94vnr11nvki/200_200_1/25dbdc8273660c41e19561a1b3ebdf89.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,60 руб."
+                },
+                {
+                    "name": "Tetra Удобрение PlantaMin",
+                    "description": "Удобрение для водных растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ed1/xmegn65ww7l4zxzh1f5s749pxr7ycewm/200_200_1/9b0c3d8e1c7d24db23c445ee5d796c4b.jpg",
+                    "amount": "100 мл",
+                    "cost": "14,00  руб."
+                },
+                {
+                    "name": "Tetra PlantaStart 12 таб/уп.",
+                    "description": "Средство для роста водных растений, 12 таб.",
+                    "image_url": "https://garfield.by/upload/iblock/fd0/p93om13kgdu1ruq8wyq3cshbkz71gvke/84d8eba1bd8302050c4c77920ec323cf.png",
+                    "amount": "за 1 ед.",
+                    "cost": "26,80 руб."
+                },
+                {
+                    "name": "Tetra Plant Crypto для растений, 10 таб/уп",
+                    "description": "Средства для роста водных растений в аквариуме.",
+                    "image_url": "https://garfield.by/upload/iblock/5fb/rn52s59d56htzl6yi5jdmwcdkt0qziim/40930575f0a6848458e01f4d7f0da53e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,30 руб."
+                },
+                {
+                    "name": "Tetra Средство Plant Initial Sticks, 250 мл",
+                    "description": "Средства для роста водных растений в аквариуме.",
+                    "image_url": "https://garfield.by/upload/iblock/55e/1v8fr3lp85ukiuefij4cx9zhmhqpd2vc/972883d6ee976ea8320bf2f4b95796f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,40 руб."
+                },
+                {
+                    "name": "Tetra Средство AlgoStop deport, 12 таб/уп",
+                    "description": "Длительное действие, уничтожение водорослей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bfe/nmvurv3n2va7ytv428dgcxjunembb10m/200_200_1/Screenshot_1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,10 руб."
+                },
+                {
+                    "name": "Тetra Лекарство Medica FungiStop, 100 мл",
+                    "description": "Лекарств. препарат для борьбы с грибковыми инфекциями.",
+                    "image_url": "https://garfield.by/upload/iblock/54c/3dvl23pxdozmetnnc0hddc0o001n4dm0/53b3362905e51c625b668d167aaf6ac2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,90 руб."
+                },
+                {
+                    "name": "Tetra Кондиционер SafeStart",
+                    "description": "Кондиционер для быстрого заселения аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bf4/mtqohydzctdshfblq7i8o3m36cwnh14z/200_200_1/39bf4b754e86d589a24d5b5941e322c1.png",
+                    "amount": "50 мл",
+                    "cost": "16,30  руб."
+                },
+                {
+                    "name": "Tetra Средство Biocoryn, 12 капсул",
+                    "description": "Против разложения биологических загрязнений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a03/lyd3sno5d64xygjbpo6y5nn4d8i25u6p/200_200_1/c370a8d8c133ad2e5e477f6ade686793.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,60 руб."
+                },
+                {
+                    "name": "Aquael Кондиционер для воды ActiClean, 100 мл",
+                    "description": "Для подготовки воды в аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91d/vitiws8sb1b811s1fc0abqxxlxp2afa4/200_200_1/bace0ca1db5d90bd2ac1388db40857f6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,70 руб."
+                },
+                {
+                    "name": "Aquael Кондиционер для воды ActiBactol, 100 мл",
+                    "description": "Для подготовки воды, запускает азотный цикл в новом аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a45/q117l3c5k6dj4u0vop0aagtlc6hnu739/200_200_1/43867bb2e95298e54a9205338cdac937.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,50 руб."
+                },
+                {
+                    "name": "Aquayer Дропчекер (без индикатора)",
+                    "description": "Контроль концентрации углекислого газа (СО2) в воде",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d52/mx3ndi3nnpz7a1ga6bz71adicjhoo0un/200_200_1/9fd42bd8fb7fb3bf9d5ed6f29694c794.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "38,40 руб."
+                },
+                {
+                    "name": "Aquayer Индикатор СО2, 30 мл",
+                    "description": "Индикатор для длительного теста СО2",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c8b/01o5qe5spkb9txof81lnaqhr189tdq82/200_200_1/6009138461.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,50 руб."
+                },
+                {
+                    "name": "Aquayer Альгицид+СО2",
+                    "description": "Средство для борьбы с водорослями.",
+                    "image_url": "https://garfield.by/upload/iblock/1ae/4vn7hivtc9smk0m0318um2o4bwt610v1/c81abafada00505869b88f283ae0e5ff.png",
+                    "amount": "60 мл",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Aquayer Комплект Дропчекер+Индикатор CO2, 30 мл",
+                    "description": "Комплект для контроля концентрации углекислого газа в воде.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0af/lrovr7qv48354dnp0ktw5lcc3v7twyxy/200_200_1/bf219df6f10dce15d24e17d89f53bda5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "42,20 руб."
+                },
+                {
+                    "name": "Aquayer \"Удо Ермолаева Калий+\"",
+                    "description": "Концентрированное удобрение для растений, с калием.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2eb/jirieba3bu5dsnehn3u9lshop2uzxn3x/200_200_1/d4df1a92a6881c445718bd379801cd76.png",
+                    "amount": "60 мл",
+                    "cost": "7,10  руб."
+                },
+                {
+                    "name": "Aquayer Аптечка Аквариумиста, Аквамед",
+                    "description": "Средства против эктопаразитов и др. возбудителей.",
+                    "image_url": "https://garfield.by/upload/iblock/02e/by7pyvtesc68wmxduyq1mznukqv54408/e3e139199eca68e38ef7953048f2c6a2.png",
+                    "amount": "60 мл",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "Акваменю Реактив gH+",
+                    "description": "Для повышения общей жесткости воды.",
+                    "image_url": "https://garfield.by/upload/iblock/9b5/8i5y4xngu7j4qcjn28wy5lyio1wc8d7w/2426f3156c09025d9233db667b6993c5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Акваменю Реактив kH+",
+                    "description": "Для повышения карбонатной (временной) жесткости воды.",
+                    "image_url": "https://garfield.by/upload/iblock/432/e2lwctajey7b0sthkfrjvj6ajwvcjtu1/f541ae8afcac5dbbfb012aaf7fa43b62.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Акваменю Реактив pH-",
+                    "description": "Для уменьшения значения рН (повышение кислотности) воды.",
+                    "image_url": "https://garfield.by/upload/iblock/9ef/y1fxdfgw3hc9z5vq4ghnen0rfpbhcoqj/4a9176d4d0449fe21fcf311bbafef4cd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Акваменю Реактив pH+",
+                    "description": "Для увеличения значения рН (понижение кислотности) воды.",
+                    "image_url": "https://garfield.by/upload/iblock/73b/t8u4wuemj6fut2ubvuldxq01fijfmv6f/a66378174c88ff2de6de39bd027ae19d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Акваменю Реактив Антиаммиак",
+                    "description": "Для очистки воды в аквариуме от аммиака",
+                    "image_url": "https://garfield.by/upload/iblock/b7a/powf2wyld5zer7ng9lx3ek0t5takn0y4/5aad442112e09bcb9bfb89a70018ec51.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,80 руб."
+                },
+                {
+                    "name": "Акваменю Тест gH",
+                    "description": "Для определения общей жесткости воды в аквариуме.",
+                    "image_url": "https://garfield.by/upload/iblock/ae2/2sznsqpibk53xuofldci6zc15fbzu94i/2cbb5c2443aecb08ba43cf846eb40a8a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,30 руб."
+                },
+                {
+                    "name": "Акваменю Тест kH",
+                    "description": "Для определения карбонатной (временной) жесткости воды (kH).",
+                    "image_url": "https://garfield.by/upload/iblock/d40/b8t8eyjms57xzr1tp0u0imelfdsmzyfn/7827bcda3444909dfc400054758878c2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,30 руб."
+                },
+                {
+                    "name": "Акваменю Тест pH",
+                    "description": "Для определения уровня кислотности воды (рН) от 4,5 до 10,0.",
+                    "image_url": "https://garfield.by/upload/iblock/f38/savojuq8uhkq4mjef5wwxradc8bzz1qm/c59df875c324089ddd77837df70e1e2a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,30 руб."
+                },
+                {
+                    "name": "Акваменю Тест Аммиак-аммоний",
+                    "description": "Для определения концентрации аммиака ионов аммония.",
+                    "image_url": "https://garfield.by/upload/iblock/468/m3x8nvl4hjl70a6zqqg0vixh49mrainn/295038b79bc4be2f6e9838fac4302952.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,00 руб."
+                },
+                {
+                    "name": "Tetra Лекарство Medica General Tonic, 100 мл",
+                    "description": "Лекарств. препарат для лечения бактериальных инфекций.",
+                    "image_url": "https://garfield.by/upload/iblock/cd5/wrfbgwgerpjv62yuvz6l0a9q473m7dxz/858d02e0a24a575a4d9bdf8df2d0fecd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,00 руб."
+                },
+                {
+                    "name": "Aquayer \"Удо Ермолаева таблетки\", 90 шт",
+                    "description": "Для подкормки аквариумных растений через корни.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d1/cxntofn9m104nypyvd944ah59vjh4f00/200_200_1/e39106341524306fa85d52ad42f382eb.png",
+                    "amount": "за 1 ед.",
+                    "cost": "19,30 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Baktopur\", 50 мл",
+                    "description": "Дезинфицирует воду и способствует выздоровлению рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ec/4bx6fduc8k2oxt46ozb2ebmhyl06kgq2/200_200_1/90c3b4cdb5bc659ed56d835d8fc396e6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,00 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Baktopur Direct\", 8 таб в уп.",
+                    "description": "Лекарственное средство для рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f1e/skchkybxzf0fkpsiapr66ipckex1vhco/200_200_1/6d37c7460118d68ea574cd7e9051c422.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,90 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Costapur\", 50 мл",
+                    "description": "Средство против кожных паразитов.",
+                    "image_url": "https://garfield.by/upload/iblock/ef3/kwgfgwp98fpkjaieagipmazmcd3lat7s/b5813be96b630a8c488a2bae2979d7ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,00 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Ectopur\", 100 мл",
+                    "description": "Для облегчения во время болезни и при стрессе.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b7/54cgdjf0lsne3oe6rwswjjmuq2fxcojs/200_200_1/4b2b42a894a7be22988e556548a5b611.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Flagellol\", 10 мл",
+                    "description": "Для удаления одноклеточных кишечных паразитов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2bd/3bhtgsnby2vai1uibknieab0riroslun/200_200_1/058d96aca865a8981b73bb1bbb19291a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "48,40 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Mycopur\", 50 мл",
+                    "description": "Для обработки против грибков на рыбе и икре.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/637/pr0ji3npxipsjnnqt0pjvgizkxjr72s8/200_200_1/8eab42a7f0aeb649fbcf07a4b6bb0431.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,00 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Nematol\", 10 мл",
+                    "description": "Для надёжного и щадящего удаления нематод.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2b5/o99k3vpph0ul7mj6g27fur1xwi73fas9/200_200_1/8113f3ec19bfc8ebc7a83cee137f1c91.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "48,60 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Protazol\", 25 мл",
+                    "description": "Устраняет грибковые инфекции в пресноводных аквариумах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a4/libq73c4kuejbdc5c1p5rw6cer63cj9k/200_200_1/d46eb4105ff8578080269c0472379825.png",
+                    "amount": "за 1 ед.",
+                    "cost": "42,40 руб."
+                },
+                {
+                    "name": "Sera Корм лечебный таблетки \"Bakto Tabs\", 100 мл",
+                    "description": "Лечебный корм для пресноводных и морских рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3d/tbxozz2918bpqjm7nuisaw37a2i3e81o/200_200_1/60f3cb6c8f00c0238efdfe23928126da.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,90 руб."
+                },
+                {
+                    "name": "Sera Средство для лечения болезней \"Tremazol\"",
+                    "description": "Средство для борьбы с паразитами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/112/rr9mv8g8253x3ephxirkoj4fs0mtaqnz/200_200_1/7e394e078bfa826ea97f66e4a7fba1f3.png",
+                    "amount": "25 мл",
+                    "cost": "47,50  руб."
+                },
+                {
+                    "name": "Aquael Кондиционер для воды Antyglon",
+                    "description": "Препарат против неподвижных водорослей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/54b/agtumzv40h05r2pt4ll2q61vz9c6ouoy/200_200_1/be8378fa489d793f54bc8f5183608811.jpg",
+                    "amount": "250 мл",
+                    "cost": "28,10  руб."
+                },
+                {
+                    "name": "Aquael Кондиционер для воды FMC",
+                    "description": "Препарат для дезинфекции воды в пруду.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b53/jflnneppo096muefgg0qxjpqrd2ow4ow/200_200_1/ccd73d5d17189bb46867adfc385a8f33.jpg",
+                    "amount": "250 мл",
+                    "cost": "35,50  руб."
+                },
+                {
+                    "name": "Aquael Кондиционер для воды Aquaclar",
+                    "description": "Препарат для осветления воды в пруду.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ba/as3zj8e59hmor5hocwoj07q9rk0lxenc/200_200_1/6a536082525f5c467dd3805bcb440ad1.jpg",
+                    "amount": "250 мл",
+                    "cost": "39,00  руб."
+                }
+            ]
+        }
+    }
+}

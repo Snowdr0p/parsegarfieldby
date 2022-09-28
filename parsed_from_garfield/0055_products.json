@@ -1,0 +1,51 @@
+{
+    "Птицы": {
+        "Средства для дома и клетки": {
+            "url": "https://garfield.by/catalog/birds/udalenie-zapakhov.html",
+            "products": [
+                {
+                    "name": "\"Amstrel\" \"Оdor control\", для  птиц и грызунов",
+                    "description": "Для устранения запахов и меток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/474/po3mgb5t7rvx1qtulbrzqqwesm3zawb9/200_200_1/ff052e53325cac01d61b6773ff8d4534.jpg",
+                    "amount": "200 мл",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "Beaphar Stain Remover для удаления пятен, 500 мл",
+                    "description": "Спрей для удаления пятен от животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/99b/0bwdzhg1a04nbigymyl14ltlctgx6d72/200_200_1/eeb97a75e83cedf8833ec9451eebdfa1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,00 руб."
+                },
+                {
+                    "name": "Mr. Fresh Expert Ликвидатор пятен и запаха грызунов и птиц",
+                    "description": "Зоогигиеническое средство против пятен и запахов, 200 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fee/0nrlb60gpp2kht5xvawgu5u1dbshou1a/200_200_1/9d3560bdf4c49ab2f7a2c0b124c148b9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,10 руб."
+                },
+                {
+                    "name": "RIO гигиенический песок для птиц, 2 кг",
+                    "description": "C экстрактом эвкалипта и ракушечником.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae9/ko77s4akdoi88gtsyrxr0fp12ukfit1d/200_200_1/0665927c259c6b0426f6e57b2a397a10.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Beaphar Дезодорант Odour Eliminator от запахов, 500 мл",
+                    "description": "От запахов испражнений, шерсти и др.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b29/qud7ag9hc4g420c914zgc6ip76wm4nvs/200_200_1/a95768ec7e18e899f4f1df8711c14a6b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,90 руб."
+                },
+                {
+                    "name": "Средство Сильверсил Базис \"Домашние питомцы\", 500 мл",
+                    "description": "Дезинфицирующее средство против бактерий и вирусов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fdd/s7kr583afui2zznammxeu2j0x98i716f/200_200_1/6bfc36d019826c569ad5b3b438e03d3d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,70 руб."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,793 @@
+{
+    "Рыбки": {
+        "Инвентарь для ухода": {
+            "url": "https://garfield.by/catalog/akvariumistika/komplektuyuschie-dlya-akvariuma.html",
+            "products": [
+                {
+                    "name": "Laguna Сачок телескопический металлический",
+                    "description": "Сачок с металлической ручкой и каркасом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/722/bx13nkwvif7137dyrsn4vsowegr2xrbk/200_200_1/3b7ab79b-3be2-11ec-bbaa-1866da6865b2.jpg",
+                    "amount": "100x75x140 мм",
+                    "cost": "21,50  руб."
+                },
+                {
+                    "name": "Barbus Супер сачок (зеленая сетка)",
+                    "description": "Прочный сачок для ухода за аквариумом с антикоррозийным покрытием",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/63c/ht73asyn01i8u0dhteey6dx69bba5mnw/200_200_1/ACCESSORY_027.jpg",
+                    "amount": "7,5 х 6 х 25 см",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Barbus Набор аксессуаров для аквариума SET 004",
+                    "description": "Набор аксессуаров по уходу за аквариумом до 40 л",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/11c/1jrcixi463aejcooaxr5wtqkv6o3bq5w/200_200_1/21141241-490x400.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "41,90 руб."
+                },
+                {
+                    "name": "Jaba Клей силиконовый (прозрачный)",
+                    "description": "Клей для герметизации и склеивания стеклянных и керамических материалов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d55/o58qug7xqmd5z2egn1i07dg7cq2ri96g/200_200_1/5bad4783384e1f6f1323e136.jpg",
+                    "amount": "8 мл",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Barbus Кормушка круглая для рыб",
+                    "description": "Кормушка из прозрачной пластмассы на присоске",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab5/gl3atfi53zxnw5xf2b735k2e94256zz2/200_200_1/801-kormushka.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "Barbus Кормушка квадратная для рыб",
+                    "description": "Кормушка из прозрачной пластмассы на присоске",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dea/yk9qkx15cdb5tnesovf6q9avtxoee5gp/200_200_1/711-barbus-kormushka.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "Barbus Комплект держателей верхнего стекла аквариума",
+                    "description": "Для стекла толщиной до 4 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/941/o6g6tvf9u06sl3gjljj4wb7v5m1yvodd/200_200_1/564-accessory-122.jpg",
+                    "amount": "4 штуки",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "Barbus Делитель аквариума на присосках",
+                    "description": "Вспомогательный аксессуар для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fe3/wustysjxz183gfjk25sazslmdsswntd8/200_200_1/192-delitel-ly-x9.jpg",
+                    "amount": "2 штуки",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Barbus Скребок ACCESSORY 035-037",
+                    "description": "Аквариумный скребок для чистки стенок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ae/bsh2a6k1cs8bepboga5h18l3ms0ujgwg/200_200_1/966-skrebok-c-lezviem.jpg",
+                    "amount": "60 см",
+                    "cost": "16,20  руб."
+                },
+                {
+                    "name": "Barbus Сифон аквариумный",
+                    "description": "Аквариумный сифон для чистки грунта",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c98/6uvtig67xjii7i2797apvf12dtkkhdc2/200_200_1/034.jpg",
+                    "amount": "1,72 м",
+                    "cost": "13,10  руб."
+                },
+                {
+                    "name": "Aquareef Сифон аквариумный с грушей",
+                    "description": "Аквариумный грунтоочиститель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/904/d00mmz8he7atq5xyewl9bymo6cig7mkn/200_200_1/d3cd3e23a814d359322abe1bbe4b8ef0.jpg",
+                    "amount": "1,75 м",
+                    "cost": "11,90  руб."
+                },
+                {
+                    "name": "Exo Terra Щипцы для кормления Bamboo Feeding Tweezers",
+                    "description": "Щипцы для кормления из бамбука",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/887/4xtwxpez33valbvisp5c4ac31rzt3s9f/200_200_1/f964dd6d3dd318ee96c8bfc389235f08.jpg",
+                    "amount": "1,7x1,7x29 см",
+                    "cost": "26,80  руб."
+                },
+                {
+                    "name": "Tetra Easy Wipes",
+                    "description": "Салфетки для чистки аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4bd/pqgnh6vx2ft1agu297pdgxcmcvl9vl60/200_200_1/f1dacaddfdad865cbb7a6352626fd40b.jpg",
+                    "amount": "10 шт/уп",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "Jaba Клей силиконовый (черный)",
+                    "description": "Клей для герметизации и склеивания стеклянных и керамических материалов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/156/ahj2is40epvz2u7g5rdw125hgd0rbw5m/200_200_1/a3812f743dfc1a198f201f4bdd9c7dec.jpg",
+                    "amount": "8 мл",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Barbus Мешок с застежкой для наполнителя",
+                    "description": "Мешок из прочной ткани для наполнителя",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b14/1ou3ak6kzowwgw4cfu26gmfe06bnncyf/200_200_1/d90843f3cf7a1003fa2dd1bb4f95450e.jpg",
+                    "amount": "10 х 15 см",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Tetra Magnet Cleaner Flat",
+                    "description": "Магнитный очиститель для аквариумов с плоскими стенками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c64/gduy13vpppnqjtgob0pb2dy3d109h9dv/200_200_1/de4ddcb32fb6255471d9d5518b585e26.jpg",
+                    "amount": "S",
+                    "cost": "37,70  руб."
+                },
+                {
+                    "name": "Natural Color Магнитный скребок для аквариумов",
+                    "description": "Магнитный скребок для аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bfe/338xv0fequv46cudj8p0kyto0e1ibnoz/200_200_1/8224caf9f5094a8c787a64b394f09544.jpg",
+                    "amount": "71х38 мм",
+                    "cost": "26,30  руб."
+                },
+                {
+                    "name": "Barbus Аквариумный сачок с инфракрасной сеткой",
+                    "description": "Сачок для ухода за аквариумом, с удлиненной ручкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65f/bhagnejntu0y1ztn2qpq3f9z25yy7egf/200_200_1/f6bda8febf91e39c1d30c13eda07a406.jpg",
+                    "amount": "10 х 7,5 х 45 см",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Eheim Соединитель шлангов быстроразъемный",
+                    "description": "Для безопасного подключения и отключения шланга.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f91/x1z33z3lrv1vmm39ntm8ky2p3m18yn2o/200_200_1/3a89d81923db5da5b55dc4a0a3c58022.jpg",
+                    "amount": "12/16 мм",
+                    "cost": "45,10  руб."
+                },
+                {
+                    "name": "Laguna Магнитный скребок",
+                    "description": "Скребок для чистки внутренней поверхности аквариумных стекол.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad9/okbiigje5f8k1y1mzw48lrzvx1azylmy/200_200_1/b824e60d215601f689773103fc6538b4.jpg",
+                    "amount": "S",
+                    "cost": "24,10  руб."
+                },
+                {
+                    "name": "Aquael Сачок аквариумный телескопический",
+                    "description": "Сачок с телескопической ручкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/840/5nqry19y5pjx52roopy82o1iq0h765lf/200_200_1/cb9d1bc668546adbda61387123c80125.jpg",
+                    "amount": "12,5х10 см",
+                    "cost": "24,20  руб."
+                },
+                {
+                    "name": "Aquael Сачок аквариумный (3 Wire)",
+                    "description": "Сачок с усиленной ручкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/240/avipprk9esgw7wwxxkaf0uve0eh2ehil/200_200_1/576dd3fb7c8629725c51b29d91efadf1.jpg",
+                    "amount": "7,5х6 см",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "Laguna Сачок аквариумный",
+                    "description": "Сачок для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab7/nbe3b75o638hveuev5z2h44xpl8e8r56/200_200_1/bb2eb3dba0f7481933116bec3eb5105f.jpg",
+                    "amount": "60 х 85 мм",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Laguna Скребок магнитный со сменными лезвиями",
+                    "description": "Скребок для чистки внутренней поверхности аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/993/qam7b8rgqqzro1evwhr5lh23apv60feh/200_200_1/966a5352424c07428c9edbd04882902a.jpg",
+                    "amount": "S",
+                    "cost": "57,10  руб."
+                },
+                {
+                    "name": "Aquael Скребок Magnet Cleaner",
+                    "description": "Магнитный очиститель стенок пресноводных и морских аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b4/438u1adx6j1xomzjui1x4tiwhaqh039p/200_200_1/6bca327e6ace5146f56f3880d29923bc.jpg",
+                    "amount": "S",
+                    "cost": "37,60  руб."
+                },
+                {
+                    "name": "Eheim Очиститель с лезвием Rapid Cleaner",
+                    "description": "Очиститель с лезвием для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0c/1z288z0z1m4pu9smywgdg4a4srq3gca3/200_200_1/18207eb708371f1ee1ede882c16c6358.jpg",
+                    "amount": "48 см",
+                    "cost": "70,10  руб."
+                },
+                {
+                    "name": "Boyu GC Сифон-грунтоочиститель",
+                    "description": "Сифон для очистки грунта, с краном.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65b/iyf96xw07gyoy4iz7vhjm592p49g7941/200_200_1/a0537c8f4ea05360d760fdd54ede2773.jpg",
+                    "amount": "18\" (45,8 см)",
+                    "cost": "40,10  руб."
+                },
+                {
+                    "name": "Tetra Magnet Cleaner Bowl",
+                    "description": "Магнитный очиститель для круглых аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/400/k2ke4ezcvghnx9znxhhnsid9s4nce60j/200_200_1/fff6ed9a37ed747eb0074f524603aec9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,50 руб."
+                },
+                {
+                    "name": "Aquareef Cифон для очистки воды с клапаном",
+                    "description": "Аквариумный грунтоочиститель",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bba/wpvqjshsksite1hp92d3txzq4345k86k/200_200_1/4091c61cd520c46ce02e320000a9121a.jpg",
+                    "amount": "1,75 м",
+                    "cost": "14,10  руб."
+                },
+                {
+                    "name": "Laguna Чистящая насадка с креплением к скребку 106, 107",
+                    "description": "Сменная насадка к скребку, 90х80х6 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a26/45wz4vor9fw4zvx27bv1xy3l5ia760e8/200_200_1/8660818d5f3b0a9670378c2853228cbe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "Laguna Насадка удлиняющая к скребку 102, 103, 106, 107",
+                    "description": "Насадка к скребкам.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/545/4e2af9wfsjbwuc5dc0sclrq8af81f6sv/200_200_1/6c4c6dfcefa45a0d44fcd71984d6a3fd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,40 руб."
+                },
+                {
+                    "name": "Laguna Скребок с губкой 106МС",
+                    "description": "Скребок для аквариума на короткой ручке, 250х72х36 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d51/r8fham4fzonxgetbaq96339j8nzr3d76/200_200_1/c52996439aab71854b249eb836216af3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,50 руб."
+                },
+                {
+                    "name": "Laguna Скребок с губкой 107МС",
+                    "description": "Скребок для аквариума на длинной ручке, 400х72х36 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f8d/hgmq9twfjyrmynelq7v5gl9na988ehn7/200_200_1/e864d4c27147203e0bc4ea68f1b853b1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,30 руб."
+                },
+                {
+                    "name": "Laguna Скребок с лезвием 102МС",
+                    "description": "Скребок для аквариума на короткой ручке, 250х72х36 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/182/5zasqajifs8htl9agg9q1fjrqujchsoh/200_200_1/ad619d646814276e4733b9052ab64044.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,50 руб."
+                },
+                {
+                    "name": "Laguna Скребок с лезвием 103МС",
+                    "description": "Скребок для аквариума на длинной ручке, 400х72х36 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ed7/w2g2vdummp8rvy8gxw3ytal74fsmq3yx/200_200_1/f561968995fbbe230320f07a3b97353a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,30 руб."
+                },
+                {
+                    "name": "Laguna Набор для ухода за аквариумом \"5 в 1\"",
+                    "description": "Может использоваться в пресной и соленой воде.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e9/6qumzy3do5jy9hpkc592jlacwsmsm8ph/200_200_1/6fb2fd1bafc0fde3501b34d7d4a5acc2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,90 руб."
+                },
+                {
+                    "name": "Eheim Сачок 5''",
+                    "description": "Сачок для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e8c/5ymb377rrqlmlvu7y2u9epewlabtaaah/200_200_1/84df61b10216bd0bb1ffa8a727202dd5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Eheim Сетчатый мешок для фильтр-наполнителей",
+                    "description": "Белый мешок для наполнителей, 2 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/557/5ttiwst0alx44str13k3id8947wfpo4t/200_200_1/565ed6f1531b9593eab6a37687729ee2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,10 руб."
+                },
+                {
+                    "name": "Eheim Вазелин для уплотнительных колец и шарниров",
+                    "description": "Средство для ухода за частями аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5cc/73v6fpolddktbkj987lu9jaibybumkh8/200_200_1/35cd07974be4bb1f67dbec2d42901e13.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,10 руб."
+                },
+                {
+                    "name": "Eheim Rapid Cleaner Сменный скребок-лезвие",
+                    "description": "Сменное лезвие для очистителя аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/688/q7lhpkmd3f509vxehlmh80q00rdmgkv3/200_200_1/5f3fb2f6aeea4eb355b4188ad7a57d8d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,10 руб."
+                },
+                {
+                    "name": "Eheim MultiBox Коробка обслуживания",
+                    "description": "Коробка для содержания морского и пресноводного аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/417/1249nzbazx7anfcbuoza83h0tsjk1lpz/200_200_1/46ad76729c61b895b1f5ff2e57c0cc0f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "85,10 руб."
+                },
+                {
+                    "name": "Aquael Пластиковое крепление Heater Handle AQN/AQM Set",
+                    "description": "Держатель с присосками для терморегулятора.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bec/5g5h1ds5swi5xob7puxgebquyn1nf3km/200_200_1/ebf04d0249b4b14024c40d02cd40974a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,80 руб."
+                },
+                {
+                    "name": "Laguna Обратный клапан 2007CW",
+                    "description": "Обратный клапан, 4 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/006/an8sluzh2k16xgj6lddl9w7ikofhzt8h/200_200_1/6261e0404181f88922fc29f3e496dbb7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,10 руб."
+                },
+                {
+                    "name": "Laguna Обратный клапан 2008CW",
+                    "description": "Обратный клапан, 4 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f18/cmj8d48a1updxdo204uvxriaicogeq82/200_200_1/2cf14bb1df49ae50f8bd5dfc2f5dba74.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Tetra TB 160 Tube Brush",
+                    "description": "Щетка для очистки шлангов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4b/irxsl9qz95wi51n3b80ivsspfiaq7ntu/200_200_1/55bfd06d897e9b718d21e59b0e84a55c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "26,00 руб."
+                },
+                {
+                    "name": "Laguna Ершик 0502LF двойной для шлангов",
+                    "description": "Для чистки трубок и шлангов, 155 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/73c/u8ojo1y4089vsyusbzyg6818ne82b6ae/200_200_1/e603ac7da3dd90f5ac1d8b117c026f1f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,80 руб."
+                },
+                {
+                    "name": "Laguna Соединитель одинарный 1801CW",
+                    "description": "Соединитель для шлангов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/519/mqzdbcc3aytb1h23c7qj63m9gt318jz6/200_200_1/4711414a020639c46739fdcb85d070df.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,40 руб."
+                },
+                {
+                    "name": "Natural Color Ножницы для растений изогнутые, 27 см",
+                    "description": "Ножницы из нержавеющей стали для растений",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b51/3onl3v0wxfkbhitapc2tsvhhuvm3tl58/200_200_1/7b712aa25e4c38ff7fbeea2977660eff.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,20 руб."
+                },
+                {
+                    "name": "Tetra Slider Cascade Globe (2pcs)",
+                    "description": "Сменный пластиковый язычок к аквариуму Cascade Globe.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f1/5wswlmziu7z9x3zvkvdrdqwgo4ed4yqi/200_200_1/06bd5fafac4765405ce8df26e510a6d9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,80 руб."
+                },
+                {
+                    "name": "Eheim Сачёк для ручки rapid Cleaner",
+                    "description": "Сачёк-насадка без ручки, 20х15 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/335/m0oozwjd0w48plx5wdygen23pw4pwxyc/200_200_1/30c185adf25eaeb634f5f96cb7ed21a6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "Eheim Щетка-\"ерш\" для шланга",
+                    "description": "Щетка для прочистки шлангов, 100 см (1 м).",
+                    "image_url": "https://garfield.by/upload/iblock/510/f83b5o7kaxm8jcdoveudx7e63t70dzjd/90a77e8cc3bd19befed1f72442ad416c.jpg",
+                    "amount": "9/12 мм, 1 м",
+                    "cost": "40,10  руб."
+                },
+                {
+                    "name": "Eheim Набор щёток -\"ершей\" для шланга",
+                    "description": "Гибкий ершик, 1 метр, насадки разного диаметра.",
+                    "image_url": "https://garfield.by/upload/iblock/8f7/na60waf89ctnw4tve7f8aeu5ndzr83xh/283aae619f7e439963ad082460f25a92.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "75,10 руб."
+                },
+                {
+                    "name": "Eheim 3531 Сифон для чистки грунта",
+                    "description": "Автоматический сифон на батарейках.",
+                    "image_url": "https://garfield.by/upload/iblock/18b/34s167i50hsicaz0wyzs23ypor3dt2qh/c8be2e24599cdb3733ae59cc988ce094.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "300,10 руб."
+                },
+                {
+                    "name": "Eheim Сифон для чистки грунта",
+                    "description": "Сифон механический для чистки грунта.",
+                    "image_url": "https://garfield.by/upload/iblock/505/90438pgd4lyps5u6ff11ft8sraqtpli9/215dd0432b5c00670162dab71cb6435d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "125,10 руб."
+                },
+                {
+                    "name": "Laguna Очиститель 0101 CW",
+                    "description": "Очиститель аквариумного грунта.",
+                    "image_url": "https://garfield.by/upload/iblock/c99/fp0pxez7trm0zo1kmjav2w270nbub17h/909a8674c207be8ecd5484f2b09d4003.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "Eheim Щипцы для ухода за растениями",
+                    "description": "Щипцы для ухода за растениями",
+                    "image_url": "https://garfield.by/upload/iblock/ff0/26i2t4diymhqy8922mvq3mj93pf92onl/cb10ca8e92b01a56972100d8f1ed5090.jpg",
+                    "amount": "60 см",
+                    "cost": "70,10  руб."
+                },
+                {
+                    "name": "Tetra Очиститель грунта GC",
+                    "description": "Удобный сифон для очистки грунта.",
+                    "image_url": "https://garfield.by/upload/iblock/a7a/lawk8sj8qlkwer3yebs7vs9w8ekd3s5i/8bed20e664f5449326e30290a3bcc448.png",
+                    "amount": "Tetra GC 30 (20-60 л)",
+                    "cost": "39,30  руб."
+                },
+                {
+                    "name": "Tetra Сачок FN Fish-Net",
+                    "description": "Сачок для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/6fd/k23jc511t6vmefqyfwm1wx7odtnes13i/b92a3043fdde7f59e05a73ed6dfee513.jpg",
+                    "amount": "8 см",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Коврик под аквариум Aquael",
+                    "description": "Коврик под аквариум.",
+                    "image_url": "https://garfield.by/upload/iblock/8cc/kcrbotwd5xqv7h69nlictuwx33bt0fta/9544a4f2a821f0889cc53ac2f3fe5a35.jpg",
+                    "amount": "40x25 см",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "Aquael Сифон Gravel & Glass Cleaner",
+                    "description": "Сифон для очистки грунта.",
+                    "image_url": "https://garfield.by/upload/iblock/57b/q0pparm6vgqc3in2a3oh2z9j1oha5bzb/95778e01c9d751f2e38f2c9c7cf8a462.jpg",
+                    "amount": "S 26 см",
+                    "cost": "28,30  руб."
+                },
+                {
+                    "name": "Aquael Скребок Magnet Cleaner 2in1",
+                    "description": "Магнитный очиститель двойного действия.",
+                    "image_url": "https://garfield.by/upload/iblock/66d/kycgclwq9v53q3ln82z1ar9bpc7zwyv9/f148c4116d69e808182bfd652b7a0019.jpg",
+                    "amount": "10-18 мм",
+                    "cost": "218,90  руб."
+                },
+                {
+                    "name": "Aquael Сачок аквариумный Fish net",
+                    "description": "Сачок для ловли рыбы из аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/dcc/d65ugny7ghhx1pgzq902uw55dlg6dlyk/9fc46281771debf1aa7296a1093024c5.jpg",
+                    "amount": "12,5х10 см",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "Aquael Ершик для чистки шлангов Filter Hose Cleaner",
+                    "description": "Ершик для чистки шлангов.",
+                    "image_url": "https://garfield.by/upload/iblock/0a3/jhmd7u8rcbwpe6fvx5che218axcluq7v/3a8f52b8fcbb9dd0478e7f962cf77f4a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,60 руб."
+                },
+                {
+                    "name": "Sera Магнитный скребок Glas Clear \"ТА6\"",
+                    "description": "Для очистки аквариума от водорослей.",
+                    "image_url": "https://garfield.by/upload/iblock/832/qip5gcxv4onz0qy2epvey5v08ef30l6p/84413f78ee796d7a5e909b90b2a8fac9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,80 руб."
+                },
+                {
+                    "name": "Sera Грунтоочиститель \"Gravel Washer\" (треугольный)",
+                    "description": "Для ухода за аквариумным грунтом.",
+                    "image_url": "https://garfield.by/upload/iblock/6db/zrjletlfun0hw972pzzl7uglihw18tb2/64ccc6121128efb0beede0a820bfa20f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,90 руб."
+                },
+                {
+                    "name": "Trixie Сачок для аквариума",
+                    "description": "Сачок с проволочной ручкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b5/dnosk11m1n047hw2wpxcudexwldc984c/200_200_1/6cd8074abb0666628f892b7dc43204ab.jpg",
+                    "amount": "12х10 см",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Sera Сачок для рыб (мелкая ячейка)",
+                    "description": "Прочный аквариумный сачок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cb/m18yu203anznt1dnz50l13d11he0evyn/200_200_1/7cbeaac991df45b9e130614fe7bce8e3.png",
+                    "amount": "12 см",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Barbus Супер сачок",
+                    "description": "Прочный сачок для ухода за аквариумом, с удлиненной ручкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb4/uh4j8lb428sjaakf9lye76yku24gstjy/200_200_1/12570690-1.jpg",
+                    "amount": "7,5 х 6 х 30 см",
+                    "cost": "4,00  руб."
+                },
+                {
+                    "name": "Marlin Aquarium Аквариумный клей гелевый",
+                    "description": "Клей подходит для склейки композиций, декораций, камней и живых кораллов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e8/49gxrx4dk8x3mfj0400kcu6j0a60iik4/200_200_1/860e703ab9234969f9a0df7d4b08541b.jpg",
+                    "amount": "5 г",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "Сифон Natural Color для очистки воды",
+                    "description": "Для чистки аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/308/6ib2sdikz1bmmz35fypfe8gcwzndwz4p/200_200_1/1b9c266439dd3d678acf932c02614137.jpg",
+                    "amount": "1,7 м",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Laguna Скребок 0904CW аквариумный",
+                    "description": "Двусторонний скребок для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f7b/zhrf0jz08qlclm8hb97jw2sukam3nmy9/200_200_1/e6cd848c6bd215e2e23d911e919e5892.jpg",
+                    "amount": "700 мм",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Trixie Сачок с крупной сеткой",
+                    "description": "Сачок для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b9/p250h5ki42b9337no0scjkw2q1rbeymi/200_200_1/ceb30fbd53b3344ee0bbea187f95e68a.jpg",
+                    "amount": "7х6 см",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Laguna Лезвия запасные для магнит.скребка, 4 шт.",
+                    "description": "Скребок для чистки внутренней поверхности аквариумных стекол.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff3/oky0fb6a2zo5kn2ptvkodu2k5upotdkf/200_200_1/58eca61bd367d7640d836b9d0651a7ff.jpg",
+                    "amount": "S",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "AA-Aquariums Сачок аквариумный",
+                    "description": "Сачок из высококачественного пластика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f84/rmzryzfsda8wwrvnlfg275r7y2mjzjnt/200_200_1/7c9cea011c4d3dfa1e9db5a6616df71e.jpg",
+                    "amount": "80 х 340 мм",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Hagen Сачок нейлоновый \"Marina\" синий",
+                    "description": "Сачок для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/040/eqd0r7s8hhg1dhg9ydwwlhd6b0ue6dia/200_200_1/f0dbabb90a56d4bedbf218ed3381fba2.png",
+                    "amount": "20 см",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Hagen Сачок \"Marina\" черный",
+                    "description": "Сачок для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/459/g3wl2rhhixcfny4im4bzvyd1iaj4asrr/200_200_1/98dd13b000e4c760968ab8c885479ff4.jpg",
+                    "amount": "5 см",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Hagen Скребок Marina магнитный",
+                    "description": "Магнитный скребок для чистки стенок аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/10e/k6tpc12wwrlh0csh5libju1fv8nmaa6d/200_200_1/a41930b7b3976ad74383e5f5c0e46718.jpg",
+                    "amount": "малый",
+                    "cost": "19,60  руб."
+                },
+                {
+                    "name": "Hagen Скребок Marina",
+                    "description": "Губчатый скребок для чистки стенок аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/21f/xzs68sl7vu0jpvqo09b0p3lq7q2wxe02/200_200_1/85103789f3566eaa8fcf54d1a2120f65.jpg",
+                    "amount": "средний",
+                    "cost": "10,90  руб."
+                },
+                {
+                    "name": "Repti-Zoo Forcepts Пинцет для кормления",
+                    "description": "Пинцет для кормления рептилий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/61c/764hu2loj2ss32a8b4enubg0xgyj22yn/200_200_1/6dd8423d801c248f93a36d1f25b2dc1e.jpg",
+                    "amount": "200 мм",
+                    "cost": "15,60  руб."
+                },
+                {
+                    "name": "Aqualighter Магнитный скребок aCleaner",
+                    "description": "Скребок для чистки аквариума с толщиной стекла до 10 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab0/sbc4wbmf6ociobsyrx0dz0cmf61l5i4i/200_200_1/70adecd456c5ab717e71e1cca7ff3c1e.jpg",
+                    "amount": "белый",
+                    "cost": "37,10  руб."
+                },
+                {
+                    "name": "Natural Color Пинцет прямой для растений, 27 см",
+                    "description": "Пинцет из нержавеющей стали для растений",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76c/igfqp7e25b6hx8vlpze3rimfyj0ad5hg/200_200_1/2fe079551ba42415cf59faf7a3b45127.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,80 руб."
+                },
+                {
+                    "name": "Fluval Скребок магнитный для аквариума",
+                    "description": "Магнитный скребок для очистки стенок,14.2x10.3x4.2 cм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47d/4j3c0eaqsz3rpjg3ua7tlsvrewh4u0b3/200_200_1/7e80643f4cf1b5ea9ddb5145c33dced5.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,00 руб."
+                },
+                {
+                    "name": "Laguna Лезвие с креплением к скребку 102, 103",
+                    "description": "Сменное лезвие к скребку, 57х20х5 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c6/v80d85hyjsx4e2f9k3rkvycgvds8i9r3/200_200_1/32282a1e8a9a1c9707602962c52d4b03.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Laguna Насадка чистящая к скребку 106, 107",
+                    "description": "Сменная насадка к скребку, 90х80х4 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ee0/cmqquwejfi2qfdzabf73jqbc1dfqzurn/200_200_1/c24f275d991cd4fc4976fc352482e24b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,10 руб."
+                },
+                {
+                    "name": "Fluval Aqua Vac+ Автоматический сифон для очистки грунта",
+                    "description": "Беспроводной электрический сифон работает от батареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/30d/edhqx37woi7z03vyyap1s6j4uq7wv1zr/200_200_1/71ea66bcefc16b0a1f4965e4e9e76821.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "146,20 руб."
+                },
+                {
+                    "name": "Laguna Фиксатор с присоской 0303LF",
+                    "description": "Фиксатор для шланга 16 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/afe/qyvdlf9z2p7jk0v6nbn8o39wioj4ewor/200_200_1/5a9a1936f90e739f7852f9a65257972e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,90 руб."
+                },
+                {
+                    "name": "Laguna Скребок универсальный 101МС",
+                    "description": "Двусторонний скребок, 400 х 110 х 80 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b73/0r53ayw0d3k83anlmjgaljamlk2kjwi9/200_200_1/7d6d1bb90a410d5863538341d1d5e5af.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,40 руб."
+                },
+                {
+                    "name": "Tetra Cascade Globe Glass Bowl, 6,8 л",
+                    "description": "Сменная стеклянная колба к аквариуму Cascade Globe.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/773/trj2toecw774jcxyp6ty2e2qkziba18y/200_200_1/acaa4dcaeab8aff3b6c285f2cad5cf6a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "97,20 руб."
+                },
+                {
+                    "name": "Aquael Скребок аквариумный 3в1",
+                    "description": "Скребок для очистки стенок аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/589/ozkshp918xoihdiib0gp6bobm044b4li/200_200_1/4f2733d2c5432ff7b894e1a063f5bf8f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,50 руб."
+                },
+                {
+                    "name": "Aquael Пластиковое крепление Heater Handle Easy Heater",
+                    "description": "Держатель с присосками для терморегулятора.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/743/92hbdi1o41ozu54l2111vy4w0tyhbk6e/200_200_1/8cac374e6fcf2e77b69320c6332bb77b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "Trixie Устройство вакуумное для уборки, диам.40 мм",
+                    "description": "Для уборки небольших аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/137/mq7iocfstnvvyb90z0f80hhiohjjehwy/200_200_1/f29de95b426f1757977c8b81ccc991d1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,20 руб."
+                },
+                {
+                    "name": "Laguna Очиститель аквариумного грунта 0102CW",
+                    "description": "Очиститель аквариумного грунта,  850х50х50 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4b/ya3ok4vt1up12wl670gkzmiiiw8s6e3j/200_200_1/5be7b4a988286def94056a18c0ef24ff.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Ferplast Blu 9019 Набор для чистки стекол",
+                    "description": "Телескопическая рукоятка, 48-56 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7d4/phqs6xrydn3cq826m8f9nt2ln3f5dumn/200_200_1/8a38361ec0da2689470b354b05268e3e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "53,50 руб."
+                },
+                {
+                    "name": "Natural Color Пинцет изогнутый для растений, 27 см",
+                    "description": "Пинцет из нержавеющей стали для растений",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4c/ll8p4uz44d9c6bm6gu77d3fijj1dhg19/200_200_1/a3aa8bf04cba156b5b41d1eeccdcb5d8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,80 руб."
+                },
+                {
+                    "name": "Trixie Устройство для уборки аквариума",
+                    "description": "Регулируемое, пластмасовое.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/698/9y9c7prkknpa5v7pnws282nv038kqmtj/200_200_1/6c0ae432734cc0225c866c9934abcb70.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,20 руб."
+                },
+                {
+                    "name": "Aquael Сифон Gravel Cleaner MAXI треугольный, шт",
+                    "description": "Сифон для очистки грунта и слива воды из аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df4/lmqs5604blson0t4x7v9d2r0rf1rfy3i/200_200_1/56382c8e591453a0ed7b3374e723f4ae.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,20 руб."
+                },
+                {
+                    "name": "Laguna 01SP Опрыскиватель, 1,5 л",
+                    "description": "Для увеличения влажности воздуха и опрыскивания поверхностей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/096/33p1crx7jlp4sv6vxo801qf3dk34q1bd/200_200_1/cfbaf8a99b337a451b688945c6cb6470.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,70 руб."
+                },
+                {
+                    "name": "Trixie Набор для очистки аквариума",
+                    "description": "Скребок с раздвижной ручкой, два спонжа, угловое приспособление.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd0/bs6bru5ea5o6an5by52sxmyn1gccotqe/200_200_1/2ea822c28066adf533089f90b7dca07a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,50 руб."
+                },
+                {
+                    "name": "Trixie Скребок с лезвием",
+                    "description": "Скребок для очистки стенок аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1d/2akr3jhn9xjvqufmmf1lkjmyt05svcrf/200_200_1/56d49bb91b200ea9ad66eaffef1b7c5f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,80 руб."
+                },
+                {
+                    "name": "Laguna 1005CW Щипцы для пересадки растений, 80 см",
+                    "description": "Для ухода за растениями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bab/onjryhcw8j5wfb7942jynyf501tnl389/200_200_1/2927c9b942b6c00f4a87c8a953a8211f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Laguna 0704CW Щипцы для пересадки растений, 60 см",
+                    "description": "Для ухода за растениями, пластик.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bd7/h9tu61ass42f3b2wonswcpdynreuivks/200_200_1/04c20e19252c88859b6490c170326f8f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,50 руб."
+                },
+                {
+                    "name": "Eheim Power Cleaner Скребок для стекол",
+                    "description": "Для стекол аквариума,  электрический.",
+                    "image_url": "https://garfield.by/upload/iblock/61d/7pqo9928ttr1h1f88d61lb6i4253e3v4/dd97564713603e34b0a93a4b800128c7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "110,20 руб."
+                },
+                {
+                    "name": "Eheim Шланг для внешних фильтров и помп 16/22 мм",
+                    "description": "Шланг EHEIM для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/f7e/0ls1ttugricomskspxzamyg07auujkac/5a7cd8a449e531596278e7f30159737e.jpg",
+                    "amount": "1 метр",
+                    "cost": "16,70  руб."
+                },
+                {
+                    "name": "Tetra GS 45 Aquarium Glass Scraper",
+                    "description": "Скребок для стекла аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/b38/aj0n5vcfcu35rb4ygpnbedudjcxk81qt/6e3c11cd5c7d4a945b1ad342be9cb1df.png",
+                    "amount": "за 1 ед.",
+                    "cost": "36,20 руб."
+                },
+                {
+                    "name": "Tetra BaPa GC 40 + EasyWipes",
+                    "description": "Очиститель грунта + салфетки (для аквариума 50-200 л).",
+                    "image_url": "https://garfield.by/upload/iblock/d35/fgkr4wlvqwr65kmnhxrksllp7xpb7y40/16f583d1b98e8a4f374cda8fa602db81.png",
+                    "amount": "за 1 ед.",
+                    "cost": "40,00 руб."
+                },
+                {
+                    "name": "Aquael Скребок Magnet Cleaner Starfish",
+                    "description": "Очиститель аквариумных стёкол.",
+                    "image_url": "https://garfield.by/upload/iblock/039/514xjf110nlyyub33wpgs3pdz3su5fov/75833415c8a76f8202a55f6cccfe6132.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,60 руб."
+                },
+                {
+                    "name": "Aquael Ножницы для растений Curved Scissors",
+                    "description": "Изогнутые ножницы для аквариумных растений.",
+                    "image_url": "https://garfield.by/upload/iblock/9e1/6f8lodh5c0oz5d802syjkpd2727hi0j0/c55bb40e4dc9c09b5cef23017e32826f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,50 руб."
+                },
+                {
+                    "name": "Aquael Пинцет для растений Curved Tweezers",
+                    "description": "Изогнутый пинцет для аквариумных растений.",
+                    "image_url": "https://garfield.by/upload/iblock/071/7zkvagve24f0b1cgxwrhaguulinz4wqi/ac30a90296e795bfee9066f216fe8c31.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,40 руб."
+                },
+                {
+                    "name": "Aquael Ножницы для растений Straight Scissors",
+                    "description": "Прямые ножницы для аквариумных растений.",
+                    "image_url": "https://garfield.by/upload/iblock/743/ch98zmn0kkru8lv3w0q231tjeq7r77tt/5c2f0b5209c3937e5cae142d6b55e844.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "54,90 руб."
+                },
+                {
+                    "name": "Aquael Пинцет для растений Straight Tweezers",
+                    "description": "Прямой пинцет для аквариумных растений.",
+                    "image_url": "https://garfield.by/upload/iblock/261/usfw9jxt17qxmpguqaov5zxz79u2tcri/09f776ddd8ebdf84a6ac39aebe38eb25.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,40 руб."
+                },
+                {
+                    "name": "Sera Грунтоочиститель-пылесос \"Gravel Cleaner\"",
+                    "description": "Для очищения грунта в аквариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/819/o33qctl84ef6khpwxya2vd5nahtcmyf6/200_200_1/4055437213b2cfe663a92dc896e9a88a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,80 руб."
+                },
+                {
+                    "name": "Sera Грунтоочиститель \"Gravel Washer\" (круглый)",
+                    "description": "Для ухода за аквариумным грунтом.",
+                    "image_url": "https://garfield.by/upload/iblock/e15/s5dv3cl2rbq88x8xe0mzgh0sxq2vet34/1f94cd42780ca7eb0f9628c9b0ba1739.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,70 руб."
+                }
+            ]
+        }
+    }
+}

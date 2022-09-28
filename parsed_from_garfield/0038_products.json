@@ -1,0 +1,541 @@
+{
+    "Собаки": {
+        "Для дома": {
+            "url": "https://garfield.by/catalog/dogs/dlya-doma.html",
+            "products": [
+                {
+                    "name": "Уничтожитель сильных запахов туалета для собак, 270 мл",
+                    "description": "Натуральный уничтожитель запахов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e46/kh5x8qdwxeepxo2l6wceatcgjpc3ph1j/200_200_1/317a4bddc7cf7b633b0ae27e28d4d70f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "38,20 руб."
+                },
+                {
+                    "name": "Сменный блок \"Уничтожитель запахов туалета собак\"",
+                    "description": "Натуральный уничтожитель сильных запахов туалета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cad/rsy1idt21kh841kfrmj8vh7znjern4vw/200_200_1/6eb5b956b99baac15477a76cad593034.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,70 руб."
+                },
+                {
+                    "name": "8in1 NM Уничтожитель пятен и запахов от мочи собак Urine Destroyer",
+                    "description": "Средство для устранения стойких пятен и запахов от мочи собаки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8e7/zncc4es6clb47x47xxfp9xf1m69bqc9d/200_200_1/42aff5791a2ea07e9421166b910f3c32.jpg",
+                    "amount": "946 мл",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "Ferplast Ролик GRO 5951 для собирания шерсти",
+                    "description": "Очистка мебели и одежды от шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a8/5mxaayiwjz1qgmdzaob1e2j834p7cux6/200_200_1/3987db9c7e8935830e8ed49422f77fba.jpg",
+                    "amount": "Ø 4,5 см",
+                    "cost": "12,80  руб."
+                },
+                {
+                    "name": "CAMON Сменный рулон к ролику для очистки от шерсти",
+                    "description": "Очистка мебели и одежды от шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e35/u0h6cctt09akhhemxnabh80f89ahsd5p/200_200_1/d582304106e52cad21ffa3aedb422d20.jpg",
+                    "amount": "маленький",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "CAMON Ролик липкий для очистки от шерсти",
+                    "description": "Очистка мебели и одежды от шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e2/2fecb7a9xql154omw8yh8grlqfsbfif3/200_200_1/c11c45b99849629be259cde371d6269b.jpg",
+                    "amount": "большой",
+                    "cost": "19,20  руб."
+                },
+                {
+                    "name": "CAMON Бассейн для собак",
+                    "description": "Предназначен для развлечения и отдыха вашего питомца",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/270/cb1hrp62to1knl3vx4md8l8xunygvuj6/200_200_1/fb2e66697dd8121bb962c02ceee48ffe.jpg",
+                    "amount": "80*20 см",
+                    "cost": "177,80  руб."
+                },
+                {
+                    "name": "Валик для сбора шерсти с одежды",
+                    "description": "Портативный липкий валик для сбора шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c5/9g0z3fiicj6moo0w5d085kolg4bd4ydn/200_200_1/b225035f3c6a1b190d295f16614b06b1.jpg",
+                    "amount": "Зеленый",
+                    "cost": "32,80  руб."
+                },
+                {
+                    "name": "Trixie Откидная дверца с тоннелем XL",
+                    "description": "Общий размер: 24х28 см, размер прохода: 19,7х21,7 см, глубина: 20-25 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/041/vzkguo27n9v6cljrxaeehlp67fdg6388/200_200_1/2d36f923cd8b2a07f10176f4ba172544.jpg",
+                    "amount": "белая",
+                    "cost": "64,80  руб."
+                },
+                {
+                    "name": "Trixie Откидная дверца для кошки, 20х22 см",
+                    "description": "Дверь для кошек.  Общий размер: 20х22 см, размер прохода: 15,9х16,8 см, глубина: 10 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/441/9zi4ua3j811t01u77t3vo4m65xndniat/200_200_1/68794d00bfb13ef5580ec18701cfc41a.jpg",
+                    "amount": "белая",
+                    "cost": "38,80  руб."
+                },
+                {
+                    "name": "Amstrel \"Odor Control\" от запахов, пятен и меток кошек и собак",
+                    "description": "Средство для устранения запахов и меток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4cd/1f4g4hiu9uqcmaui7s6oz9gxzb6d2xje/200_200_1/5cdad4106c831f8c440a282484c3a11b.jpg",
+                    "amount": "200 мл",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "8in1 NM Уничтожитель пятен и запахов собак, универсальный",
+                    "description": "Применяется для чистки ковров, пола, мебели, одежды, клеток",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b9/nnsyj64sgnqnocd4lrphjx24xoonw4pe/200_200_1/eda7fffcd7606b057a653822d9c165a6.jpg",
+                    "amount": "945 мл",
+                    "cost": "41,60  руб."
+                },
+                {
+                    "name": "8in1 NM Advanced От пятен и запахов собак с усил. формулой",
+                    "description": "Уничтожитель пятен и запахов от собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d0/srogk48jvte2nh0dskmifjkqenyrbk9b/200_200_1/1cd40eb809fa93799055b6b0eca8841d.jpg",
+                    "amount": "945 мл",
+                    "cost": "49,80  руб."
+                },
+                {
+                    "name": "Спрей-нейтрализатор пятен и запаха Doctor VIC «Апельсин»",
+                    "description": "Для нейтрализации неприятных запахов, удаления загрязнений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb9/g7sxd46krb42i5m3qlclfujb0wxsiban/200_200_1/e40a4106f5f4c329d6cb3b524f49b09a.png",
+                    "amount": "500 мл",
+                    "cost": "11,30  руб."
+                },
+                {
+                    "name": "Pchelodar ЗооСтирка",
+                    "description": "Универсальное моющее средство",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ec/ork9kxb3iq0v10itjnt43o0zown0ey0z/200_200_1/599bd4f434f9e44505d2e13f3be25851.jpg",
+                    "amount": "500 мл",
+                    "cost": "25,10  руб."
+                },
+                {
+                    "name": "8in1 NM JFC S&O Remover Sprey 710 мл",
+                    "description": "Уничтожитель пятен и запахов универсальный.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a38/cx6i826zio2ov9c71ucxmzqwzfnesbj1/200_200_1/248decf1733aea18ee68521a7eb096e7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,40 руб."
+                },
+                {
+                    "name": "Pchelodar Спрей для уничтожения запаха в местах обитания собак, 500 мл",
+                    "description": "Уничтожение запаха в местах обитания собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f22/8k0ims461mfuqqso8seat17fmqaysyjo/200_200_1/318da5ff2b3903d8c614fb65e4da19bc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,40 руб."
+                },
+                {
+                    "name": "Pchelodar Спрей для нейтрализации запахов, 500 мл",
+                    "description": "Спрей для удаления запахов и пятен",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d5c/sci4debon3szmpln61t6yg1sntqvlttk/200_200_1/a3f05c323e69aaac0948b8cbd2322ebe.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,50 руб."
+                },
+                {
+                    "name": "Сменный блок \"Уничтожитель следов туалета собак и кошек\", 240 мл",
+                    "description": "Безопасно. Натуральный состав.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/283/tpa0ez0axknhfr2beyf9woh2higul713/200_200_1/53f087dcb0d4b4fc3f78d2871805090c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,70 руб."
+                },
+                {
+                    "name": "Beaphar Stain Remover для удаления пятен, 500 мл",
+                    "description": "Спрей для удаления пятен от животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/99b/0bwdzhg1a04nbigymyl14ltlctgx6d72/200_200_1/eeb97a75e83cedf8833ec9451eebdfa1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,00 руб."
+                },
+                {
+                    "name": "\"ЭКО ZOOЛЕКАРЬ\" Спрей для устранения запаха и меток",
+                    "description": "Показано для всех видов домашних животных, 200 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/469/uzrjecm2u797ynvurh4fzcgcebb7g8h1/200_200_1/6dbfc53194e5da99f729bdc9f661c29f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Beaphar Desinfektions-spray, 500 мл",
+                    "description": "Спрей для дезинфекции среды обитания животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/33c/l70l60e8i5rwp5qx5nfb2cmi9o63w6q3/200_200_1/0d75c67158e7be31bf0953f80861fb6b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,60 руб."
+                },
+                {
+                    "name": "Средство для антибактериальной уборки 900 мл",
+                    "description": "Средство для уборки в помещении и устранения следов и пятен туалета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d24/71wsg8p94f7a344asc3rib71iexrmsyz/200_200_1/90f68494a521b61562908e8c6eb7fc5e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "61,70 руб."
+                },
+                {
+                    "name": "Щетка роликовая \"TRIXIE\" для удаления пуха и шерсти, 60 листов",
+                    "description": "Щетка роликовая для обивки и текстиля.",
+                    "image_url": "https://garfield.by/upload/iblock/a2e/4q2gn0n6tazqgbgrk7u0fv3ntzphllci/4695383728dfd64fc57365334fc082d1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,70 руб."
+                },
+                {
+                    "name": "Спрей Hartz от пятен и запаха мочи, 946 мл",
+                    "description": "Спрей для устранения пятен и запаха мочи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/957/zkstq5ky8mx97xwkts53258u1l1y9j3t/200_200_1/b5c0f4b130c1629fb6cc989a476eaf28.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,10 руб."
+                },
+                {
+                    "name": "Beaphar Дезодорант Odour Eliminator от запахов, 500 мл",
+                    "description": "От запахов испражнений, шерсти и др.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b29/qud7ag9hc4g420c914zgc6ip76wm4nvs/200_200_1/a95768ec7e18e899f4f1df8711c14a6b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,90 руб."
+                },
+                {
+                    "name": "Mr. Fresh Ликвидатор пятен и запаха для собак 3в1, 500 мл",
+                    "description": "Спрей-ликвидатор пятен и запаха.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0a2/g4ny20akb1arkpt25ixrpn3x3ct2mxkr/200_200_1/98ef9cc4ffe6f01d9689c6cae6da9a0b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,80 руб."
+                },
+                {
+                    "name": "Устранитель запаха псины (без запаха)",
+                    "description": "Устраняет запахи с шерсти и тела.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a62/p0podywfdwfmmzkdt0gvkdflxmr4wca1/200_200_1/5a9075697affdb7f21678cb6b94cbfe3.png",
+                    "amount": "100 мл",
+                    "cost": "14,60  руб."
+                },
+                {
+                    "name": "Спрей 3в1 против запахов, пятен и аллергенов, 300 мл",
+                    "description": "Спрей с противоаллергической функцией.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/654/jzbe00no4qz0jw6czhg43ok16562n0fv/200_200_1/659578a49fb0558c1044f3b53b15c899.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,10 руб."
+                },
+                {
+                    "name": "Ультрачистящее средство для удаления пятен и следов туалета",
+                    "description": "Средство для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb2/udezq1gr0i3u2vrbr1bj7rbnmwslse1q/200_200_1/ecf7fb5c11792a96538fbf3df4c9fadc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,80 руб."
+                },
+                {
+                    "name": "Устранитель запаха-диск с ароматом лайма, 2 шт.",
+                    "description": "Стационарный аналог устранителя запаха для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dba/6yo2wib4na588z5b69xjatul86gxuiwr/200_200_1/536c3e2489f3a5e5346592e3e3c118ce.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,60 руб."
+                },
+                {
+                    "name": "Устранитель запаха-диск с ароматом детского мыла, 2 шт.",
+                    "description": "Стационарный аналог устранителя запаха для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/38c/2hv7ts5tz497h1kfpz5yuoj59pekhtwe/200_200_1/e97b96a6fdc7f3786e5f6eb6030d8479.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,20 руб."
+                },
+                {
+                    "name": "Beeztees Бассейн для собак",
+                    "description": "Предназначен для развлечения и отдыха вашего питомца",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab3/b3jn2wyqjpgjyy4v73f0fo2gvwofhvhn/200_200_1/50e57291681af0455e5ad3e9d9b232c7.jpg",
+                    "amount": "120*30 см",
+                    "cost": "186,40  руб."
+                },
+                {
+                    "name": "CAMON Крышка бассейна для собак",
+                    "description": "Защищает бассейн от листьев и грязи",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a30/3nhk8jb81y13qniy8ncx8g64ypxqbdl5/200_200_1/74e01ee04c4b7011d16725c90e0866bf.jpg",
+                    "amount": "80*20 см",
+                    "cost": "48,20  руб."
+                },
+                {
+                    "name": "Ferplast SWING 9 Дверка для больших кошек и маленьких собак",
+                    "description": "26,2 x 10,2 x h 31,2 cm",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/768/gggad063sf0rhnrt8s6xzxffdiw60pu0/200_200_1/60484c3e8d49955b597afa8c3aa7dd06.jpg",
+                    "amount": "белая",
+                    "cost": "174,80  руб."
+                },
+                {
+                    "name": "Ferplast SWING 7 MAGNETIC Дверка для собак и кошек",
+                    "description": "22,5 x 10,4 x h 25,2 cm",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9e2/5j4rkgibmfwh0am3zqhht4x35jx9i8r8/200_200_1/9480c747478e44702a661b56c88b3ec0.jpg",
+                    "amount": "белая",
+                    "cost": "199,80  руб."
+                },
+                {
+                    "name": "Trixie Защитная решетка для окон",
+                    "description": "Металлическая решетка для окон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/64b/tyckstdd7v3ea8x2c5feu9nk95tc1tnn/200_200_1/d4696ec7b25235617f2d0481f655e448.jpg",
+                    "amount": "Боковая",
+                    "cost": "18,50  руб."
+                },
+                {
+                    "name": "Trixie Откидная дверца с тоннелем, 20х22 см",
+                    "description": "Дверь для кошек. Общий размер: 20х22 см, размер прохода: 15,9х16,8 см, глубина: 2 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/37a/bsqf3liob7ctaafj7o5ukmahdi8b2txi/200_200_1/b695a8d9665b727940fdfc102c20b802.jpg",
+                    "amount": "белая",
+                    "cost": "60,90  руб."
+                },
+                {
+                    "name": "Amstrel \"Odor Control\" от запахов из лотка кошек и собак",
+                    "description": "Средство для устранения запахов из лотка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/88f/9mnaz7byxs1ifb7uqqfjtirv4izl08d9/200_200_1/80804ce59ec448e26037db8c9150be2a.jpg",
+                    "amount": "200 мл",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "Amstrel \"Odor Control\" от запахов кошек и собак, с ароматом",
+                    "description": "Средство для устранения запахов животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0f4/dac30jhv3l1c7p0qtwl26xfby7ri2mhi/200_200_1/05ed4a23c56b4dbc1f6e3ef7e5737d25.jpg",
+                    "amount": "200 мл",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "8in1 NM Oxy Formula Set-In Stain Destroyer Dog",
+                    "description": "Средство против сильных пятен и запахов, апельсин.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43b/4lm9inpgq73pjr0gjo2fu9flgpvq21hx/200_200_1/2894a2d902f139789e612a0bc855a1cf.jpg",
+                    "amount": "710 мл",
+                    "cost": "38,80  руб."
+                },
+                {
+                    "name": "8in1 NM Уничтожитель пятен и запахов от собак, аромат дыни",
+                    "description": "Средство против пятен и запахов от собак с ароматом дыни.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/21f/erlp3jllh6jvhr5syr2e1c6aayqo1iah/200_200_1/4cae5e84c49288b0e9944a4dae0f2e9d.jpg",
+                    "amount": "946 мл",
+                    "cost": "41,00  руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Расчёска с ленточным роликом",
+                    "description": "Чёрный/оранжевый, 23 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60a/cdbd0d769wz5x0014peu4cri5xlepdha/200_200_1/5a3146b20493cc97909c874bb9a23d75.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,60 руб."
+                },
+                {
+                    "name": "Уничтожитель следов туалета собак и кошек, 270 мл",
+                    "description": "Безопасно. Натуральный состав.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f0/mofknk4do4iut8udcz02soxhkjo6uz5n/200_200_1/c51525957204ec18e30240d049240462.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,40 руб."
+                },
+                {
+                    "name": "Спрей Animal Play \"Нейтрализатор запаха\", 200 мл",
+                    "description": "Спрей зоогигиенический для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/075/p2gyja3cttoitn4u4z72mnb35wnybb09/200_200_1/d41de54a3813f5cea021ab05ccfe914b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Моментальный уничтожитель запахов и бактерий в кошачьих и собачьих туалетах 300 мл",
+                    "description": "Спрей для уничтожения запахов и бактерий с ароматом лесных трав",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ed/33lsp4godd7cb26cjurwuj14obprz92j/200_200_1/90c20130206478e9dab6e6995b4b8492.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,70 руб."
+                },
+                {
+                    "name": "MILORD Чистящее дезинфицирующее средство \"Mela Verde\", 1 л",
+                    "description": "Средство для полов и поверхностей, контактирующих с животными.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/082/ek4y6gh0igcf98vrtupde4uns8i8zjbb/200_200_1/506317048c2cca65c378367107a1a159.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,30 руб."
+                },
+                {
+                    "name": "Le Artis Спрей Уютный дом, 200 мл",
+                    "description": "Средство для удаления органических запахов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aef/i9xpdv3rl7468qqirbqjj83m7wj4vqu6/200_200_1/a315a6a21e8dba4c48293f1f5843ff1a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "8 in 1 NM S&O Remover универсальный 945 мл",
+                    "description": "Уничтожитель пятен и запахов универсальный.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e40/mo6bmq3y1d476t24p6svf070oybwbb0l/200_200_1/507c861cb7510fc165633b81c5ccec71.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,80 руб."
+                },
+                {
+                    "name": "Средство Сильверсил Базис \"Домашние питомцы\", 500 мл",
+                    "description": "Дезинфицирующее средство против бактерий и вирусов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fdd/s7kr583afui2zznammxeu2j0x98i716f/200_200_1/6bfc36d019826c569ad5b3b438e03d3d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,70 руб."
+                },
+                {
+                    "name": "Cредство для выведения с ткани запахов туалета, 270 мл",
+                    "description": "Удаляет стойкие запахи туалета собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e1e/c9xixjjo2bf36lby44luy41zw2bens9n/200_200_1/1dbaf092d01e24ad319868970d5355b5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "42,20 руб."
+                },
+                {
+                    "name": "Trixie Барьер-загородка для собак, белая",
+                    "description": "Металлический барьер для собак, 75-85х76 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a2/muf53m7jup5azlpp538xaxo8g3j7ib33/200_200_1/d075497d5a16301184bbf2b99de7dfac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "367,70 руб."
+                },
+                {
+                    "name": "MILORD Чистящее дезинфицирующее средство \"Argume\", 1 л",
+                    "description": "Средство для полов и поверхностей, контактирующих с животными.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aba/dbe7m4iehcj8ye4hb4psalstgrx5d8af/200_200_1/4c2567d90e385e15a444581cff75bf21.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,30 руб."
+                },
+                {
+                    "name": "Сменный блок \"Средство для выведения с ткани запахов туалета\", 240 мл",
+                    "description": "Удаляет стойкие запахи туалета собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/70a/82cjvse22z17fnevztmt8tg1ku9fk8vr/200_200_1/61147f52e02a72fcf522105df31a94f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,40 руб."
+                },
+                {
+                    "name": "Щётка \"TRIXIE\" для очистки текстиля от шерсти",
+                    "description": "Щетка из натурального каучука.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aff/j9o9pgi3s6itykfr6lk31ob0pjkwfkzt/200_200_1/f12af35301469217e41fdff5f1abdee4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,00 руб."
+                },
+                {
+                    "name": "Mr.Bruno Спрей \"Нейтрализатор запаха\", 200 мл",
+                    "description": "Удаляет неприятные запахи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/46c/5dk0b2r7htilou61keyekd8g7uhg99x8/200_200_1/c9d6c6644b9eeb591b60e5d6ad57a2bf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Trixie Барьер-загородка для собак",
+                    "description": "Барьер-загородка для собак, дерево/металл, 63-108х50х31 см.",
+                    "image_url": "https://garfield.by/upload/iblock/ac2/h997eynf98esi7y4n9y8cflwy9dl5vik/b461a1075f7563e5f4c8b2cfcb43387d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "260,60 руб."
+                },
+                {
+                    "name": "Щётка \"TRIXIE\" для удаления пуха и шерсти, двусторонняя",
+                    "description": "Щетка \"TRIXIE\" двусторонняя для очистки обивки и тканей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/135/qhf952fyxtp5zmk7y4l8br9wq6wzqkd5/200_200_1/ab99c8b1e9e9ccba12ae6babc50bf7bf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,80 руб."
+                },
+                {
+                    "name": "Сменный ролик \"TRIXIE\" для удаления пуха и шерсти, 2 шт по 60 листов",
+                    "description": "Сменный ролик \"TRIXIE\" для удаления пуха и шерсти.",
+                    "image_url": "https://garfield.by/upload/iblock/542/mke1plezmfj0amivj62ghthui7mvjy5i/5504372130cbdf18abd74aee97aa8abe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,10 руб."
+                },
+                {
+                    "name": "Urine OFF Dog против запахов и пятен",
+                    "description": "Для уничтожения пятен и запахов собачьей мочи.",
+                    "image_url": "https://garfield.by/upload/iblock/43b/ufeu09fdy7yxxu50l5pb99ccq7p0bueo/0df7f79969ae64b3750bf86e1fa6c5a8.jpg",
+                    "amount": "500 мл",
+                    "cost": "32,10  руб."
+                },
+                {
+                    "name": "Mr. Fresh Expert Средство для мытья полов, 300 мл",
+                    "description": "Средство для мытья полов, без хлора.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de9/zczb6b5jzy9lwunm7iwienmbl2zgw3ka/200_200_1/2fefd4ff3ed9c94b82f91cf8ffadf9ac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,30 руб."
+                },
+                {
+                    "name": "Mr. Fresh Липкий ролик",
+                    "description": "Очистка мебели и одежды от шерсти.",
+                    "image_url": "https://garfield.by/upload/iblock/1ef/rej8bdp6m0vw2vc067tjdseaipcis5v0/a94c6740b8e61da4e8b179407087da00.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Информационная табличка, 24х17 см",
+                    "description": "Пластик, \"Внимание! Охраняется служебными собаками\".",
+                    "image_url": "https://garfield.by/upload/iblock/ac9/17w6blurfzbf0v6qz1f0kuy0nfre4ho0/9a05736dee7eec8b1ae1c9895d864cc8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,00 руб."
+                },
+                {
+                    "name": "Информационная табличка, 24х17см",
+                    "description": "Пластик, \"Здесь живу я!\".",
+                    "image_url": "https://garfield.by/upload/iblock/c03/qg11akwu5wt38zhrpxmneau7c73t81cf/12cb2af122101152e4cf3942590cb46e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Информационная табличка, 17х24 см",
+                    "description": "Пластик, \"Осторожно! Злая собака\".",
+                    "image_url": "https://garfield.by/upload/iblock/0c1/8g1gbygzyqyhky7pz6lf5t6mqiuop5vm/02af5e5267e459d944d31d3a156d0c4b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Табличка информационная, 24х17 см",
+                    "description": "Пластик, \"Осторожно! Охраняется собаками\".",
+                    "image_url": "https://garfield.by/upload/iblock/638/mpljd55uhre8fv1h8zdu5zuwcz087uiq/07d2dd56940f9b3ebc3742e474e58176.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,00 руб."
+                },
+                {
+                    "name": "Информационная табличка 1, 216х154 мм",
+                    "description": "Пластик, \"Есть ли жизнь после смерти?\"",
+                    "image_url": "https://garfield.by/upload/iblock/cea/0oddfr0w6bz51slddli0r1pxrlepnecm/e27d0df77a60af89d1f90b5ec1a74583.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,60 руб."
+                },
+                {
+                    "name": "Информационная табличка 2, 216х154 мм",
+                    "description": "Пластик, \"Есть ли жизнь после смерти?\"",
+                    "image_url": "https://garfield.by/upload/iblock/618/e80xpfb63psastm4xm7t92dzv8u8dooc/7001eac4ab9ae83bfbbb36bc75920dd9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,60 руб."
+                },
+                {
+                    "name": "Информационная табличка, 216х154 см",
+                    "description": "Пластик, \"Спокойно, шеф, все под контролем\"",
+                    "image_url": "https://garfield.by/upload/iblock/e1e/sxe3apy8psc04xjpuo52nffliwq0vpat/7fccfa054e9e4031fcff8c9d053996af.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,60 руб."
+                },
+                {
+                    "name": "Информационная табличка",
+                    "description": "Пластик, \"Частная собственность. Вход воспрещен\".",
+                    "image_url": "https://garfield.by/upload/iblock/d05/hwq04n1fg4vmr6tm4m4po404xphv5hjf/2e4738c7f15436dc1e3cec00419719ed.jpg",
+                    "amount": "216х154 мм",
+                    "cost": "12,70  руб."
+                },
+                {
+                    "name": "Trixie Барьер-перегородка",
+                    "description": "Для крупных собак.",
+                    "image_url": "https://garfield.by/upload/iblock/d78/i9whvv7mvbfvl0zckkcnsax62sl6l1k3/0b9ab378a395bc84db6aef5560ab5797.jpg",
+                    "amount": "61-103 x 75 x 40 см",
+                    "cost": "388,00  руб."
+                },
+                {
+                    "name": "Trixie Ступеньки",
+                    "description": "Для мелких, старых и больных питомцев.",
+                    "image_url": "https://garfield.by/upload/iblock/aa9/3q5e0gnc69lmd3wsuea07yoaqeqt3jib/7286be525811c3d4fe10abf4f7275651.jpg",
+                    "amount": "40x38x45 см",
+                    "cost": "344,80  руб."
+                },
+                {
+                    "name": "Trixie Откидная дверца XL",
+                    "description": "Для крупных кошек и мелких собак.",
+                    "image_url": "https://garfield.by/upload/iblock/e93/tpv7cq2nyyvak34xth2zec6h8c5b4me3/3a90bddde78902743e787344c17b0f65.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,00 руб."
+                },
+                {
+                    "name": "Trixie Откидная дверца Microchip Identification",
+                    "description": "С идентификацией микрочипов.",
+                    "image_url": "https://garfield.by/upload/iblock/0dc/ox6gdxzzwiwxpg8bw8ngdz7y67kgcr62/4374f9d307298df0668aba3a7ca3411c.jpg",
+                    "amount": "26,2х28,1 см",
+                    "cost": "525,60  руб."
+                },
+                {
+                    "name": "Trixie Откидная дверца 2-Way Dog Flap XS-S",
+                    "description": "Закрывается с помощью металлической планки.",
+                    "image_url": "https://garfield.by/upload/iblock/381/2znh193w1b6l9fiud7i8shhnta2pep33/1d2c160f97e739e81b813f082165efd2.jpg",
+                    "amount": "25х29 см",
+                    "cost": "118,30  руб."
+                },
+                {
+                    "name": "Trixie Откидная дверца 2-Way Dog Flap S-М",
+                    "description": "С прочной металлической планкой.",
+                    "image_url": "https://garfield.by/upload/iblock/405/5x0ci8qa0uppb9r1r7bxzrjsrm3vsf2q/da666260f85b37837d74963b838e6b62.jpg",
+                    "amount": "30х36 см",
+                    "cost": "194,70  руб."
+                }
+            ]
+        }
+    }
+}

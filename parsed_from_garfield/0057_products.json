@@ -1,0 +1,16 @@
+{
+    "Птицы": {
+        "Освещение": {
+            "url": "https://garfield.by/catalog/birds/osveshchenie.html",
+            "products": [
+                {
+                    "name": "Laguna Лампа для птиц ультрафиолетовая UVB2.4",
+                    "description": "Лампа для любых видов птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/341/cho51xqw23xzy791m4973u0gvlufabya/200_200_1/4c23879d-599b-11ec-bbb5-1866da6865b2.jpg",
+                    "amount": "20 Вт",
+                    "cost": "63,20  руб."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,2270 @@
+{
+    "Кошки": {
+        "Лакомства": {
+            "url": "https://garfield.by/catalog/cats/lakomstva.html",
+            "products": [
+                {
+                    "name": "Альпийские луга \"7 трав\" Травка для кошек",
+                    "description": "Травка для проращивания с контейнером",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/59a/xqh61f4gjly2c4rwutol5eb69b2r7syh/200_200_1/0833083cd9b94ff75bbcbd507adb031f.jpg",
+                    "amount": "75 г",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Dreamies Подушечки для кошек с кошачьей мятой и курицей",
+                    "description": "Лакомство для взрослых кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/902/urmxe5u7tgkzuojyfh4zbv9vdjyxpubo/200_200_1/ec02318ee0786a71a30fc68facaa71d9.jpg",
+                    "amount": "60 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Dreamies Подушечки для кошек с лососем",
+                    "description": "Лакомство для взрослых кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4d7/ndw8bo8gzvk79n1bpxiekfox1x9wbm61/200_200_1/5998749123065_1.jpg",
+                    "amount": "60 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "INABA Churu Bee Запеченные трубочки (Тунец Кацуо)",
+                    "description": "Лакомство запеченные трубочки с нежной кремовой начинкой для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/55c/zbkwprzqhmk7dqr902e1hxzmp2m8hpjo/200_200_1/4901133625916_20220818110850.jpg",
+                    "amount": "10 г х 4 шт",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "INABA Churu Bee Запеченные трубочки (Курица, тунец)",
+                    "description": "Лакомство запеченные трубочки с нежной кремовой начинкой для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dd6/tx46yooupab5ot1orflwj92ficc4tno9/200_200_1/4901133625909_20220818110856.jpg",
+                    "amount": "10 г х 4 шт",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "INABA CIAO Churu Куриное филе с кальмаром",
+                    "description": "Лакомство-пюре для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff5/g0j4ps8j51rbnvavc2bcz0hs13m4mu8j/200_200_1/4901133947292_20220818090847.jpg",
+                    "amount": "14 г х 4 шт (упаковка)",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "INABA CIAO Churu Тунец Магуро с морским гребешком",
+                    "description": "Лакомство-пюре для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c75/k1aazzymw4vcxqruf8y4nmrhxzg1fi30/200_200_1/4901133947230_20220817170829.jpg",
+                    "amount": "14 г х 4 шт (упаковка)",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "INABA CIAO Churu Куриное филе",
+                    "description": "Лакомство-пюре для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/439/xzuze5vfc93cf1qlm2o4o0qrb7abv6b3/200_200_1/4901133947216_20220817120849.jpg",
+                    "amount": "14 г х 4 шт (упаковка)",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "INABA CIAO Churu Тунец Магуро",
+                    "description": "Лакомство-пюре для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/455/tq6uqjbeowc33nuoeunihklm5oom9336/200_200_1/4901133947193_20220817110854.jpg",
+                    "amount": "14 г х 4 шт (упаковка)",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "INABA CIAO Churu Тунец Кацуо",
+                    "description": "Лакомство-пюре для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ce/4bpd8ddkyorq0lrm095u3ukq78jpvj8m/200_200_1/4901133947209_20220817120835.jpg",
+                    "amount": "14 г х 4 шт (упаковка)",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "INABA CIAO Churu Куриное филе и говядина",
+                    "description": "Лакомство-пюре для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b1/20p6bbqjkp58k9plchuh2nnpnhhelmwc/200_200_1/4901133947322_20220817110822.jpg",
+                    "amount": "14 г х 4 шт (упаковка)",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "INABA CIAO Churu Куриное филе с крабом",
+                    "description": "Лакомство-пюре для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/53d/uunld73y1tc0byvcuo82jgcmf5hk8xq3/200_200_1/4901133947223_20220817110815.jpg",
+                    "amount": "14 г х 4 шт (упаковка)",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые палочки для стерилизованных кошек (Индейка, цыпленок)",
+                    "description": "Профилактическое лакомство для кошек с индейкой и цыпленком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b7/f1rl3f9u2gz4w1h76rfq2j6j1ey8nsnk/200_200_1/uwc5immctgj0fdyyd8fb69zt92r2x0it.jpg",
+                    "amount": "3 шт",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "O'dog Узелки МЯУ Мясо утки и трески",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dfe/qrimz4vcllt971qbden5vhwzil73apk3/200_200_1/_.jpg",
+                    "amount": "750 г",
+                    "cost": "78,30  руб."
+                },
+                {
+                    "name": "O'dog Чемпион Мясо утки и трески",
+                    "description": "Натуральное лакомство для котов и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/50f/l5a8efa2u813a7adwn5uy4972w2umpcg/200_200_1/photo.jpg",
+                    "amount": "500 г",
+                    "cost": "62,70  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets Junior Mix для котят (Сыр, молоко, йогурт)",
+                    "description": "Хрустящие подушечки для котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f82/g0ufqm36wx1djw7o4un5xa7wflyvx0cx/200_200_1/198016574.jpg",
+                    "amount": "60 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets (Сыр + таурин)",
+                    "description": "Хрустящие подушечки с витаминами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d3c/y1xeupsprdvigcfwfg6pttf02ntopo6h/200_200_1/198024923.jpg",
+                    "amount": "60 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets (Утка)",
+                    "description": "Хрустящие подушечки с витаминами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ac/2hxs3vn31f07k84u0pbb7dh34pxu9mn6/200_200_1/199011329.jpg",
+                    "amount": "60 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets (Лосось)",
+                    "description": "Хрустящие подушечки с витаминами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/099/sgmuo2nkt942te7pgbxol0liotjx7ffm/200_200_1/198019663 (1).jpg",
+                    "amount": "60 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets Кантри микс (Утка, говядина, индейка)",
+                    "description": "Хрустящие подушечки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8af/o4izgfoui61v11a1cguahdf2msxly0g0/200_200_1/199013154.jpg",
+                    "amount": "150 г",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets Морской Микс (Лосось, форель, креветки)",
+                    "description": "Хрустящие подушечки с витаминами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ba5/hgjjsv5lljahw4t1ncwtm1wffcus836i/200_200_1/198987326.jpg",
+                    "amount": "150 г",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets (Птица)",
+                    "description": "Хрустящие подушечки для очистки зубов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c28/bo3czmtxdz97vo72lt1mu7vv1o635pjp/200_200_1/198018545.jpg",
+                    "amount": "60 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets (Говядина + солод)",
+                    "description": "Хрустящие подушечки со вкусной начинкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df8/9klvgm67t339r2s0xhfjbz1zqhrm44h9/200_200_1/198018666.jpg",
+                    "amount": "60 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets (Кошачья мята + мультивитамин)",
+                    "description": "Хрустящие подушечки со вкусной начинкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c4b/zvmkj6k1bxi5h0p96j6mr5yfdehyiw4j/200_200_1/198019241.jpg",
+                    "amount": "60 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Dreamies Подушечки для кошек с лососем и сыром",
+                    "description": "Лакомство для взрослых кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cd/nun7vwqcjuuox3qxm4a1ob1u5p9h1opa/200_200_1/6088765154.jpg",
+                    "amount": "60 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Dreamies Подушечки для кошек с говядиной и сыром",
+                    "description": "Лакомство для взрослых кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ed/yn0dwzvtp5mahkz290mfjul5j93w9o56/200_200_1/1002396259_1.jpg",
+                    "amount": "60 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "For Friends Кабаносы из говядины",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d4/65cgcdrje1x212zn84wj8stpzovrp8qv/200_200_1/TUZ874.jpg",
+                    "amount": "50 г",
+                    "cost": "6,80  руб."
+                },
+                {
+                    "name": "For Friends Кабаносы из утки",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a9d/tllv64fz8qng7lf3omv48a429x1nbtsa/200_200_1/TUZ875.jpg",
+                    "amount": "50 г",
+                    "cost": "6,80  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Суп из курицы с креветкой и гребешком",
+                    "description": "Натуральное лакомство для кошек в виде супа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cba/mb1ly44z4tei59g6r5wj73sc9cfcj2de/200_200_1/Снимоккпккп.JPG",
+                    "amount": "35 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "GimCat Палочки для котят (Индейка)",
+                    "description": "Лакомые мясные палочки для котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3de/xkltks2cs3jlfr7f39kn92xhftud0nr7/200_200_1/1031034.jpg",
+                    "amount": "3 шт/уп",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Molina Карпаччо из курицы и трески",
+                    "description": "Лакомство для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/90a/dze53es1s6u5zgx5ebcvh035jrwzg558/200_200_1/630d62ac6bed4b25bb0f383a1db29dd2.jpg",
+                    "amount": "25 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Molina Карпаччо из говядины",
+                    "description": "Лакомство для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ba/kuukyi4ltzie1tzfxn153dojdserlzky/200_200_1/molina-best-friends-lakomstvo-dlya-koshek-i-sobak-karpachcho-iz-govyadiny-25-g.jpg",
+                    "amount": "25 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Molina Карпаччо из лосося",
+                    "description": "Лакомство для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a1/8lr8jcnh32ibq9z503yvytj28p0rgwyh/200_200_1/149796.0x600.jpg",
+                    "amount": "25 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Molina Куриные чипсы с треской",
+                    "description": "Лакомство для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c23/qrhm1t5k3su2q9jqkh59xevfn3pvc3zz/200_200_1/c9668ab5db4cd33aa59ea42c8ab1e4d9.jpg",
+                    "amount": "40 г",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "For Friends Лакомство для кошек Полоски из мяса утки",
+                    "description": "Полоски из мяса утки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/198/ulzsukky3h4s3zop48fa0w6nya6c7r21/200_200_1/a1f6541f4e2c385d8cf683cbed073bc8.jpg",
+                    "amount": "50 г",
+                    "cost": "6,80  руб."
+                },
+                {
+                    "name": "For Friends Лакомство для кошек Полоски из мяса индейки",
+                    "description": "Полоски из мяса индейки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b4/yl0xigkzups3z088235ztemwre05idww/200_200_1/d0c9a816df52ad7d6a707e963af3adea.jpg",
+                    "amount": "50 г",
+                    "cost": "6,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Универсальная травка для домашних животных",
+                    "description": "Универсальная травка для домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/burgcg5cw22ttd285rmvwil6eftqyrzw/200_200_1/08d9cc84912c6478f950e6d781c5596e.jpg",
+                    "amount": "150 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Мнямс Хрустящие подушечки для стерилизованных кошек Профилактика МКБ",
+                    "description": "Профилактическое лакомство для кошек с цыпленком и клюквой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a7e/ftzqodp1e50s35sa44lrrwdiodbo34k1/200_200_1/e5bfcbafdaac1986d1064323e8da8047.jpeg",
+                    "amount": "60 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Мнямс Хрустящие подушечки для котят Здоровый котенок",
+                    "description": "Лакомство с цыпленком и молоком для котят с 4-х месяцев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/71b/55ebog82m34pfdb5k4eai3w8pfn9amah/200_200_1/67f8d5485eb5fabd6d596edc60e5c88a.jpg",
+                    "amount": "60 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Happy Cat VET Snack Sensitive",
+                    "description": "Ветеринарное лакомство для чувствительных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/48e/z3gmdckebl5ujgnwiwqxwefy2n92tpog/200_200_1/506cc45c5fef08dc29ffc602826577c3.jpg",
+                    "amount": "85 г",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Triol Аппетитные мини-колбаски из утки, 2 шт/уп",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d45/5pam71seeg7kvgk6w4cyzu3w6g409jmk/200_200_1/611e904ba1dcf7e665748853a10f92f2.jpg",
+                    "amount": "7 г",
+                    "cost": "1,30  руб."
+                },
+                {
+                    "name": "ТИТБИТ Колбаски Шотландские для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/61b/s5k82zv1c7lbekgtcl7ko3rn4nxe5b1o/200_200_1/fed873d352dbae17ef07d0e90e3a1010.jpeg",
+                    "amount": "20 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "ТИТБИТ Колбаски Фермерские для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ce/stfc33h5b300y93q51dsb6mcxokmrao0/200_200_1/f7ca88be551c0f756c6ff3e4b98cdbd3.jpeg",
+                    "amount": "20 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "ТИТБИТ Колбаски Телячьи для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/859/bkn6o02qtt8pvx9vqasw5w4buou714jo/200_200_1/ae4605f41fc5d310a7915a71601ecc31.jpeg",
+                    "amount": "15 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "ТИТБИТ Колбаски Сливочные для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c8f/2shckmzmfidvpe759ynnvbs4kv6770c7/200_200_1/300e21a27eb2fd4757ce6c840f400764.jpeg",
+                    "amount": "20 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "ТИТБИТ Колбаски Сибирские для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/130/stp8o49uorgic0wfhycp2x9we21ws2pr/200_200_1/825189c8fca63e189ae18be092aedb97.jpeg",
+                    "amount": "20 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "ТИТБИТ Колбаски Посольские для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a64/7wkcqwz6hz19chb0jv2e0l69xoy6xz4y/200_200_1/ab4c09771a57c15bea86f42312d21a02.jpeg",
+                    "amount": "20 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "Подушечки с пюре из краба для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/670/ocd2ymz4auxo898np5go271h5x6glhxe/200_200_1/5d19feaf936147d535c3f5c957224231.jpg",
+                    "amount": "30 г",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Подушечки с пюре из лосося для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b04/s33y4m7g7nvyf504azslh7u17a5uhq07/200_200_1/ac6b3af15edee9bd95d2cce6fcac73cb.jpg",
+                    "amount": "30 г",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Мини-колбаски с пюре из желтка для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d2/irmh53f6n856i45qpo22hrgp1hmjfl8u/200_200_1/45d72683defa49fc59e0543707a51289.jpg",
+                    "amount": "10 г х 4 шт",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Мини-колбаски с пюре из сыра для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/971/62wanx1ef5vp5g9hp5gnrm0kijvziei0/200_200_1/27bc6f647ec6c91a3f6b8bb6da8ace00.jpg",
+                    "amount": "10 г х 4 шт",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Подушечки с пюре из креветок для кошек",
+                    "description": "Натуральное лакомство для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a1/nfx0ku3cqexh36vi17fy2agx30z9jy4d/200_200_1/70bf5184267e30ef2aa69e6548d261b8.jpg",
+                    "amount": "30 г",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Подушечки с пюре из курицы для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/85a/adr9cqrx5kfliv612s6zs3sz29oqk0d0/200_200_1/c9936228d1fbdb92e25f949f71328126.jpg",
+                    "amount": "30 г",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Подушечки с пюре из говядины для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ab/viirf9c77s0vw6w9f2bmbg63tg4bza31/200_200_1/88e0e7930615d495aee3a71a19b921bb.jpg",
+                    "amount": "30 г",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Мини-колбаски с пюре из лосося для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c7/mjoe44446fa3rye5qccj7ij0tc6wvzhx/200_200_1/41275d28db05e6df3025a0ebf2b75827.jpg",
+                    "amount": "10 г х 4 шт",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Мини-колбаски с пюре из тунца для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f8a/ugodmslznqlmz3ygk4vwtqz1v8lrdunj/200_200_1/ae8c8f52561e103b4808ef0b991f297d.jpg",
+                    "amount": "10 г х 4 шт",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Мини-колбаски с пюре из говядины для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d3d/p7v1u1nc995mofxaeqlzow5w013mnqcn/200_200_1/e3f13a53f531e77b85c773159e3cd165.jpg",
+                    "amount": "10 г х 4 шт",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Sanal Salmon Bites с паштетом из лосося",
+                    "description": "Лакомство для кошек, здоровье сердца и сосудов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/666/126lsrfkbf8b39880hue4tyjzb6ngxnz/200_200_1/9abbf3f9d8357605a8cda92b486b5b3b.jpeg",
+                    "amount": "75 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Dreamies Подушечки для кошек с сыром",
+                    "description": "Лакомство для взрослых кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c0/3uxbwsavbyyh4t6jo65ggie1j72b4s0o/200_200_1/866b8c8e72fc062f0bae7a38fc97d861.jpg",
+                    "amount": "60 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Dreamies Подушечки для кошек с курицей",
+                    "description": "Лакомство для взрослых кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/40c/p7hxly6hip3okwcn6h17p4s51e3t8gtm/200_200_1/6cd89022923fe49a0fa9992a2fdd9382.jpg",
+                    "amount": "60 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Dreamies Подушечки для кошек с говядиной",
+                    "description": "Лакомство для взрослых кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5dc/iahpugs42pc2ja08arz126c92rltkm8b/200_200_1/04af7f54292da900654dc58b6f1fd3f9.jpg",
+                    "amount": "60 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "O'cat Лакомства для котов Соломка из кролика",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c9/vj4a3cli3x14nxlpnh24hewcsgi7zq7i/200_200_1/db322c788e54c5a624379ad1ecc8ee94.jpg",
+                    "amount": "45 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "O'cat Лакомства для котов Соломка из говядины",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/edf/p6wjt8r113hnkfktkeuijblze3hvlikj/200_200_1/08ed78ff783b788c0d8052f22cc737ec.jpg",
+                    "amount": "45 г",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "O'cat Лакомство для котов Соломка утиная",
+                    "description": "Натуральное лакомство для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/69f/jo4bv9ty5jwhstc3hm6i6q3mcv2plu6l/200_200_1/2a3728a1920791385455256064967fd2.jpg",
+                    "amount": "45 г",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "O'cat Лакомства для котов Соломка куриная",
+                    "description": "Натуральное лакомство для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/11e/33ilzwlo9ko4o6xj1ygop3l42x6aesy3/200_200_1/2044dae7732e70d6032fe6817c021647.jpg",
+                    "amount": "45 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Сыр)",
+                    "description": "Способствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a2/quo1bkcnv11lwyl0nulijac7fanjtu3e/200_200_1/8ca527b1fae29c77f4c37d582ff5a73c.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Лосось)",
+                    "description": "Способствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9fe/wodn63lblyifoatrphloz6xfam8h9wah/200_200_1/ba673713dca1301cf0668dad9dca7df9.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Курица)",
+                    "description": "Cпособствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/157/3s2dnvbascop2dfsdpefx4xwstsh9rmk/200_200_1/4426da20066dfa471b46b73db3ac9549.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Gimcat Сырные шарики для кошек",
+                    "description": "Лакомство со вкусом благородного твердого сыра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41d/g7ztg5h8xo9207ysm32cqd18urf21ml0/200_200_1/0e228107354a3d1c2e5c2a3463674337.png",
+                    "amount": "40 г",
+                    "cost": "9,50  руб."
+                },
+                {
+                    "name": "Triol Мини-медальоны из кролика с треской для кошек",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/090/lss4u35ngj45kgbwr1vg8ynm2dvias8l/200_200_1/c6ad71f7b1afeebb71f83a8b8d28e26c.jpg",
+                    "amount": "40 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Лакомство \"Веселый Мур-р-рмелад\" со вкусом курицы",
+                    "description": "Съедобная игрушка для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/73d/xecb8t7nrgct5usv9f3y2uq3h5bgwibo/200_200_1/ca2a80964f4298f3bf8b12828ba1793f.png",
+                    "amount": "6 г",
+                    "cost": "1,60  руб."
+                },
+                {
+                    "name": "Лакомство \"Веселый Мур-р-рмелад\" с кошачьей мятой",
+                    "description": "Съедобная игрушка для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6fa/158ehjwpd041hfz6vn6tgblc510l5u9p/200_200_1/0cb298c9c00ae768cda422aafc76ad3d.jpg",
+                    "amount": "6 г",
+                    "cost": "1,60  руб."
+                },
+                {
+                    "name": "Лакомство \"Веселый Мур-р-рмелад\" с инулином",
+                    "description": "Съедобная игрушка для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fc0/77lql2bk9lqegidq8dnrem0vu0x0dky3/200_200_1/41710ffb2358fd556bee300677029d5c.png",
+                    "amount": "6 г",
+                    "cost": "1,60  руб."
+                },
+                {
+                    "name": "Альпийские луга \"7 трав\" Травка для кошек",
+                    "description": "Трава из 7 видов растений (семена).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b7a/xw7v2if60k88smzpyaq0clle3alucnok/200_200_1/eb513479a6bd7072184c259ad0362399.jpg",
+                    "amount": "50 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "GreenQZin \"Нежность\" (Королевские роллы)",
+                    "description": "Лакомство для кошек, 750 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4da/xdqoybme13tz216r3qysc6i98zpe889f/200_200_1/a8f3e28be841194594441a637acbd087.jpg",
+                    "amount": "750 г",
+                    "cost": "125,20  руб."
+                },
+                {
+                    "name": "Домашний деликатес Соломка из говядины",
+                    "description": "Лакомство в виде соломки из говядина для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b57/ts2r0wzgpep11q3fusq7yzqngue3ysj7/200_200_1/743aff6333a861052ca912882b1c0085.jpg",
+                    "amount": "45 г",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Домашний деликатес Соломка утиная",
+                    "description": "Лакомство в виде соломки из утки для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a7c/ktuse47vlfbpa6se6kcarvvlww3nd7eq/200_200_1/8fd6f1b8876de0ecb152687052d83da5.jpg",
+                    "amount": "45 г",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Домашний деликатес Соломка куриная",
+                    "description": "Лакомство в виде соломки из курицы для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/710/u5qy0ep6o1b705z2koxkrukqq620ktte/200_200_1/dcd491b4fb58c91cc2db7b56de40724b.jpg",
+                    "amount": "45 г",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые палочки для котят (Индейка)",
+                    "description": "Лакомство для котят в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/662/746p014zobk105xw6qc9mhku4dysyvnt/200_200_1/FKK0qS.jpg",
+                    "amount": "3 шт",
+                    "cost": "5,60  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые палочки для кошек (Цыпленок, печень)",
+                    "description": "Лакомство для котов в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df7/wg1wmj8wn1de8olt2v7497tyvf970v33/200_200_1/mqkhee632st26s1ak3x1yxtglq70bic6.jpg",
+                    "amount": "1 шт",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые палочки для кошек (Лосось, форель)",
+                    "description": "Лакомство для котов в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/94e/xfn4bq9v1gv82ep4oivo17fppc10atrq/200_200_1/lanan2dw6v5m0kfdy4gp808ols8kg8ay.jpg",
+                    "amount": "1 шт",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые палочки для кошек (Говядина, печень)",
+                    "description": "Лакомство для котов в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/35c/otaym41gs1977n16m6mwsdo6iwrg3l9d/200_200_1/tm41gv2f2kpek5qhur4wc19jpgya30oa.jpg",
+                    "amount": "1 шт",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые палочки для кошек (Индейка, ягненок)",
+                    "description": "Лакомство для котов в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ae/oh3pqzyp51abk7egldvhwq0nglp9kzzg/200_200_1/2yybxan1qmsujdsng3ul3pkkrrox55ez.jpg",
+                    "amount": "1 шт",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые палочки для кошек (Утка, кролик)",
+                    "description": "Лакомство для котов в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/38a/w90n91kpdoow6razz8g90shkhgeypv9d/200_200_1/wwncrfciu1t0ic7klhwewfl5igr23ava.jpg",
+                    "amount": "1 шт",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые палочки для кошек (Цыпленок, утка)",
+                    "description": "Лакомство для котов в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0de/fxnjy8gq9izedlxo8s0uxj8deoa30puh/200_200_1/lqvf91mv6mh0dp0b2q3u26oriww41kc8.jpg",
+                    "amount": "1 шт",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые кусочки для кошек Ассорти",
+                    "description": "Лакомство из утки, ягненка и курицы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43f/3qzlx5pdn2fdy91jxf7132yfha21rb7l/200_200_1/b03de9e5b4269d479daee30498a4f466.jpg",
+                    "amount": "35 г",
+                    "cost": "8,80  руб."
+                },
+                {
+                    "name": "Мнямс Лакомые кусочки для кошек Рыбка",
+                    "description": "Лакомство в виде рыбок, лосось.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/92c/b7ob76p9jayqna5hqtxjoun7n3quagpz/200_200_1/26e909b7585f53569078a71c11508785.jpg",
+                    "amount": "35 г",
+                    "cost": "8,80  руб."
+                },
+                {
+                    "name": "Мнямс Микс \"Рыбный фестиваль\"",
+                    "description": "Лакомство для котов,лосось, креветки, форель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b18/mxy1u31ngwyy835tltb272cy8uvme40j/200_200_1/eb1051ee333a1de2e9e6cadab557f00b.jpg",
+                    "amount": "50 г",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Мнямс Микс \"Пир охотника\"",
+                    "description": "Лакомство для котов, утка, кролик, дичь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/312/8h5tutok61jsxhly70r87t2t4g1mkbgq/200_200_1/64dbd41104c40a7b527fd7b4d50506cd.jpg",
+                    "amount": "50 г",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Мнямс Микс \"Мясной карнавал\"",
+                    "description": "Лакомство для котов, курица, индейка, утка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fca/3s6tvbi6lr90asux7mrtaorm5jpawwg3/200_200_1/d51a1fa102cef1188d370e08d9d815e4.jpg",
+                    "amount": "50 г",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Мнямс Хрустящие подушечки \"Здоровая кожа и шерсть\"",
+                    "description": "Лакомство для котов, птица и говядина.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/79f/rk3224pdeucblq56usos8y69efltjdjq/200_200_1/9jyz2jvpbh7wvo9ckkcoi4zk20h6zopa.jpg",
+                    "amount": "60 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Мнямс Хрустящие подушечки \"Здоровье и красота\"",
+                    "description": "Лакомство для котов, лосось.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb8/h7mao12ist4ymem4u0xygyg5zdf9p7ig/200_200_1/c79421e27afbdb1af9118fca762f9464.jpg",
+                    "amount": "60 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Мнямс Хрустящие подушечки \"Здоровье и активность\"",
+                    "description": "Лакомство для котов, курица.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/963/o0ivei6xwal1q6689yuqhavjp35tdkkp/200_200_1/813b378d834ea32a5945628767ca9047.jpg",
+                    "amount": "60 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Мнямс Хрустящие подушечки \"Выведение шерсти\"",
+                    "description": "Лакомство для котов, говядина.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f1d/vppkr4np5n19sap4an32dz0z4hp8j625/200_200_1/3abb61b24df791dbe3d5ea1a563ad6ae.jpg",
+                    "amount": "60 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Мнямс Хрустящие подушечки \"Здоровые зубы\"",
+                    "description": "Лакомство для котов, мясной микс",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a5/qge1s15dwavgk1vps4knqn785g31phxv/200_200_1/3lgr5refr12e3pv58t9uyyajzg1xspog.jpg",
+                    "amount": "60 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Triol PT28 Колбаски из утки",
+                    "description": "Аппетитные колбаски для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/74c/zw7273xtrjqn5o16jc69hplrvldegn7s/200_200_1/60d187b05d9a096875c9f89046e9e996.jpg",
+                    "amount": "40 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с паштетом из утки",
+                    "description": "Полезное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/59b/3nhu58qtxvk95r521hhem0derj1b7g0n/200_200_1/0194bd8c0bd91521620734c6ec77cc7c.jpeg",
+                    "amount": "30 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "GimCat Палочки с лососем и форелью",
+                    "description": "Лакомые мясные палочки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a0/thgyihjxy19an3go3z7wp0p2p7wvwpb7/200_200_1/c942200d2e3b461b89b26e1f76f3d6d6.jpg",
+                    "amount": "20 г х 4 шт (упаковка)",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "GimCat Палочки c птицей",
+                    "description": "Лакомые мясные палочки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be9/2ie5rwdj2q9z8sbl35dadx67mazd1fhw/200_200_1/b4eb549a23063705288d89badfb99968.jpg",
+                    "amount": "20 г х 4 шт (упаковка)",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "Bosch Хрустящие подушечки Курица с молоком",
+                    "description": "Вкусное и полезное лакомство для кошек любых пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/151/rym4muo56wyphuiwskq4tpcq5jt8g2cn/200_200_1/b36ae9846ae49f509c563325375b7515.jpg",
+                    "amount": "55 г",
+                    "cost": "4,90  руб."
+                },
+                {
+                    "name": "GimCat Палочки с ягненком и птицей",
+                    "description": "Лакомые мясные палочки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/64a/unyl53uhmgg372nu73l0hs88rf5scfce/200_200_1/70b87191bafc55b2eb5b9c5e1a071cf2.jpg",
+                    "amount": "20 г х 4 шт (упаковка)",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Bosch Хрустящие подушечки Курица со шпинатом",
+                    "description": "Вкусное и полезное лакомство для кошек любых пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a31/ondcg2au19eadfxnpjv19yt1mdlhgk43/200_200_1/48742044f54d844914f7b9f849ea60ef.jpg",
+                    "amount": "55 г",
+                    "cost": "4,90  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с паштетом из ягненка",
+                    "description": "Полезное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c25/bxpcx83viome1lx0o33lk27c2muru8ar/200_200_1/d8f40e399e838366930ed0fd4358505a.jpeg",
+                    "amount": "30 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "GimCat Лакомые палочки для котят",
+                    "description": "Мясные палочки с индейкой и кальцием",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/98a/w9x3ppjjjzdaomejgvltwh3koclsae0s/200_200_1/5924d6ad46fd7fc2afaf727d049acc61.jpg",
+                    "amount": "3 шт/уп",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с паштетом из индейки",
+                    "description": "Полезное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/242/kjoc2mfsylg5odnwxmqr6qt5javzjmkn/200_200_1/cf799338a489dbda8cd3b8358988dbc6.jpeg",
+                    "amount": "30 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Bosch Хрустящие подушечки Курица со свеклой",
+                    "description": "Вкусное и полезное лакомство для кошек любых пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a83/4jxy7q5t3p4etanjue80em0okalyeju8/200_200_1/6a7a4485632ef3f3963ca7debdcf68b9.jpg",
+                    "amount": "55 г",
+                    "cost": "4,90  руб."
+                },
+                {
+                    "name": "ТИТБИТ Легкое говяжье в сырном соусе для кошек",
+                    "description": "Вяленое лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d6/t2v2lo4o8aeswgmd0e87nozyrkrw2zvp/200_200_1/8d238a412af0b2fc60fa8794c3fbbdec.jpeg",
+                    "amount": "25 г",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с паштетом из говядины",
+                    "description": "Полезное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fa0/ceal7rd92oflbju0jdru30kentmrpc8z/200_200_1/d84673f11426d88932f69bacf1fc5d2d.jpeg",
+                    "amount": "30 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Sanal Лакомство Звездочки с птицей",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e0/sxjqlds45t63h2cw4qbgtwxkjkz46ipr/200_200_1/e3832c3628766378fbf2d736c77255a6.jpg",
+                    "amount": "40 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "GimCat Палочки с курицей и лесными ягодами",
+                    "description": "Лакомые мясные палочки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/600/kzzv0z87yxry8yh20rt5xrc7rkhvtr9b/200_200_1/0cba13245335d94468ccf45f0902ecd0.png",
+                    "amount": "3 шт/уп",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "ТИТБИТ Соломка мясная для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f36/j01dx1jv5mzfmy5kai37613fgxic0btn/200_200_1/b71cd5aa7396cfc0d8f77e823b2a5e4a.jpeg",
+                    "amount": "30 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "Triol Мини-сердечки из утки для кошек",
+                    "description": "Угощение для поддержания иммунитета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4c/1sapy16ai53g059fmqc3f8nvn1x2zmnk/200_200_1/1ae7f518c0f187d6b351c9fedff006c7.jpg",
+                    "amount": "40 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Triol Мини-сердечки из кролика для кошек",
+                    "description": "Угощение для поддержания иммунитета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df2/jl1970djd2mg4w8xv1lcc887g6az9hxy/200_200_1/fc3f260347cc6c5f14679a1b04c50412.jpg",
+                    "amount": "40 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Triol Мини-медальоны из говядины с треской для кошек",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d99/c86db8qunlmkwk3zycupajfs72vgu2b3/200_200_1/b89315781fe1986e4d0034a2f2ab8395.jpg",
+                    "amount": "40 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Лакомство \"Sanal\" Подушечки для выгонки шерсти",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3d/j0sl63o237cqxjpmepmm0ybt1e1kcljl/200_200_1/06276cdd5a88a80f3758bdd408925185.jpg",
+                    "amount": "75 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Triol Мягкая соломка из курицы",
+                    "description": "Вкусная соломка для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/277/gxbtsb94kvvdyrgteenmubb2c2fnttci/200_200_1/8d8e4260e5d6b1ea915683eaee58fb5d.jpg",
+                    "amount": "40 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с мясом утки",
+                    "description": "Лакомство для чистки зубов у кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/876/tym4p9w63e6hco15vwk0udcziwa3xgi8/200_200_1/d89fbcfaec96e01b9dc139cdbe8e255b.jpeg",
+                    "amount": "60 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с паштетом из лосося",
+                    "description": "Полезное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ff/ausv4wvk084v0usys2swcunfjllrd27l/200_200_1/cefb60731a45b8be6cd7f1a16b252995.jpeg",
+                    "amount": "30 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с лососем",
+                    "description": "Лакомство для здоровья шерсти кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ed/4hf33izv1qn7ihda549jqmskjnn2h3hm/200_200_1/545d512f45fcb85fa8ee92f9fa110986.jpeg",
+                    "amount": "60 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Sanal Лакомство Подушечки с витамином В",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ac/of9pdfub2phs367zd4m7u7hmqt8u1udh/200_200_1/f720d17fadf33b68f2c547f904df1c86.jpg",
+                    "amount": "100 г",
+                    "cost": "13,30  руб."
+                },
+                {
+                    "name": "Sanal Лакомство с лососем",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7fd/c5vl2ra6uv67k52rj2ykuyp4y8i6awa2/200_200_1/b7e8a463beb23ce642e55940083093e7.jpg",
+                    "amount": "100 г",
+                    "cost": "13,30  руб."
+                },
+                {
+                    "name": "Sanal Лакомство Звездочки с печенью",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/28a/0bt2jo3pwaljsuxsosiu6opldrroeirv/200_200_1/3c8a24f7861244a915c5f38deb60e15d.jpg",
+                    "amount": "40 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для стерилизованных котов",
+                    "description": "Натуральное питательное лакомство для котов, с клюквой и курицей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/563/zkq0gudf2ra7hm9phb50buu13xghyinl/200_200_1/7591e6a6509dd9ac5af90f91cb52922b.jpg",
+                    "amount": "75 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с сыром и паштетом из кролика",
+                    "description": "Полезное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ab/htjp1bl3l4oz4h4a5svnqpvw2y2bqu69/200_200_1/d97602eb1bae131635b0eef5ccc7e658.jpeg",
+                    "amount": "30 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для здоровых суставов",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cec/fb3nkucg9av3py2ri7ulw4q34xeqeeqf/200_200_1/dfd9991d17e31aa18b755107583012eb.jpg",
+                    "amount": "75 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с говядиной",
+                    "description": "Лакомство для выведения шерсти у кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6a9/oobnhei20edkg2ct8sx94p8eajpa20g7/200_200_1/25c47dc0231d5f71fbb3faa8efc9b21b.jpeg",
+                    "amount": "60 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Деревенские лакомства (Филе утки нежное)",
+                    "description": "Филе утки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/722/aubf70i2m3m178j4bnms5pmw31ztifc6/200_200_1/8502c9dbe9345ffd45add131378046d4.png",
+                    "amount": "10 г",
+                    "cost": "2,30  руб."
+                },
+                {
+                    "name": "Деревенские лакомства (Филе курицы нежное)",
+                    "description": "Филе куриное для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c13/n7o7tcvcsuixa312nu0jetiey0e10md1/200_200_1/fcc2ec10e59406f68a538b8af9a01ae7.png",
+                    "amount": "10 г",
+                    "cost": "2,30  руб."
+                },
+                {
+                    "name": "GimCat Палочки с говядиной и яблоком",
+                    "description": "Лакомые мясные палочки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/053/601ylseoiqrxo1ybt1yqm4zc2apkhmwj/200_200_1/75e226d0d00ebcae7f73f55f6889c70d.png",
+                    "amount": "3 шт/уп",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Мнямс Пир охотника палочки (дичь, гусь)",
+                    "description": "Лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/95e/zomv9022dfa12o4ctm37ioz715lpj4vn/200_200_1/6133e1c19c56fce8a9ef37664b6bac45.jpeg",
+                    "amount": "3 шт/уп",
+                    "cost": "3,40  руб."
+                },
+                {
+                    "name": "GimCat Палочки с индейкой и кроликом",
+                    "description": "Лакомые мясные палочки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/38d/tynii051yb1pc9xj1e2q3zlcmz01ia2i/200_200_1/5e00fb68af4eaa163c182b83922e8634.jpg",
+                    "amount": "20 г х 4 шт (упаковка)",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Нежное пюре из курицы",
+                    "description": "Мясной десерт для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9e8/tenuonbxk43n7gc1dkhadl6tf622zjh0/200_200_1/bdf351067c20ef5947d11787ab968b36.png",
+                    "amount": "10 г х 4 шт",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Нежное пюре из тунца",
+                    "description": "Рыбный десерт для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/108/rc98pcul12wrjoa15ify69y16i24jgi1/200_200_1/e2a51f3652dabcce7fd29b00c67efd7e.png",
+                    "amount": "10 г х 4 шт",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Нежное пюре из креветки",
+                    "description": "Рыбный десерт для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/18d/yncwba7s92khvgro0aqh6baqkjt1bau5/200_200_1/2a5d0cedfb01e11096a72e8187ca5166.png",
+                    "amount": "10 г х 4 шт",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "O'cat Мягкие мясные палочки утка и кролик",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e8d/h6le4wyts6nbzhdkjo8vgg8v5zck5kjc/200_200_1/60f8d28adebb7619d8aa2ac296e4b50c.png",
+                    "amount": "500 г",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "GimCat Палочки с лососем и манго",
+                    "description": "Лакомые мясные палочки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/026/0ep99m233l1k6dl17qvz0e4i0080bih4/200_200_1/80665774bb7732d60d8163232091cd63.png",
+                    "amount": "3 шт/уп",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "ТИТБИТ Печень говяжья для кошек",
+                    "description": "Вяленое лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/59e/ss2lpl99b2g31ysy7ko3rh7ha3b5w4j8/200_200_1/0d5106c7b4e4ce08f070dcc225ce5425.jpeg",
+                    "amount": "40 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Thanks",
+                    "description": "Помощь в переводе на сухой корм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ada/0bkq3viwemt32c0m6id0dg3qix0wbuak/200_200_1/acbc90c046e8d59dc571b71717aa654c.png",
+                    "amount": "20 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Dental Snack",
+                    "description": "При стоматологических и дентальных заболеваниях",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6c/9jq5y2wr2pdumg024m4pvzqxfyn8ohnc/200_200_1/ab2ed88173d54cb8c54a396c5f369bc4.png",
+                    "amount": "20 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Hairball Snack",
+                    "description": "Для выведения шерсти из организма",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/699/p6tp1851x2k13y1694a9i188ykorkxba/200_200_1/0fb4083b0d5b67125eb6429bacd53bcf.png",
+                    "amount": "20 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Vitality Snack",
+                    "description": "Для здоровья связок и суставов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c70/ar7gar2fyorp10l84g1ga76plbksuhmx/200_200_1/7ae432ba0f951fda2bcd03149b1c7fc7.png",
+                    "amount": "20 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "Деревенские лакомства (Соломка утиная нежная)",
+                    "description": "Нежная утиная соломка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b76/r3fn5tp5h527ovaty3mmxts3ukmrjj4z/200_200_1/DerLak-Refresh2020-3.jpg",
+                    "amount": "45 г",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "Деревенские Лакомства (Нарезка из говядины нежная)",
+                    "description": "Нарезка из говядины нежная для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/809/pc7bu42pw9enygk359o9l4kkj1zdu9mm/200_200_1/DerLak-Refresh2020-3.jpg",
+                    "amount": "45 г",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "Деревенские Лакомства (Дольки крольчатины нежные)",
+                    "description": "Дольки крольчатины нежные для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e6/ecx8gn6gphaf8dvrm6zyctjg1yezecs8/200_200_1/DerLak-Refresh2020-3.jpg",
+                    "amount": "45 г",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "Деревенские Лакомства (Кусочки куриные нежные)",
+                    "description": "Кусочки куриные нежные для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/825/hp2kyr9wuo5591oa25hkwhln59753do2/200_200_1/Screenshot_1.jpg",
+                    "amount": "45 г",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "Деревенские Лакомства (Ломтики ягненка нежные)",
+                    "description": "Ломтики ягненка нежные для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd9/yppx5w07rahni8dg0rssg1r0pfu7mirt/200_200_1/DerLak-Refresh2020-3.jpg",
+                    "amount": "45 г",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "Деревенские Лакомства Мясные колбаски из говядины",
+                    "description": "Лакомство в виде палочек для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ffc/dbsbx8vj0q13yicx0zem66d9qoy0zyp6/200_200_1/DerLak-Refresh2020-3.jpg",
+                    "amount": "45 г",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Мясные колбаски из курицы",
+                    "description": "Лакомство в виде палочек для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1de/v89s7336jw9a0f2hibmoq275whec1r0z/200_200_1/DerLak-Refresh2020-3.jpg",
+                    "amount": "45 г",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Мясные колбаски из утки",
+                    "description": "Лакомство в виде палочек для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/caf/5vjbpk90z0vps8b6lkxz7jds671v1zik/200_200_1/DerLak-Refresh2020-3.jpg",
+                    "amount": "45 г",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "Triol PT33 Мини-сосиски из лосося",
+                    "description": "Мини-сосиски для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a56/34z4h6mkzwbbnotkm7ig7bqrm1qj0e6f/200_200_1/e17e316a911999af9d25410219529f8f.jpg",
+                    "amount": "50 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Triol PT31 Колбаски из курицы с треской",
+                    "description": "Аппетитные колбаски для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ee/kwbpgjg0pznsgx98gf3boepf9b5gyjal/200_200_1/2fbde08fc0357ea8f19506079b850036.jpg",
+                    "amount": "40 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Triol PT30 Колбаски из кролика с курицей",
+                    "description": "Аппетитные колбаски для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41b/ys2ss8w98n5d1n5r353szu87gipic9mc/200_200_1/e7953e658b35a6d15b1f0183c06db034.jpg",
+                    "amount": "40 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Мясные колбаски из ягненка",
+                    "description": "Лакомство в виде палочек для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f0/91w2cweki5sw94dvwqt8j22u71gm4dj8/200_200_1/DerLak-Refresh2020-3.jpg",
+                    "amount": "45 г",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "Triol PT39 Кусочки из утки",
+                    "description": "Лакомые кусочки из утки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2bc/ftcj2uunxytjq0gkiyqdv6mkrz5032tt/200_200_1/bdb68835db518733492a256062bf5d3b.jpg",
+                    "amount": "40 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Triol PT38 Кусочки из курицы",
+                    "description": "Лакомые кусочки из курицы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/32d/o24zzft1drhanq0dog7edxhbl22lkutk/200_200_1/2066199634a955ef9a9582650783505c.jpg",
+                    "amount": "40 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Triol PT32 Мини-сосиски из утки",
+                    "description": "Мини-сосиски для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0c/38nz3zxvxhfcmlm3qrg5t27u08137b1f/200_200_1/3d56a42d49e9c86972599b621c8333af.jpg",
+                    "amount": "50 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Triol PT29 Колбаски из утки с лососем",
+                    "description": "Аппетитные колбаски для кота",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a46/h895t8qlf0f4d7j847v21qbmn434s4wc/200_200_1/36820bc8c032fbd4bae32ac61384037c.jpg",
+                    "amount": "40 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Мнямс Крем-лакомство для кошек с курицей",
+                    "description": "Палочка с кремовой консистенцией, курица.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd9/8mr0ohf93e00tqd0547fkz8sr52rcaze/200_200_1/1796b5875b9de65ffd5e0cde68d4342d.jpg",
+                    "amount": "15 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Мнямс Крем-лакомство для кошек с тунцом Кацуо",
+                    "description": "Палочка с кремовой консистенцией, тунец Кацуо.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce0/58b1l17w4p8lcprx7gk0as77g21e4gtq/200_200_1/4d28048d9e078c2e7feeb724e4daf1f7.jpg",
+                    "amount": "15 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Мнямс Крем-лакомство с тунцом Кацуо и Магуро",
+                    "description": "Палочка с кремовой консистенцией",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eaa/1mn35yrlqrav1yxak5z3hj6m0v4fs58g/200_200_1/4e1ee52e0e2b824812cfe60ced2611ba.jpg",
+                    "amount": "15 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Мнямс Крем-лакомство с тунцом Кацуо и мор. гребешком",
+                    "description": "Палочка с кремовой консистенцией, тунец Кацуо/морской гребешок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce6/773pcl6yhliywbfhmpkbu10ra6yk45v6/200_200_1/y0dd3v53331sbwy8nhtv8nggdolgtomx.jpeg",
+                    "amount": "15 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "ТИТБИТ Легкое говяжье (для кошек)",
+                    "description": "Высушенные кусочки говяжьего легкого",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a3/3m0qt40k1twrukam5y5b9rcwfrfu6wy5/200_200_1/2d5630f27536de9d67c50502509ba164.jpg",
+                    "amount": "Б2-М",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Sanal Лакомство с кошачьей мятой",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/948/7a02jnvmbf7omvd8oa6t2s8pj74i2e14/200_200_1/201a5c53b734a8de774443b621ba68eb.jpg",
+                    "amount": "30 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для кошек Витамины",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/535/vnyxdbgxqmbm64wgxs59zgc9oafj9aug/200_200_1/463375d0d79e7f8e2b1dd85e443802e4.jpg",
+                    "amount": "50 г",
+                    "cost": "13,50  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для котят",
+                    "description": "Натуральное питательное лакомство для котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3e1/q92lvokruz65vr2s0h6ndqty5nw5fhtn/200_200_1/e8696e2f71fd3ee11187b2c05961bee4.jpg",
+                    "amount": "30 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для кошек лосось",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/07f/454b5lr1i61roas1w7dmtqpyjpnwlgqw/200_200_1/91053b79d6b168e35c7d183ae11f6b9f.jpg",
+                    "amount": "50 г",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для кошек Топ-микс",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a4/mstf914998kcto302apkqol54awffacu/200_200_1/fff258415ca2aee9549765b4c56f6ef4.jpg",
+                    "amount": "50 г",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Sanal Палочки для кошек (птица, печень)",
+                    "description": "Натуральное питательное лакомство с домашней птицей и печенью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/990/p051j099cvbaax6svg8mmq6otxsvs6jl/200_200_1/322d0511310d1367eaa7aa8eefd8b0a9.jpg",
+                    "amount": "3 шт/уп",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "Sanal Палочки для кошек (лосось, форель)",
+                    "description": "Натуральное питательное лакомство с лососем и форелью.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/355/p81bwzf10e1zvv9iei5wvd28xotmaieh/200_200_1/568c2575f7174076f67f6f835f189c90.jpg",
+                    "amount": "3 шт/уп",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "Sanal Палочки для кошек (ягненок, рис)",
+                    "description": "Натуральное питательное лакомство с ягненком и рисом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e0/9u7cnrr7h49v542u4jgsag8d08zns46x/200_200_1/80996d1e6f6a9c77ca5d14b65880ec17.jpg",
+                    "amount": "3 шт/уп",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "Sanal Лакомство Подушечки для зубов",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aaa/3jmxi8r8300rv0i0slag9sml2grs3diq/200_200_1/b6144c8857300ca30b46be4ec8d806cd.jpg",
+                    "amount": "75 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Sanal Лакомство подушечки рыбные",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/965/qk1473djqqwqw3j2bfw2yywmol342huj/200_200_1/361e5cceba44ab7e7e186f82e8e67c70.jpg",
+                    "amount": "75 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Sanal Лакомство подушечки сырные",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ee0/67yxu4pauxkzuf500d6h0hcnh5y5hyaa/200_200_1/1ce06bff6f52ce055a05317de4c883b5.jpg",
+                    "amount": "75 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Sanal Лакомство морские водоросли для кошек",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/89e/zh64i47hfm21229hljy5nl48oa4otsjy/200_200_1/574d41625dc48dc3d0969ba601e5d96b.jpg",
+                    "amount": "50 г",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Cat Sticks Pollack Figs",
+                    "description": "Лакомство в виде палочек с сайдой и инжиром",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/142/y840owz1ivln4aovd06tg8iktgoiyqqa/200_200_1/3db1f06df27314ef550633d9b561f791.png",
+                    "amount": "55 г",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Cat Sticks Lamb Elder",
+                    "description": "Лакомство в виде палочек с ягненком и бузиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2e/355rshz6pmdbxiapq1etvf33j857eiwi/200_200_1/b3d216bb3534e92c7c153c2c0ed7edb6.png",
+                    "amount": "55 г",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Cat Sticks Trout Cranberry",
+                    "description": "Лакомство в виде палочек с форелью и клюквой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d3c/z75ow17sf8ywfihjodsws2u3735f8h7b/200_200_1/08a119eea7cc00f469269dfd280ab569.png",
+                    "amount": "55 г",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Cat Sticks Duck Pomegranate",
+                    "description": "Лакомство в виде палочек с уткой и гранатом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b64/mm7ajkdsgwmpzj22lswkr6e30ljpi2xb/200_200_1/b2294bc9361e00c77d1ee597f1739dd1.png",
+                    "amount": "55 г",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Molina Утиные чипсы с треской",
+                    "description": "Лакомство для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f7f/tijvbl5grranfm2pzruperif6at5ekv6/200_200_1/clear_0.jpg",
+                    "amount": "40 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Molina Чипсы с ягненком и треской",
+                    "description": "Лакомство для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1be/qzjom8p825942eim5sbtorrhl7k2j73s/200_200_1/6066574086.jpg",
+                    "amount": "40 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Сад для травы Catit",
+                    "description": "Емкость для выращивания травы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/acf/b3qwe3scbh1b8kfmwq6g2s4u7jan5zjj/200_200_1/b4de16e1b8858b3a2637f499cd5dfbf4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "44,30 руб."
+                },
+                {
+                    "name": "ТИТБИТ Кишки бараньи (для кошек)",
+                    "description": "Высушенные бараньи кишки, трубочки по 11 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f2/tfynvzo47twp4429hlmqmzhpljlw751e/200_200_1/5550bdc2febaed281ab8db5821bc1609.jpeg",
+                    "amount": "Б2-S",
+                    "cost": "6,00  руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Cat-A-Dent Bits",
+                    "description": "Подушечки для чистки зубов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/898/f8wrggyd94u14url3s884i0e3rbm3gc3/200_200_1/46ad27e4053e702898e394a0509de409.jpg",
+                    "amount": "35 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Triol PT36 Роллы из трески",
+                    "description": "Деликатесные роллы из трески",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dd0/syu6b0mzkpzpdbzez6cnbeafyyicvv9x/200_200_1/2f722d2e3d4da031f9fe898ef7c281cc.jpg",
+                    "amount": "40 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Веревки с коллагеном для уничтожения запаха из пасти",
+                    "description": "Лакомство для ухода за зубами кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4c/b0r05gbu6iigpir86y9mke3pszy3e9hp/200_200_1/01528856954b6288a26474b18d2f303a.jpg",
+                    "amount": "7 шт",
+                    "cost": "13,00  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Nutri Pockets Malt-Vitamin Mix (Говядина, рыба, кошачья мята)",
+                    "description": "Хрустящие подушечки с тремя вкусами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/31e/b2a4dxduhmhnu9l5h2pvg7accmoec3nv/200_200_1/198017167.jpg",
+                    "amount": "150 г",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Суп из тунца с лососем и гребешком",
+                    "description": "Натуральное лакомство для кошек в виде супа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6f/ul10p50gjlt76uyjsdltveki6z0im1gy/200_200_1/епеп.JPG",
+                    "amount": "35 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Суп из тунца с креветками и крабом",
+                    "description": "Натуральное лакомство для кошек в виде супа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f4/jokd38cn8lnmwhk7qm3w5mmdlamprfsy/200_200_1/ыауа.JPG",
+                    "amount": "35 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Суп из тунца с кальмаром и макрелью",
+                    "description": "Натуральное лакомство для кошек в виде супа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b03/ygbtob9nl7wkozoujxvtmgr9pqdjj044/200_200_1/Снимокаепкпк.JPG",
+                    "amount": "35 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Суп из курицы с уткой и тыквой",
+                    "description": "Натуральное лакомство для кошек в виде супа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae9/jlkkv4wt610vbtm30lo3hmzzje89xwrs/200_200_1/Снимокареаае.JPG",
+                    "amount": "35 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Суп из курицы с говядиной и шпинатом",
+                    "description": "Натуральное лакомство для кошек в виде супа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/337/haqxu4ky3wkbww71wt5jw4n5v1mxf2ee/200_200_1/фаа.JPG",
+                    "amount": "35 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с паштетом из говядины (Новогодняя коллекция)",
+                    "description": "Лакомство из говядины для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/327/yxww4fevvxv16onpdi7qw9d5cx2gjqqy/200_200_1/bf69c89b-17b9-11ec-b385-0025906cc0f3_1b9717c1-1ab3-11ec-8101-0cc47aabafc3.resize1.jpeg",
+                    "amount": "50 г",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с паштетом из индейки (Новогодняя коллекция)",
+                    "description": "Лакомство из индейки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd5/pme1xqs289hvqeo5anilbtuyowi7clse/200_200_1/bf69c89d-17b9-11ec-b385-0025906cc0f3_29d84de3-1ab3-11ec-8101-0cc47aabafc3.resize1.jpeg",
+                    "amount": "50 г",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "ТИТБИТ Рыбки с лососем для кошек (Новогодняя коллекция)",
+                    "description": "Мягкие снеки с пониженным содержанием жира",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ec/aey7u1fc4sphjly26vh5hucuzttauigr/200_200_1/7f698723-1788-11ec-b385-0025906cc0f3_d0b629e8-1ab2-11ec-8101-0cc47aabafc3.resize1.jpeg",
+                    "amount": "50 г",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Multi Лакомки Колбаски баварские из ягненка для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/953/d9i6cwizl1g18c0ym9y0foxlf0fk247v/200_200_1/палочки2.jpg",
+                    "amount": "6 шт",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Multi Лакомки Колбаски баварские из телятины для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81d/uayqdjn8zi6j6xifx6vmp57d6xos5jl5/200_200_1/палочки4.jpg",
+                    "amount": "6 шт",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Multi Лакомки Колбаски баварские из курицы для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b9/ponab8sbsdpqofg18c5vt6sl2yu2kv4l/200_200_1/палочки1.jpg",
+                    "amount": "6 шт",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Multi Лакомки Колбаски баварские из кролика для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cc/ms7v81bkw747btd1wx5dyey2k786g899/200_200_1/палочки3.jpg",
+                    "amount": "6 шт",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "ТИТБИТ Хрустящие подушечки для кошек с паштетом из лосося (Новогодняя коллекция)",
+                    "description": "Лакомство из лосося для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd9/ci7zqu5rm3nlpxoiaal7n52fdhvvfpi2/200_200_1/bf69c89f-17b9-11ec-b385-0025906cc0f3_3a33393c-1ab3-11ec-8101-0cc47aabafc3.resize1.jpeg",
+                    "amount": "50 г",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "AlpenHof Сердечки из курицы для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1f3/nzhtx2lqbzb6gq40pqku1c5ixhr0g5hx/200_200_1/7f05146b67af1a19a6eb158d8aff2cea.jpg",
+                    "amount": "50 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "AlpenHof Мини колбаски баварские из ягненка для кошек",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/171/84kxdgvwoe2m9hankzjbgkmnaidhczel/200_200_1/22d8015c06f4bc5908138023390887e7.jpg",
+                    "amount": "50 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "AlpenHof Сердечки из телятины для кошек",
+                    "description": "Натуральное мясное лакомство класса холистик",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e08/k7ol0kfib3i76d7wcinhdijyjwytun2k/200_200_1/10d7d1a8afe0ce3e697158bd99d1588f.jpg",
+                    "amount": "50 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "AlpenHof Мини колбаски баварские из утки для кошек",
+                    "description": "Натуральное мясное лакомство класса холистик",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/029/ym0jkdatodlttmqcjxeg2ck0jhyoflp5/200_200_1/2299c4ada0ff387a4da2eeb4a1585a1f.jpg",
+                    "amount": "50 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "AlpenHof Мини колбаски баварские из кролика для кошек",
+                    "description": "Натуральное мясное лакомство класса холистик",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0a7/udcfbm4p3z6w9o8mnhd4r0ocdwpd4z50/200_200_1/7a2bc5b39500e4dc10ae81fee373ef32.jpg",
+                    "amount": "50 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "AlpenHof Сердечки из утки для кошек",
+                    "description": "Натуральное мясное лакомство класса холистик",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff9/1j6fxh5vhykawakm95ljsdj516y8w7cd/200_200_1/f479834452f68ccd2c6207a58adb28a0.jpg",
+                    "amount": "50 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "GimCat Meaty Snacks с курицей",
+                    "description": "Мясные снеки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ead/4tv5bsw9ceznx16o4t9j9gcl0rjht3zw/200_200_1/21f230926a36f3a4a29dfc122a77bfae.jpg",
+                    "amount": "35 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "GimCat Fishy Snacks с лососем",
+                    "description": "Рыбные снеки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0c5/70m3h2kafcjhu5i854w8p503vir9axif/200_200_1/383715bfe8ab20484939bce686d1ab44.jpg",
+                    "amount": "35 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "Dr. Seidel Snacks Микс 2в1 Лакомство для кошек для свежего дыхания и для вывода шерсти",
+                    "description": "Лакомство для кошек, обогащенный полезными веществами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/55f/gj99jbyhws1t3xs90h7nqs1dtb9f706v/200_200_1/0bba0d378e4ebebab06c0b7875663a7a.png",
+                    "amount": "60 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Dr. Seidel Snacks Микс 2в1 Лакомство для кошек  для красивой шерсти и для вывода шерсти",
+                    "description": "Лакомство для кошек, обогащенный полезными веществами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b1/p8bxmberv055z1azjdm5v8zawtw4158p/200_200_1/da9cc86d83c555f1ca5a055d3397e1a1.png",
+                    "amount": "60 г",
+                    "cost": "7,30  руб."
+                },
+                {
+                    "name": "Dr. Seidel Snacks Лакомство для кошек для свежего дыхания",
+                    "description": "Нейтрализует неприятный запах изо рта",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad1/e2o60la6m55asm7qsvh4roezsh9tlhv7/200_200_1/aca4667538f9feab20a75a111493ae72.png",
+                    "amount": "50 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Dr. Seidel Snacks Лакомство для кошек для повышения иммунитета",
+                    "description": "Лакомство для кошек в состояниях ослабления иммунитета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/238/rtd43kf3fdxbtpnta2tmpo89us120sng/200_200_1/47c0e38e5c75c922059971226a632a9c.png",
+                    "amount": "50 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Dr. Seidel Snacks Лакомство для кошек для красивой шерсти",
+                    "description": "Способствует сохранению здоровой кожи и красивой шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dbd/oy73x6ei3po3joubf62htb34zdjha5so/200_200_1/5f7568806f416300a4069a706f3a8f74.png",
+                    "amount": "50 г",
+                    "cost": "6,50  руб."
+                },
+                {
+                    "name": "Dr. Seidel Snacks Лакомство для кошек Мальт (для вывода комков шерсти)",
+                    "description": "В период линькии кошкам длинношерстных пород",
+                    "image_url": "https://garfield.by/upload/iblock/aae/l3qtwll2iyiw9bmqfqbv634g8re9o6hz/3fde7c1b9c5da6a773f972cdbf654374.png",
+                    "amount": "50 г",
+                    "cost": "7,30  руб."
+                },
+                {
+                    "name": "Dr. Seidel Snacks Лакомство для кошек гипоаллергенное",
+                    "description": "Рекомендуются кошкам с чувствительным желудочно-кишечным трактом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/580/4d6f0hfsvjfxpj71qjnuiztj6pg0alzv/200_200_1/9a19e8ca7ab4ea12df03c79213ed9726.png",
+                    "amount": "50 г",
+                    "cost": "7,30  руб."
+                },
+                {
+                    "name": "Dr. Seidel Snacks Лакомство для здоровья котят",
+                    "description": "Дополнение к ежедневному рациону котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/224/ts4fw7iqw5v92troi0ayut2va4v2cwyb/200_200_1/960c67ba3307b7f1240e1f8fd96ed969.jpg",
+                    "amount": "50 г",
+                    "cost": "6,50  руб."
+                },
+                {
+                    "name": "Fitmin For Life лакомство  (с лососем мини полоски)",
+                    "description": "Лакомство для кошек и мелких собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/66b/al6oow3ac38b3nzbnfjy0hhacldtvsdp/200_200_1/b60f423c70c6cae6b9861a012951c023.jpg",
+                    "amount": "70 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Dreamies Подушечки для кошек с кроликом",
+                    "description": "Лакомство для взрослых кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ccf/miutenu68idu7ohi9flh8f63owxuzi5j/200_200_1/c85fbd2087e016e5ef909f7f7f6619b1.jpg",
+                    "amount": "60 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Dreamies Подушечки для кошек с уткой",
+                    "description": "Лакомство для взрослых кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/818/3sfzro2hsdsvb4pl0saokcobu6iayshj/200_200_1/a6f0922a1e82dbe3d991d874d30e80ae.jpg",
+                    "amount": "60 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Домашний деликатес \"Мягкость\" (сурими из трески)",
+                    "description": "Лакомство из мяса трески для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f87/to96e3f6o2cebo244ndy8j3k48qj2n6f/200_200_1/f5eeaa10bf9c31bc0c3b18d8f0aea80f.png",
+                    "amount": "500 г",
+                    "cost": "58,30  руб."
+                },
+                {
+                    "name": "Домашний деликатес \"Мягкие мясные палочки телятина и утка\"",
+                    "description": "Лакомство из мяса телятины и утки для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/176/oanxtd0z9l1ft0ipeoth9il4xnds4wnw/200_200_1/84e7fa34c3d0b2463ed5d5ab02b4c732.png",
+                    "amount": "500 г",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "Домашний деликатес \"Мягкие мясные палочки ягненок и индейка\"",
+                    "description": "Лакомство из мяса ягненка и индейки для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b51/hayou0mmonsnx4a252tl7gyopetcscvs/200_200_1/326718c73251bd682ec2c9219e55f246.png",
+                    "amount": "500 г",
+                    "cost": "57,90  руб."
+                },
+                {
+                    "name": "Домашний деликатес \"Мягкие мясные палочки утка и кролик\"",
+                    "description": "Лакомство из мяса утки и кролика для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/480/i3ve8olkbvdxdqmwldjgd6h0k805aubl/200_200_1/24ad003bc86171749658c913108301ea.png",
+                    "amount": "500 г",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "Nature's Protection Кусочки утиной грудки",
+                    "description": "Натуральное лакомство для взрослых кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e8/pk34sy6mzqwwmk9ur63gdabzy7oseypn/200_200_1/f31848b21e532b7ef1d8effc309572c1.jpg",
+                    "amount": "80 г",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Nature's Protection Кусочки курицы со шпинатом",
+                    "description": "Натуральное лакомство для взрослых кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d67/oqtv8clip1pwv6nru55ogt9gerrpduck/200_200_1/155ccfa5263c278c432cf2c87115199d.jpg",
+                    "amount": "80 г",
+                    "cost": "6,50  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство для очистки зубов для кошек",
+                    "description": "Содержат волокна целлюлозы, способствующие очищению зубного налета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/33c/ttvy5vz305j7u9dkjx3yh7n9bi0pb5e5/200_200_1/18bc65f7406e42721304f9f49c3cd42c.png",
+                    "amount": "40 г",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Gimcat Лакомство Дента-Кисс для очистки зубов",
+                    "description": "Лакомство для поддержания зубов питомца.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/528/m9toe89r15hejjrrwj90d2b8wxp1n1ou/200_200_1/4ba33cbb9cc2a92d1eb5e5ca00a70079.jpg",
+                    "amount": "40 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Gimcat Молочные шарики для кошек",
+                    "description": "Восхитительные снеки с вкуснейшим молоком.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/217/18ptesblh2uu3kn8uxtfidmyxcdeftfz/200_200_1/0a26ba956d291c7bd0d7161fbac3310f.png",
+                    "amount": "40 г",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "Fitmin Лакомство Chicken pieces for small dogs and cats",
+                    "description": "Лакомство для кошек и мелких собак, куриные кусочки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a02/3qp1b24gazcb7pvnda0i2x2qe8y24z0w/200_200_1/e3091ce9ce296956f42807edb37729a9.jpg",
+                    "amount": "70 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Fitmin Лакомство Rabbit jerky for cats and dogs",
+                    "description": "Лакомство для кошек и мелких собак, вяленое мясо кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/930/7dugdhugtxjgh8j1seazgnegyx2irjsn/200_200_1/5aa57f70f7601f6dfa99e0de757d71d9.jpg",
+                    "amount": "70 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Fitmin Лакомство Chicken jerky for cats and dogs",
+                    "description": "Лакомство для кошек и мелких собак, вяленое мясо курицы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6dd/zcz5i34fvpdwj909e2le5dd3rmifz78j/200_200_1/8fd5cb89e06021ca5522617f963d51ad.jpg",
+                    "amount": "70 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Fitmin Лакомство Duck jerky for cats and dogs",
+                    "description": "Лакомство для кошек и мелких собак, вяленая утка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d8/aw5qo00qfi2set22zfye3l1xkxbz1mgh/200_200_1/99c77a8c8a8bcb3728e9d80ba21c3be6.jpg",
+                    "amount": "70 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Nature's Protection Солнечный окунь для кошек",
+                    "description": "Натуральное лакомство для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/490/jfaegya2votet1xdqxt1cr4ax7xfzv0n/200_200_1/cffe47aa9defa55ec40d7c0bad7f2092.jpg",
+                    "amount": "20 г",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "GreenQZin \"Палтус\" (Севиче из палтуса)",
+                    "description": "Лакомство для кошек, 750 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/405/7o4vg9xlk25wb9wfmhke8a1cpwgzkuro/200_200_1/6b00788ac4786afa87a3478f1f944675.jpg",
+                    "amount": "750 г",
+                    "cost": "84,90  руб."
+                },
+                {
+                    "name": "Мнямс Деликатес лакомые палочки (Форель)",
+                    "description": "Лакомство для кошек и котят 3 х 4 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d2d/elusqbflun8zijojtaobbuk3io17gzk4/200_200_1/d1f5f049bf2b5ae59089d7d55466fb9c.jpg",
+                    "amount": "3 шт",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Мнямс Деликатес лакомые палочки (Тунец)",
+                    "description": "Лакомство для кошек и котят 3 х 4 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/faa/71l16x9g3mrk19i5dmikdnl7kjn6dzbf/200_200_1/840eec1e0b3a51e29e9c8b91b95001a5.jpg",
+                    "amount": "3 шт",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Мнямс Деликатес лакомые палочки (Лосось с манго)",
+                    "description": "Лакомство для кошек и котят 3 х 4 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff1/fpghtk9z2x6cz47obb3iz0bur8jprauf/200_200_1/b371f7f7e0573234e6a6d408a43c6a59.jpg",
+                    "amount": "3 шт",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Мнямс Деликатес лакомые палочки (Курица с лесными ягодами)",
+                    "description": "Лакомство для кошек и котят 3 х 4 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9f5/dg6fh31ex8yaly6dn017ya867ar6djr9/200_200_1/786c83e15691fd61490e31b60b6ac989.jpg",
+                    "amount": "3 шт",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Мнямс Деликатес лакомые палочки (Камбала)",
+                    "description": "Лакомство для кошек и котят 3 х 4 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/86d/5n1mdp8220nhahgjrtyv2p1760cieyij/200_200_1/a0dcaa6c28066271d09a8236edae0e15.jpg",
+                    "amount": "3 шт",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Мнямс Деликатес лакомые палочки (Говядина с яблоками)",
+                    "description": "Лакомство для кошек и котят 3 х 4 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/22b/2gm7nf3fvfcboa6d3w0b2w9bqpxj95vl/200_200_1/c8a99a55cd4e1038365c993f8458aeb6.jpg",
+                    "amount": "3 шт",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Delicious (Корова и картофель)",
+                    "description": "Беззерновой корм для взрослых кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ade/1zhx5ymg0osbrowozyykwjr6mwjm97n2/200_200_1/2baa60008b41e18ca61f4cffccdaf2aa.png",
+                    "amount": "400 г",
+                    "cost": "20,90  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Delicious (Лосось и батат)",
+                    "description": "Беззерновой корм для взрослых кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1da/cvu60km7ox7ajs3kk0693v5llh5girf5/200_200_1/57cb0c09384b6353119e50ccf31f0b35.png",
+                    "amount": "400 г",
+                    "cost": "20,90  руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Delicious (Косуля и картофель)",
+                    "description": "Беззерновой корм для взрослых кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/46e/gkahmuagl3igwrvzb2noqwsvlf0zjkwk/200_200_1/2ae1cc55984ec25110229bd6e7f5c727.png",
+                    "amount": "400 г",
+                    "cost": "20,90  руб."
+                },
+                {
+                    "name": "МнямсИК для кожи и шерсти",
+                    "description": "Забота о коже и шерсти со вкусом курицы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60e/mxkm5e0dwzzzazbdqj7yp9wb99t3bqwq/200_200_1/b41f36a848f9d0255cf0d5327ec08df6.jpg",
+                    "amount": "20 г",
+                    "cost": "2,50  руб."
+                },
+                {
+                    "name": "МнямсИК для стерилизованных кошек",
+                    "description": "Низкокалорийное лакомство со вкусом курицы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/754/2pml5lwanua55ll8t41k2gxxtp8i2xkf/200_200_1/a890550d56ac0c4a643c4c113f015a34.jpg",
+                    "amount": "20 г",
+                    "cost": "2,50  руб."
+                },
+                {
+                    "name": "МнямсИК для котят",
+                    "description": "Для здоровья шерсти, кожи, костей и суставов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/95a/45ttnf0ma9wii5na999wxrg3f8wu0xp1/200_200_1/10c39beb3dc2c2f408b94ddae7e68973.jpg",
+                    "amount": "20 г",
+                    "cost": "2,50  руб."
+                },
+                {
+                    "name": "МнямсИК для выведения шерсти",
+                    "description": "Выведение шерсти из желудка со вкусом курицы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b3c/u5hl1kr22yz9wrjawch2g65q3ta79fu5/200_200_1/fd46f87e3d5514f14c9f85eda2c09b5a.jpg",
+                    "amount": "20 г",
+                    "cost": "2,50  руб."
+                },
+                {
+                    "name": "Мнямс Мясной карнавал палочки (индейка, ягненок)",
+                    "description": "Лакомство для котов, 4 г х 3 шт",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aec/6i30qya9giohadiwacl8chgdesx06m8r/200_200_1/aff5c32e9863a1aa88c52b1c5f951e0e.jpeg",
+                    "amount": "3 шт/уп",
+                    "cost": "3,40  руб."
+                },
+                {
+                    "name": "GreenQZin Колбаски Подвижность №5 для стерилизованных, 650 г",
+                    "description": "Колбаски из телятины и утки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/187/5xq7rh50qj1122ichwc45dspmde4js23/200_200_1/52886f62eafba8eadd248d38dd4b1cda.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "74,10 руб."
+                },
+                {
+                    "name": "GreenQZin Колбаски Подвижность №4, 650 г",
+                    "description": "Колбаски из кролика и курицы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91a/o92qtpp3chmhtcbm8szvrirl19mfsdko/200_200_1/7d8b4be7c781df6f45f512608ec4cdb1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "71,80 руб."
+                },
+                {
+                    "name": "GreenQZin Колбаски Подвижность №3, 650 г",
+                    "description": "Колбаски из оленя и утки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f4/jm0d2umqmp5r5iq1h1oc3vmad31yge6v/200_200_1/a775e1ef00abff248d19344968eb33d4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "74,10 руб."
+                },
+                {
+                    "name": "GreenQZin Колбаски Подвижность №2 для стерилизованных, 650 г",
+                    "description": "Колбаски из баранины и индейки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f2/3ej3j5m3c1f0t2bowzaf0iz1sytcui6b/200_200_1/0c4df69af265b80e640a7555a86d68fd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "71,80 руб."
+                },
+                {
+                    "name": "GreenQZin Колбаски Подвижность №1, 650 г",
+                    "description": "Колбаски из лосося и индейки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/804/9kiqqw8qs5ap0gfl6v6aou639rs6ghv3/200_200_1/fbf3c5be16ccd5ec50cfa30667a44b65.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "71,80 руб."
+                },
+                {
+                    "name": "GreenQZin Мяккошки (мягкое филе теленка), 25 г",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/594/3d4pvgji1qg4rtn1qliiv5swrv9et9af/200_200_1/bec85244d694902c3a90eb8d2ee8344b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "GreenQZin Мяккошки (мягкое филе кролика), 25 г",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/99e/6agbpgqh4hbjcaarbav3cozl43n4yj5p/200_200_1/1915ed9c8c198f6e60b28767d77c0599.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                },
+                {
+                    "name": "GreenQZin Мяккошки (мягкое филе индейки), 25 г",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dae/ks5ptgphgnhuyy1eaed41c8370atwoop/200_200_1/fe1c5b0aefad875f8d96bf162ba15143.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "GreenQZin Игривость (Бризоль из кальмара), 50 г",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/842/i2kpip0pz8zfzi4fgt3yyr9cmk2u1wlr/200_200_1/2ce12aa011c99b432193c68cab300674.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "GimCat Палочки c курицей и манго, 3 шт/уп.",
+                    "description": "Лакомые мясные палочки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a80/gj265kkwm5n0oskqb94hpf7fze1nvuea/200_200_1/5818a16a318f1f51249908ae466f838f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,00 руб."
+                },
+                {
+                    "name": "GreenQZin Мяккошки (мягкое филе устрицы), 25 г",
+                    "description": "Лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ad/527thm51tcmp5og28gr02y0fj9eop81u/200_200_1/ec576bed089f269483270566199d176a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                },
+                {
+                    "name": "Stuzzy Friends Палочки для кошек с говядиной, 6 шт/уп",
+                    "description": "Лакомство для кошек, 30 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/202/p1udh8d33uhykx469x12o7cpsnqp25n5/200_200_1/4fc790c29f0274d92fae5aebd4d0edc2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Stuzzy Friends Палочки для кошек с курицей, 6 шт/уп",
+                    "description": "Лакомство для кошек, 30 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/473/thakbif8t9rfbsv5zeowbuysu9mat15b/200_200_1/ed70612b53e77205fc8a201aa1694dd2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Stuzzy Friends Палочки для кошек с ветчиной, 10 шт/уп",
+                    "description": "Лакомство для кошек, 50 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6af/89u9cfaa18hx3ylapbs0dsfy9pkpcxhl/200_200_1/0bf4007f2a7038685cb8c74c62bd85c5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "GimCat Лакомые сердечки с лососем, 40 г",
+                    "description": "Лакомство для котов с лососем и таурином",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ea/dlxfjac0bjk4fn5uc7rgonemqshjl9vg/200_200_1/804e2a9a93a1972da8d4eab5101511af.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Сад с травой для кошек Catit",
+                    "description": "Набор для выращивания травы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/749/d47xm1m1106lnh383sv3407qivt2cf65/200_200_1/bc293a6ba7eb45976b2ce54483e7849d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "54,60 руб."
+                },
+                {
+                    "name": "ТИТБИТ Кишки бараньи (для кошек) - мягкая упаковка",
+                    "description": "Высушенные кишки в виде трубочек, длина 11 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c05/ljzqn4zk3xuiptolmb8t1ysf40s0wjuz/200_200_1/6eac72197fb1b59801168523dd436190.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "Мнямс Рыбный фестиваль палочки (лосось, форель)",
+                    "description": "Лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f88/5yjb3r90tl422c9bb5dbt3020jv3u2zg/200_200_1/6d0dcd39b8f85701f8c56fe1dfbf1c0b.jpeg",
+                    "amount": "3 шт/уп",
+                    "cost": "3,40  руб."
+                },
+                {
+                    "name": "Sanal Лакомство Звездочки с лососем",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/979/s6mmnv6bjinekpsiwvvj86djiyu288ic/200_200_1/402c9622bc7515f266bb9a96d59799e4.jpg",
+                    "amount": "40 г",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "GreenQZin Прыг-Скок витаминная конфета",
+                    "description": "Конфетка на липучке прикрепляется на любую поверхность",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b2/stjyjrxi1vm02sykkuc5h8tii537spjz/200_200_1/a7505c63b22c82ea52226bf0c24e5714.png",
+                    "amount": "10 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Деревенские лакомства (Филе тунца нежное)",
+                    "description": "Филе тунца для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f00/hh99687cn612943eauprrulbcrkjyabf/200_200_1/fbc1b95bd4b600d8f1b3276d30f656a8.png",
+                    "amount": "10 г",
+                    "cost": "2,30  руб."
+                },
+                {
+                    "name": "ТИТБИТ Легкое говяжье в клюквенном соусе для кошек",
+                    "description": "Вяленое лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/640/agjce4yxdoa678vlejem01gl9lkw6eq8/200_200_1/6916eabe79fda8cf5c13102423e10d3e.jpeg",
+                    "amount": "25 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Лакомство Beaphar Crazy Cat Kitties 3-Mix, 32,5 г",
+                    "description": "Кормовая добавка для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/368/tar7q9hpfpfdg13x4hhgn2x9l19uq8dt/200_200_1/b3706f164119d528e554a6cef5f4c4ea.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Лакомство Beaphar Malt Bits Lights, 35 г",
+                    "description": "Подушечки для кошек с мальт-пастой низкой калорийности",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b0/049tk2qmdcguslnvuntz3euwav4h7xb0/200_200_1/6c651dea75486e4cea7d668983c3d82a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Triol Нежное филе трески для кошек",
+                    "description": "Филе трески",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ca5/kjkrvk50izrgwazt4oqd7zen871w2jdu/200_200_1/5bfccaa447f550120543157eb0b13c28.jpg",
+                    "amount": "20 г",
+                    "cost": "2,30  руб."
+                },
+                {
+                    "name": "Triol Нежное филе курицы для кошек",
+                    "description": "Куриное филе",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fe1/d51fwdsj07v3kjjwqc4iauqyaca54b48/200_200_1/141cee0bc59bc79592a4d009eb658e74.jpg",
+                    "amount": "20 г",
+                    "cost": "2,30  руб."
+                },
+                {
+                    "name": "Деревенские лакомства Нежное пюре из лосося",
+                    "description": "Рыбный десерт для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/101/lil9285s3w8sq36l0psvdg9jf39a59i7/200_200_1/586c1276b1b07e47e2d853eb5b1d4a89.png",
+                    "amount": "10 г х 4 шт",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "GimCat Палочки c лососью и папайей, 3 шт/уп",
+                    "description": "Лакомые мясные палочки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/886/7hecoue9ufsr22infs0q78ycse47tokb/200_200_1/c77e88c2ab48f2d73ae2ee127367639a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,00 руб."
+                },
+                {
+                    "name": "O'cat Мягкие мясные палочки ягненок и индейка",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/589/18ehlcqkdirj19cnjujvssq8jh49pqqt/200_200_1/a00a6472c5df9aca0864a3830283e74c.png",
+                    "amount": "500 г",
+                    "cost": "57,90  руб."
+                },
+                {
+                    "name": "O'cat Мягкие мясные палочки телятина и утка",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/adb/siq3b1c5dgqfq55sp6ty4u9jeahva11y/200_200_1/072b8f2052be96a2466b5ad27d754024.png",
+                    "amount": "500 г",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "O'cat Мягкость - Суши из мяса курицы на сурими",
+                    "description": "Натуральное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/389/zv605lu21j9lel4v7f1znios5xtvso1h/200_200_1/ed2dc7352c45cd0a8263aacfda8b74a7.png",
+                    "amount": "500 г",
+                    "cost": "64,40  руб."
+                },
+                {
+                    "name": "Orijen FD original cat, 35 г",
+                    "description": "Сублимированное лакомство для кошек всех пород и возрастов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff3/2ufwmke6e0007bdp04kb51hbgis1ldeg/200_200_1/9a161f8d43f84852bb5010797cdd2b7c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,70 руб."
+                },
+                {
+                    "name": "Orijen FD tundra cat, 35 г",
+                    "description": "Сублимированное лакомство из 100% мяса",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d0f/21cbnci45u6rpv8ychmz514jaekoqtgq/200_200_1/97935203c116d75bb21d7d92c37a87fd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,70 руб."
+                },
+                {
+                    "name": "Orijen FD alberta lamb cat, 35 г",
+                    "description": "Натуральное лакомство из канадского ягненка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2fd/3m0v3myvr3k4yymvt3h9y9z6eale05e0/200_200_1/e2bad98f79a983ea48d1232b8b727be8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,70 руб."
+                },
+                {
+                    "name": "Orijen FD Wild Boar Cat",
+                    "description": "Натуральное лакомство из мяса дикого кабана",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/72c/0yim7e8iobv4bn7ti2rut7dwtgl7ab9d/200_200_1/ae9c3f776b33e67f47dea555e37490df.jpg",
+                    "amount": "35 г",
+                    "cost": "14,70  руб."
+                },
+                {
+                    "name": "Triol PT34 Роллы из трески",
+                    "description": "Деликатесные роллы из трески",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/176/ds6jzd7lild2y24fpsu3okn0dyxifdog/200_200_1/04055b784460861153ac61aad349d3f5.jpg",
+                    "amount": "50 г",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "ТИТБИТ Кишки говяжьи (хворост)",
+                    "description": "Высушенные кишки сплющенные, 9 - 11 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ed8/yjzh2r7j6nlkmlpiqvbq3857cgq2yz54/200_200_1/9caef01d829a7950cc88fabecf302d3a.jpg",
+                    "amount": "Б2-М",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "ТИТБИТ Кишки говяжьи (для кошек) - мягкая упаковка",
+                    "description": "Высушенные кишки, трубочки по 3 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41d/7yjts21b4w3wm1dbrtnnobh8frcuczw5/200_200_1/94cd060bfad9395717384c9c4cca3454.jpeg",
+                    "amount": "32 г",
+                    "cost": "6,00  руб."
+                },
+                {
+                    "name": "ТИТБИТ Кишки говяжьи (для кошек)",
+                    "description": "Высушенные кишки, трубочки по 11 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c43/izxbfysnfzvvo66agrfsoljvsoo446qn/200_200_1/d3bf144b24c843568aa0e08c087e9025.jpg",
+                    "amount": "Б2-М",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для кошек (сыр)",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2f2/01dh79a8ii7bzu26nsmgcdlngcc8mv2a/200_200_1/7ec842a7e06b4753389c46fa8bf74cdf.jpg",
+                    "amount": "30 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для кошек Топ-микс",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a9/73fkkw5emp071xc2suj3pl3q1o53136h/200_200_1/4ccc74fbb3c03dc4f939622cd20b1ec9.jpg",
+                    "amount": "240 г",
+                    "cost": "33,40  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для кошек премиум",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb4/bgzo4n6kh77hvpbp8ea4ymiyyswgkfrx/200_200_1/f41105efd2a9673089fe142d077d8727.jpg",
+                    "amount": "85 таб",
+                    "cost": "16,40  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для кошек (Тунец)",
+                    "description": "Натуральное питательное лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8f0/jcdxj6lisixjbb9wfym82fvq46u2gmnp/200_200_1/bc9bec33a8a17a63920c70cf51b40b46.png",
+                    "amount": "125 г",
+                    "cost": "14,80  руб."
+                },
+                {
+                    "name": "Лакомство Beaphar Skin & Coat Bits",
+                    "description": "Подушечки для шерсти и кожи",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cdf/6aspm75rw2rsu5q0dnefhrmoz5cd3m1j/200_200_1/e7c579eb0ff1b74fc4e349d2466eedf1.jpg",
+                    "amount": "35 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Chondro Bits",
+                    "description": "Подушечки с хондрозамином",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2fc/sshrnoi3dzfw9g9cl9xnnqz6lwa8d1d1/200_200_1/1b50a399219c6974d8e4e76fdb6b7640.jpg",
+                    "amount": "35 г",
+                    "cost": "7,50  руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Malt Hearts",
+                    "description": "Сердечки с мальт-пастой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab1/filqxpe42ldab3wi21y3u2hlfxkga3eo/200_200_1/501c5445bbe3de2b1acb55185d98d589.jpg",
+                    "amount": "52,5 г",
+                    "cost": "11,20  руб."
+                },
+                {
+                    "name": "Beaphar Sweet Hearts, 1500 таб/уп",
+                    "description": "Лакомство для котов в виде разноцветных сердечек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82a/aoml73x9811q16f1ln6aga9bfc1ecsto/200_200_1/3faff16d5fba3d295ccccf06cea59cd1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "103,70 руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Sweethearts",
+                    "description": "Разноцветные сердечки для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e8e/rw46mfhiimz2e6zqejjae7z5d3x1mhqf/200_200_1/dbf9d3b64c607d06397d926107a70538.jpg",
+                    "amount": "52,5 г",
+                    "cost": "10,70  руб."
+                },
+                {
+                    "name": "Лакомство Beaphar Vit Bits",
+                    "description": "Подушечки с мультивитаминной пастой.",
+                    "image_url": "https://garfield.by/upload/iblock/111/l3l08snnpbaefsml9ygc828672h4kizd/aec97bd6e11c9128edab9cbeab08f430.jpg",
+                    "amount": "35 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Лакомство Beaphar Catnip Bits",
+                    "description": "Подушечки с кошачьей мятой, 35 гр.",
+                    "image_url": "https://garfield.by/upload/iblock/21f/k2gbbvyt88afnimjz8ccfasueb33owwt/ba57b62cc3dfcdd56599d2bb31812653.jpg",
+                    "amount": "35 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Лакомство Beaphar Bits Mix 3in1, 150 г",
+                    "description": "Подушечки с мультивитаминной пастой для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fbc/n49420hd6pla3wir0zsnxik6fvqo1hnx/200_200_1/3121cb6fb648c3941ffc0155571c4427.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,20 руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Malt Bits Salmon (лосось)",
+                    "description": "Подушечки для выведения шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/04e/0t7treyr00moj0w93gj5gu946o2m4i3i/200_200_1/6f154f03e0e5360fb018fc390e34c5d0.jpg",
+                    "amount": "35 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Лакомство Beaphar Malt Bits",
+                    "description": "Подушечки для выведения шерсти из желудка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d2/tuu2e3nw4cml732ea54oetbmnwljcecb/200_200_1/c512ce26ee4886e53ae1d56ebaf34f26.jpg",
+                    "amount": "35 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Happy Rolls Mix, 80 таб",
+                    "description": "Микс с креветками, сыром и кошачьей мятой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/871/rss5kclxdfrellpw028gw92nyd1z5wqg/200_200_1/b32bd4974ca078cc8f0446e4a7a3ef76.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Happy Rolls Shrimp, 80 таб",
+                    "description": "Со вкусом креветок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d15/qp08biuvmb0oki4cua1sv9zjl0eg9p1o/200_200_1/8c504a66317824cca8237620f860b6d2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Happy Rolls Catnip, 80 таб",
+                    "description": "С кошачьей мятой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d0/jxl3s83kqipdvukrvorr0tmc3dxy1b0n/200_200_1/8b9e604c5805f8fce8658072af3eebdb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Shiny Hair-Snack, 150 г",
+                    "description": "Лакомство для блеска шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/473/nl9ryy7hid179ppfh9b337m04ltpnsty/200_200_1/cf94ecb1e82883eaab29117a2da9dd26.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,40 руб."
+                },
+                {
+                    "name": "Bosch Sanabelle Grain Free-Snack, 200 г",
+                    "description": "Беззерновое лакомство для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a2/nedfe6fabyxflj0t146hdlfthtyziiwz/200_200_1/e0e921da9fc6ae1e872f8c9efb1a14ca.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "Brit Лакомство Let's Bite Chicken Bites (Куриные кусочки), 80 г",
+                    "description": "Мясное лакомство для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e55/q5aq9j01gh59pt2zihip3jx8sa4y6cn7/200_200_1/c6703bee631178adae80d4fbdd681ec7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,60 руб."
+                },
+                {
+                    "name": "DeliBest Куриный паштет",
+                    "description": "Куриный паштет для кошек, 7х70 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac9/j7om0wdpeg7t3l8rl6xg5luzsmxrcpvd/200_200_1/8ddd6872264dc4caa32eb47d9d2ebd98.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,00 руб."
+                },
+                {
+                    "name": "DeliBest Говяжий паштет",
+                    "description": "Говяжий паштет для кошек, 7х70 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7f6/utarhly9otl4weg999rhbl4xd1mo1nq9/200_200_1/817b50f28811c5d296da955476fff4bb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,00 руб."
+                },
+                {
+                    "name": "DeliBest Кубики Цыпленок с йогуртом",
+                    "description": "Лакомство для кошек из мяса цыпленка с йогуртом (кубики), 100 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ccd/nxtc8xrzgktf1zhtsrvn532vfbkjvsi6/200_200_1/492fd13d34dd4e945519139c8049cbff.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,00 руб."
+                },
+                {
+                    "name": "DeliBest Кубики Цыпленок с моллюском",
+                    "description": "Из цыпленка с экстрактом морских моллюсков и биотином, 50 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/697/9syniaibneediikli1sija7tlggyzjgt/200_200_1/eedfa697839678c6c9bd23fd81b72989.gif",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "DeliBest Дичь с моллюском и биотином",
+                    "description": "Лакомство из дичи с экстрактом моллюсков и биотином, 50 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1c/nu47sdb96qm1co8hw0v8xghenoga07rn/200_200_1/e5d37593fb4da42da627c5a3da4d7b86.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "DeliBest Дичь с йогуртом",
+                    "description": "Лакомство для кошек, из мяса дичи с йогуртом (кубики), 100 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9f3/5dzgbrovsbh74hte6lt5bct96kwjg9fw/200_200_1/9b81da7a5e502f79fb5cb13affa84fb9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "DeliBest Cat Snack Цыпленок и моллюск",
+                    "description": "Лакомство для кошек, из мяса цыпленка с  моллюском 45 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ef6/d8xc148a079474mnaucqzu5qdx8fbcpo/200_200_1/20c7be6aaf29d5866d21424bc7f1b62d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,50 руб."
+                },
+                {
+                    "name": "DeliBest Cat Snack Телятина и Льняное семя",
+                    "description": "Лакомство для кошек, из телятины льняным семенем, 45 г",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f25/n8bmdq6b67cef8dddhqfhbuai6qoj2cc/200_200_1/e25f8cbf095c5fc9a68245093c3f4f62.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "DeliBest с курицей",
+                    "description": "Лакомство для кошек, из мяса курицы, 50 г",
+                    "image_url": "https://garfield.by/upload/iblock/193/asdt4vw7cwo0ij04p52cyznouythchgc/3dbed28690e8cd4a56bd4b8dad779aa0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,00 руб."
+                },
+                {
+                    "name": "ТИТБИТ Легкое говяжье (для кошек) - мягкая упаковка",
+                    "description": "Легкое говяжье, для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c30/j42ah8ap2qdbhcs2jtzeepr3q3sm0dxa/200_200_1/a61847056bbc22e51a240ada9eca285b.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "ТИТБИТ Филе говяжье для кошек (соломка)",
+                    "description": "Филе говяжье, для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/148/eqf3i4xl9ans790wv1him4n8tdmo8a8x/200_200_1/26dd984636bc4f23aecdfa1d0a9a59ff.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "ТИТБИТ Легкое баранье (для кошек) Б2-M",
+                    "description": "Высушенные воздушные кусочки бараньего легкого",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/efd/7efl4z10n4cfnw7arocbl4u2z2yu2fdd/200_200_1/1040bd5862dd5250fbf74832130e48a9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "ТИТБИТ Легкое баранье (для кошек)",
+                    "description": "Высушенные воздушные кусочки бараньего легкого",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bdd/9ya2crgxlcq8siu9pdh5knmmiphp7o44/200_200_1/dc10d6cbc43eb8173660ed3c48a8a583.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,40 руб."
+                },
+                {
+                    "name": "Natural Kitty Steamed Tuna Belly",
+                    "description": "Пропаренное филе тунца (натуральный желтоперый тунец).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b1/f6tonyf5xzvz954w812k80bo8j5pg63y/200_200_1/62a2b06e7096827d74ea226b5dedc304.png",
+                    "amount": "30 г",
+                    "cost": "6,70  руб."
+                },
+                {
+                    "name": "Natural Kitty Steamed Tuna Loin",
+                    "description": "Спинка тунца, приготовленная на пару.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/580/wbl4eql45rgau77cc69q1gl6elb1ng9l/200_200_1/6ed33577ab82bcb74f287528a4ee2228.png",
+                    "amount": "20 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Natural Kitty Grilled Chicken",
+                    "description": "Запеченная курица (свежее мясо курицы).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b13/k0ozunl7abay57vsfpto6lk8ja6zfucu/200_200_1/97beef48a5707d244f0695de3b3ef835.png",
+                    "amount": "30 г",
+                    "cost": "6,70  руб."
+                },
+                {
+                    "name": "Natural Kitty Steamed Mackerel",
+                    "description": "Запеченная скумбрия (натуральная дикая скумбрия).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/856/m01w0t7bk4fi03ojzlbzpackhl8idydt/200_200_1/dc3a7b8c5bfcfbda4b6cca4a3cdc164b.png",
+                    "amount": "30 г",
+                    "cost": "7,70  руб."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,597 @@
+{
+    "Рыбки": {
+        "Живые растения": {
+            "url": "https://garfield.by/catalog/akvariumistika/zhivye-rasteniya.html",
+            "products": [
+                {
+                    "name": "Растение Анубиас Нана петит (в горшке)",
+                    "description": "(Anubias barteri var. nana ‘Petite’)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b05/8807o9kpvq5vwtar3zqy4ng28wlinw6z/200_200_1/101h.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Буцефаландра Кедаганг (в горшке)",
+                    "description": "Bucephalandra sp. «Kedagang»",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/307/3bcqwwh0tppji3ta9nl3jd8a0qf64mdf/200_200_1/bucephalandra-kedagang.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,60 руб."
+                },
+                {
+                    "name": "Растение Ротала Цейлон (в горшке)",
+                    "description": "(Rotala sp.Ceylon)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/444/2xc946cc8fe3a49oqs14i3fcgij5j2ll/200_200_1/rotala-rotundifolia-ceylon.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила Чай (в горшке)",
+                    "description": "(Hygrophila sp. Araguaia)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/536/u6ksvo4gl37o3ttvfwg3nn4h6t9rqi23/200_200_1/photo_2022-01-26_16-51-33.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Растение Эриокаулон Хайнань Айленд (в горшке)",
+                    "description": "(Eriocaulon. Sp. Hainan Island)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6aa/pbwag6l726jtoqziel3dg1l7pmygcq8x/200_200_1/4f1b3b7cd1c8813aeba1271f86a2e005.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,00 руб."
+                },
+                {
+                    "name": "Растение Анубиас Нана Gold (в горшке)",
+                    "description": "(Anubias barteri var. “nana gold”).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4dc/qu8frh6jwluo3h3ab53oewjexcsa8o8q/200_200_1/3338bb32023415ffddf443ead72d6599.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Анубиас Бартера Брод Лиф (в горшке)",
+                    "description": "(Anubias barteri \"Broad leaf\")",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fbf/l1n8j7rl0vku6kk7ee0f17g7aw5f0wj5/200_200_1/020990197be6635e3bd8f65247edb16e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Альтернатера Рейнека (в горшке)",
+                    "description": "(Alternanthera reineckii).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d4c/6ggesjqgj6gu3525qbj5udr0uf199tmd/200_200_1/7f2efde8ec2c2f9851077a5d94c4b179.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила коримбоза (в горшке)",
+                    "description": "(Hygrophila corymbosa).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a42/p1ys1fvh3eb4aovhlt73ga3ojwusagc3/200_200_1/742935ec38cfed49439f72237c274dd8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гидрокотила трипартита (в горшке)",
+                    "description": "(Hydrocotyle tripartita).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a1/lmficebbcgweh5quf70noyjhdwdacze6/200_200_1/2d0f2265fc4e1160442facbe36a98537.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Людвигия гландулоза (в горшке)",
+                    "description": "(Ludwigia glandulosa).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aac/tb931lirvw9tcupheny106xqj1eson6j/200_200_1/5664b12607aef340905c0eb5df26ee8f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила арагвая (в горшке)",
+                    "description": "(Hygrophila 'Araguaia').",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/44b/v47phyd9vm3kaacd5m0q8rxxw5cwtbr4/200_200_1/1d374a4868b243cd353b2baa43939a4e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Буцефаландра Вест Калимантан (в горшке)",
+                    "description": "(Bucephalandra sp.West Kalimantan).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ed0/64xc40oul6bw2grms38chyonp974lp64/200_200_1/1167ce9cebad1010637962b2742e0555.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,60 руб."
+                },
+                {
+                    "name": "Растение Анубиас Раунд Лиф (в горшке)",
+                    "description": "(Anubias barteri var. nana ‘Round leaf’).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/73f/8xlu4gb052fknjvoi9tqpkmlky7id5no/200_200_1/a09b95eb0a61173ac225c5c3eb73350f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Людвигия сферокарпа (в горшке)",
+                    "description": "(Ludwigia sphaerocarpa).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/55d/hl5r07diwf32xon1f294lbntx0r4w042/200_200_1/3e7ecae26e7eb9b9b236065894e93711.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Криптокорина Вендта Грин Гекко (в горшке)",
+                    "description": "(Cryptocoryne wendtii var \"Green Gecko\").",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c10/3jna80mbyrofhvzlxmmrzw28xutkpbi5/200_200_1/ea99c0c93f99e1c2c794d71c14efed23.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Стаурогин репенс Браун (в горшке)",
+                    "description": "(Staurogyne sp. brown).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1a/9om2q8fwx2ek0pc0n3eo3ozyhbgc1vqo/200_200_1/4b4e6578f0f7efaa927c08300e7c9cd9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Лилеопсис бразильский (в горшке)",
+                    "description": "(Lilaeopsis brasiliensis).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dcf/fvfs53errpo7y3adhqs5pl4wbhbozicr/200_200_1/c8a323bae2db26ade2444b8e97f34e3e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Буцефаландра Treasure 2011 (в горшке)",
+                    "description": "(Bucephalandra SP. Treasure 2011)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb4/3gyfjph0qqsge6e903jl3dgazni3febq/200_200_1/c7bdf973c3d9ae011df7db02cb9d090f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Анубиас Бартера (в горшке)",
+                    "description": "(Anubias barteri var. barteri).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/93a/3q676schynurp3s5s2tcdh6gja3pi9di/200_200_1/a6e5697a82fb155056fa0c866ed61791.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Анубиас Нана (в горшке)",
+                    "description": "(Anubias barteri var. nana)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d6/8jhqxg0rigtxtpok8tnmd62uuseviidz/200_200_1/222-500x500.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Анубиас Бонсай (в горшке)",
+                    "description": "Anubias Barteri var. nana Bonsai",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/721/d579d6zy5urdej629s43wrfg5nst89rx/200_200_1/full_anubias-barteri-var-nana-mini.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Криптокорина Тропика (в горшке)",
+                    "description": "Cryptocoryne wendtii Tropica",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/131/yp9v44ffo0fv9j3pt0hijoj7dmq6n5kx/200_200_1/Cryptocoryne-wendtii-Tropica2-275x310.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Людвигия Гвинейская (в горшке)",
+                    "description": "Ludwigia Guinea",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3e6/tbr8j0xu7qr00qxp9n4fozpy8q25d7sn/200_200_1/1427135651_ludwigia-guinea-1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Буцефаландра Green Chapter (в горшке)",
+                    "description": "Bucephalandra sp. Green Chapter (kapit sulatan)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/669/aptthe2meu9xa859altzgsexk2ich0iz/200_200_1/Bucephalandra sp. Green Chapter  (kapit sulatan).jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,60 руб."
+                },
+                {
+                    "name": "Растение Лимнофила ароматика мини (в горшке)",
+                    "description": "(Limnophila aromatica mini)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83e/j8ow221ltp86jm0rfber8ha6ht4b5t4q/200_200_1/lymnofyla-aromatyka-myny-akvaryumnye-rastenyya__93414375m.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Ротала Blood Red",
+                    "description": "(Blood Red)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/868/hnr531hfoekppzks942irsr3zeexhwg4/200_200_1/rotala-sp-colorata-bund-750x750.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Растение Людвигия Куба (в горшке)",
+                    "description": "(Ludwigia cuba)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a57/9ljkqczx1nxprnquw5ecz6bij6z7enob/200_200_1/13c54fd270ec340f8fa5e0976126eb41.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Аммания сулавеси (в горшке)",
+                    "description": "(Ammania sp Sulawesi)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57d/j7vgpis5dng7s0hu7djjcustkh16amdi/200_200_1/9dd5d3527b98ec610bdb1bba17c51ca6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Эриокаулон синериум (в горшке)",
+                    "description": "(Eriocaulon sp. «Cinereum»)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/993/m1h2t7b8416kr5kv8mblkbuh0ur7km5l/200_200_1/42c0a5ad023c2e8b5c4afbaf5e0aed80.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Растение Буцефаландра Cherish 3 (в горшке)",
+                    "description": "Bucephalandra sp. Cherish 3",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91d/0j127otm04oqe7den0lfhn03sj1bnvn6/200_200_1/3dc08ffe66f4bcbed7ad63d940e7576b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Бакопа Монье (в горшке)",
+                    "description": "(Bacopa monnieri).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd3/hz5714arg1c70jk2ymtp78c18oslk54u/200_200_1/bd001103daeca5f8f72c2842ee7c7f81.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Рориппа Акватика (в горшке)",
+                    "description": "(Aquatica Rorippa)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aac/q5sorxpp44kq243lfhbjioofsvc1mo7i/200_200_1/5b0d045798211989c7640b8a1372620d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила Фиолетовая (в горшке)",
+                    "description": "(Hygrophila sp.Purple).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7f3/xngwh9pj970m97lwkcu9g4ipu4ym5o9o/200_200_1/7141b57832535539c6625ffbc305f010.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Людвигия Роза (в горшке)",
+                    "description": "(Ludwigia sp. Rose).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/049/w6aw6hoq2crr6eg6cre9ihwj3mj1obt0/200_200_1/9d1565846ccd16963777c98d477dc56c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Прозерпинака Палюстрис (в горшке)",
+                    "description": "(Proserpinaca palustris)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/707/scere05yemrm79shjg6osaq5p233b33u/200_200_1/18aa1270e6d9e6240829fee233c27c2d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Криптокорина Скурилис (в горшке)",
+                    "description": "(Cryptocoryne scurrilis)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/46a/kxvqzbgt18e3jq7pn0zxf5du9hfvw7hd/200_200_1/386e61a324bcb696afa242f9bc9e604d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Микрозорум птеропус (в горшке)",
+                    "description": "(Microsorium pteropus).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c64/7sfkyhtnzotrw8m06fgjr729zloi6ibj/200_200_1/953eb539b551e3282952db0c687d788e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Микрозорум Птеропус Рэд (в горшке)",
+                    "description": "(Microsorum pteropus \"Red\").",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/78b/8mi5rjb0bgobfkmnaaw6p98jskir4tgj/200_200_1/f63a366c04a11173457ff5baf700a450.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Лисимахия (в горшке)",
+                    "description": "(Lysimachia nummularia green).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/38d/0poncsathddhcru280j6m0ulvzcs81o0/200_200_1/91d21a3c3bde336d46d1e8e3bf614c8e.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Элеохарис Мини (в горшке)",
+                    "description": "(Eleocharis mini).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/297/17oxo7jqxya0t76fbqv51vxs2sme1y05/200_200_1/85f7361b41dcb230d104744fbaa103b1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Людвигия Палюстрис болотная (в горшке)",
+                    "description": "(Ludwigia palustris).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a67/9xzj4b4l4mqmvns98tpvy5qrvx4wgzsa/200_200_1/721bbc3bef8dd8054ca4ee2adfe78e36.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Мох Тамарассер ( в горшке)",
+                    "description": "Moss sp. Thamarassery",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/178/yzqdrjnybqq8d7nihtxx4hicqhxu7l0l/200_200_1/c5832950d51099eb844d8bf0b66c4104.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Бакопа зальцмана (в горшке)",
+                    "description": "(Bacopa salzmannii)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ecc/5fad3nxlof88i62oa2j1eg6171mi1h31/200_200_1/a5f15aa385abe1b400c70ca658d5c04c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гимнокоронис спилантоидес (в горшке)",
+                    "description": "(Gymnocoronis spilanthoides).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/382/ut2kmrd9pcey9tqfbmge2th7wqrh906b/200_200_1/f21e87e4ac9bdb802b4e3f67c040ae06.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила сиамская (в горшке)",
+                    "description": "(Hygrophila 'Siamensis').",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be9/j56htvp929jy3203dqz262r6er5pedfu/200_200_1/5dd30b612a13f4655bfcd09818a96806.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила пиннатифида (в горшке)",
+                    "description": "(Hygrophila pinnatifida).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0f5/xs02unlosqbeiozezsf3l1sf5r3bj69k/200_200_1/96beb0c88f0a3b7c7461e0bec2cd356c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила многосеменная (в горшке)",
+                    "description": "(Hygrophila polysperma).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/09b/39e9nvbcaep4nt9iyhnyczuwyn8wia6g/200_200_1/20c2b48e9a5679b65b4b87a03e67880a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила тигровая (в горшке)",
+                    "description": "(Hygrophila Polysperma “Tiger”).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e42/ffh08ibgga62vnyot5f27tjhjo2coocy/200_200_1/2113a9da3eaa698e9c3823084e265070.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Мурдания кейсак (в горшке)",
+                    "description": "(Murdannia keisak).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dda/7bszoe9q7qjl59ywflleypja5aemk71e/200_200_1/7a64636233f17e7c9ccdc76a1018939d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила многосеменная мраморная (в горшке)",
+                    "description": "(Hygrophila polysperma 'Rosanervig').",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e67/kzsdm037bk9jtapqjdd2m7gpa4kl1w7t/200_200_1/07b849d286180ed085b8182b8427003e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Хемиантус Куба (в горшке)",
+                    "description": "(Hemianthus callitrichoides 'Cuba').",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f75/fi6swlv1oa09kvbj1eibcbij0odf71mq/200_200_1/1045a94fe021e49fb5c321cda3e3fd02.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Людвигия Марилия (в горшке)",
+                    "description": "(Ludwigia Marilia).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/544/1u6v2o7dtf4x6mc7lj1uwjgc2y0xwkrj/200_200_1/b48c3f471465a68515e27393075692b1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Аммания бонсай (в горшке)",
+                    "description": "(Ammania sp. bonsai).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/873/l6mu7hypqp7o8thqzx1hx7stu9z1hmfc/200_200_1/45b75a7b9d64400160239f96b77c02a7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Стаурогин репенс (в горшке)",
+                    "description": "(Staurogyne repens).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e66/nryukxc2ernckilkokw1tl0k5myhxtan/200_200_1/5162e379dda535f045c003e3eb22e21f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Лобелия кардинальская (пурпурная) (в горшке)",
+                    "description": "(Lobelia cardinalis).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c8c/o289inetc3gds6t8fcl3bw8qoud43vyc/200_200_1/7e957fbcefb5f20439c8626ba89cd2d2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Погостемон Австралия (в горшке)",
+                    "description": "(Pogostemon sp. Australia).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/37e/37t8pjffle5hl0luzfgt79a2nydrpqk9/200_200_1/1a0d8ab226945d8a2858b354b876d586.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Бакопа каролинская (в горшке)",
+                    "description": "(Bacopa caroliniana).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e74/meq8ab11z3g9el4kl5xn5c4kb3qqr202/200_200_1/bcaa48c9c128501cf18f015b1cadd295.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Хиптис Лоренца (в горшке)",
+                    "description": "(Hyptis Lorentziana).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a36/kayhph937tsvbmd2xlf5tgdwwcqzfian/200_200_1/dcbf09f76679b8b110ccdc650e1c36b6.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Альтернатера рейнека мини (в горшке)",
+                    "description": "(Alternanthera reineckii 'Mini').",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e9/50ex4jwit502yeixco4spf3kdq38bazm/200_200_1/9ecbe64b19e7cd32745965458796c8ce.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Хемиантус микрантемоидес (в горшке)",
+                    "description": "(Hemianthus micranthemoides).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a47/5qdmy22fckjvoexhkdqivc9acbv1xspb/200_200_1/2bd33e2fb6befec4c8fc6ac5fb8ca543.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Стаурогин столонифера (в горшке)",
+                    "description": "(staurogyne stolonífera).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f97/p9ckxz1c3xudfvhufnh0n63fbv2l80fy/200_200_1/c496757cc49d07c6a4443cc298d11c55.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Микрантемум умброзум (в горшке)",
+                    "description": "(Micranthemum umbrosum).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/96a/9nuwr898ak0zzase5witwf63eebrbg7c/200_200_1/e50d2b0ea54b14a262c03f21eac5ce0c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Полигонум Сан Пауло (в горшке)",
+                    "description": "(Polygonum sp. Sao Paulo).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c49/r3giivlp67cqtzg3g31dox93cgr81fit/200_200_1/98616c30b5898e0bcb679d47f8e498bb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Эхинодорус Аффлейм (в горшке)",
+                    "description": "(Echinodorus Aflame).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c1a/a3f2xdp9p46ivvnsbzk2mhx8yqizvxct/200_200_1/b80f550f4ba00576b36d065a2a7e5b2e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Погостемон хелфери (в горшке)",
+                    "description": "(Pogostemon helferi).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/68a/s3kr4uhfwlefntnb0gs1o67h73sbdfev/200_200_1/7dc28d61058a81c676a723821fabd46a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Криптокорина Фламинго (в горшке)",
+                    "description": "(Cryptocoryne spec. Flamingo)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43f/yk5ct6v72thyj6r3jug2mm8o2178b2ua/200_200_1/292aa56219004360eb6126496b7a9a1c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,00 руб."
+                },
+                {
+                    "name": "Растение Гигрофила еллоу (в горшке)",
+                    "description": "(Hygrophila sp. yellow).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/204/wiyu2kwle8ss2jenz950xlp6vd0mj5u6/200_200_1/08f70f0d2c807de174d1b70eb9cfcb8a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Папоротник индийский  водяной (цератоптерис) (в горшке)",
+                    "description": "(Ceratopteris thalictroides).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d56/a30qo11q0bftjqxeum96mmu0os877yq9/200_200_1/908dbaa44d12bdeb8ce5ade4804b5ada.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Незея голд (в горшке)",
+                    "description": "Nesaea crassicaulis",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3a0/veusegm1y0dooyvl8f8aoe27mg2gzc0w/200_200_1/2b11b68328380a1aed8acf81c04ce7dc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Анубиас гетерофилла (в горшке)",
+                    "description": "(Anubias heterophylla).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6dd/n0vryxh5ykqi24miydqcstdqamdgza25/200_200_1/c0dad9b187267a4224a0b1199903b700.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила многосемянная Цейлон (в горшке)",
+                    "description": "(Hygrophila polysperma var. 'Ceylon').",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d96/95g9mf68yez70ljwr2rvr3y4vl8yjlte/200_200_1/3bde11ed5e66a6cf5238e0e22a6da11d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Ротала Перлс (в горшке)",
+                    "description": "(Rotala Sp. Pearl).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/948/3bqrwg786nq2qqdqi0zao5epfalldne8/200_200_1/9d3c61c0b6ca89270f497b55f38b1ec0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Ротала HRA (в горшке)",
+                    "description": "(Rotala H’Ra)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e5/tkmvvsnh2oi4wag13nll5b5tn2pd50fb/200_200_1/98289db4fbad0f6076eaaa4a6448fc1f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Самолюс Валеранда (в горшке)",
+                    "description": "(Samolus valerandi).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb5/sjl23rxstx645htxw2eub55r98zadpki/200_200_1/a8ef1d225e4adaebe1c7abd3b115381b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила дифформис (в горшке)",
+                    "description": "(Hygrophila difformis).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7fd/8cg2jktlf659hpthxeu82ddik7y7kc7d/200_200_1/af678a6495961b776bf58e5149e7546f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Микрозорум Винделова (в горшке)",
+                    "description": "(Microsorum pteropus \"Windelov\").",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b4/jaxyxwi8vvw6nj4masujv2cv3oapkxj4/200_200_1/de3ce805d03472ceeaddae33f379c8a4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Буцефаландра Купер Лиф Мелави (в горшке)",
+                    "description": "(Bucephalandra sp. Copper Leaf Melawi)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60b/hivw7smeuw9qguo399uobvvgoeqsm3fg/200_200_1/92a88e29d11afb50d2c8a9bfe97602ff.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Бакопа Колората (в горшке)",
+                    "description": "(Bacopa sp. Colorata).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e84/do8cqb0ekkpru4ae6g6ct5w5eeu69r50/200_200_1/ac3314d3e246b653adb17d4cd2d19b87.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Криптокорина Вендта коричневая (в горшке)",
+                    "description": "(Cryptocoryne wendtii “Brown”).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9dd/kgnypx2nf09ywwa2qquhnz1s0zkardjj/200_200_1/85740cf7fbb538df68f45f953cbcc873.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Аммания грацилис (в горшке)",
+                    "description": "(Ammannia gracilis).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ab/rdxjxj81pvd089ybkmcg3sz2bewmg86p/200_200_1/5de560f9577886aa122fcd4e51472b48.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Эриокаулон Кинг Кримсон (в горшке)",
+                    "description": "(Eriocaulon sp. King Crimson)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/969/dat7ueoicd0dm6t1g1jhe0m18upwwv0g/200_200_1/c5fa1302e9818c40319abafe943d6577.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,00 руб."
+                },
+                {
+                    "name": "Растение Ротала Ротундифолия (в горшке)",
+                    "description": "(Rotala Rotundifolia).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/196/t73bfzosenznd2nda2sph8a3id1fy0m1/200_200_1/6ad0957c3a3487c2d360297cf832d010.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Растение Гигрофила Иволистная (в горшке)",
+                    "description": "(Hygrophila angustifolia).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/684/tttt5id28ig06yw5ni9p2kwag7envlkg/200_200_1/cb19b5b0431d45e8a69e78c694964c2e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                }
+            ]
+        }
+    }
+}

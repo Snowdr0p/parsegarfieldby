@@ -1,0 +1,93 @@
+{
+    "Грызуны": {
+        "Живые обитатели": {
+            "url": "https://garfield.by/catalog/gryizunyi/zhivye-obitateli.html",
+            "products": [
+                {
+                    "name": "Белка Дегу",
+                    "description": "Чилийская белка Дегу - южноамериканский грызун, крупнее песчанки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c74/3stb3vp3qxnm2v57ji3231kmi5gyh0ca/200_200_1/2c8d42f14a0f8c86221dbdd712da2809.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,00 руб."
+                },
+                {
+                    "name": "Хомяк Роборовского",
+                    "description": "Вид мохноногих хомячков, один из самых маленьких видов семейства хомяковых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd7/2j4hp65xd2m36pbuzcqf6500ei0map3v/200_200_1/a59b14d09a61bbdb636461a436706871.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Хомяк джунгарский",
+                    "description": "Вид мохноногих хомячков с темной полоской на спине",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ea/rj7xd3m0xhori4vdur5vb3pqwx4nbr3v/200_200_1/534e2ecd1f6a72585930ce3c7b5bfc54.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Декоративный кролик",
+                    "description": "Разновидность кролика, адаптированная для содержания в домашних условиях",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/425/l680mtp9k7633p15yne2wqvv1zbz1m9w/200_200_1/17bc55be8d6fc85e02e751d2b568d02c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,00 руб."
+                },
+                {
+                    "name": "Крыса домашняя декоративная",
+                    "description": "Подвид и одомашненная форма серых крыс",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d34/zh3vrwjwqrj677h5e35p20nbo2bswids/200_200_1/435e24655f0af935cce28c19f60ee7e6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Монгольская песчанка",
+                    "description": "Когтистая песчанка внешне похожа на мышь, но с кисточкой на хвосте",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aa1/tr60wyfuezayrikaacnqeejvf77z26sy/200_200_1/9c5197a7770c737211a560bf958291d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,00 руб."
+                },
+                {
+                    "name": "Морская свинка",
+                    "description": "Вид одомашненных грызунов из рода свинок семейства свинковых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d1d/p7n6dpc02so802fp2pqbwc1j88x73pkk/200_200_1/4cfb8c72ea36b22aba192b3fba7cae0e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "90,00 руб."
+                },
+                {
+                    "name": "Мастомис",
+                    "description": "Род грызунов из семейства Muridae",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/20f/oc48f0axppy7fb7vg54kuc0y3zy8o315/200_200_1/3bd345a97a303ea789fb2d0eb35022cf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Морская свинка скинни",
+                    "description": "Бесшерстные морские свинки скинни плотного телосложения и крепким костяком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b02/ga5u9mwzqsna2y89pq6mcti0s7e2zyeh/200_200_1/e42cdb33981c0b4edf116bd56c21cd87.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "200,00 руб."
+                },
+                {
+                    "name": "Еж африканский",
+                    "description": "Искусственный подвид белобрюхого ежа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/544/tx6d265qvtz00v6qyf69zmsv09jsc4sr/200_200_1/d86da97ef93898720b603e19252ea578.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "160,00 руб."
+                },
+                {
+                    "name": "Сирийский хомяк",
+                    "description": "Золотистый или переднеазиатский хомяк",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d75/r9ujvmgqjv1k3e2jec0w4umyup42m82v/200_200_1/3236b62ad02892e13d53b419c558dee4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Дикобраз",
+                    "description": "Род грызунов семейства дикобразовых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f7d/f0n5mrdrzgjql0amm65w317k1xxf08e7/200_200_1/22bb3df29109507882f15ee7d22dddb4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "500,00 руб."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Птицы": {
+        "Средства от паразитов": {
+            "url": "https://garfield.by/catalog/birds/sredstva-po-ukhodu.html",
+            "products": [
+                {
+                    "name": "ЧИСТОТЕЛ Максимум Спрей для декоративных птиц и грызунов",
+                    "description": "Спрей от блох и клещей с маслом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/16c/g5c24q7ihy021kze7rs127p7o6h2iaf3/200_200_1/a820cf760a52dd4163d5e25fb40c63ac.jpg",
+                    "amount": "100 мл",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Anti Veren-pluk Papick Spray",
+                    "description": "Спрей против самоощипывания для птиц, 200 мл.",
+                    "image_url": "https://garfield.by/upload/iblock/b11/c0th6uetfqnb5l0cikg8eu2riw7f2q8q/479e8f745117f1d4812dc55b815271a9.png",
+                    "amount": "за 1 ед.",
+                    "cost": "35,90 руб."
+                },
+                {
+                    "name": "RIO гигиенический песок для птиц, 2 кг",
+                    "description": "C экстрактом эвкалипта и ракушечником.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae9/ko77s4akdoi88gtsyrxr0fp12ukfit1d/200_200_1/0665927c259c6b0426f6e57b2a397a10.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "OROPHARMA NO-PICK спрей против самоощипа для птиц, 100 мл",
+                    "description": "Cпрей против самоощипа для птиц.",
+                    "image_url": "https://garfield.by/upload/iblock/f14/07ek270gtj03zk04v3fhn3dvx6cvm1n6/a5e39dd7740e01e3aa6e7b2ea7ead346.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,00 руб."
+                }
+            ]
+        }
+    }
+}

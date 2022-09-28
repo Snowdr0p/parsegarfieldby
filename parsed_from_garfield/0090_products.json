@@ -1,0 +1,93 @@
+{
+    "Рыбки": {
+        "UV Стерилизаторы": {
+            "url": "https://garfield.by/catalog/akvariumistika/uv-sterilizatoryi.html",
+            "products": [
+                {
+                    "name": "Eheim Osram Puritec HNS L УФ лампа",
+                    "description": "Сменная лампа для УФ-стерилизатора, цоколь 2G11.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4db/tv19eqjy38dut2qlwxmxw3nuuhbuynup/200_200_1/647e14ca9438fc80f84b494bb3b41280.jpg",
+                    "amount": "18 Вт",
+                    "cost": "100,10  руб."
+                },
+                {
+                    "name": "Eheim Osram Puritec HNS S УФ лампа",
+                    "description": "Сменная лампа для УФ-стерилизатора, цоколь G23.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5da/amydzvs9d1vuiogz4m1jpt2u4cny4uje/200_200_1/9c4fac84242cf1489e90d8c3a29e5cca.jpg",
+                    "amount": "5 Вт",
+                    "cost": "40,10  руб."
+                },
+                {
+                    "name": "Aquael Стерилизатор Sterilizer UV-PS 15",
+                    "description": "Для стерилизации воды в водоемах и прудов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b20/w68qy4dxieeziv8ykqg1u9myk3pcolxw/200_200_1/3c1fffa435c05bfd3a04b764830962f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "542,50 руб."
+                },
+                {
+                    "name": "Aquael Стерилизатор Sterilizer UV-PS 9",
+                    "description": "Для прудов до 5400 л и аквариумов до 450 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/265/nkblldu0qk89ff09k8wyqhybjlohx092/200_200_1/15842b5b47cc3f489f5add6dad0ef4e7.png",
+                    "amount": "за 1 ед.",
+                    "cost": "400,70 руб."
+                },
+                {
+                    "name": "Eheim UV Стерилизатор EHEIM REEFLEX 350",
+                    "description": "Для аквариумов от 80 до 350 л.",
+                    "image_url": "https://garfield.by/upload/iblock/f7c/dib3k5j1tzgdarepio9yun2n7yfp07w1/606d8259e5ea089c2d01fcf84f0385aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "620,00 руб."
+                },
+                {
+                    "name": "Eheim UV Стерилизатор EHEIM REEFLEX 500",
+                    "description": "Для аквариумов от 300 до 500 л.",
+                    "image_url": "https://garfield.by/upload/iblock/e18/9kd4mfl8n37r4gnbe01jt390artp7yb0/b563c6c6f9d5c1a64deb4b37daf3117c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "710,00 руб."
+                },
+                {
+                    "name": "Eheim UV Стерилизатор EHEIM REEFLEX 800",
+                    "description": "Снижает содержание вредных микроорганизмов в воде",
+                    "image_url": "https://garfield.by/upload/iblock/310/szp7shc36mxekbll7cxwsqsh8u6zxbou/3ec0ff358150f5e13816083e13b3e9fe.jpg",
+                    "amount": "300-500 л",
+                    "cost": "880,00  руб."
+                },
+                {
+                    "name": "Boyu UVC УФ-стерилизатор",
+                    "description": "Стерилизатор для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/b28/dn10zki732klln7k6gi9fkhyc4jy34ug/6834269670fd12463fac79aa168ef749.jpg",
+                    "amount": "11 Вт",
+                    "cost": "480,10  руб."
+                },
+                {
+                    "name": "Aquael Стерилизатор Sterilizer UV-C AS Lamp",
+                    "description": "Стерилизатор для аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/61b/8yfn02zz42z4tmaazp09m7nhks2sihuz/200_200_1/sterilizer_178.jpg",
+                    "amount": "3W",
+                    "cost": "132,30  руб."
+                },
+                {
+                    "name": "Aquael Стерилизатор UV Lamp Mini UV",
+                    "description": "Стерилизатор для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/b70/snslciftxyryssxf8mfk8qwbd90i8ej0/ffd1b77602dd3c37f96a61e558ff5a0d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "70,20 руб."
+                },
+                {
+                    "name": "Aquael Стерилизатор Multi UV - 3W Lamp",
+                    "description": "Стерилизатор для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/ce0/bm0fupds8krc5idgt5b89t0zv8ngk56g/37b1ada2390fd7cd4ad2169ffa0e2e0c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "140,70 руб."
+                },
+                {
+                    "name": "Aquael Стерилизатор UV-AS Lamp 3W",
+                    "description": "Стерилизатор для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/65b/q7yxnrqj8jlh36vxpum304lva49lba2c/c0cc186678f510e400df9ccfc10091e4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "123,40 руб."
+                }
+            ]
+        }
+    }
+}

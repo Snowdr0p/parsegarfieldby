@@ -1,0 +1,1605 @@
+{
+    "Рыбки": {
+        "Живые обитатели": {
+            "url": "https://garfield.by/catalog/akvariumistika/zhivye-obitateli-.html",
+            "products": [
+                {
+                    "name": "Скалярия красный фантом",
+                    "description": "Аквариумная рыбка семейства цихлид",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a87/ywzq2kc99pe2brgg4s36s1f0qcegzvk8/200_200_1/0-02-05-b00cbf538a88f58afac0f6c7214d901b23eb5b069c1bb5ac2d8783a303e2011b_3fe90f03e07b4a39.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Кардинал золотой",
+                    "description": "Аквариумная рыбка семейства карповых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/29b/koufo358oglxro6vmtdoc3b2b7x87vr7/200_200_1/zolotoj-kardinal---golden-white-cloud-mountain-minnow.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,00 руб."
+                },
+                {
+                    "name": "Сиамский водорослеед GloFish",
+                    "description": "Аквариумная рыбка семейства карповых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6f/ckv4qfavzzv0bj7n49naxjg8pdh9aurc/200_200_1/Без имени-1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Лабео GloFish",
+                    "description": "Аквариумная рыбка семейства карповых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b3/0d0cur3mgloeogzfw51qsuug1e05sdqe/200_200_1/bf9-1-700x700.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Макрогнатус",
+                    "description": "Macrognathus - аквариумная рыбка семейства Хоботнорылые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc0/snfy8llzur27kqwagdbv4233ny45ccnf/200_200_1/13.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Гиринохейлус (китайский водорослеед)",
+                    "description": "Аквариумная рыбка семейства гиринохейловых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d1c/e0x1wlil8qdy9im7luzrh8emfixcdlxj/200_200_1/20247423.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,00 руб."
+                },
+                {
+                    "name": "Креветка Оранжевая сакура",
+                    "description": "Аквариумная креветка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d47/59uce0td2y83f1aey4am4ka3cd3ouxhx/200_200_1/47e1920941448e7201f8314d3136.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Скалярия Пиной",
+                    "description": "Аквариумная рыбка семейства цихловы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e2b/su1p52tbrvuw9pcgrx4gkbvyrrblflge/200_200_1/1590509944_1.jpg",
+                    "amount": "S",
+                    "cost": "16,80  руб."
+                },
+                {
+                    "name": "Рак флоридский",
+                    "description": "Аквариумный рак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/816/m7d8ydkevpz98r1ekrbas204nsmjip1t/200_200_1/Procambarus-clarkii_White_00.jpg",
+                    "amount": "белый",
+                    "cost": "36,00  руб."
+                },
+                {
+                    "name": "Скалярия голубая",
+                    "description": "Аквариумная рыбка семейства цихловых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/438/lno54ijlxt13rvly9931k0wgps2y0x2t/200_200_1/Fish-SkalBlue_0.png",
+                    "amount": "S",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "Попугай сапфировый тигровый",
+                    "description": "Аквариумная рыбка семейства цихловых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3dc/3z04msmd8svjf2ev9263no8ejy2cqti3/200_200_1/noZ1MraBMm8Dl8BpRSDl_pKRNmnXlzJpsPI2aQOXwGnDlT5rw5MyKw.jpg",
+                    "amount": "1 шт",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "Цихлазома Сальвини",
+                    "description": "Аквариумная рыбка семейства цихловые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47c/qfgp9y9tlt38hwkpxqxgh39uyz3muf2b/200_200_1/cihlazoma-salvini.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Гурами Серебряный",
+                    "description": "Аквариумная рыбка семейства макроподовых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/984/oef2jobgyotfnjxiicergatlsly7z8eb/200_200_1/3882b45fb301b777934d0d0ec714cedc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Гурами Голубой",
+                    "description": "Аквариумная рыбка семейства макроподовых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d7/roqyc82k9zjc11ktowoz25o8z3b4zwpk/200_200_1/8da0663ed80bce1cc60019cde0b3b0e9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Гуппи Чёрный принц",
+                    "description": "Аквариумная рыбка семейства пецилиевых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/58b/kasjn0u629l9d4wz4hy3mizv3uutxx4d/200_200_1/607f1ea7d3b4ca9aa2da6b22f74a48f9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Хаплохромис васильковый",
+                    "description": "Аквариумная рыбка семейства цихловые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/311/0d050b1rn81ir4k2vxg31sguvpfbl747/200_200_1/561ce4a686101f73603c4c5cdc68dce3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Скалярия КОИ",
+                    "description": "Аквариумная рыбка семейства цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/834/pxx1gnxjinzma1zlh2qc4yj1md3mfa5y/200_200_1/b0b4de3657e4cf346b09b4c5691415e3.jpg",
+                    "amount": "XL",
+                    "cost": "30,00  руб."
+                },
+                {
+                    "name": "Малавийские цихлиды (ассорти)",
+                    "description": "Аквариумные рыбки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/78d/iopymyfthg5pwnx4pb3xvn31qco1vbv3/200_200_1/f3a0b48082327d7a422dcc51e42445d8.jpg",
+                    "amount": "S",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Сом Анциструс",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab9/9yra90ffy3z013gyn7dvznts0g8k10cu/200_200_1/21b9459168c55c98fd350d5d026f24f7.jpg",
+                    "amount": "S",
+                    "cost": "6,00  руб."
+                },
+                {
+                    "name": "Улитка Ампулярия",
+                    "description": "Аквариумная улитка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bbf/3i0nv6ovtdcy05vu36gx0n1uqws64ut0/200_200_1/161c6e985feb3582cc24bd6f2b02e0fa.jpg",
+                    "amount": "S",
+                    "cost": "2,40  руб."
+                },
+                {
+                    "name": "Аксолотль",
+                    "description": "Неотеническая личинка амбистомы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd9/7rphirit77zat788cnah3149ltfgovs0/200_200_1/63e59100cbf8ab21d45e097f0bc393bb.jpg",
+                    "amount": "M",
+                    "cost": "30,00  руб."
+                },
+                {
+                    "name": "Золотая рыбка",
+                    "description": "Аквариумная рыбка семейства карповых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/056/red8l5c8l4jaf774pj2lizcq0t02piq3/200_200_1/81dd66bf4460e35262d6ae8651facd72.jpg",
+                    "amount": "S",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Петушок бойцовая рыбка (самец)",
+                    "description": "Аквариумная рыбка семейства лабиринтовые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d8/6ix7k5bmireic6ybx9nvo006kzye625l/200_200_1/4334094d92e980e44035a48c8186569a.jpg",
+                    "amount": "M",
+                    "cost": "21,60  руб."
+                },
+                {
+                    "name": "Телескоп ассорти",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad1/1hu1d8napui7c7whyr1jlg5hup3liu6b/200_200_1/39f40b5cc0dd91caa47f81005a4b4a7c.jpg",
+                    "amount": "S",
+                    "cost": "6,00  руб."
+                },
+                {
+                    "name": "Скалярия (ассорти)",
+                    "description": "Аквариумная рыбка семейства цихловых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/39c/lyez6dvu1n2qmogsyskcs1asu8himozi/200_200_1/dcf6f4ac1010c76c3ed8b433c4989aef.jpg",
+                    "amount": "S",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Барбус Суматранский",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a9/9rd4k8jcxg06nhznp0gqe0zddlizo7oh/200_200_1/091ba08955b07814490352ed7032f70c.jpg",
+                    "amount": "M",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Гурами Мраморный",
+                    "description": "Аквариумная рыбка семейства макроподовых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3aa/secorcl7x98ufq64h3y72kexlpz7wj7l/200_200_1/e75f9117d4a96caaea9fcf59077b72cd.jpg",
+                    "amount": "S",
+                    "cost": "6,00  руб."
+                },
+                {
+                    "name": "Креветка Синяя мечта",
+                    "description": "Аквариумная креветка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ee/m5ofya0k5t5vh2hn111g2t6ir81jo32j/200_200_1/700b52bbd72bb1af91a114684344726a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Хасемания (Медная Тетра)",
+                    "description": "Аквариумная рыбка семейства харациновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83f/62el7t7qmn3ovr7nm41saju8zhbc58o0/200_200_1/fc28d92b2882714e8a355cee2a3f7688.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Тетра Фон Рио",
+                    "description": "Аквариумная рыбка семейства харациновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/072/cjc1ftjk6nbo3f816wzeecl6odoegdso/200_200_1/183daa411ff9150eef516513eb1255d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,00 руб."
+                },
+                {
+                    "name": "Расбора Гетероморфа (Клинопятнистая)",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/iblock/35e/e85nou9m9roemspimpu3dcxynetyhv0d/561a7bad009dfe720db856aa5794947e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,00 руб."
+                },
+                {
+                    "name": "Микрорасбора Галактика",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/iblock/055/1jdnj09b17izw5gnvd8sjdjlba89tr6m/3df724d41f29828c01054bfdf8c09893.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Тернеция Глофиш (ассорти)",
+                    "description": "Яркие и светящиеся, флуоресцентные рыбки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/802/kdephw8p8k0z2zo7g73cqxpz7xxo0j34/200_200_1/474781ae4655605dbf069ab2b6a0eb88.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Черный орнатус",
+                    "description": "Аквариумная рыбка семейства харациновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/feb/5d9ac9zhuutqh4a9mae8lhipp105ui7p/200_200_1/a3cc605071850b863ba529b600bdbc14.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Макропод (Macropodus)",
+                    "description": "Аквариумная рыбка семейства лабиринтовые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b1/eotfco5xsy6t398prcx6086z9ss1fozk/200_200_1/5ec748ad735ddfd27339525d2ed1a540.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Моллинезия Чёрная",
+                    "description": "Аквариумная рыбка семейства пецилиевые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ff/gbxyodrtkxf1326787ha70bbniyhdkyk/200_200_1/771a702a26b42ea69c31f593c0eeb44e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Меченосец Санта Клаус",
+                    "description": "Аквариумные рыбки семейства пецилевых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/007/9gqjuqfztwu341k90xzzol8fy4nca5x9/200_200_1/25266c4c7396e989300f38daf7a8f5aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Креветка Неокаридина (ассорти)",
+                    "description": "Популярная аквариумная креветка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e8/1bt1kni5nk6udhpu9ucybfs5z1rbcfhl/200_200_1/bf31b129ff6c228e8771918afd1eda3a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,50 руб."
+                },
+                {
+                    "name": "Мезонаута",
+                    "description": "Аквариумная рыбка семейства цихловые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ed/2hwzfg7c2kxs9scn6qtk4ijzngzl1v31/200_200_1/c167d43744a1e14c1de44b5076807564.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,80 руб."
+                },
+                {
+                    "name": "Коридорас Панда",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1da/0hmh5nx52yys09b5amu78s58r6x33ifx/200_200_1/6710425068378615a68fdd54ce0c5823.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Наннакара неоновая (Наннакара Неон-блю)",
+                    "description": "Аквариумная рыбка семейства цихловых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e64/0hnscwclb6s9a8wrp5a0ol6m8mxk1m94/200_200_1/3473f7c61091f7dfb3f0a975a54c3f32.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Апистограмма Боливийская бабочка",
+                    "description": "Аквариумная рыбка семейства цихловых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/07f/xyc2zateg3x368i94c9mvwf9itrzfy0j/200_200_1/c93a7181a962b6efac049e361d2cf060.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Тернеция GloFish красная",
+                    "description": "Аквариумная рыбка семейства харациновых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d2/i465ndzz9rojpzu1o71faw0bnul9pb2j/200_200_1/178c65de2d74614288e73a6f126f5bf7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Цихлида-попугай (красная)",
+                    "description": "Аквариумная рыбка семейства цихловых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/553/9i0573z731z2wghgp1safbv7y5i15xji/200_200_1/1494513723_07шгпдшрдшрг.jpg",
+                    "amount": "M",
+                    "cost": "48,00  руб."
+                },
+                {
+                    "name": "Комета красно-белая",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2c3/g8et6504wr07cg08o0jf5jy8sgvbp9sa/200_200_1/6aa159220a8b37b9c6abfeaa1001263f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,00 руб."
+                },
+                {
+                    "name": "Неон (черный)",
+                    "description": "Аквариумная рыбка семейства харациновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c1e/z2bsariz8g0ojo025u81pdkkoqy77q34/200_200_1/9f120d03e88070a5ad0c026f14f9504b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Данио Глофиш (ассорти)",
+                    "description": "Яркие и светящиеся, флуоресцентные рыбки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/590/luju55boi1is68i4x3k8lr9i7t2b8ovs/200_200_1/c9ce62cf28fa4e5cccddde81d9217998.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,50 руб."
+                },
+                {
+                    "name": "Барбус Суматранский Мшистый",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b58/30xw7ihq1id56w5fyk84daq7zj2jec6f/200_200_1/4afb280c0c7b4f25f18c42ec75eee761.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Барбус вишневый",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/542/8vs6h7aqc9d9cdhmoto3s7lm0j6j3gfz/200_200_1/197546c071796d4a65d656403c0a0ab6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Боция мраморная",
+                    "description": "Аквариумная рыбка семейства вьюновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c25/2kh81c3nyejnic09j6w52kyom10zhayi/200_200_1/0959c6ce57d65374c7643020217cbdc1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Синодонтис Мультипунктатус",
+                    "description": "Аквариумная рыбка семейства бахромчатых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a22/7x2u32yz24dm0ydywyvw7a2xltqe4znw/200_200_1/1b9110a862bb3231c1e6e829f161b074.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Полосатый сом платидорас",
+                    "description": "Аквариумная рыбка семейства броняковых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/252/mn0ysa68rgam5lhvxqz44wh5nk399jeg/200_200_1/152b0e4915b28c001e7fa049dfe266ff.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,00 руб."
+                },
+                {
+                    "name": "Пецилия (ассорти)",
+                    "description": "Рыбка семейства живородящих карпозубообразных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/380/scfn0g87gt9i71vfh4hnzzhuarms35jl/200_200_1/830129129f26cfcff7f5ace98fd81580.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Кардинал",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/682/uh6rjv4ryu4xmk3txkgaw0de307k5vfx/200_200_1/7e712e11e6bd8555d1d6bb2086d9b34a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Барбус огненный",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/80f/0823mm1m3ndas5tjrhwzyyqi9hby4438/200_200_1/3db118c123cf4288a6aebb5fe6416667.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Петушок Half moon",
+                    "description": "Аквариумная рыбка семейства лабиринтовые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd7/wtl018e7w6u5m1xhoprud44hncllqs9j/200_200_1/d4841da3c4112b1f51fe4d8492b00396.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Улитка Эльф (спикси)",
+                    "description": "Аквариумная улитка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/146/qww2hfscxs8b0y25x0b18mn78vhrs4hp/200_200_1/08cc615ea0b44ca152ee6a3e10cf36af.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Орнатус",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b3/xg7oe1mm82dpgph7swo86m3ntszm4122/200_200_1/5fb72751de9ee1c806a29ec17ceb6f85.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Принцесса Бурунди",
+                    "description": "Аквариумная рыбка семейства цихлиды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be2/grnaf12sewejpaogelzes44kwsj076sp/200_200_1/e519949c029bcc3d0df75912c40f6282.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Тетра бриллиантовая",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c94/ir0ydjvmbk7x8i65nhjg16037vl8bi7t/200_200_1/b3eeb67843d5e504ddc66a057e4a4b60.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Сом Золотистый",
+                    "description": "Аквариумная рыбка семейства панцирных сомов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c96/04ktd9pjo4vxrem34gbtikarvita9c6n/200_200_1/c45745697302fa27b65f0f96e5848f08.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Улитка Хелена",
+                    "description": "Аквариумная улитка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a1/4srld35ggsa0h3i8es63h4r8rqo4lxbi/200_200_1/abc892567dc0235e392b72bdd15261e5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,00 руб."
+                },
+                {
+                    "name": "Коридорас Штерба",
+                    "description": "Аквариумная рыбка семейства панцирных сомов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce3/8qnas1ct3qyvkpyzu69d3za17s93s4ca/200_200_1/e0b3914631fa6cad6a4d4e2a16674b3a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Лампрологус апельсиновый",
+                    "description": "Аквариумная рыбка семейства цихлиды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/56d/lgdb70pt1mtqzsn089xij17j0gef298y/200_200_1/2e9aa416abcd337129d381bb37b92e56.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Нотобранхиус Гюнтера Gold",
+                    "description": "Аквариумная рыбка семейства нотобранхиевых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/40f/qz9vwfs4pcbi3p9tcazcywjpve1wt1rp/200_200_1/f948d87f85245ba64c41229937c74dc9.jpg",
+                    "amount": "самец + самка",
+                    "cost": "23,00  руб."
+                },
+                {
+                    "name": "Барбус Глофиш (ассорти)",
+                    "description": "Яркие и светящиеся, флуоресцентные рыбки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/525/z5y04zur0xrvglg6strhs9yl1oc2te39/200_200_1/f5f79740f20616752c33781084005e4f.jpg",
+                    "amount": "S",
+                    "cost": "6,00  руб."
+                },
+                {
+                    "name": "Хромис Красавец",
+                    "description": "Аквариумная рыбка семейства цихловых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/16a/l0ca9ze6lrxawjqgmayok5h1j9a21ksb/200_200_1/d301a5d4bb1a9c0c1a01f6848a02f16e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Радужница Неоновая",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a00/e83wls9ylstxjxpajurvcvcrfm1yjbha/200_200_1/ffcec1239f0e83ed2b6d4dea1a46f4ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,00 руб."
+                },
+                {
+                    "name": "Стеклянный сом",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9e/snd2fzx2n71tgfvpgnuj4qspajypko7r/200_200_1/ada65035558c718c63f6461102aeeb69.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Коридорас Венесуэла Оранж",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f75/z5rjg28dl9v0yzhgej18q7lk0dail81h/200_200_1/86fe1ae391370ef31fe3962df2bfb3ca.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Гуппи ассорти",
+                    "description": "Аквариумная рыбка семейства пецилиевых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34d/o7wwkbt1zum1075pbedctqdemokwh22t/200_200_1/c266716cbcfcf4eb1c38d2954072007e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Барбус Алый (Одесский)",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c36/lfz53gfeaykemj34191iwo6icyz14kqo/200_200_1/a0ff05176fce9bccf6bf3ccd1be5aecf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,00 руб."
+                },
+                {
+                    "name": "Серпас вуалевый",
+                    "description": "Аквариумная рыбка семейства харациновые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db4/ygelkcy8xyn7bnak8xvvoeat5mh9w9ki/200_200_1/0bb13587be6fdebe27f73d401098b94c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Улитка Теодоксус",
+                    "description": "Аквариумная улитка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ed/4b5entzh2cvyvobllyjfbywqyrkabili/200_200_1/9b778d02871a2d88c67c14fcec2ac825.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,40 руб."
+                },
+                {
+                    "name": "Гурами Жемчужный",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b3b/zsnpes51xtyu5vcg77ima7p78rsf9g4k/200_200_1/85c0c93a6cbe6679b2b55c0cf9e12ed6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Неон (голубой)",
+                    "description": "Аквариумная рыбка семейства харациновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f49/we2i1mwv45arbugf8gi5etqzk16b8fbb/200_200_1/dec2ad79f1b916c2b20ed51a5e3df45b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,50 руб."
+                },
+                {
+                    "name": "Неон (красный)",
+                    "description": "Аквариумная рыбка семейства харациновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57a/cotkd1g2epx24p7b3wr4xc1whcmtuija/200_200_1/627dddd77b17a8f0cedd84c168306d91.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Гуппи Голубая трава",
+                    "description": "Аквариумная рыбка семейства пецилиевых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/871/20a8yatn3vixubhux4zqz5a5kljy9x4m/200_200_1/guppi-golubaya-trava.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Гуппи Золотая Кобра",
+                    "description": "Аквариумная рыбка семейства пецилиевых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a3/4kcx33dkbf4oovq0ut1w5e4nsxogr6a7/200_200_1/guppi-kobraпвпвп.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Сом Анциструс Снежинка",
+                    "description": "Аквариумная рыбка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a7/dalu0h05l66y8hl03r4zqi41tjddfd0o/200_200_1/L144 Анциструс sp. Snow White.jpg",
+                    "amount": "1 шт",
+                    "cost": "21,60  руб."
+                },
+                {
+                    "name": "Сом Анциструс Супер Ред Вуалевый",
+                    "description": "Аквариумная рыбка семейства локариевых (кольчужных) сомов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bf5/spe55you7fk9fo9xzz5k47x1ur6v0qgh/200_200_1/90073848.jpg",
+                    "amount": "1 шт",
+                    "cost": "14,50  руб."
+                },
+                {
+                    "name": "Гуппи белый вельвет",
+                    "description": "Аквариумная рыбка семейства пецилиевых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3d2/q2qeeiy0x1260fdv2kjos2dd5yxksvlt/200_200_1/чвакп-744x496.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Лялиус Кобальтовый",
+                    "description": "Аквариумная рыбка семейства лабиринтовых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0c6/dkz8ijx452hv3ks3071ki6ta3pyv3q0c/200_200_1/CobaltDwarfGourami.jpg",
+                    "amount": "самец + самка",
+                    "cost": "21,60  руб."
+                },
+                {
+                    "name": "Барбус Синештриховый",
+                    "description": "Аквариумная рыбка семейства карповых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ba/myet7j17oqly9kbiyf922sfhhnlx2oe6/200_200_1/14140842618815642 копия.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Цихлида-попугай (желтая)",
+                    "description": "Аквариумная рыбка семейства цихловых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/46e/dmb2j3ireoiv52zwf9vmhdyfiu0b1s4h/200_200_1/yellow-parrot-cichlid-3-768x538лдоиплалд.jpg",
+                    "amount": "L",
+                    "cost": "60,00  руб."
+                },
+                {
+                    "name": "Лабео зеленый",
+                    "description": "Аквариумная рыбка семейства карповых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d4/t0u6457p51joj1l71exmuoxigslkq32y/200_200_1/1e3d79c4226f6c0d922f823202fb355e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Улитка Мариза",
+                    "description": "Аквариумная улитка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b76/gcfumhozgrd23kxn6rnocycyg8zu56ny/200_200_1/e1a2f9019e9d4fe16aa66330937b54cb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Меченосец Гамбург",
+                    "description": "Аквариумная рыбка семейства пецилиевые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/12f/btu1fhgzbrpo5brpprm90qrysuhbeawe/200_200_1/f401867b164427e735aaa8f4f0b6ffda.jpg",
+                    "amount": "XL",
+                    "cost": "12,00  руб."
+                },
+                {
+                    "name": "Комета желтая (лимонная)",
+                    "description": "Аквариумная рыбка семейства карповых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/906/oak6o3sno0s358ptbz6f9yz824rw5iac/200_200_1/2d949af59e8f7ef1bd1b3b80ac0e1646.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,20 руб."
+                },
+                {
+                    "name": "Коридорас Септентрионалис",
+                    "description": "Аквариумная рыбка семейства каллихтовые сомы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b59/trtb50qz9r68sdc51acagy1xp0rv51yx/200_200_1/c2bbb2c41d6fd8d4ce0ddd70a055d599.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Аулонокара роза",
+                    "description": "Аквариумная рыбка семейства цихловые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d8/ej9p3sobaszq1ctyqaj4xva63u41q5z6/200_200_1/fe3c1ea8fd80cea074574c9b11f387b1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Циприхромис желтохвостый",
+                    "description": "Аквариумная рыбка семейства цихловые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/434/u6mup2llej7e2gf5hnjszl3xn8f2zz3x/200_200_1/e1a71b20ed89b3f5994ae4ae8e65f645.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,00 руб."
+                },
+                {
+                    "name": "Пельвикахромис пульхер",
+                    "description": "Аквариумная рыбка семейства цихловых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/865/6sx3tp0osd584771nkw9scpdc24lvz89/200_200_1/1676553b78218721ee63b732ee619a46.jpg",
+                    "amount": "XL",
+                    "cost": "16,80  руб."
+                },
+                {
+                    "name": "Гуппи Канадский",
+                    "description": "Аквариумная рыбка семейства пецилиевых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/adc/1t9woona90qoce3tz5he48uopmc9c3gz/200_200_1/c739552333c6f918dff4948fc17cd4bd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Сом Платидорас",
+                    "description": "Аквариумная рыбка семейства броняковых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3fc/6viyrz24tvpemfemljn58p1r1td9kd3s/200_200_1/ac25ebcc5e6d5a9306d378688b07508e.jpg",
+                    "amount": "XL",
+                    "cost": "24,00  руб."
+                },
+                {
+                    "name": "Анциструс LDA-16",
+                    "description": "Аквариумная рыбка семейства лорикариевые (кольчужные) сомы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e2/qr072hcglrpkvurwkv4rzgt7ms5o7h51/200_200_1/0a0e7b34eadcdbf992c92dd346a692be.jpg",
+                    "amount": "S",
+                    "cost": "8,50  руб."
+                },
+                {
+                    "name": "Королева Танганьики (Фронтоза)",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1b/1hligskrxa5cyp5unm7bv75cx4qxauko/200_200_1/770901bbfe01db5c9b6d579127f64563.jpg",
+                    "amount": "M",
+                    "cost": "48,00  руб.Под заказ"
+                },
+                {
+                    "name": "Гурами лунный",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/241/5gwhmsk5cxw74xbbdpdpugz8belkg2c2/200_200_1/517f4f7b8b63e68a92398faae01b5d23.jpg",
+                    "amount": "XL",
+                    "cost": "24,00  руб."
+                },
+                {
+                    "name": "Полиптерус Эндлихера",
+                    "description": "Аквариумная рыбка семейства многопёровых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c23/d3mqft9a0hysqobj7oc947dhs4v0phij/200_200_1/19182012c9c8e2e7612d059f30cd6fad.jpg",
+                    "amount": "S",
+                    "cost": "48,00  руб."
+                },
+                {
+                    "name": "Креветка Амано",
+                    "description": "Аквариумная креветка семейства атидовые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fc6/ou4mo3vvmj6kx40353wqf5gjn8x1qe2q/200_200_1/4283b0976faadc3145f75a1bd45e7f5d.jpg",
+                    "amount": "M",
+                    "cost": "12,00  руб."
+                },
+                {
+                    "name": "Дискус",
+                    "description": "Аквариумная рыбка семейства цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3d1/3vmgnxkdue5th981sd2wgg0vyibn7e0m/200_200_1/3cd3388a834f5e5c9baa5158a237c5ba.jpg",
+                    "amount": "L",
+                    "cost": "60,00  руб."
+                },
+                {
+                    "name": "Моллинезия желтая",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7fa/d2wf5opi1cocwgv6so1ajmlzn00lxnc1/200_200_1/6c01930983f2e27eb871f357f7ed784a.jpg",
+                    "amount": "M",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Астронотус",
+                    "description": "Аквариумная рыбка семейства цихлидовых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/263/vzy5nqj0ee6i9lyrdnew1khg0042q8u1/200_200_1/debc1af47f7d9b85428f9cc1c47be8c9.jpg",
+                    "amount": "S",
+                    "cost": "28,80  руб."
+                },
+                {
+                    "name": "Пундамилия Ниерери",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/635/isb2kkg75wqcl71jhspr4p240jmlc1ym/200_200_1/e17bc0bf30dce22ef484c8eb0659777c.jpg",
+                    "amount": "S",
+                    "cost": "3,00  руб."
+                },
+                {
+                    "name": "Сом Крапчатый",
+                    "description": "Аквариумная рыба из семейства панцирниковых сомов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/613/psc20wzriq86xm29efeqfi7smql9z2d8/200_200_1/3f75fa61bac94d8a6cf6a620880fdba7.jpg",
+                    "amount": "M",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Цихлазома Северум (красноточечный)",
+                    "description": "Аквариумная рыбка семейства цихловых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/219/vaefffolbxpb3lthpwhi9jxzsnolzg1d/200_200_1/8da873e8f6e8f50aa52ad862f6ae10d3.jpg",
+                    "amount": "S",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "Меченосец ассорти",
+                    "description": "Аквариумная рыбка семейства пецилиевых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/04a/hw2w0mf11h4788a0hs2xgsv2d8clhrbm/200_200_1/32e1b4e49d2853692b3faa3bf3bc23b9.jpg",
+                    "amount": "L",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Полиптерус сенегальский",
+                    "description": "Аквариумная рыбка семейства многопёровые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9af/psay4dabr3djdrdkaz6i2xjnn6ciy2lm/200_200_1/297dd288bef324f6684d31fe1776661c.jpg",
+                    "amount": "S",
+                    "cost": "16,80  руб."
+                },
+                {
+                    "name": "Золотая рыбка Оранда (Красная шапочка)",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/da2/zju14hmnn4fnavgvdoivml3p9fesvj0x/200_200_1/1713cb0b6a438e166e93fe33e3410e24.jpg",
+                    "amount": "M",
+                    "cost": "19,20  руб."
+                },
+                {
+                    "name": "Гурами Перламутровый",
+                    "description": "Аквариумная рыбка семейства макроподовых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/814/fkx72qq3segol8zrubpyy6xmtx2f6lue/200_200_1/34fb8086a3ea3164eacaeaeacfd02742.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,00 руб."
+                },
+                {
+                    "name": "Парчевый  сом",
+                    "description": "Аквариумная рыбка семейства кольчужных сомов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34d/gmh7l0fgcjewlubyrha2n6n8j1swdnyg/200_200_1/fa17605cd8d65084dece06fa7495bc0e.jpg",
+                    "amount": "S",
+                    "cost": "14,40  руб."
+                },
+                {
+                    "name": "Тетра Шольца",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e88/afxbqn3up19fupevyozb8g1u9ix7gh4w/200_200_1/4a992dc82218a25fb3e3ab7da5c222cc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Сом Торакатум XL",
+                    "description": "Аквариумная рыбка семейства панцирных сомов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/926/7llx413n2dwzuo07gn9dhxidufenq5sa/200_200_1/778301114da53645a08424f88740f2da.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,00 руб."
+                },
+                {
+                    "name": "Тетра Аманда (Хифессобрикон Аманда)",
+                    "description": "Аквариумная рыбка семейства харациновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0d/rz3xngxuvfhoonwuv4s4k6nw0553p6kt/200_200_1/6bf0f84c7626261dd4df6cadde6c6626.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,00 руб."
+                },
+                {
+                    "name": "Карликовый гурами",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/566/zpz0678n80qh7ztvfyny16w2sio42ki2/200_200_1/39b9f001667d3e7a68df46156d78b36c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Юлидохромис Транскриптус",
+                    "description": "Аквариумная рыбка семейства цихловые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/423/s3dpxczpnoh1bz6ojrfurbdkcsl9yi5e/200_200_1/353af118c27a542c2d7a624f0fd5118b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Псевдотрофеус Ацей",
+                    "description": "Аквариумная рыбка семейства цихлиды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9cc/p7cpffyi2lavjl5xywy0m41o9a87jgpu/200_200_1/49a4731e4dc28ca64007766195cbfe33.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Телескоп Бабочка",
+                    "description": "Аквариумная рыбка семейства карповые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/847/9ltsdvyf5bg8q3j6cpv1502qjeyuakik/200_200_1/808b590280c46a84620cc447152b7200.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,20 руб."
+                },
+                {
+                    "name": "Тельматохромис темпоралис",
+                    "description": "Аквариумная рыбка семейства цихлиды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cfc/ugv33j2yq8j0jbxo00sbp4ny21lpo1er/200_200_1/8e51aadb3cd0d875bdb4369ccdf65b1f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,00 руб."
+                },
+                {
+                    "name": "Пристелла",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af0/rzeg9280chqlnsspas6uuc9qdg80t2xn/200_200_1/7ac150376bc1d6a406d074a84b13678b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,40 руб."
+                },
+                {
+                    "name": "Арована серебряная",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/046/vzlcnxmz7kxjism3xoxizai3wdiatqla/200_200_1/ecf940a9060bdd9c86771a6acd8bd1f8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "192,00 руб."
+                },
+                {
+                    "name": "Гурами Золотой",
+                    "description": "Аквариумная рыбка семейства лабиринтовые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/09b/dmbb30egzq2uorbil5kr31n47aft35o7/200_200_1/16cc2d12e774236cb713058fb070ad4e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Тетраодон зелёный",
+                    "description": "Аквариумная рыбка семейства иглобрюховые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b1/vizno2fi9q7zy6rj60a8jbr2xsd9y603/200_200_1/4c68deba811405d877a2a01d754ba840.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Гуппи Эндлера",
+                    "description": "Аквариумная рыбка семейства пецилевых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b72/cqtxyz6wbcqk8qp6xp7j4d7viwqohlme/200_200_1/88460d678e2682dd2f3309ebb735d3ef.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,00 руб."
+                },
+                {
+                    "name": "Шаровка Яванская",
+                    "description": "Аквариумные  улитки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3db/uiibbtzcml77quupgtazpr49fkuczkgh/200_200_1/718e7cb67ffbe5f3b56bd76618c2afba.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Мастацембел",
+                    "description": "Аквариумная рыбка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/752/avwdumwd5remcw7fm0psjym7i4v8lwpu/200_200_1/fdae7cbf13732fa627cae290eb2398c0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,00 руб."
+                },
+                {
+                    "name": "Цихлазома Манагуанская",
+                    "description": "Аквариумная рыбка семейства цихловые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a97/64myitkr9bv6sof5yhifsu7bwyubtvlz/200_200_1/17800a0eba25a329d703668fb4e0cab1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Цихлазома Красса",
+                    "description": "Аквариумная рыбка семейства цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c39/uqtm659njs920l7dp69uknfyc4xaijb3/200_200_1/98de3ee43b85d0d6652f191f95680c08.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Барбус лещевидный Шваненфельда альбино-голд",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ab/aawd23m06i2op94xrhqgs0x7pearkrv1/200_200_1/ee09add2686d2085acba694ee50c5fec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Коридорас Венесуэла Блэк",
+                    "description": "Аквариумная рыбка семейства панцирных сомов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e0/w06c9kyxumh10v12js9gov9xmclzzm2q/200_200_1/cd1596c42fb82baba0407b773f77c88a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,80 руб."
+                },
+                {
+                    "name": "Акантофтальмус Кюля",
+                    "description": "Аквариумная рыбка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f5d/3e686v0v4s6thsau4346alqfdxdhznis/200_200_1/2227719bc1bf8c86ac5a946d9e233700.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Меченосец Вильчатый",
+                    "description": "Аквариумная рыбка семейства пецилиевые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/015/3o69zt8sais4phbb3wunqwsuuh87c3fz/200_200_1/0fbb22dd60ea717f48065b50d5ceba05.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,00 руб."
+                },
+                {
+                    "name": "Цихлазома фламинго",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/745/l5791utkijy7dmashgvtodwpw24cnq4j/200_200_1/533811cafb4314c063670e770e8aa643.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Карп Кои S",
+                    "description": "Аквариумная рыбка семейства карповых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76e/6hiczivcpq52nqxavcidk2r69cbyc404/200_200_1/493b8ee126f5f2dd54b8a4e319bc04f9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,80 руб."
+                },
+                {
+                    "name": "Индийский нож",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f4/pym4xn6g9dx3fhvbbcuca6emj9wx74yb/200_200_1/53105195838516d921be238576b29235.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,80 руб."
+                },
+                {
+                    "name": "Коридорас Джули",
+                    "description": "Аквариумная рыбка семейства каллихтовые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb4/qe3blcm2nai9s7kd012q20h73xahw421/200_200_1/9b3afabb78201418c275e54a221f4462.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Сом Таракатум",
+                    "description": "Аквариумная рыба из семейства панцирниковых сомов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8f3/63fzsce860pnsjp8r2zt3gxttnlni902/200_200_1/bc5cdd7a0eefd2081af496720c97fc93.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Сом Агамикс",
+                    "description": "Аквариумная рыбка семейства броняковые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/527/py7p4egnl8qtruuf8006tk24569du1dp/200_200_1/aacf7001a75e4917d41def4c8eace181.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Гуппи Германские (желтые, красные)",
+                    "description": "Аквариумная рыбка семейства пецилиевые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fd/tv1abstuv5hzwnmsopx5m226oxuzjzyl/200_200_1/ea16135c186ed4e29ab0b6a1c2da8a1b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Рак карликовый оранжевый",
+                    "description": "Аквариумный рак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dbc/j46pk5gifbncebf3zojxe8xe1tgyu5go/200_200_1/d0aa06fb991640c7ad9a12d0d0ce373a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Северум голубой изумруд XL",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b4e/28flyaqli24jeu7ktz3gqolzg27enp93/200_200_1/6a7319e570a1c540571dcd1c38262b3e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,00 руб."
+                },
+                {
+                    "name": "Тернеция белая",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f1b/o7gwy6lwmmrtebi0q1ncwvlkwdguenk7/200_200_1/af71500c9c1c88b2555ef7d7b57a310e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Юлидохромис Регана",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/59a/nu0y9b7g0kjzacvx603pi1pkmexuo5o7/200_200_1/1516dda93ddb17a530f68f098fbcb38c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Цихлазома Северум (красноплечий)",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2c0/n66cepc8pf3du3e92bku5oa2irewmemk/200_200_1/ceb35e6489257869ab3863b532f6bdf1.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Апистограмма агассица (самец+самка)",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/782/d8cca6rnv4xw3glhpnd7zqd9crclikdl/200_200_1/7cd0bd1b3b731811428212c2d6795efa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,00 руб."
+                },
+                {
+                    "name": "Креветка Фильтратор",
+                    "description": "Аквариумная креветка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/096/3tqsi6njagasinehp4esqrqxrugv1bfc/200_200_1/beceb9fca88a0dac0536f4e060589493.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Тритон иглистый XL",
+                    "description": "Аквариумный тритон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/64c/f1dtl6l7go4k9k074jkemju55pd6vyxx/200_200_1/4e6bfbba105fc6e6de6e657923eed734.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,00 руб."
+                },
+                {
+                    "name": "Рак флоридский (Кларка)",
+                    "description": "Аквариумный рак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/506/nm2gog4xro7qrv3uyo3zfr645t4zbx07/200_200_1/8eb35f1435f06f955763293c677b03d7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,00 руб."
+                },
+                {
+                    "name": "Улитка Шип дьявола",
+                    "description": "Аквариумная улитка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a02/57cftt82izyebt5h09g6onhlzasvi9yz/200_200_1/a43b1e2c8d3a2fda668605ee3fcb8f82.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Апистограмма Рамирези Вуалевая",
+                    "description": "Аквариумная рыбка семейства цихловых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2b3/vqtbb3ig3b8d7bdafta0jb36vfpsyful/200_200_1/3333da8783076289f8b6b3e3e96671b6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Лялиус",
+                    "description": "Аквариумная рыбка семейства макроподовых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/801/24hx0t2aq9jj846keyeho9c793p2cao5/200_200_1/140871322129889564 (1).jpg",
+                    "amount": "самец + самка",
+                    "cost": "21,60  руб."
+                },
+                {
+                    "name": "Апистограмма Рамирези Электрик Блю",
+                    "description": "Аквариумная рыбка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/649/wn1bcykl543zo342pliavthi1rwvs90x/200_200_1/d229e960f265f3f27597be32eb0ff764.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Апистограмма Какаду",
+                    "description": "Аквариумная рыбка семейства цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f6/ggiu9zsfjqvksbjzvgky7z0m74uz23b9/200_200_1/ddb67dcbb2c6c507c8805df4a962ee8b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Коридорас Пигмей",
+                    "description": "Аквариумная рыбка семейства каллихтовые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9c9/g80dh9lql07dvvqb3d50n8xfv05ob1pa/200_200_1/8c1132308827490a1fc832659266b7f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Цихлазома лабиатум",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f98/ul9dd9c5mnq93pbory9lvq21jov49mlo/200_200_1/6a34687f3c843fa552c2597275dba6f9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,80 руб."
+                },
+                {
+                    "name": "Сом Анциструс Супер Ред",
+                    "description": "Аквариумная рыбка семейства локариевых (кольчужных) сомов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b9/n93lkrdwyucpcajniy7t8tjkncfngs6x/200_200_1/965caeb0fe3312dd321c549e518d64a6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Тетра-фонарик",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e8b/jkev79fps27l9eeucq2rl5boqfebfzsu/200_200_1/ba1e56fd70f5cb6b804b3c8d8508e43e.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Моллинезия микс баллон",
+                    "description": "Аквариумная рыбка семейства пецилиевых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c8d/bnkzjfwh6l7f1l6yok3fu0z83jghtx8l/200_200_1/246b031c006cb6e6aa5263c476364ffb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,60 руб."
+                },
+                {
+                    "name": "Золотая рыбка комета (красная)",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/40e/79vazwu999zvzp77fwlaw71aiovbooxk/200_200_1/628982ed41ef07d3838dbb7f90d70e82.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Акара бирюзовая S",
+                    "description": "Аквариумная рыбка семейства цихлид",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/501/0z6h7950fnd12f36i0o0t34is7wzl8lt/200_200_1/875b6e1ea66a3f482aa885eee69a8814.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Гуппи красный блондин",
+                    "description": "Аквариумная рыбка семейства пецилиевых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c51/4qvztb5a0fx700450q9q7d3fukvxt1c8/200_200_1/311559d9a63a55bedf2d1f747fcb4b64.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,00 руб."
+                },
+                {
+                    "name": "Гуппи черный хвост",
+                    "description": "Аквариумная рыбка семейства пецилиевых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/17f/z0hc09k0skker2k05rsrqkngsoc8xqe0/200_200_1/b38bc80343aaf25e76635705731ecca3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Петушок бойцовая рыбка (самка)",
+                    "description": "Аквариумная рыбка семейства лабиринтовые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f4/f2jdxz00bxg4zezsmti4ulwa3ea2pz5f/200_200_1/30ebcfd045633c27227da101c6e91909.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Гиринохейлус (жёлтый)",
+                    "description": "Аквариумная рыбка семейства гиринохейловых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/24e/4b6ip735qydihd2n3rqdem54y30e0k8e/200_200_1/8732e1288422c7970431eef5e2a6e77c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Боция макраканта (Боция-клоун)",
+                    "description": "Аквариумная рыбка семейства вьюновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dd1/dasgz4l43yxe9d8rxvoiq3wj21zna9cx/200_200_1/4d501b30681babd11e46418ef297de20.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Сом краснохвостый",
+                    "description": "Аквариумная рыбка семейства пимелодовых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/94b/tdk95du4fqjgqn147clla4x0ag5xkry3/200_200_1/10f34ca2992b2e685e1fc0a96e99f935.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Плекостомус",
+                    "description": "Аквариумная рыбка семейства сомовых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/25c/b8iyeecxz2n6n8uc20njj8gqb9xf48ly/200_200_1/1c9890ab0f1d08e71a311ae7a774f3ea.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Тетра светлячок",
+                    "description": "Аквариумная рыбка семейства харациновые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dab/mg19ixax7x00yf4e109n28pk0yoj4e4f/200_200_1/f264aa6721ea9a5cd181dc5806c889e3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,50 руб."
+                },
+                {
+                    "name": "Золотая рыбка комета (чёрная)",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/942/0lkpv9wwurf0iklnymwc2y9kvi3rt4m1/200_200_1/18cd012b8203ca5d4bbb4be2506114ca.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Комета золотая",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/56a/ym3o1yxd9bn7y7sqggwe08erw84p2kvf/200_200_1/c888853e467b88ab8a1fae95f85d67e4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,00 руб."
+                },
+                {
+                    "name": "Данио Рерио длинноплавничный",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc3/a3wrxrk5v9ocae8l2xbvw47s163k0vln/200_200_1/fe5a23a2063c2ae8d14df124430e32c9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,50 руб."
+                },
+                {
+                    "name": "Барбус Шуберта",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a5/4iqnou9rlhazv4bvow3z45uma4849b6i/200_200_1/61cc819cdf5bc35f5df826761b3a082f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Акулий балу",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3d9/pbg71c3j34bti2zarjga1vbg3hy9aeyt/200_200_1/c30e9950160a6d786da4b7e383a42851.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Радужница трехполосая",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a3/7w541s20tjltf2mw1tb2p1byckie8u1g/200_200_1/558ae18796a8b072527b5ed6d90ab17e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,80 руб."
+                },
+                {
+                    "name": "Сиамский водорослеед",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f77/c0ocloufmhy6v1qbsme3n82a5k2nf0ui/200_200_1/8c56d88be643a4523104454f826f607f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Гастромизон пунктулатус",
+                    "description": "Аквариумная рыбка семейства балиториевых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a8/53sqeooo2qdwcbmkip8bhxrp7ng9wstv/200_200_1/b06c19bb398a79739535e5dec5162499.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,80 руб."
+                },
+                {
+                    "name": "Карликовая лягушка",
+                    "description": "Лягушка аквариумная.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b10/xo13jrdb5azynmwoic6u3ceppxv030wh/200_200_1/5bdea3850a717552dcc2aab7102e9972.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Моллинезия снежинка",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6d/cf7pkxau5zpvzedpx53ysohjmb14hqke/200_200_1/148637d5e42775e12736e39139c9b830.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Улитка Неритина Зебра",
+                    "description": "Аквариумная улитка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/686/rkfw80j7vikhgyyj540ngnvsynhr6lre/200_200_1/5eb8595f635377b29a3f8996690bb83e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Сом Буноцефалос",
+                    "description": "Аквариумная рыбка семейства аспредовые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c0e/3x7x31xu3u3n99ihgsdphvyfk59wlkam/200_200_1/36619e6e23a3c08f41aa07dd700e56f7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,80 руб."
+                },
+                {
+                    "name": "Цихлазома Меека",
+                    "description": "Аквариумная рыбка семейства Цихловые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/24d/pqd719f635hwwxewa4506ooxlgm6cx7d/200_200_1/9a54bfc14b0c6c7ce811bfeffb6b8664.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Сом кукушка",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ef/j7yqn7dujf423d60bwzwjw1u20kbffg2/200_200_1/cef6aacf37d61e719a4b94beb7366f83.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Лабеотрофеус Тревавас",
+                    "description": "Аквариумная рыбка семейства цихловые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/359/qjwcrrd3qsxy3kh5zygx3tnc59dpcj8z/200_200_1/fe7d1778f1bd2a2423c07a19f7e64fb8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Креветка речная японская (Macrobrachium nipponense)",
+                    "description": "Пресноводная креветка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc7/iulruxfugpei22aas5flqacle2a16piv/200_200_1/fec479c0f973fc84b642c53e4fd93849.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Псевдомугил паскай",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/604/njmibqkwoni0hj9kt1ckwmidrtj7e75z/200_200_1/23943721839e677814031dbba69ee5a6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "Боция Модеста",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/48c/pg27l7jwobjmn9ii0fiydyto4uz85jy7/200_200_1/be41a69d6a714e9d3716b24ab5dabf09.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,20 руб."
+                },
+                {
+                    "name": "Псевдотрофеус Зебра",
+                    "description": "Аквариумная рыбка семейства цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d09/2iam5f59zh4vjvkvhawz5fumlaa70gsz/200_200_1/cafff965e2991c5bedf950ecac746b76.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Керри Блю неон",
+                    "description": "Аквариумная рыбка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60b/519gg410y37vb2u7onaeu8ahw04pquhe/200_200_1/bdb5b2f9fdef473e57373f8a393cf22d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Сом Анциструс Золотой",
+                    "description": "Аквариумный сом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b0b/ur4puu2xiupv3jcirdyfm4c2997ou846/200_200_1/c878b7efb285e205d21922a247fed35e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Попондетта Фурката",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db7/z8h1ckme6ynqciv2ijcp3a6u81qo0698/200_200_1/9837a58eaa5b3e262c18ac41eb8d2a50.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,00 руб."
+                },
+                {
+                    "name": "Родостомус",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d8/g1dfy3g77b3qt8gnyo0rwli3anf9tkep/200_200_1/f89b7090744b7f21562d45e281e3e2b6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Шпорцевая лягушка",
+                    "description": "Аквариумная лягушка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/207/pbbmr29abqoyuok7ca8f2s8egoeenxq0/200_200_1/0dfb928a6fb6663f3d47a1abb30a5672.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Карп Кои",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/079/xsfjtannr44h9tn3cxbkixqjytm3upz9/200_200_1/090ce46dcb5c5ec471570f817b17bcf4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "39,60 руб."
+                },
+                {
+                    "name": "Моллинезия лира ассорти",
+                    "description": "Аквариумная рыбка семейства пецилиевые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/755/8w6e6poihzvz2a5uwdka26xyg7mcgnk2/200_200_1/60262ff1dc8749827e2a630a48bce1d4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Флаговый Меченосец",
+                    "description": "Аквариумная рыбка семейства пецилиевые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/97b/ogn57fnriuhy92mbah8st5anl20fvx2j/200_200_1/bf7b9cf9bb86c4bd5a58bdf3552e815b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Псевдотрофеус Ломбардо",
+                    "description": "Аквариумная рыбка семейства цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4f/wjwhtgg6dp8k7c6jypw3s1nbnj6w4279/200_200_1/c145107c870c90a708c14fb02194d4f9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Тиляпия Буттикофера",
+                    "description": "Аквариумная рыбка семейства цихловые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/73f/5849wog4dczj9gin1xkm2o67ja0rtgyc/200_200_1/627057475119946408ccc6bec20d0771.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "100,00 руб."
+                },
+                {
+                    "name": "Моллинезия желто-чёрная",
+                    "description": "Аквариумная рыбка семейства пецилиевые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be4/tym39qq00dye8asyq4df7368gv50kd1t/200_200_1/bcd97ff7599ad916b1ae8ac1b1ab0f7f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Коридорас Зелёный",
+                    "description": "Аквариумная рыбка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/030/gperxv043fj97y8xjf2kossreg71xguy/200_200_1/f35a67b4975041489643cfd175befd7e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Хромис Красавец Неоновый",
+                    "description": "Аквариумная рыбка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/227/2bmzcfom1cxipaxxko3r3ooxbn0wezkh/200_200_1/3dd3bb67c90740c1cbd7457bc2b59e26.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "Сом Коридорас Трилинеатус",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ff/a22emne2xxj59cxbze477dw9f3jltx1y/200_200_1/7e93e725eaab16e618e5f8e95bd57388.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Королева Ньяса",
+                    "description": "Аквариумная рыбка семейства цихловые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d67/lh1pxh1nh395v90l752f8gfk13vaxt4o/200_200_1/722b103d9e517f1d0c75b338eedf50ba.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Геофагус красноголовый тапажос",
+                    "description": "Аквариумная рыбка семейства цихловых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fdf/669p4sgjgltx9cfi03pae64cxsvtwt9v/200_200_1/64fe7eb890a082532b40454ac9b5ba21.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,00 руб."
+                },
+                {
+                    "name": "Телескоп Ситцевый",
+                    "description": "Аквариумная рыбка семейства «Золотых рыбок».",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/33c/g0ljr9xt72efcxg3dx0e59u32d4gggfz/200_200_1/a19ab49106906b4fd6c3a3a08539d8b9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Копадихромис Каданго",
+                    "description": "Аквариумная рыбка семейства малавийских цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/949/92ir93906ja2xeypdd14pusihva8klfw/200_200_1/f5e5ff72d1ebba416e8cac68360f4baa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Тетра стеклянная",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/urbbzimybb2xp2uq1sjolbgwgv3fr0h2/200_200_1/3bebd0fc40fc2f5839c6f80e9ab57d9d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Гуппи Малахит",
+                    "description": "Аквариумная рыбка семейства пецилиевые",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/44e/isfnbm2quziv777eekubku0igcabtszu/200_200_1/b3394c9d0793906f5cbd0acf8b5ab6e0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Гурами Медовый",
+                    "description": "Аквариумная рыбка семейства макроподовых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3be/280d36xjq3csc7hr53i733v1gdtm3bdj/200_200_1/6a77c1063fd6095b748a4dafa3ef83b7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,80 руб."
+                },
+                {
+                    "name": "Нож Черный",
+                    "description": "Аквариумная рыбка семейства аптеронотовые.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/24e/wh18ne0bkge660hf8anvqwsbd3d8hmlk/200_200_1/d91b36af3a1b58760f845715948bb7f8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,60 руб."
+                },
+                {
+                    "name": "Коридорас Рабо",
+                    "description": "Аквариумная рыбка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab4/mbmu4s7l88zf4syimxy1fus5nrief4lt/200_200_1/48aca03521ef40f1505cfe8b04d58632.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Акара Бирюзовая",
+                    "description": "Аквариумная рыбка семейства цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/89f/49tukzijnrvs42tflq0ye3puks87vo8y/200_200_1/c1fbdfef883bb99d7f064696431f2f01.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,50 руб."
+                },
+                {
+                    "name": "Панцирная щука",
+                    "description": "Аквариумным рыба — хищник.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a95/4esemp3e9vl3xx5ylv413llyku9jfu4v/200_200_1/df88b0a7844008106731ef3047f86acc.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "100,00 руб."
+                },
+                {
+                    "name": "Тетраодон карликовый",
+                    "description": "Аквариумная рыбка семейства иглобрюхие.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ffd/dci2q1cqcls9f1dbn259v4cz8x6r5aaw/200_200_1/d667dbbdc733d40b725d32e346725ef2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Барбус Черный",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0b/9k8t7v8o294qrhi7tsuv5hdq0xfzh4d3/200_200_1/3adb1df2e02786f624d71a696c411cd4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Голубой Дельфин",
+                    "description": "Аквариумная рыбка семейства цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/478/ob4g7o9utzmn2mwzqkllfm9ef8bt76l7/200_200_1/be79ef21a36f02b3ac0aef61a7a197db.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Лампрологус цилиндрикус",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81d/c15ch3mfyi058ebyoonp5hsn0l784p4b/200_200_1/a4f1ade118e52e097f9e5674dad875fc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Барбус Денесони",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0a9/34fo7qwqvkfyevcor22b4b5dsx5wy43o/200_200_1/1795506d62d002674501ed2a09ba6fce.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Скалярия черная",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a06/crqhykqyx0qqe39lpramsm9my3qswftj/200_200_1/240aa399a8073f3014b9403b3f4fbee1.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Тетра Минор",
+                    "description": "Аквариумная рыбка семейства харациновых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b65/3wmh3po57rai2ptu2wcu22q9nen773x0/200_200_1/1ef59be3e65c8979ab397128ad2a72d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,90 руб."
+                },
+                {
+                    "name": "Дермогенис",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e4f/i881ckcvwhral0jg1dihpsjsxs7qk5ns/200_200_1/de4fcbaf74b567b63b3449ffa88668f4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Пецилия флаговая",
+                    "description": "Аквариумная рыбка семейства рoeciliidae.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fbe/7vc0yu391a9ursaw953wve1u7778aovc/200_200_1/a7f3cf3d7bb5ae80274fe18459df935d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Скалярия Манакапуру",
+                    "description": "Аквариумная рыбка семейства цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ee/0n3ecveir4mm5o150q4cslkly8l5wnnv/200_200_1/ab580b607c3581cc1945b1b757a7a2e5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Копеина Арнольда",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/431/02ig8dacy03778e7zx8pa9whdzceeais/200_200_1/87a66dba55b9610a26c42ad8eb27f7aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Карась Кои",
+                    "description": "Аквариумная рыбка семейства карповых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/446/3cu52pgty77d24zonowy241e3t9tezjr/200_200_1/bd1e98521353bc866daf4aa2e1645195.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Тритон иглистый",
+                    "description": "Аквариумный тритон.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e9/fbsm1j31zg44ji01o3rz8r13luurao1u/200_200_1/a122c4b7be2d90cb8b09ad076939dc87.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,60 руб."
+                },
+                {
+                    "name": "Отоцинклюс",
+                    "description": "Аквариумная рыбка семейства кольчужные сомы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bae/nu9dzukidrw2fji7m14cf5k1jcpzb53h/200_200_1/e1e0cf2fc704da77102838c2daba354e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "Ктенопома леопардовая",
+                    "description": "Аквариумная рыбка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/504/5nkzf0jlkmh4t12c0ygjj16zybqe0qsd/200_200_1/9bd883c39d0e5eb9a26074e97283d00e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,00 руб."
+                },
+                {
+                    "name": "Скат Моторо (хвостокол)",
+                    "description": "Пресноводный скат.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/959/ip2ei0afm3vtotp53v55myggyevtsby1/200_200_1/32a2552441732e81e52e4f2edf4511a1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "300,00 руб."
+                }
+            ]
+        }
+    }
+}

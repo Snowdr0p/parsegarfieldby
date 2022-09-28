@@ -1,0 +1,611 @@
+{
+    "Кошки": {
+        "Средства от блох и клещей": {
+            "url": "https://garfield.by/catalog/cats/sredstva-ot-blokh-i-kleshchey.html",
+            "products": [
+                {
+                    "name": "\"Le salon\" Расческа для вычесывания блох",
+                    "description": "Эффективно вычесывает личинки вшей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a8/vfrv3yrx8cc2xbjshl1co1vpq7fc1go6/200_200_1/69e1d19601dbf7aa182c599cb46d0e56.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,50 руб."
+                },
+                {
+                    "name": "Биоошейник Amstrel от блох и клещей, 35 см",
+                    "description": "Антипаразитный ошейник для кошек и мелких собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dcb/zgr5zd97t9n74bdouffhuzz99ocl4ylz/200_200_1/1dd62142950a55d9b07e387dedb8cf47.jpg",
+                    "amount": "",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "БИОошейник антипаразитный ЭКО ZOOЛЕКАРЬ, 35 см",
+                    "description": "Антипаразитный ошейник для кошек и мелких собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bd0/4zco2291xkn8r2gw96urdi0olvyrm5d5/200_200_1/7c6126595d7a13878355d8471bc6dea6.jpg",
+                    "amount": "",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ БИОкапли  для кошек",
+                    "description": "Антипаразитарные биокапли.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/632/xuwzfmryjowveo9we1yj3ejbtxg04cjs/200_200_1/4f6e19052528ac6380c71fbcf0c8878f.jpeg",
+                    "amount": "1 флакон/1 мл",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Amstrel БИОкапли \"Stop-on\" для кошек и котят",
+                    "description": "Антипаразитарные биокапли.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db5/cwmgxslkcgoyd6p2o7t8yvgbvq1m8pmp/200_200_1/7ec2aebe6f8a76ca2b08e73486feda0a.jpg",
+                    "amount": "1 флакон/1 мл",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "БИОошейник Доктор ZOO от блох и клещей, 35 см",
+                    "description": "Антипаразитный ошейник для кошек и мелких собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ef/s5snbs1i48sss341inct6rysugekwxda/200_200_1/f5b6a77976ffa17a0621b8b53f91329a.jpg",
+                    "amount": "",
+                    "cost": "5,60  руб."
+                },
+                {
+                    "name": "Beaphar Lotion against fleas, ticks and moskitos for dogs and cats",
+                    "description": "Спрей БИО от блох и клещей для собак и котов с 3-х месячного возраста",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/544/ctrdjdgh23yu7xj42xgnc8k6lso38nj2/200_200_1/3fbafb0fbf0e4f701d9f534a11cb30ee.jpg",
+                    "amount": "250 мл",
+                    "cost": "33,10  руб."
+                },
+                {
+                    "name": "Gamma Капли БИО для кошек от внешних паразитов",
+                    "description": "Средство для защиты кошек от экопаразитов: блох, вшей, комаров, клещей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a2d/mv39a8yy501wrjjeokrjb3bcxhzdeq6i/200_200_1/6f31087922f53a92803a34a17f2f1345.jpg",
+                    "amount": "1 пипетка по 1 мл",
+                    "cost": "3,40  руб."
+                },
+                {
+                    "name": "Beaphar Биоспрей Spot On Spray для кошек и котят от клещей, блох и комаров",
+                    "description": "Спрей от блох и клещей с экстрактом маргозы для котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d6/ni3m22bsksg48u4euwv721rn5qbwkbga/200_200_1/biosprey_spot_on_spray_dlya_koshek_i_kotyat_ot_kleshchey_blokh_i_komarov_150_ml-min.jpg",
+                    "amount": "150 мл",
+                    "cost": "27,80  руб."
+                },
+                {
+                    "name": "Amstrel Антипаразит. шампунь для кошек (пальмароза и алоэ)",
+                    "description": "Шампунь для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db8/1079685m2l08pvhop0ytso3stp1iu8h1/200_200_1/c522a157a53d18bf53ab44c21845255b.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь антипаразитарный для кошек",
+                    "description": "Шампунь на основе масел чабреца, лаванды и чайного дерева",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/801/qlf77ouwyq8yrfu8la4iswng3zv2zke4/200_200_1/76a52f8fe91d91c060f60be2454030e5.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Beaphar Капли IMMO Shield Line-on для кошек",
+                    "description": "Капли для кошек защита на 4 недели.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f59/i56hz8hdmwafz21jjxwei0eu2mad2kc6/200_200_1/7ed59c5587d774642ca2eea3751d7ac7.png",
+                    "amount": "1 пипетка",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Beaphar Bio Spot On Kitten",
+                    "description": "100 % натуральные капли для котят с 12-недельного возраста.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ab/31q5dpz8cmpf9xjlgobxva4hpbkqavhe/200_200_1/d663298022dd0d3e7d994970d9e08119.png",
+                    "amount": "1 пипетка",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Серный\", 80 мл",
+                    "description": "Шампунь с облепихой против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b4/43j7sh5j85p8zkfth99j367wnp9okvq2/200_200_1/62b039f2f4da7ffdb54478519e9e8bfb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Яичный\", 80 мл",
+                    "description": "Шампунь против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c9/8w3kc6wo8uywgqwu9v35clgm611t6lqw/200_200_1/b5076e2e15dcc230d9e1b5a5a1c1c8fd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "Pchelodar Спрей ЗооЗащита от комаров, мошек и клещей, 150 мл",
+                    "description": "Для защиты животных от клещей, комаров и мошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/162/7iasasflapsgptsc5hdjrymj9lc0xqxg/200_200_1/076fceb8243a35133d8daec0dcec43e2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,40 руб."
+                },
+                {
+                    "name": "Beaphar Spot On Spray от блох и клещей, 400 мл",
+                    "description": "Спрей от блох и клещей для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/27d/j0gbmad6u1t9nfusavvvyab92uws7tuq/200_200_1/a88b34f19be8750891e36c54630b2ba6.png",
+                    "amount": "за 1 ед.",
+                    "cost": "40,10 руб."
+                },
+                {
+                    "name": "Beaphar Шампунь IMMO Shield от паразитов для кошек, 200 мл",
+                    "description": "Шампунь от паразитов на основе диметикона.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0a8/eqow30x3fiq4evx9g6kh8hmsealb87if/200_200_1/e92faff7dc842a97e38d6e2a30ec2b65.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,60 руб."
+                },
+                {
+                    "name": "Gamma Приспособление для удаления клещей, (уп. 2 шт.)",
+                    "description": "Безболезненное удаление клещей у животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d73/cennn30ulijt7xm63vrhcwn3c1d7ljg0/200_200_1/df5e5d13bfdda0ce9156594dae9f0b7e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,70 руб."
+                },
+                {
+                    "name": "Beaphar Shampoo against fleas, ticks and moskitos, 250 мл",
+                    "description": "Шампунь Био от блох и клещей для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34f/a1j3eeof76dsuw227nb2su99veps36y3/200_200_1/b6c7a8d1645b9cbab5b4ce5c5be61b63.png",
+                    "amount": "за 1 ед.",
+                    "cost": "26,40 руб."
+                },
+                {
+                    "name": "Ошейник Beaphar Bio Cat от блох, клещей и комаров",
+                    "description": "Ошейник для кошек и котят от 2-месяцев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b2/4vfv4j192hevos8f2dibq43ygku47caj/200_200_1/791a57773b2a02c8fec0f549e846a34c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,20 руб."
+                },
+                {
+                    "name": "Beaphar Bio Spot On Cat",
+                    "description": "Капли от блох и клещей для кошек",
+                    "image_url": "https://garfield.by/upload/iblock/453/ebozlwsqv8v3s79pke1shluo2590buca/ad58dcdce87089843ae70d0d08afcd0d.png",
+                    "amount": "1 пипетка",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Шампунь Агроветзащита Луговой",
+                    "description": "Зоошампунь инсектицидный для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/8dc/agzssdr92oxrlgy4ir86m6ngxlk86lyn/5c23ca50a648759770f4326792177735.jpg",
+                    "amount": "270 мл",
+                    "cost": "16,90  руб."
+                },
+                {
+                    "name": "Шампунь Веда Фитоэлита инсектицидный",
+                    "description": "Зоошампунь инсектицидный для собак и кошек от 2-ух месяцев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b1/v3qdyu0rias24frhgp83ke7h2qzndwyd/200_200_1/shampun-fitojelita-insekticidnyj-koshki-sobaki.jpg",
+                    "amount": "220 мл",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Шампунь Веда Лапушка инсектицидный",
+                    "description": "Зоошампунь инсектицидный для собак и кошек от 2-ух месяцев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b0/t7ict9xo8oi4h2m7soi35sv7pl5jw2im/200_200_1/d78ab7773bcd35ffb51564bb1a00b5c6.jpg",
+                    "amount": "220 мл",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "Шампунь Doctor VIC инсекторепеллентный с экстрактами трав для собак и кошек",
+                    "description": "Для профилактики, при комплексной защите от насекомых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/58b/9nz5xm9yft8t6kz20glc54eeplltwg64/200_200_1/36bf10d9be95c9ce2cb6d801e8d6c348.png",
+                    "amount": "250 мл",
+                    "cost": "7,00  руб."
+                },
+                {
+                    "name": "Tic-Clip - брелок-репеллент против блох и клещей",
+                    "description": "Брелок против блох и клещей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/03e/bhzu3ykqiotjgom71a6ag7m2srr1s5rs/200_200_1/eeb8d2552dbcaecbf29e503426e19c2f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "65,00 руб."
+                },
+                {
+                    "name": "JollyPaw Расческа для вычесывания блох, двусторонняя",
+                    "description": "Расческа для вычесывания блох и клещей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/054/nyuefm90rqlni6htfkmyym63g3daxsx7/200_200_1/7730307.jpg",
+                    "amount": "8 см",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Агроветзащита Ошейник репеллентный Четыре с хвостиком для кошек",
+                    "description": "Репеллентное средство для предупреждения арахноэнтомозов у кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a60/00mi7vhu9l07v482hwsra1pvrmuqx0tt/200_200_1/DSC_1929.jpg",
+                    "amount": "35 см",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "Gamma Ошейник БИО для кошек антипаразитарный",
+                    "description": "Cредство для защиты кошек от блох, вшей, клещей, комаров и слепней",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f64/v731fdfijxe53mwpgeqa2ww8nkx4w0pm/200_200_1/2b5065d8-8c69-11eb-9447-00505694261d_CHxIz2o.jpg",
+                    "amount": "",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Irbis Local Биоспрей для ушей кошек и собак",
+                    "description": "Спрей с акарицидным эффектом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/537/5neevcs0uc5sz062xnm0bho5ktiihm59/200_200_1/11d031a5aba77d19cd2c9cc2d689c16c.jpg",
+                    "amount": "30 мл",
+                    "cost": "9,70  руб."
+                },
+                {
+                    "name": "Amstrel Репеллентный шампунь для собак и кошек (лаванда/чайное дерево)",
+                    "description": "Шампунь для кошек и собак с маслом лаванды и чайного дерева",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b2f/450ytwzbeifkhmgxbbe3n48wklpyn8gt/200_200_1/6af8c833a76d9ce8f663d5b09b193146.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь антипаразитарный для щенков и котят",
+                    "description": "Шампунь на основе масел чабреца, лаванды и чайного дерева",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/90a/m5vaul51z9o4smdfl7opxk092c8yno6b/200_200_1/afc8e5cc750060345c87a36ac330c71a.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Le Artis Спрей антипаразитарный для кошек и собак",
+                    "description": "Для животных с высокой чувствит. к укусам",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b2/l0it0u4snyedns1xt84ghu6xf3wbore6/200_200_1/b7f432131f73525c3b0a5ba22fd84fb3.jpg",
+                    "amount": "200 мл",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "ДиАнКари Гребешок для вычесывания блох",
+                    "description": "Гребень против блох.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/516/c0gmy1t2jnb0u1284aj9jnxrry7jqe8i/200_200_1/17fa6a8df18ecd3af0b38d33da743c97.jpg",
+                    "amount": "8,7 х 5,3 см",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "ДиАнКари Расческа от блох, частые зубья",
+                    "description": "Расческа для вычесывания блох.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d66/xf59j1uy2xx45zahlqhvhv8ovdhttnh9/200_200_1/6f22ae5187da3bab023d7934327ed484.jpeg",
+                    "amount": "14,2 х 3 см",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Irbis Forte Биокапли на холку для котят и кошек",
+                    "description": "Инсектоакарицидные капли для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1cb/d972bh6pmvndq3n2r0y7mmkjrlw7zoc8/200_200_1/d0f55222c0f83948eb217a74f278f0ba.jpg",
+                    "amount": "1 флакон/1 мл",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Canina Petvital Novermin Spot on Cat",
+                    "description": "Средство против блох, клещей, вшей и других паразитов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ffb/kwob94mjwk08gvmwhvaxfwct0nkqunt6/200_200_1/9fffeae7483bf8b6abfbc236fd76698e.jpg",
+                    "amount": "2 мл",
+                    "cost": "14,30  руб."
+                },
+                {
+                    "name": "Ультразвуковой отпугиватель TickLess Pet (USB-зарядка)",
+                    "description": "Ультразвуковая защита от клещей и блох для собак и котов до 10 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f17/b5k2fup3lsq0oxblgpszb6d89k354zgj/200_200_1/cc1515fcde87be20705a677054753730.png",
+                    "amount": "золотой",
+                    "cost": "95,00  руб."
+                },
+                {
+                    "name": "Ручка для удаления клещей \"TRIXIE\"",
+                    "description": "Со светодиодной подсветкой , 14 см;Цвет в ассортименте.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/daf/rxnk4wlytjata6qqqu30ol64x06oyqop/200_200_1/e63557aac20c245311c34bc4f6654727.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,90 руб."
+                },
+                {
+                    "name": "Спрей Bio Carpet Spray, 400 мл",
+                    "description": "Средство для уничтожения паразитов в помещениях.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6eb/0yge8b7au1l2cjxn9iz4vcev9wr58m5j/200_200_1/6eebf1d210f0cd836bbbac49868874a0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,60 руб."
+                },
+                {
+                    "name": "Спрей от паразитов Immo Shield, 250 мл",
+                    "description": "Спрей от паразитов и для обработки мест обитания животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/221/3f2mi9u25sh83vglkujw4e6npzqyoi0m/200_200_1/e0e5565705de79014b44dd58d4606c60.png",
+                    "amount": "за 1 ед.",
+                    "cost": "40,90 руб."
+                },
+                {
+                    "name": "Irbis Forte Биошампунь антипаразитарный для кошек, 250 мл",
+                    "description": "Шампунь от блох и клещей для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/793/hsfvne2uoioal8yc50vkgyd4yluczmpp/200_200_1/4c66a11cae7570e253fa209dc46e3d5e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,50 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" для вычесывания, 15 см",
+                    "description": "Для вычесывания блох и вшей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f43/hmhg4az0k8vw652pdolvgv15pg81n7zj/200_200_1/84c262f6f17661ed1b085d1e23f66733.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,70 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" для вычесывания, 6 см",
+                    "description": "Для вычесывания блох и вшей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/853/a4vhoppvf6uqio4g212xhche48vafby5/200_200_1/e9d4c13e6931c9f9248841f2a9986950.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,20 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" для вычесывания двусторонняя, 14 см",
+                    "description": "Для вычесывания блох и вшей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/68b/h6295quyrhapehy6w0n5r2fs54pi106m/200_200_1/54efc2afb8c6ea2a1cb5796ffde7dcd6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Natural Defense Капли для кошек и котят от блох/клещей",
+                    "description": "Капли для кошек и котят, 4 ампулы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/104/mq0j7sva5mhj86o6g92oisx14vdmdyy2/200_200_1/72ee357597cfe23d147a85cacba75ac8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,00 руб."
+                },
+                {
+                    "name": "Natural Defense Спрей для кошек от блох/клещей, 236 мл",
+                    "description": "Натуральное средство для зашиты от блох, клещей и комаров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a43/2mupu82roknwscyd8dbrwd31tb7ylog2/200_200_1/2799eb3cacb87457bf690ea7ba8e4ce9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,50 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Пивной\", 80 мл",
+                    "description": "Шампунь с хмелем и крапивой против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ec/3o25ifoqeh18ei4mckkj8yu0t5vopr97/200_200_1/38e6f1317d9e1e3aaec228511296160e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Репейный\", 80 мл",
+                    "description": "Шампунь с корой дуба против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3fa/rcqcluuyudmjfi6zynli69ey0wb5h5dk/200_200_1/97cfd4f5a52b91a8b29785e45e94a89c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Шалфейный\", 80 мл",
+                    "description": "Шампунь с ромашкой против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/375/zk7ggmqmg1zkmptoopnnmc05n302fuce/200_200_1/83edf5097c071aeddf441f13ec18ee6d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "Trixie Ручка для удаления клещей, Tick Boy, пластик, 13 см",
+                    "description": "Удобный размер и удобный зажим.",
+                    "image_url": "https://garfield.by/upload/iblock/df8/6addohlsgnfk79eejiu3jypwjrs0cke9/9c487785fc4873d7c31001b99a0d9a32.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "ДиАнКари Гребешок для вычесывания блох, рифленый",
+                    "description": "Стальной гребень, 9,7 х 6,7 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c8d/u7zwb51le6abu0nd0iqww382gt299yo9/200_200_1/039d42089e5c0fa1e8590ea9436cf6c5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,10 руб."
+                },
+                {
+                    "name": "ДиАнКари Гребешок для вычесывания блох, 6,2 х 5,8 см",
+                    "description": "Гребень против блох.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e6/jf6r2v2fr6m7fyptsxqtdjrgxm3d7t92/200_200_1/bf0b817cbc0ba99ad987b7aff131bcad.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,40 руб."
+                },
+                {
+                    "name": "ДиАнКари Гребешок для вычесывания блох, 8 х 6 х 4 см",
+                    "description": "Гребень против блох.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2a/vjhw8v4iyvngu5nr19hc0goe11do2d6p/200_200_1/6eeeb0150721af61a51d294bc6681a49.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,50 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для животных GRO 5836, 8,5x5х0,3 см",
+                    "description": "Антиблошиная расческа для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/684/eg6uoaqwht9y6p3l4p4zs68h23jfkm2x/200_200_1/8fd5f41aad53d66c517bb97b360fed37.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для кошек GRO 5812, 7x9xh 6,3 см",
+                    "description": "Антиблошиная расческа для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6d6/exhzrebtbp25hzbe3b6cr30pc0svi3qc/200_200_1/97f69e9a64f015598471c59813f2d6ce.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,20 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для животных GRO 5838, 15x1x4 см",
+                    "description": "Антиблошиная расческа для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb0/k4d5vbq38qjvsoy6wp7xuvere66r1arh/200_200_1/a847ede4c4cba5f2cd76824d0b8a6d41.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,30 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для животных GRO 5753 Premium, 18x4,5x2,4 см",
+                    "description": "Антиблошиная расческа для коротко- и среднешерстных собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/886/35a6vx4iw7pd7q0h4u0eedvbnnvph5vi/200_200_1/66e4f2c07b10ecd0213c61f666fea3ed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,40 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для кошек GRO 5788, 15x1x4 см",
+                    "description": "Антиблошиная расческа для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7d2/0cwuarsa6p8ulwn48nrtcojnn418mr4a/200_200_1/af72e1a1ff019495cc6ddf135baf54f7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,90 руб."
+                },
+                {
+                    "name": "Доктор ZOO БИОспрей антипаразитарный, 150 мл",
+                    "description": "Спрей для обработки места обитания.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/abd/pvej3yugcmad4ehib59y5g33t6izowrz/200_200_1/71dc7adcab104b552702ccdc001f6601.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" для вычесывания блох и вшей, 21 см",
+                    "description": "С металлическими закругленными зубьями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/715/m4y4z4xxjrkpcss3ol8svepybueoydlz/200_200_1/be090ec6580e3a148014a06a1ef5222c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,90 руб."
+                },
+                {
+                    "name": "Gamma Ошейник БИО для кошек от внешних паразитов",
+                    "description": "Cредство для защиты кошек от блох, вшей, клещей, комаров и слепней",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac4/e0cf3kpnxu1yq7i4au8fs54llb0nf4wi/200_200_1/1aeda1585c1ef5508b94f1f17f176116.jpg",
+                    "amount": "",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" для вычесывания блох, двусторонняя",
+                    "description": "Подходит для всех типов шерсти, 9 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/79c/geo8mngxv8rvra1bazi7okap81v0jbon/200_200_1/3f1b04ac1ddafd22a0a2014df0126936.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,90 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Ванильный\", 80 мл",
+                    "description": "Шампунь с пшеницей против блох для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eec/wrqjla1zlm6s2vawdf3ymlk9y538q80z/200_200_1/fd448c035de6cefe596d8a05bbe9a5fb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "Спрей Ms.Kiss репеллентный, 200 мл",
+                    "description": "Спрей от блох и клещей для котят и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ab/rug6lzygbya7z7807jrw1rjhbu0c0k6z/200_200_1/db8fb9be02aaa3959a4fe4d7130105bc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,70 руб."
+                },
+                {
+                    "name": "Шампунь Ms.Kiss репеллентный, 200 мл",
+                    "description": "Шампунь от блох и клещей для котят и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d8e/q6430aazmk0mk4ze7g4ubedy15r0bnrt/200_200_1/db539c0087ee24e1d4a27e1010821736.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,30 руб."
+                },
+                {
+                    "name": "Спрей Animal Play репеллентный для котят и кошек, 200 мл",
+                    "description": "Спрей от блох и клещей c маслом гвоздики и цитронеллы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/569/fopixqru7z7mky3p3czxhqd22ql8vq2a/200_200_1/f5e28f0505a91d073e7cb2ee2010e37a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "Шампунь Animal Play репеллентный для котят и кошек, 250 мл",
+                    "description": "Шампунь от блох и клещей c маслом гвоздики и лаванды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bce/khvxlf3nx7jkdkzuow4tvjmoio7e88zq/200_200_1/70638a72058d6857107bd22a4cf71039.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" для вычесывания блох и вшей",
+                    "description": "Для вычесывания блох и вшей, с металлическими зубьями.",
+                    "image_url": "https://garfield.by/upload/iblock/a05/vpxcnin0syur4uezmi1qw9lxjxq7p9k2/32ada6733312dc0a30a5a1eb62bfd407.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,40 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" для мелких животных, 15 см",
+                    "description": "Расческа \"TRIXIE\" для вычесывания блох и вшей.",
+                    "image_url": "https://garfield.by/upload/iblock/ab6/cevo2rwpm7gkcnq2kuhd3whtwoby3smg/76fb9b0d6338d1a35428bd17deb98e09.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,00 руб."
+                },
+                {
+                    "name": "Пинцет \"TRIXIE\" для удаления клещей",
+                    "description": "Пинцет клещей, пластик, 9 см.",
+                    "image_url": "https://garfield.by/upload/iblock/444/339pe8qbqj9cmak5rn3npyj6rrdabfhc/f23cb5de77849d6e11b262c2955a1403.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Hartz® UltraGuard PLUS спрей, 237 мл",
+                    "description": "Спрей от блох, клещей и яиц, 237 мл.",
+                    "image_url": "https://garfield.by/upload/iblock/49a/zego2g0xv9h67yufpvgkjqnbsq6k2x6b/837e3e2d97293c088a5d052b25b7d655.gif",
+                    "amount": "за 1 ед.",
+                    "cost": "25,30 руб."
+                },
+                {
+                    "name": "Hartz UltraGuard ошейник от блох и клещей, с застежкой, 27 см",
+                    "description": "Ошейник для кошек и котят, 7 месяцев действия.",
+                    "image_url": "https://garfield.by/upload/iblock/4f9/0uekvqfwmgjc3einhskniaxuw90e0t5k/c446c0798db12709444b6504efcc8e65.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Hartz Шампунь от блох и клещей (с кондиционером), 355 мл",
+                    "description": "Шампунь от блох и клещей, с кондиционером.",
+                    "image_url": "https://garfield.by/upload/iblock/6c3/i7vpzxvpn3g86901yzigxhqjgakx0mgj/647e8532807191cb1dce487934359668.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,50 руб."
+                },
+                {
+                    "name": "Hartz Расческа для вычесывания блох",
+                    "description": "Расческа для собак, с частыми зубьями.",
+                    "image_url": "https://garfield.by/upload/iblock/f69/andfhp1sa63uynbnwg1gb9a8ub6jnlv1/dcde8ac2b895f96e8d83c34f1a3591ed.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,30 руб."
+                },
+                {
+                    "name": "Hartz расческа для кошек частая д/вычесывания блох",
+                    "description": "Расческа с частыми зубьями, для вычесывания блох.",
+                    "image_url": "https://garfield.by/upload/iblock/0f1/ahqrerdfzq4n4r7sxkc7ucph00cp9dbe/be8f5ce84718fa9f831ba6ba28d182a1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "Cпрей Spot On Spray for Cat , 150 мл",
+                    "description": "Спрей от блох и клещей с натуральными маслами.",
+                    "image_url": "https://garfield.by/upload/iblock/7c6/uz03ajrnjkb9r78nzvaugxbk8lvlspa3/349f0e2e10f9f8747cd5b1ba2aa075d5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,20 руб."
+                },
+                {
+                    "name": "Капли Flea Drops Cats от блох и клещей",
+                    "description": "Капли от блох и клещей для кошек 3 пипетки.",
+                    "image_url": "https://garfield.by/upload/iblock/53e/r3wgs9zne3je837qkcjahqx62l00lhfw/35b1564f01794d1be93ede13a95dabc5.png",
+                    "amount": "за 1 ед.",
+                    "cost": "20,30 руб."
+                },
+                {
+                    "name": "Клещевой тест Borrelia Test",
+                    "description": "Тест на наличие бактерий боррелий в клещах",
+                    "image_url": "https://garfield.by/upload/iblock/0b6/vrong5jkcfi0codulq0teorco4bok304/f9078704f190a1307368b72e6af6966b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,00 руб."
+                },
+                {
+                    "name": "Пинцет \"Trixie\" для извлечения клещей, 8 см",
+                    "description": "Пинцет для извлечения клещей, 8 см.",
+                    "image_url": "https://garfield.by/upload/iblock/975/e91dmzwljcrjixk4gsnw7z2rhwnz5n59/0121da92056379a167827f57c58c227e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,80 руб."
+                },
+                {
+                    "name": "Устройство \"Trixie\" для извлечения клещей",
+                    "description": "Устройство для извлечения клещей, 8x5 см.",
+                    "image_url": "https://garfield.by/upload/iblock/cf9/bmtvriibzgx7cyathagmdz5lntjaxbuu/7a1c52e06584759a7174c74eb55586ce.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,40 руб."
+                },
+                {
+                    "name": "Аванпост Bio Ошейник репеллентный для кошек",
+                    "description": "Защита от вшей, власоедов, блох, клещей и летающих насекомых.",
+                    "image_url": "https://garfield.by/upload/iblock/802/o0mar87e0k63wfecwjhhzia7jeyyc5j0/fd3c5d03443921d375056752cad90d7d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,90 руб."
+                },
+                {
+                    "name": "Аванпост Bio Ошейник репеллентный для щенков и котят",
+                    "description": "Защита от вшей, власоедов, блох, клещей и летающих насекомых.",
+                    "image_url": "https://garfield.by/upload/iblock/303/vehst1egu6rh8g3zxfpqbx9iz7gbmw31/b8c0535f0ed76d6d1aea85060bc700d7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,90 руб."
+                },
+                {
+                    "name": "Tickless Pet",
+                    "description": "Ультразвуковой отпугиватель блох и клещей, для животных.",
+                    "image_url": "https://garfield.by/upload/iblock/1f3/z1kzpx1o56gy3bf12kw7oky0n3118oqp/b9ea7ca9d0b1afe0588137907c05e7d2.jpg",
+                    "amount": "коричневый",
+                    "cost": "75,00  руб."
+                },
+                {
+                    "name": "Расческа \"Hello Pet\" противоблошиная, двухрядная 65 зубьев",
+                    "description": "Подходит для собак и котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5aa/nl440lyev3kuvmhfsrod6m0hxvp5os7c/200_200_1/8bdfb621b6efcc77786a148c40bedd44.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                }
+            ]
+        }
+    }
+}

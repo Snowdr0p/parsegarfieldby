@@ -1,0 +1,1045 @@
+{
+    "Птицы": {
+        "Лакомства": {
+            "url": "https://garfield.by/catalog/birds/lakomstva.html",
+            "products": [
+                {
+                    "name": "RIO Стартовый набор владельца волнистого попугайчика",
+                    "description": "Удобный стартовый набор владельца волнистого попугайчика",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b1/6tm9w7zaf7d2cswa81qugct0t1m4jugi/200_200_1/dskl1ogj3z3wckh8l59nw47tjhog4jjn.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "DIB PROTEIN Мука из личинок мухи Черная львинка",
+                    "description": "Протеиновая мука для насекомоядных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b83/gzdzhwqz47hbzsylm8eq7l40fsjsw2dn/200_200_1/мука350гр.png",
+                    "amount": "150 г",
+                    "cost": "14,20  руб."
+                },
+                {
+                    "name": "DIB PROTEIN Личинки мухи Черная львинка",
+                    "description": "Лакомство для насекомоядных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b3/isxqj6si5w3lodxtbdswc0pq7fpcykj2/200_200_1/личинка 75 гр.png",
+                    "amount": "40 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Универсальная травка для домашних животных",
+                    "description": "Универсальная травка для домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/burgcg5cw22ttd285rmvwil6eftqyrzw/200_200_1/08d9cc84912c6478f950e6d781c5596e.jpg",
+                    "amount": "150 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Triol Original Лакомство для попугаев с фруктами и мёдом",
+                    "description": "Лакомство для крупных и средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de3/vg44afnu3ncf21ysz92m8v7mvavlngrp/200_200_1/c22f1ba0a8e57a68ea97fc1bae0e87fa.jpg",
+                    "amount": "55 г х 2 шт",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Triol Original Лакомство для попугаев с фруктами",
+                    "description": "Лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ad/j648v2oiqk3wkb4d107ttmg0ke4b8so8/200_200_1/2725f859a9444c8871de464514854071.jpg",
+                    "amount": "55 г х 2 шт",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Triol Standard Камень минеральный Яблочко",
+                    "description": "Минеральный камень для всех видов декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41e/71hkdr7jb4ccfs7t3j73xdcxg5htr45z/200_200_1/d5497bc2a75b610bbd73fad3b10caa89.jpg",
+                    "amount": "30 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "Triol Original Лакомство для попугаев АССОРТИ",
+                    "description": "Лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91e/f632aoheao4q2b2f1skis9cdgrnx3hog/200_200_1/d24f8d8c9016a6fd01f2f132245b0050.jpg",
+                    "amount": "80 г х 3 шт",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Triol Original Лакомство для попугаев с медом и хитином",
+                    "description": "Лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c1/2ks83mhb4bt6lulv3knpeskrmekr1rn6/200_200_1/9a6390ff0d33a90c585794d9ad525501.jpg",
+                    "amount": "55 г х 2 шт",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Точило для попугаев и декоративных птиц",
+                    "description": "Лакомство для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f53/ldqb5kcn49nw60o022wv707qcj35ino3/200_200_1/8996e73ead6f232e534e9c73eb34e93a.jpg",
+                    "amount": "40 г",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для попугаев с древесным углем",
+                    "description": "Лакомство для попугаев с древесным углем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0bd/6oqcablj5jb3kxxulyx5rqxdi3wwcped/200_200_1/b73ea89b2365b2b40e703e4250571e0f.jpg",
+                    "amount": "30 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для попугаев с ракушкой",
+                    "description": "Лакомство для попугаев с ракушкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bca/bcythks3m38v830wogs997gvoe4wlnsr/200_200_1/46bcb3be12f343e52e57f6cc3ce02ea1.jpg",
+                    "amount": "30 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для попугаев с витаминами",
+                    "description": "Лакомство для попугаев с витаминами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a58/680yf3w9azp5nhuprnk3ubxjkxpuhluj/200_200_1/7dd51ad9cbf450451478ef4d2a49ec62.jpg",
+                    "amount": "30 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Просо красное для декоративных птиц и грызунов",
+                    "description": "Зерновой корм для птиц и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e56/vribxvwzameex5ygegzs4ij3pyxqqu2k/200_200_1/b09626cf285202f97df7593d4fc9379a.jpg",
+                    "amount": "500 г",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Просо витаминизированное с семенами льна",
+                    "description": "Полезное лакомство для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4e/58aitxxxzguujaehzkmc8aivxayowa4m/200_200_1/34ecb3d3880c56912bf6175e5c50e784.jpg",
+                    "amount": "500 г",
+                    "cost": "2,80  руб."
+                },
+                {
+                    "name": "Природа Колосок Луговые травы для декоративных птиц",
+                    "description": "Корм и лакомство для экзотических птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b9c/m4y6fu0b6k6rdnbhy0m7a167ky3fv3sf/200_200_1/df73f6ef105c5798f10f48cdbf701496.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Природа Колосок Мультифрукт для средних попугаев",
+                    "description": "Корм и лакомство для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/480/5dttw2t09jjrpeusrugky3p2sqfmc5ko/200_200_1/16e2d958a6ef1f7c79a91390b848addc.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Фруктовый для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c4c/lzfq8mkluvhytfez7xf71zgelgcjwyfa/200_200_1/8ec7519ffe068f381d3f2c5673b2fe3f.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Природа Колосок Ореховый для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ec/7prxnnckcwgod56jhxjlz5xhdr339zqx/200_200_1/f20d5f0e4e6ec15e1b7d8df70aa63184.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Природа Колосок Овощной для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e06/zy4pjlj7wh8333xseny08917tf9h8joj/200_200_1/b41e09fc7137d243f9f4dad8817175f8.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Мультизлак для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/554/urdqy2i8zncl9let3zz96yflb0wqthqi/200_200_1/2c2e205cfffae115004927299d5b640e.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Мультивитамин для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c85/7dj719iyz570ce34y2uh01d0b4vvr1kg/200_200_1/143327c428bb31e39e5bda8d49d545fa.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Медовый для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a9f/gzgr33t6wukzszxlxg5o3sl0303kvn3u/200_200_1/f0de377dee13307e40abfa6c89e95df1.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Луговые травы для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/991/7e26nn6bn9wnb8ockq57l416yjqasf5c/200_200_1/01f4e33036ebb1ffbdb7acadb245e762.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Природа Колосок Бисквит для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f06/k6m5s0ufj0ykbaw3a091mwtndtrxjz1o/200_200_1/ef10edf68c41965dcefb585d40710f9a.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Природа Колосок Медовый для средних попугаев",
+                    "description": "Корм и лакомство для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b6/uk3qrkalnevyze720n3ho5ubbjp71e1q/200_200_1/fb17b1e663cb6b83afe2dcb8d56d78e8.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Ореховый для волнистых попугаев",
+                    "description": "Корм и лакомство для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0c/1irh7nzpzxon8k64t5l2n3krp4fkgb26/200_200_1/d3c7123f4116ff0fe32663d53128581c.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Мультивитамин для волнистых попугаев",
+                    "description": "Корм и лакомство для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/046/v2p0yu0qrqfwnvzgxj6mx01q8jf01e2e/200_200_1/f87f455d23496f0ee71cde8c7fe44700.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "Природа Коктейль Колосок (мультифрукт, ореховый, цитрус)",
+                    "description": "Лакомство премиум-класса для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c3f/b5bfv83ia73aknwgi02zd2afmhvpqsnh/200_200_1/e201f5e3e11a3c54cb435aa81fc40730.jpg",
+                    "amount": "30 г х 3 шт (упаковка)",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Природа Коктейль Колосок (сафлор, лесные ягоды, кокос)",
+                    "description": "Лакомство премиум-класса для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/13f/lqtcvua95ch9z22ib29xhc4ufuhtpuf4/200_200_1/38cdfc6db9c97a87ce66b6aa708e4880.jpg",
+                    "amount": "30 г х 3 шт (упаковка)",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Природа Коктейль Колосок (гибискус, чумиза, кокос)",
+                    "description": "Лакомство премиум-класса для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b56/s6nuaefcq36ekpv2g12on9jc2h7w998t/200_200_1/acd96f5832009f6070310014c9b79121.jpg",
+                    "amount": "30 г х 3 шт (упаковка)",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "RIO Кость сепии",
+                    "description": "Минеральный корм для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e81/bg2evvqc31o8wvt96rs5nhmlr3emn3qj/200_200_1/81fe75d36a17fcb2121e3c256b63f723.jpg",
+                    "amount": "1 шт",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "RIO Sticks Для канареек (Тропические фрукты), 2х40 гр",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/031/oigm83xojfn7ibvuln7ox0eyh8axti12/200_200_1/7eb50c6727cb981b91697f534c2c0cba.png",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "RIO Wild seeds mix (Луговые семена) 240 г",
+                    "description": "Лакомство для всех видов птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d8/a1x4hlhjxdgz2f02092d6413dycwm3e7/200_200_1/11db6bd4cfc9cb0a3426a18082564513.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,90 руб."
+                },
+                {
+                    "name": "Padovan Палочки антистресс для попугаев и др. птиц, 80 г",
+                    "description": "Лакомство для волнистых попугаев, экзотич. и др.птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c0/8nzbqaf2jhorshnge36eb3l47pjkflwx/200_200_1/ef37b32281d5166480df220b6766069b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,10 руб."
+                },
+                {
+                    "name": "RIO Fruit and Nuts mix (Фрукты и орехи) 160 г",
+                    "description": "Лакомство для средних и крупных попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2c/l8brekk3884obk3tuhmhbo2xvilcs4gi/200_200_1/2046194311a733c005221b31b82d3072.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,60 руб."
+                },
+                {
+                    "name": "RIO Арахис в сетке 150 г",
+                    "description": "Арахис для подкармливания и привлечения птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/00b/fi3n174rtfmns6zyn5gkt99qbwc895o5/200_200_1/184cedd9ef5a72a2ebe18bfaeef16a25.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,80 руб."
+                },
+                {
+                    "name": "Versel-Laga Песок для птиц \"Prestige Kristal Shell Sand\", 2 кг",
+                    "description": "Лакомство для птиц с ракушечником.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/548/tuo4cjl945h68rv2uuq71mfx926ofn3k/200_200_1/251aee716b82f81a8c746e14a7151893.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,10 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Sticks Волн.попугаи (Экзот. фрукты), 60 г",
+                    "description": "Лакомство в в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/520/f1v5ydown2k9iv3t1hlyfwky9hv8285g/200_200_1/5410340223093pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "Versele-Laga Sepia Mineral (панцирь каракатицы)",
+                    "description": "Минеральное лакомство для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/709/7yieaebye4zmpi0b678kx2o1275ge6x1/200_200_1/2221330 (1).jpg",
+                    "amount": "16 см",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "RIO Кунжут, 250 гр",
+                    "description": "Кунжут незаменим для поддержания сил в период стресса, линьки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/816/6fifyc614ubrt0bsqy0x2ag69w4t3g02/200_200_1/ae261bf3a3a86389abc836927b37a14c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,20 руб."
+                },
+                {
+                    "name": "RIO Сенегальское просо в колосьях, 100 гр",
+                    "description": "Дополнительное питание к основному рациону.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/11e/6i4yrn5xaz6x62dnhmqgnvzfl0sr4pbn/200_200_1/5ae57feb431132f6e2f1aeab9c7012c0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "RIO бисквиты с лесными ягодами, 35 гр",
+                    "description": "Лакомство для всех видов птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6d8/ydve4e7x80c43vnfn8tgmsv57asan9my/200_200_1/f924f8d5119da5e000ef77856d500a90.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                },
+                {
+                    "name": "RIO бисквиты с полезными семенами, 35 гр",
+                    "description": "Лакомство для всех видов птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e2/ln813rn5v6on7xyv63lkipo64ygabche/200_200_1/122b1eb8f799855a42e6ea78c2ed6c1c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                },
+                {
+                    "name": "RIO Sticks Для волн. попугаев и экзотов (Троп. фрукты), 2х40 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/116/tc8c260s5ue200rrr8ak37xkzh3uhez9/200_200_1/928565b6828344fa561ed2de971d3837.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "RIO Sticks Для волн. попугаев и экзотов (Мед), 2х40 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41e/30035uiyqdo7sycwtaztb0w30xdik8fr/200_200_1/2e742532654fb211e82dac6858833e02.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "RIO Sticks Для канареек (Мед, семена), 2х40 гр",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b2b/gq741ydzyvbc09c7ebav26v2hbfs04xb/200_200_1/e9d2646287f8dfecf1318642c2890c76.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "RIO Sticks для всех видов птиц (Яйцо, ракушечник), 2х40 гр",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/027/yq7j54iahizayp5efv1uthbunljca50s/200_200_1/983c12dd4aab1a2f3b05be43b4b966df.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "RIO Sticks Для средн. попугаев (Троп. фрукты), 2х75 гр",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/22d/zvjmc64q3a57y6gqy5bqfl6eecdnpv72/200_200_1/af239c66ff0a70e706c990aad9f90101.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "RIO Sticks Для средн. попугаев (Мёд и орехи), 2х75 гр",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb7/gcdszw19gpx743l9giy5e9p27k6uc7r7/200_200_1/745602944698bd7b80730a57e4ca9466.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Sticks Волн. попугаи (Скорлупа, устр. раковины), 60 г",
+                    "description": "Лакомство в в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb0/4n14hp5xl9npv109fpgayjexyw7yfj21/200_200_1/5410340223239pack.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Sticks Волн. попугаи (Лесные ягоды), 60 г",
+                    "description": "Лакомство в в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af1/lup6vfbic2z56rwkicq3jzgeowknpzy1/200_200_1/5410340223109pack.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Sticks Волн. попугаи (Семена, мед), 60 г",
+                    "description": "Лакомство в в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd0/cs96cmw59yis9h36rjmum3ck7aqqxhwy/200_200_1/5410340223086pack.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers Economic для волн. попугаев, 60 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/306/3kbeblj88pwva2mg2r8rc6dcvt5175sk/52636bb785367828338b60413a57f60f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers яичный Weekend Style для волн.попугаев, 40 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/419/r1jra3917hujl5i3ecu208slrfnc95r7/200_200_1/50d87d58f25260ee98a49bae12036cea.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,20 руб."
+                },
+                {
+                    "name": "Vitapol  \"Smakers Weekend Style\" для волн. попугаев с фруктами  45 г.",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fc/c05t5j9dzygfwa7pdn5x7sg6mya7fypd/200_200_1/76e3f6d30ca428cc1e93d66d3822552a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers 3в1 для волн. попугаев (яйцо/мед/фрукты), 130 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/fd5/b1de1lpfl50enej0rdyv5ddmn31lwly5/ff2414c979bcf73aa63d599047ff4b80.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,00 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с апельсином для птиц, 35 г",
+                    "description": "Пищевая добавка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ab/i9py0140xwe4q3lj1cu5g16r1dbz0ez0/200_200_1/1321ed51ba56c5b05a9d9d2255338257.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,10 руб."
+                },
+                {
+                    "name": "Альпийские луга 7 трав Травка для птиц",
+                    "description": "Травка для птиц из 7 видов растений",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d1/k9mi6l2rt1syoupodaj0mormhz6185kz/200_200_1/a203-2.jpg",
+                    "amount": "50 г",
+                    "cost": "3,10  руб."
+                },
+                {
+                    "name": "Фармакс Омега Neo+ с биотином для птиц",
+                    "description": "Лакомство для поощрения, баловства и поддержания здоровья кожи и пера птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9dc/qj31b3g44q1o4llvhy15z28r7dp1n090/200_200_1/pb.jpg",
+                    "amount": "50 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "БОСПА Минеральный камень для попугаев Ромашка",
+                    "description": "Лакомство для попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/362/kgtrrxrnz2460r253bnoeczvf645lka1/200_200_1/f88f488ff75fff28068d7219a448b296.jpg",
+                    "amount": "30 г",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "Природа Минерал Цитрус для декоративных птиц",
+                    "description": "Полезное лакомство для средних и декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f79/bx3om03drm7yx7tff9y3jku8oosc70tx/200_200_1/9f7d75e1c27a518737474c1bdc3949d2.jpg",
+                    "amount": "18 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Природа Минерал Зеленое яблоко для декоративных птиц",
+                    "description": "Полезное лакомство для средних и декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2af/4604g10vwg1jt67bpv6lpmllkp6ggw36/200_200_1/b91f2bc577c955e11a1feeff1fc05bbb.jpg",
+                    "amount": "18 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Природа Мелок с морскими ракушками Крейда",
+                    "description": "Полезное лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bbb/e5ywf36d02k0l6a21cekl9f8ufdne9jy/200_200_1/3eb4ec54bb4e480362564ee3788d94ee.jpg",
+                    "amount": "18 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Мультивитамин для средних попугаев",
+                    "description": "Корм и лакомство для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c9/a31jw5kz2845osaeemt1jf8qe2w0v8i9/200_200_1/4caf1c59de9455ef189caf28791d5fdb.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Фруктовый для волнистых попугаев",
+                    "description": "Корм и лакомство для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8cd/bw1x9x7lx3wect86j1qzo31c1bg7jzq5/200_200_1/37e452ae0de1864b3873a3c4fdce39f0.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "KING Крекер для волнистых попугаев",
+                    "description": "Лакомство для попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1cc/x1zevfmczv67y9mcmwnpbkfwidjo3v0j/200_200_1/5babb5560fffd2a86ee62237cb15702b.jpg",
+                    "amount": "98 г",
+                    "cost": "3,40  руб."
+                },
+                {
+                    "name": "Vitapol Сенегальское просо в колосьях",
+                    "description": "Лакомство для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff8/xiozocfe46sl44hvvrmw1sxkwwe9ylxe/200_200_1/01776e37bebd834e5c17c9e2c1247308.jpg",
+                    "amount": "100 г",
+                    "cost": "10,00  руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Песок Shellsand Marine",
+                    "description": "Песок с добавлением раковин устриц, минералов и аниса.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/919/8s03kr3l6lnexaj2hxv0cb8j70hffeus/200_200_1/d6a7733b2cda571a67c4a52f6766e343.jpg",
+                    "amount": "25 кг",
+                    "cost": "70,10  руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Песок Shellsand Kristal",
+                    "description": "Песок из раковин устриц с добавлением аниса.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/00f/djb8ouoyfsa3ksgh92ypwtqqjvq1fs2h/200_200_1/ca8bead2b0628964b46b6d3eaba352c6.jpg",
+                    "amount": "25 кг",
+                    "cost": "57,60  руб."
+                },
+                {
+                    "name": "ВАКА Минеральный камень с йодом для ср. и крупн. попугаев",
+                    "description": "Минеральное лакомство для средних и крупных попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cce/roct5wvpgh4ve1m1jz4t80yufkzkdzoz/200_200_1/ed1dc29a1774829c56b29e1b559eb438.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,80 руб."
+                },
+                {
+                    "name": "ВАКА Минеральное лакомство для попугаев, 30 г",
+                    "description": "Полезная добавка к рациону попугая.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/388/p1q2033jxhf4n4cehmu45ws8rm1s37un/200_200_1/8c7e312b06090bfe4cf9e71f84fe640d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,30 руб."
+                },
+                {
+                    "name": "RIO Sticks Для попугаев (Орехи и мед), 2х90 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/00a/nakfhj1ku0hw83vea0vmhzm1xe0oy9wa/200_200_1/adcdb11223b5e053fe91470961602f3a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "Fiory Палочки для попугаев с овощами, 60 г",
+                    "description": "Лакомство с овощами для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cdb/vmgballpthy2d0xy05fyun6fm69cp5yu/200_200_1/78fe24cda6e9d050dda4e1076d7c8d02.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,40 руб."
+                },
+                {
+                    "name": "Fiory Палочки для попугаев с яблоком, 60 г",
+                    "description": "Лакомство с яблоком для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f9/b8e09zxk3ls2dhvbqmq3h2f7w030732x/200_200_1/cf6d567583742a8f30cd9e349ad3b80c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,40 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с клубникой для волн. попугаев, 90 г",
+                    "description": "Лакомство для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be1/cpx1d1x8lotrpmtqmikbyqf13kfwsdgj/200_200_1/9f684d71911d06964484003589620175.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,20 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с киви для волнистых попугаев, 90 г",
+                    "description": "Лакомство для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/668/i39v8rh0vg99x3jkgmp5zveuu11o7cmw/200_200_1/8c1b484f376fffa2228a7ae7680ac2fe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с орехами для волнистых попугаев, 90 г",
+                    "description": "Лакомство для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5af/02h5woia8r4p3a9q4p5w3bous9u59bx2/200_200_1/ac978119bcc7520baa0dcf194e91dec7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers Для нимф (Манго), 90 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/265/679rj30vlj4re66xe7iv94idq3p5kkcg/200_200_1/76bcce6b4eb038f0b5bedff961aa87ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,90 руб."
+                },
+                {
+                    "name": "Fiory Палочки для попугаев с мёдом, 60 г",
+                    "description": "Лакомство с мёдом для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/590/iw7bvboxzdfvp9rwz8tkx8ymrbjzrzlf/200_200_1/e6edaf6ef9027e77031b462ce96f8a6a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,40 руб."
+                },
+                {
+                    "name": "Fiory Палочки для попугаев с фруктами, 60 г",
+                    "description": "Лакомство с фруктами для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bdd/u6dqf2wv4knq39fr336uxte0evrp1tn0/200_200_1/91abae236448ddb99130b8ef4a59254a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,40 руб."
+                },
+                {
+                    "name": "RIO Набор для проращивания для всех видов птиц, 25 г",
+                    "description": "Дополнительный корм для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41f/m0m87lkko3hn489ziq0lngf5ifq42no4/200_200_1/65e15b3b5f9ee08dbde18ece09bdc75f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Vitapol Smakers фруктовый для волн. попугаев, 90 г",
+                    "description": "Лакомство в виде палочек, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c2/fnvxhojrkwcrwwb5gbkp3s5kruiiirpd/200_200_1/2386d7864a1282ccf7a07d5ef684fd5f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,50 руб."
+                },
+                {
+                    "name": "Fiory Палочки для попугаев с яйцом, 60 г",
+                    "description": "Лакомство с яйцом для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e17/q8d0iel4lauwytzsja4d4gr6rc78zvx6/200_200_1/38c92c287d73c195d6c196a31e6ade2f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,40 руб."
+                },
+                {
+                    "name": "Flamingo Минеральный камень для птиц, 16,5 см",
+                    "description": "Дополнительный корм для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f1/ext4emmwz9df85e4rsl9rrgbobz0mda1/200_200_1/c1f7170d1ebd62e23f30bcb2d535116d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,40 руб."
+                },
+                {
+                    "name": "Fiory Бисквиты для птиц с мёдом, 35 г",
+                    "description": "Бисквитные печенья с мёдом для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ff/sjs0oof7sa316c0ugkhbi144afx7k0hz/200_200_1/09490d75eb3c37895bdf393b38b6e6fd.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,40 руб."
+                },
+                {
+                    "name": "Fiory Бисквиты для птиц с яблоком, 35 г",
+                    "description": "Бисквитные печенья с яблоком для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/694/y2wcme65g8p9dqzjqususexumeyn49yv/200_200_1/42e8662aad9cea4d0d812477742096af.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Fiory Бисквиты для птиц с фруктами, 35 г",
+                    "description": "Бисквитные печенья с фруктами для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/095/ks5delkfjsjgf0hykzqybzz7w7k3yn6n/200_200_1/a2a85e693976c0fb99dfdcfbb1f2b6fc.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Fiory Палочки для канареек с яйцом, 60 г",
+                    "description": "Лакомство с яйцом для канареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fbf/owv4u9bq4agx421tsjlgcfxrxabyprzr/200_200_1/192ed5fd211cfa949b6bcc3fcdce9c8e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,40 руб."
+                },
+                {
+                    "name": "Fiory Палочки для канареек с фруктами, 60 г",
+                    "description": "Лакомство с фруктами для канареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/517/g5zuet7ihqdu5zez5v2gtie072fzd02g/200_200_1/454209547e78b7f2876c22b99afdc90d.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,40 руб."
+                },
+                {
+                    "name": "Onto Сверчок сушёный (лакомство), 20 г",
+                    "description": "Для насекомоядных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f21/e7dzukmpz4uq0uxt9kc24qts05fwq1mh/200_200_1/01f30aa6d9b5776a82e13675fb53fe20.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers минеральный для птиц",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/567/e065yy6xgwa0i1qcj8igqaqfmgaznh08/200_200_1/508706482de8733f357b36d83d7d424d.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Vitapol \"Smakers\" с фруктами для амадин, 60 г",
+                    "description": "Лакомство в виде палочек для экзотических птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/541/sjzil5tydpbwp27arg7yityb2olags1q/200_200_1/7926fa8ade2a8ae02a0846b270e0e756.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Vitapol Натуральный минеральный камень для птиц, 35 г",
+                    "description": "Пищевая добавка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ff/3ghhc6ilm329jec0arfbwoy1r0vlgq36/200_200_1/184df4bfa6267e9284c6fdecec1f5743.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с яблоком для птиц, 35 г",
+                    "description": "Пищевая добавка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8fc/8634ouxn6llvf2a0asipqac4l7z67063/200_200_1/70235a444532d77b0cbede7bfc2464cc.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,20 руб."
+                },
+                {
+                    "name": "Vitapol \"Smakers\" с апельсином для волнн. попугаев, 90 г",
+                    "description": "Лакомство в виде палочек, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ca/wnyattff167xmu5cl86ocgr49p1bbnoe/200_200_1/e66c282e1ee8f42eeeb8b82a4a1a60c3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Vitapol Натуральный минеральный камень для птиц XL",
+                    "description": "Пищевая добавка для птиц, 190 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/da3/h7em9pu9ea2d7b1lxdhsb405ed8ewy0k/200_200_1/143786ac3b14f4d464ab7254f427616c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с апельсином для птиц XL",
+                    "description": "Пищевая добавка для птиц, 190 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/165/s62ri0r7xvlv00qgqfcafex8m96vfnv5/200_200_1/0f3effa051c2f5867678cd9f3ca9ada1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с яблоком для птиц XL",
+                    "description": "Пищевая добавка для птиц, 190 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c7/mbdokrtzrp4mzjqvrs0jufg8cba1bk0a/200_200_1/80e02474ef99523a6e988e67eacfa12d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с ракушками для птиц XL",
+                    "description": "Пищевая добавка для птиц, 190 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/915/dnpk2505l9gcncrw0g6ffmiwdxgk4cfi/200_200_1/f23bf48dd1a328725d2b0d5f5d536001.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers с клубникой для волн. попугаев, 90 г",
+                    "description": "Лакомство в виде палочек, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/28a/3cnqpnc6xklqpuphi2tcvmzpalak6qyh/200_200_1/c2ebe3ef7daa55ba348d492a00d2156a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers для нимф (Фрукты), 90 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1aa/c1cz1z0blu3o5yts19lcu50lqdbxj4cj/200_200_1/a5467d92c3369fed3148077a8f6fcda6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,50 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с ракушками для птиц, 40 г",
+                    "description": "Пищевая добавка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a25/q5klyi4ph63tg653no77lp30uz3ff7ym/200_200_1/6694c517486b0b213e516b670cd2b2bc.png",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Сенегальское просо в колосках, 100 г",
+                    "description": "Питательное лакомство для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41a/zluxvq011lr36z1sqh0qls1h25ule9wt/200_200_1/bf4015f33a7cfa7c4da59b8a46f4b768.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "Lolo Pets Красное просо, 500 г",
+                    "description": "Питательное лакомство для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c8/6rn0b89isue856h9mhnlpnw13vcz1mcr/200_200_1/1e6ff3a2c9fbcb8377bd72b0eba1c40d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers (Фрукты) \"Weekend style\" канарейки, 45 г",
+                    "description": "Лакомство для канареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c6/v000g9e4urm6a78bbv1i8okm1nz3v8dc/200_200_1/c5125207fbd98b206752ca37d120b5c3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,50 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Mega (Орехи/Фрукты) для крупн. попугаев, 250 г",
+                    "description": "Лакомство для крупных попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/686/qx01zjp2auzp3ezhbq4514az8087dt6h/200_200_1/dac25524e552aa629c69858ce561ed9c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,90 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers Для волнистых попугаев (Манго), 90 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eef/t2blbs3wz7r1nk0lyzwpc9ii8lmvaj6l/200_200_1/a5a4f20239381764555da70047049933.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers Для волнистых попугаев (Орехи), 90 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9e/4xwqw29jgl09zwvxnfd1y6g2v3781ge8/200_200_1/ec4b96ece789e8a270014a2256df2506.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,40 руб."
+                },
+                {
+                    "name": "Onto Чёрная львинка консервированная, 40 г",
+                    "description": "Консервированный кормовой мучной червь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/96b/7920orl3pgcjlrpm0r0x6lemvnk02qmq/200_200_1/92571e247dbdad792c793c1c7a40cfdc.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Padovan Палочки овощные для волнистых попугаев, 80 г",
+                    "description": "Лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/291/o5qbowl8e8i3lz6380s02x85tp32ku3l/200_200_1/75a7e8c85623c9eddcf6148b83c18c49.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,60 руб."
+                },
+                {
+                    "name": "Padovan Палочки фруктовые для крупных попугаев, 150 г",
+                    "description": "Лакомство для крупных попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fa3/ksem18djnxei8eb33lk95to6463r9dmf/200_200_1/0fb14feb3a320202eccc4b8cee2f5c62.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,50 руб."
+                },
+                {
+                    "name": "Padovan Палочки фруктовые для попугаев и др.птиц, 80 г",
+                    "description": "Лакомство для попугаев и других птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae3/wggd9qb5rzli6jhiakga3y8k235wamv3/200_200_1/e4eed8cb9d77845a5bddecfcec161262.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,60 руб."
+                },
+                {
+                    "name": "Padovan Палочки фруктовые для средних попугаев, 100 г",
+                    "description": "Лакомство для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c63/tqxp9yn0w9vph3ucnn2bvzfvpste3xro/200_200_1/2c4d19ced3f35f71a6c6a708a81b3322.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,20 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers Для волнистых попугаев (Киви), 90 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f10/9uktd7yxjs81ty54cew6gzjcvsdr26xd/200_200_1/4f0a95b9c938d8f53ca2877a5df0cd3f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Onto Зофобас консервированный, 40 г",
+                    "description": "Консервированный кормовой Зофобас.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/354/ns28l0k18swc48r0jo5im4kjk6134p3d/200_200_1/bfa2b8d42189ce731ffc50f73dd5614d.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "RIO Sticks Для попугаев (фрукты и ягоды), 2х90 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d81/67cdoi8xiktcynednjvvrkbvprm7cs2d/200_200_1/f649bf6fdd3f8090c9df7013e5ee294d.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,30 руб."
+                },
+                {
+                    "name": "Onto Мучной червь консервированный, 40 г",
+                    "description": "Консервированный кормовой мучной червь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c7e/0lu0e26poioxixmgsyvggvxqxgxjqqrv/200_200_1/7e03a0be932e17ec745ceeb6ef166503.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "RIO Healthy seeds mix (Полезные семена) 240 г",
+                    "description": "Лакомство для мелких птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b6/wa4490qd1siktncwm74h3uphnvh083gj/200_200_1/e09ffc824d16b8a0d88ea733e9a1e602.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,20 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers Box с фруктами д/волн. попугаев, 12 шт",
+                    "description": "Лакомство для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d48/a6i186275w188t0teq5bv26msgg8viwh/200_200_1/4ec638b6efd6fea0778a417afde86d59.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,70 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers Box с медом д/волн. попугаев, 12 шт",
+                    "description": "Лакомство для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b3/c2u5a53pkzo29q7s53a8810xijudmff8/200_200_1/08e10ba05f6a92f482a658f2522c26ae.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "41,80 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers Box с клубникой д/волн. попугаев, 12 шт",
+                    "description": "Лакомство для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aaf/vvxjlmwiwx7wyx6e168k4r52par889oh/200_200_1/3c4c94f017dd5aa6e7a1547d690410af.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,30 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers Шкатулка с зерновыми палочками д/птиц",
+                    "description": "Ассорти из подвесных лакомств для птиц, 7 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/620/l2k8f4okjl8bwhv0963qm1bo85g141ud/200_200_1/8e8aa833c85f368e472ccb6378ceeaf8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,70 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers с киви для волн. попугаев, 90 г",
+                    "description": "Лакомство для попугаев, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1da/n3n52jlqxv7oaju54qqv8uvyzrdq51w8/200_200_1/5b12339e3f39b0bbb21952030c34c8de.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers Зерновые палочки с фруктами д/нимф, 45 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/214/wbpvhl79c7q234flaor1v32xm7o56s3e/200_200_1/cfeb016d0d89a96508d2ec4d66d648a0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers Зерновые палочки с орехами д/нимф, 45 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/19d/y4rzr6nwm9old53z0mnrqd5ecz9ze684/200_200_1/a7a596b7e4ea18c82b699da4bc928983.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,10 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers с медом для волнистых попугаев, 90 г",
+                    "description": "Лакомство в виде палочек, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b24/vepltdz5gh931po2l4jyc3ccisgd138j/200_200_1/cc2f13b9c99faf228bbd207c000dcd7f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,40 руб."
+                },
+                {
+                    "name": "ORLUX PICK BLOC (минеральное лакомство), 350 гр",
+                    "description": "Минеральное лакомство, дополнительный корм для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d24/be8fxkn3taknu8a5u5nau1tx1xc4g91n/200_200_1/f0a2bfbd3d00d3dd34a79fb0df74110c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Sticks Крупные попугаи (Орехи, мед), 140 гр",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/b43/rvm6jh6djsu1ut7cr8s9lser2jjqc6tu/95fe241f5759bfe6385282684877f7e3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Sticks Средн. попугаи (Экзот. фрукты), 140 гр",
+                    "description": "Лакомство в в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b4/vsx15safi5wordrp3mjp9wn1nosrz53o/200_200_1/5a332790a4a5b2b3ec48e341cf9cfc82.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Millet Gold (Просо в колосьях), 300 гр",
+                    "description": "Лакомство, дополнительный корм для птиц",
+                    "image_url": "https://garfield.by/upload/iblock/97c/2pxb7r2r3h2wqwdc2cowo9cp4syiqvv0/d52846a3f012bac207953bd6faa9156e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,20 руб."
+                },
+                {
+                    "name": "RIO Абиссинский нуг, 250 гр",
+                    "description": "Семена нуга из Индии и Эфиопии.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/61c/i0z3w1zatyfelox7sebt13cmiw3j0wa0/200_200_1/d9fa9aa287bf4d4993641c192a231399.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,50 руб."
+                },
+                {
+                    "name": "RIO Шишка Кедровая с орешками подвесная",
+                    "description": "Лакомство для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/24d/bkiow701arjyj5i4rvxssecib46466a2/200_200_1/6ad9f5cbf1391d39185aecb349b69a33.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "RIO Sticks Для попугаев (фрукты и ягоды), 2х75 гр",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/79d/98x2r6zzhfjaozcv1y43lqwd61mhcd7v/200_200_1/3a764acfccb5e2ae4476989e86bda422.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers Economic Для нимф, 60 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/3f5/3bmaf1pgl8gk23oz7t5fo5ewhgdfeh0w/8c4d826db33840ee90b1390dafc77de9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,90 руб."
+                },
+                {
+                    "name": "\"Vitapol\" Smakers Economic Для канареек, 60 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/ac0/tjzjoko769bup2tk56kw6zdgl3cbfuoa/f21ae2d180096f588088e048c6409eda.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers Для волнистых попугаев (Яйцо), 80 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/5d6/d1sf5nah8b1m5j99v0pbbrqgvf4g5uzq/55590c869c6c5ce0e5e255576f84adb6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,00 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers Для волнистых попугаев (Мед), 90 г",
+                    "description": "Лакомство в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/0fb/ms2pxjedxiw5o304cdeltf3ksj4ifzl9/b0b7cc25a96dd63bb8209eb6bf64af4f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,00 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers Для волнистых попугаев (Фрукты), 90 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/c54/gk8hn82tv9bdi9ol5m5nortfuvcpqs5w/2a65fa9f00aeea296317bd6867295ba6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,00 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers Для волн. попугаев (Фрукты/мед/яйцо), 130 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/f20/5ct8jm97mu4nh6ib3ugbnmz20wkf2rb0/504c6937983673beb6abc2a43267b2db.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,20 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers Для волнистых попугаев (Клубника), 90 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/74f/yl4ki2k20eb6950e2u0fyk6o1rgyf87h/297ac87f7f64a41dca883e591ddf4446.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,00 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Для волн. попугаев (Во время линьки), 90 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/4b7/qfzzz7zragaywpjjkqy793339otzn3ho/592c3f5ceeccb09c6d972707b2e40c8e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,50 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Weekend Style Для волн. попугаев (Мед), 45 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/865/4ouxb1enqqv9fyxa6r95yzitddwzyxai/a36606dedf3d63e814edc0661c77e803.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,70 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Weekend Style Для волн. попугаев (Фрукты), 45 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/ab5/7zmu6z05cq50zzqys70t36qtmkimfj7x/5e57caecc667ddcccfaa6bfc5fce284b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,70 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers для нимф (Киви), 90 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/912/tcphjyjy6nja04zua8s0asyzu1jk31gy/3a0c80967f4e77ef57ca22909005a8fe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Smakers для нимф (Апельсин), 90 г",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/8f1/iiwpc2q3ewirlwb29kj5yabgu11e88u0/f8f7014929772092e48b1810e8ad8c88.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Sticks Канарейки (Экзотические фрукты), 60 гр",
+                    "description": "Лакомство в в виде палочек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ea/txwmhjqd43she57hoxn8wpp1y7bupmbu/200_200_1/5410340223062pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Sticks Канарейки (Скорлупа, уст. раковины), 60 гр",
+                    "description": "Лакомство в в виде палочек.",
+                    "image_url": "https://garfield.by/upload/iblock/3b4/t2vw91ndn5vxpm71h5q3pjz7nduz496x/8a087b84474359113c191360e6ab58bf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                }
+            ]
+        }
+    }
+}

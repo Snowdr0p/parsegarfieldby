@@ -1,0 +1,58 @@
+{
+    "Рыбки": {
+        "Гигрометры, увлажнители воздуха": {
+            "url": "https://garfield.by/catalog/akvariumistika/gigrometry.html",
+            "products": [
+                {
+                    "name": "Exo Terra Влажная пещера Wet Rock Ceramic Cave",
+                    "description": "Большая влажная камера для террариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/53a/tjvod2oigei9ejhxfl0wct894gtb8dg2/200_200_1/57baccc6e45d8166fdaf1c2513c3631a.jpg",
+                    "amount": "11 см",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Exo Terra Термометр + Гигрометр электронный",
+                    "description": "Цифровой термогигрометр для индикации температуры и влажности в террариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a19/3p5rjivhhn0vuw1i5gn52u7pne4pzdnw/200_200_1/f40f0c24972656a7a82faf2fb943329a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "127,30 руб."
+                },
+                {
+                    "name": "Exo Terra Гигрометр круглый Rept-O-Metr",
+                    "description": "Для контроля уровня влажности в террариумах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ceb/88lgys7c043p72vqe7vg6q8qctst1sr2/200_200_1/0c205620528ac5ff8e24dc64752445ed.jpg",
+                    "amount": "5,5 см",
+                    "cost": "25,70  руб."
+                },
+                {
+                    "name": "Repti-Zoo Аналоговый гигрометр 01RH",
+                    "description": "Измеритель влажности воздуха, 47х10 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce3/iyu2eli3xw9y8kmr0x98hh3kecu8p5em/200_200_1/134ba930eafb22cd722153175c0c3fdf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,60 руб."
+                },
+                {
+                    "name": "Exo Terra Растение с системой полива Dripper Plant",
+                    "description": "Растение с системой капельного полива",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd8/r94guyepnou70myltiv61ucnt2qdsd0k/200_200_1/c3747bcb977728e3d62a3eedf016bbc1.jpg",
+                    "amount": "11x7x40.5 см",
+                    "cost": "285,10  руб.Под заказ"
+                },
+                {
+                    "name": "Exo Terra Система осадков Monsoon Solo II",
+                    "description": "Система осадков для террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/046/x3oi5ftujrddx8xvdohgppzl4afcdi91/200_200_1/1342a0513224409bf7bd4aba13646402.png",
+                    "amount": "1,5 л, 1 форсунка",
+                    "cost": "520,10  руб.Под заказ"
+                },
+                {
+                    "name": "Exo Terra Система осадков Monsoon Multi II",
+                    "description": "Система осадков для террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f8/mu146lyoz5nabacwwc2z71h6ht9qrv6x/200_200_1/c68f853356f26694983f65acb1277666.png",
+                    "amount": "8 л, 2 форсунки",
+                    "cost": "808,30  руб.Под заказ"
+                }
+            ]
+        }
+    }
+}

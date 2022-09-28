@@ -1,0 +1,422 @@
+{
+    "Рыбки": {
+        "Терморегуляция": {
+            "url": "https://garfield.by/catalog/akvariumistika/termoregulyatsiya.html",
+            "products": [
+                {
+                    "name": "Barbus Термометр стеклянный тонкий, 15 см",
+                    "description": "Термометр стеклянный тонкий с присоской в блистере, 15 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff8/c33t2adqk8ke1fwhrnpxfk6kt0bbsxp0/200_200_1/5cd4489b384e1f14a25099b8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,70 руб."
+                },
+                {
+                    "name": "Aquareef Термометр для аквариума TH-02",
+                    "description": "Термометр для измерения температуры воды в аквариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c0a/mbzibnx09iqq4bhwaiv7dbck9l0esi3y/200_200_1/095f19aba29338eee1dca7d20c12410c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,40 руб."
+                },
+                {
+                    "name": "Exo Terra Камень для рептилий с обогревателем",
+                    "description": "Нагревательный элемент с электронным управлением",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/695/g1oongwe3sb21nymuqlgyvbgbtn3r9k4/200_200_1/b41675dfb82bfafad3d5490260e6fd39.jpg",
+                    "amount": "5 Вт",
+                    "cost": "153,10  руб.Под заказ"
+                },
+                {
+                    "name": "Exo Terra Коврик для рептилий с обогревом",
+                    "description": "Подходит для всех стеклянных террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f6/a55s0r6vp4c7qmebo09cfp333bs2xi3n/200_200_1/5d55ac56bc17c616676b6807d6d8faab.jpg",
+                    "amount": "4 Вт",
+                    "cost": "56,20  руб."
+                },
+                {
+                    "name": "Exo Terra Термометр + Гигрометр электронный",
+                    "description": "Цифровой термогигрометр для индикации температуры и влажности в террариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a19/3p5rjivhhn0vuw1i5gn52u7pne4pzdnw/200_200_1/f40f0c24972656a7a82faf2fb943329a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "127,30 руб."
+                },
+                {
+                    "name": "Exo Terra Термометр Цифровой прецизионный измеритель",
+                    "description": "Дистанционный датчик для индикации температуры в террариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c0d/saam1yetsy9sy4r6c09wzwtm7b1me8mu/200_200_1/4538dc139b14d3b6afa2e9645bc194b8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,60 руб."
+                },
+                {
+                    "name": "Exo Terra Термометр Rept-O-Metr круглый",
+                    "description": "Для контроля температуры в террариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0cc/ii32ptmyl8s96ccig61xkqx63lx3x13s/200_200_1/ce25ccf022b8dc8c0db470aa1967acfc.jpg",
+                    "amount": "5,5 см",
+                    "cost": "20,70  руб."
+                },
+                {
+                    "name": "Repti-Zoo Термогигрометр 01RHT аналоговый",
+                    "description": "Измеритель температуры и влажности воздуха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2f/dw1iqbse06a6r2v4htodwa3zopumeex8/200_200_1/9eb79eab30deb60f229b0481aac5e8a0.jpg",
+                    "amount": "75х15 мм",
+                    "cost": "28,10  руб."
+                },
+                {
+                    "name": "Repti-Zoo Коврик греющий SHM",
+                    "description": "Коврик греющий для террариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d8/j0o4hy59m24oh5t9szrijfvzq57oivfl/200_200_1/1a4a5b5e8e3de09f9427eb3df6287f1c.jpg",
+                    "amount": "280х280 мм",
+                    "cost": "79,10  руб."
+                },
+                {
+                    "name": "Aquael Нагреватель аквариумный FIX 2",
+                    "description": "Аквариумный нагреватель для малых и средних аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d15/r4asm5li16hu1bjz2sooby0k44lkzre5/200_200_1/ff36f7aa3e72a5baee0d9ff52d7028c0.jpg",
+                    "amount": "50W",
+                    "cost": "55,90  руб."
+                },
+                {
+                    "name": "Barbus Водяной обогреватель с терморегулятором",
+                    "description": "Обогреватель для аквариума из кварцевого стекла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42d/c1xhky9hzw8ek9bw6mv1mnmdh1lbsyw5/200_200_1/91f36a707b9084ccafaa0ffc138f1ceb.jpg",
+                    "amount": "40-60 л",
+                    "cost": "44,90  руб."
+                },
+                {
+                    "name": "Repti-Zoo Обогреватель керамический DL180050",
+                    "description": "Для сухих террариумов с различными видами рептилий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f04/5u38hczohfxn6ks2osufey25ggcqa3jf/200_200_1/80b4efdd1dc1d86a39bdec29cef23e0b.jpg",
+                    "amount": "50 Вт",
+                    "cost": "109,80  руб."
+                },
+                {
+                    "name": "Laguna Нагреватель Optima с керамич. греющим элементом",
+                    "description": "Электроводонагреватель из силикатного стекла.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0b/gw6wc4taydtodkd6gvwdumm2ob6rb7lu/200_200_1/6a038109c69262c6f44aa7128d66fd1c.jpg",
+                    "amount": "50 Вт",
+                    "cost": "25,90  руб."
+                },
+                {
+                    "name": "Laguna Нагреватель Standart с металл. спиралью",
+                    "description": "Электроводонагреватель из силикатного стекла.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6bc/tgl1jrpdzk9etsukiac0mwamsczwbqj6/200_200_1/99374385447d40c0cc2476e0b2141e6f.jpg",
+                    "amount": "25 Вт",
+                    "cost": "23,50  руб."
+                },
+                {
+                    "name": "Repti-Zoo Кабель греющий",
+                    "description": "Кабель для обогрева террариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cb/obyj3cpj8jy7l9reqgcvk3j8jcmv7l4j/200_200_1/9ad83d5ed745be278fbe01228d67474f.jpg",
+                    "amount": "15 Вт",
+                    "cost": "85,10  руб."
+                },
+                {
+                    "name": "Aquael Нагреватель Platinium Heater",
+                    "description": "Нагреватель для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/88b/wbv7njvuexx9c5uypp0gqyhsf0yvdc2i/200_200_1/18dd8ff08debe0064b7f9e68f0a7d960.png",
+                    "amount": "25W",
+                    "cost": "63,40  руб."
+                },
+                {
+                    "name": "Aquael Нагреватель Ultra Heater",
+                    "description": "Пластиковый аквариумный водонагреватель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/148/bf7u3902khitcfc9yuilbw6lp9brgmz4/200_200_1/9b2f6d790b28e456c38f0cdbad29956a.jpg",
+                    "amount": "25W",
+                    "cost": "97,30  руб."
+                },
+                {
+                    "name": "Eheim Нагреватель Thermopreset",
+                    "description": "Автоматический нагреватель для аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b7b/pja6bxg9a78minnhi45nueh3p0gza2x9/200_200_1/098b0c38c2d31bba4c2e14c8be260ec7.jpg",
+                    "amount": "50 Вт /аквариумы 25-60 л.",
+                    "cost": "105,10  руб."
+                },
+                {
+                    "name": "Hagen Электронный нагреватель с LCD-дисплеем",
+                    "description": "Электронный нагреватель с трехцветным LCD-дисплеем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d98/uit1rd68bhoyh3dlxau8vd11uds6aeqf/200_200_1/3d5d35c236e12ca3bbe9b37462d48201.jpg",
+                    "amount": "50W",
+                    "cost": "128,90  руб."
+                },
+                {
+                    "name": "Hagen Погружной нагреватель \"Marina мини\"",
+                    "description": "Погружаемый водостойкий нагреватель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bd8/6xbskhnvhnqxr8tria0xkvm7lnnf6mrt/200_200_1/2e2591d0fb1602f76a4cf2dfd9fa183b.jpg",
+                    "amount": "50 Вт / 15 см",
+                    "cost": "52,10  руб."
+                },
+                {
+                    "name": "Boyu НТ Нагреватель аквариумный",
+                    "description": "Аквариумный автоматический нагреватель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/003/pcg1qht0zks5l6t0t0na54gou94ou4cg/200_200_1/bcd7102ca0c454a3fbdf4c14c729a982.jpg",
+                    "amount": "50 Вт",
+                    "cost": "42,10  руб."
+                },
+                {
+                    "name": "Barbus Термометр стеклянный толстый",
+                    "description": "Термометр стеклянный толстый с присоской в блистере, 12 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/221/09wd1srmw0ghrgd8lo1io25rpmakiirz/200_200_1/1785302ed86d70f032653bd5e443873e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,70 руб."
+                },
+                {
+                    "name": "Laguna 0207LF Термометр LCD, d-50 мм",
+                    "description": "Жидкокристаллический термометр.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/841/rbxdjv43i6t2q9isvm8rwmjqh8aj1evx/200_200_1/f6eef8cd2a4fb08b926431d92b0e5479.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Laguna 15ZLbТермометр, 150*6 мм, (блистер)",
+                    "description": "Спиртовой термометр.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/87e/iz80gt3fuxz47jcbift16h6zqaruqnsh/200_200_1/5afc48abddf6fd0cf02f703e4cb2d370.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Laguna 158ZLb Термометр 110*12мм, (блистер)",
+                    "description": "Спиртовой термометр.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/adc/gj19ehdxy5w8e6ccy02oubk326zb0x3c/200_200_1/19d6340901ac3e675d89693bd7743e9d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Repti-Zoo Аналоговый термометр 01RT",
+                    "description": "Измеритель температуры воздуха, 47х10 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b0c/h9zhsupgqw73k5gfwoy1ruwoihqcsulm/200_200_1/090a8b79ad013702f8290fb7e2828b5b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,10 руб."
+                },
+                {
+                    "name": "Tetra TH35 Thermometer",
+                    "description": "Жидкокристаллический термометр",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b78/ug6x30nju5fh7x05pigqgygg77es5y99/200_200_1/9b5fe3f3c3a2c74c426234286403e2c9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,70 руб."
+                },
+                {
+                    "name": "Barbus Термометр жидкокристаллический 13 см (блистер)",
+                    "description": "Термометр  для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/068/s3kfh6xakfw9ehxde2tmxxn0mfub1qwz/200_200_1/c57150f11648e88cedc692d40ffeadfb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,70 руб."
+                },
+                {
+                    "name": "Aqua Reef Термометр для аквариума TH-01",
+                    "description": "Термометр аквариумный",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/510/ns45j4cet98kmms2ucdplr88u22oyr7y/200_200_1/5080100245ebf129ebf7df8a65e1e494.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,40 руб."
+                },
+                {
+                    "name": "Eheim Нагреватель Thermocontrol",
+                    "description": "Нагреватель с терморегулятором для круглосуточной работы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e60/wmkd6jfi5d66q1oni3o6fjhqhsavgm2j/200_200_1/ed35deb171e6559c9a529d8a0092cf00.jpg",
+                    "amount": "50 Вт /аквариумы 25-60 л.",
+                    "cost": "125,10  руб."
+                },
+                {
+                    "name": "Repti-Zoo 20DHM Коврик греющий",
+                    "description": "Коврик греющий в защитном кожухе, 20 Вт.",
+                    "image_url": "https://garfield.by/upload/iblock/42b/w2sw8keo189gcxwapy3j43cjj4n0gzxx/6ba23d9be1c3ad2e50490d7c79016ac6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "177,10 руб."
+                },
+                {
+                    "name": "Repti-Zoo Термогигрометр электронный 125SH",
+                    "description": "Измеритель температуры и влажности воздуха.",
+                    "image_url": "https://garfield.by/upload/iblock/b14/ndj9wos5li5hk91sgqneikl3nvmcjpo8/ab38594805bd9b37e14d77d525046025.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "49,60 руб."
+                },
+                {
+                    "name": "Tetra Автоматический терморегулятор HT",
+                    "description": "Мощный нагреватель с регулятором температуры.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1e7/crpfs0r3944trzo96o0in2wd2qk87sx6/200_200_1/2c784c16714d8d536c4780315d8129dc.png",
+                    "amount": "25 ватт/ до 25л",
+                    "cost": "60,10  руб."
+                },
+                {
+                    "name": "Tetra TH Digital Thermometer",
+                    "description": "Цифровой  термометр (батарейка в комплекте).",
+                    "image_url": "https://garfield.by/upload/iblock/feb/qgzjvr9lsl602mkq1ey140v9kou8fgay/ea14795e40315bfd4b8b968f186a3b92.png",
+                    "amount": "за 1 ед.",
+                    "cost": "22,90 руб."
+                },
+                {
+                    "name": "Tetra Термометр Тетратек ТН30",
+                    "description": "Жидкокристаллический термометр для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/cab/ckdvj5p4b8mluc1z31771hianzqh7l42/cb5f8021770b736637d92ac555b8b3fa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Aquael Нагреватель Fix Zone Heater",
+                    "description": "Нагреватель для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e8/8hoappjwvds99zxmhn5vrjztdx0aq5ou/200_200_1/bbc674740520d2231502f97b3079f929.png",
+                    "amount": "75W",
+                    "cost": "71,70  руб."
+                },
+                {
+                    "name": "Sera Термометр/гигрометр для террариумов",
+                    "description": "Для контроля температуры и влажности в террариуме.",
+                    "image_url": "https://garfield.by/upload/iblock/6bf/95jgirayf4z5aqxyqfj8k7v10m5le4nm/c084e028f00de622d4eb5438d15b98e9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "73,80 руб."
+                },
+                {
+                    "name": "Sera Термометр высокоточный \"Precision\"",
+                    "description": "Термометр для аквариумов и террариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e09/auusfmsfsawziqlol4rs52c314ktrv54/200_200_1/55509a9eab1f9970bedfb8953b658f44.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,40 руб."
+                },
+                {
+                    "name": "Sera Термометр жидкокристаллический \"Digital\"",
+                    "description": "Приклеиваемый цифровой термометр.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f11/s6x3bbk32gin8lssrph2cbvymhd0gaz8/200_200_1/236de3707c33baa5ada69f7512adfcca.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,70 руб."
+                },
+                {
+                    "name": "Trixie Термометр самоклеющийся",
+                    "description": "Цифровой термометр для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/616/1b2wd6btiz7m8opfy32jy6txiss2h3pd/200_200_1/bf45a5a2837965a894053b51ba453ad7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Trixie Термометр с присоской",
+                    "description": "Аналоговый термометр для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/573/3tri2rar7c2wlo3pog7x0w5hbszx51pb/200_200_1/923d678c34924bd4818e43a761d401e9.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Natural color Термометр аквариумный цифровой",
+                    "description": "Жидкокристаллический самоклеящийся термометр",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fc/jjgeyc1s2tvqmrlxsnvjdo7wdi6mzjuf/200_200_1/5d4324b73428d7db3326c0d56edec679.jpg",
+                    "amount": "13 см",
+                    "cost": "6,20  руб."
+                },
+                {
+                    "name": "Exo Terra Тепловой излучатель Ceramic Heater",
+                    "description": "Керамический теплоизлучатель для террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d3/e7mx7jqbs4q6v3qm1b1uar3t5gimr9wg/200_200_1/d42b3036ea9f32d12c51440180fd6c92.jpg",
+                    "amount": "60 W",
+                    "cost": "132,60  руб.Под заказ"
+                },
+                {
+                    "name": "Barbus Профессиональный обогреватель с терморегулятором",
+                    "description": "Обогреватель для аквариума из кварцевого стекла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc6/trd0hy47ngwyi8kxkp9sqmacq8i97cqx/200_200_1/d66bf640908188f9f2f96bab55bd4848.jpg",
+                    "amount": "10-40 л",
+                    "cost": "36,40  руб."
+                },
+                {
+                    "name": "Aquareef Нагреватель с терморегулятором",
+                    "description": "Нагреватель для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d72/emoiruxuux6d5yx1d0ij6ephvrwgxrhq/200_200_1/a07fc1b4f26b9ba56dfaa27012bd1bab.jpg",
+                    "amount": "75W",
+                    "cost": "25,10  руб."
+                },
+                {
+                    "name": "Jebo Нагреватель с терморегулятором 2009",
+                    "description": "Электронагреватель из силикатного стекла.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/543/js8atmsuc93o216jnhodu354lpoh531i/200_200_1/4195d45b3676be55076d430ee6ee159d.jpg",
+                    "amount": "75 Вт",
+                    "cost": "23,60  руб."
+                },
+                {
+                    "name": "Jebo Нагреватель с терморегулятором 2002",
+                    "description": "Электроводонагреватель из силикатного стекла.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b4b/s6s94dthjwdbf7nn3lsirr4up70gpnpj/200_200_1/629018c4fef632809d11cc2bfdca878b.jpg",
+                    "amount": "50 Вт",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Aquael Нагреватель Comfort Zone Gold",
+                    "description": "Предназначен для работы в аквариумах очень большого размера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/938/czohr76db5b29ie0p812fmft4b780fnn/200_200_1/12f1448a677fa8e0eb14c5999b979aa8.jpg",
+                    "amount": "500 W",
+                    "cost": "129,70  руб."
+                },
+                {
+                    "name": "Laguna Нагреватель 1002АН компактный",
+                    "description": "Электроводонагреватель мощностью 10 Вт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1e5/icsn0fnb927szuj778r7yo32u8yyszyt/200_200_1/ad65f8b2a570e394a04ea958a63825b0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,20 руб."
+                },
+                {
+                    "name": "Barbus Термометр стеклянный тонкий, 8 см",
+                    "description": "Термометр стеклянный тонкий с присоской в блистере, 8 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ced/mrf56emsaoxz642qn5w7f3mm9ten9tih/200_200_1/7f96edfb48a72ee7826299e6dee01783.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,90 руб."
+                },
+                {
+                    "name": "Hagen Цифровой термометр \"Fluval\" для аквариумов",
+                    "description": "Цифровой термометр для мини-аквариумов, 17.8 x 7.3 x 0.5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb8/j3ssobqmm5b4o69x2fmr8tt0rj6lzmpb/200_200_1/1dd116dd620788682779ed6477499ad5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Aquael Термометр Hanging Thermometer No.10",
+                    "description": "Стеклянный термометр для пресноводных и морских аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e94/lqw02i983ulogiz5uz0ilkvju350mbuo/200_200_1/b427c1eded824941f2403a4091e2a67d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "Eheim Термометр, 10, 8 см",
+                    "description": "Термометр на присоске.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b5/tggp3psmb83a8re38pntoazpgqb7hw50/200_200_1/aa3e9917747649ea2b986640c1116b39.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,00 руб."
+                },
+                {
+                    "name": "Aquael Термометр стеклянный, 6 см",
+                    "description": "Стеклянный термометр для пресноводных и морских аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/622/cca66aevzfmpui0ew5uc9j4uys8yiq2r/200_200_1/4dc56905f46c16938d4c291b9216fbae.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,00 руб."
+                },
+                {
+                    "name": "Aquael Термометр Hanging Thermometer No. 6",
+                    "description": "Стеклянный термометр для пресноводных и морских аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0da/30yp71v0p5pea0f3dsucq68n1fard820/200_200_1/3bf3daca901504220956949da201f741.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Laguna Нагреватель 1001AH компактный",
+                    "description": "Электроводонагреватель мощностью 25 Вт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c26/y0m7hl444zyfljhg53lqnhydf1rnonot/200_200_1/697b4ac2e522e4eac93a66100834640e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,40 руб."
+                },
+                {
+                    "name": "Laguna 158ZL Термометр толстый, 110х12 мм",
+                    "description": "Спиртовой термометр.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e0/5e73dre1ixis9rbqcnlhegokc62ti52v/200_200_1/4649bb149ec2475a0f0cf710f36aa6a6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,80 руб."
+                },
+                {
+                    "name": "Aquael Нагреватель Easy Heater Plastic Heater",
+                    "description": "Нагреватель для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/9b4/isyvaxf7d6mxm2vfri3w7wtuxs8wbp8g/638be60d297e74f95c6ac63a04cca85e.jpg",
+                    "amount": "50W",
+                    "cost": "73,40  руб."
+                },
+                {
+                    "name": "Aquael Нагреватель Comfort Zone Gold Heater",
+                    "description": "Нагреватель для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/989/8jbhg6imzw000dwb9nxz553vgb10pe7l/200_200_1/6110b100f3e477b1a1b9c1253b38853c.png",
+                    "amount": "25W",
+                    "cost": "47,70  руб."
+                }
+            ]
+        }
+    }
+}

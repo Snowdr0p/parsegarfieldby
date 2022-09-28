@@ -1,0 +1,436 @@
+{
+    "Собаки": {
+        "Разное": {
+            "url": "https://garfield.by/catalog/dogs/raznoe-dog.html",
+            "products": [
+                {
+                    "name": "Gamma Автомобильный ремень безопасности",
+                    "description": "Ремень безопасности для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f0/d41j2jjd2xdb2cwzox3u88qzxmzsxwit/200_200_1/4030c65409583906915301f3326a12f6b6ecc88c.jpg",
+                    "amount": "25x670 мм",
+                    "cost": "21,10  руб."
+                },
+                {
+                    "name": "elCruche Лежанка для перевозки животных в авто",
+                    "description": "Переноска автомобильная для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/268/olvvjjx4t28v2ml27p6upgvjga3g5uw3/200_200_1/изображение_viber_2022-05-17_10-49-56-349 — копия.jpg",
+                    "amount": "",
+                    "cost": "85,10  руб."
+                },
+                {
+                    "name": "Gamma Накидка-чехол для перевозки собак",
+                    "description": "Чехол на заднее сиденье автомобиля",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a41/v9e7mqtabyazvmcal7akvoag25dvl04u/200_200_1/2d4cc5cbff3f703beb7cd8a473b5b695.jpg",
+                    "amount": "1,45 х 1,5 м",
+                    "cost": "57,20  руб."
+                },
+                {
+                    "name": "CAMON Сумка-переноска бокс автомобильный коричневый",
+                    "description": "Сумка-переноска автомобильная для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/85d/34xtk01zkk87dabymipcrmug0d9uc2c9/200_200_1/830d7ce702da1eee19708996415dfc4f.jpg",
+                    "amount": "38х38х25 cм",
+                    "cost": "224,50  руб."
+                },
+                {
+                    "name": "CAMON Бассейн для собак",
+                    "description": "Предназначен для развлечения и отдыха вашего питомца",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/270/cb1hrp62to1knl3vx4md8l8xunygvuj6/200_200_1/fb2e66697dd8121bb962c02ceee48ffe.jpg",
+                    "amount": "80*20 см",
+                    "cost": "177,80  руб."
+                },
+                {
+                    "name": "TB11 Подстилка-гамак в машину для собак",
+                    "description": "Универсальная подстилка на заднее сиденье автомобиля.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/87e/prx85gp442jdi1e478p66gddtw44c6mv/200_200_1/a88fde19c8130362c32b623e2679279a.jpg",
+                    "amount": "140х150 см",
+                    "cost": "80,60  руб."
+                },
+                {
+                    "name": "Trixie Чехол на сидения для автомобиля",
+                    "description": "Чехол на сидения для автомобиля, черный, 1,45х1,6 м.",
+                    "image_url": "https://garfield.by/upload/iblock/4d4/rf1utsth5i1anejmihqkrggutjtee1x2/3ea80a1646f4ada30145b0ef2d4beb62.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "89,90 руб."
+                },
+                {
+                    "name": "Совок Georplast Diggy",
+                    "description": "Совок для корма пластиковый.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/80d/x3web8ymlluxg0jh42ga8gri510b6jio/200_200_1/fb4628e918a1743acb11ce4a1049d367.jpg",
+                    "amount": "30 х 11 см",
+                    "cost": "7,30  руб."
+                },
+                {
+                    "name": "CAMON Подстилка для переднего сиденья автомобиля",
+                    "description": "Защита переднего сиденья автомобиля",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2f2/mudfo8yxfimkyw5y29r942yoabgkwvui/200_200_1/57aa79da6b56405d00fe0bc711c9ece4.jpg",
+                    "amount": "55х50х52 см",
+                    "cost": "134,10  руб."
+                },
+                {
+                    "name": "CAMON Гамак автомобильный для перевозки собак",
+                    "description": "Чехол на заднее сиденье автомобиля",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/804/xmevo13r38sg22wodxaz6db80y4v4eib/200_200_1/88589961472facf652af79b49cf7b3a1.jpg",
+                    "amount": "130 х 135 см",
+                    "cost": "118,70  руб."
+                },
+                {
+                    "name": "CAMON Крышка бассейна для собак",
+                    "description": "Защищает бассейн от листьев и грязи",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a30/3nhk8jb81y13qniy8ncx8g64ypxqbdl5/200_200_1/74e01ee04c4b7011d16725c90e0866bf.jpg",
+                    "amount": "80*20 см",
+                    "cost": "48,20  руб."
+                },
+                {
+                    "name": "Ferplast ARCA переноска для кошек и мелких собак (с креплением к автокреслу)",
+                    "description": "Переноска для собак и кошек с креплением к автокреслу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a8a/2qj9abgj0yemdaiylr6xlm1lxa1cw6c0/200_200_1/34b0cf23a429792f74d80abf2f69d428.jpg",
+                    "amount": "38х38х29 см",
+                    "cost": "228,00  руб."
+                },
+                {
+                    "name": "Trixie Сумка-переноска для велоперевозки на руль, серо-черная",
+                    "description": "Переноска для велопрогулок со светоотражающими элементами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/140/anaeu767l5z4i6llzdmeu9euhm0habkn/200_200_1/5de164a429e91ebd04c58e4edaaa65ab.jpg",
+                    "amount": "41х26х26 см",
+                    "cost": "219,80  руб."
+                },
+                {
+                    "name": "Trixie Сумка-переноска для велоперевозки на руль",
+                    "description": "Переноска для велопрогулки с креплением для ремня",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/130/mgpdhhkilwsxugnmm4qntdn106arwcgg/200_200_1/20639eede50a8c87eb3812e894a532fe.jpg",
+                    "amount": "38x25x25 см",
+                    "cost": "123,20  руб."
+                },
+                {
+                    "name": "CAMON Поводок-ремень безопасности для машины",
+                    "description": "Ремень безопасности для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/25f/0nqi9n2mbv7o290kkbbrzy3p8s8qoxmk/200_200_1/24822f5eec03aff15603b812cf276e38.jpg",
+                    "amount": "15x700 мм",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "CAMON Переноска бокс автомобильный складной черный",
+                    "description": "Переноска автомобильная для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/884/rrqpr9vt2ie7733s3l58x6nkqdogz7q9/200_200_1/b1037a71507955f2c7430f8d64c91cc5.JPG",
+                    "amount": "43х36х33 см",
+                    "cost": "271,60  руб."
+                },
+                {
+                    "name": "CAMON Переноска бокс автомобильный серый",
+                    "description": "Переноска автомобильная для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9c/1vup7b3ic43rrxmnenkdo5twuali8u80/200_200_1/d3d266ed80ab0afca3b1d4578b3c4b1c.JPG",
+                    "amount": "38х38х22 см",
+                    "cost": "152,00  руб."
+                },
+                {
+                    "name": "Ferplast Переноска для животных Atlas Bike Rapid",
+                    "description": "Переноска с поводком для велосипеда.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/deb/kim2pmex1xm66mcatzt6ul3hk4sufrkz/200_200_1/78cbdd96a43e26bb0f01fb35e80a48d2.jpg",
+                    "amount": "47х35,5х34,5 см",
+                    "cost": "321,20  руб."
+                },
+                {
+                    "name": "Trixie Корзина для велоперевозок, 35х49х55 см",
+                    "description": "Для транспортировки животных весом до 12 кг на багажнике.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/301/5yxs5oab6zgt9y6j5ferc3w85hrukj6x/200_200_1/0a7786e22809e9c26f0c57180c71e073.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "179,00 руб."
+                },
+                {
+                    "name": "Trixie Пандус складной серый, 39х150 см",
+                    "description": "Рекомендуется в случаях артроза и артрита питомцев до 25 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dee/8brj66iw3n8k82jfwp75r3b7d0dksh88/200_200_1/69c2bd78fc85b22e164c9a70d3fc55b7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "280,80 руб."
+                },
+                {
+                    "name": "TitBit Автогамак для собак мелких пород",
+                    "description": "Гамак для перевозки животных в автомобиле.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e33/5mrfrn82ogvy66gnl3602shchf3e1m0l/200_200_1/25e1753bc0e52383fdfd3f055b38acd3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "125,10 руб."
+                },
+                {
+                    "name": "Trixie Пандус серо-черный, 39x160 см",
+                    "description": "Максимальная нагрузка 70 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/875/0a2atv2gzez44bjvfi7u4kocmd35ymc2/200_200_1/397305cacb6e6f0438c6ebad752e9395.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "326,60 руб."
+                },
+                {
+                    "name": "Trixie Чехол для багажника автомобиля",
+                    "description": "Водоотталкивающий чехол для автомобиля, 1,20х1,50 м.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b76/kaqs9k7ys0zoiaqji8eu4qaidm204lut/200_200_1/2e06b04378b6923d8d07c651e557ff15.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "89,00 руб."
+                },
+                {
+                    "name": "Trixie Решётка в багажник, черная",
+                    "description": "Ширина: 85-140 см, высота: 75-110 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/345/m7s18xzkbtwhxn1scy19bncwgys9abj6/200_200_1/59474ed75184a8f3c6e1dd71b592d2fa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "145,70 руб."
+                },
+                {
+                    "name": "Ремень безопасности с карабином \"Trixie\"",
+                    "description": "Ремень для собак, 45-70 см/25 мм, нейлон, черный.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eea/upesv9qb337dojo6qje0wq8bv3pd0sgb/200_200_1/c7c564059a1ef91f6078c1c3b42923d7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,10 руб."
+                },
+                {
+                    "name": "Совок \"TRIXIE\", для корма, с зажимом, 250 мл",
+                    "description": "Цвет в ассортименте, пластик.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83b/48mrqit2rsnokk7kgx35qlyjcck3kyg0/200_200_1/659e7180473ca106884ba9e49a25b6d4.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "21,40 руб."
+                },
+                {
+                    "name": "Trixie Дополнительное крепление",
+                    "description": "Для прочного соединения велоспрингера с велосипедом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/003/jug8bmo6spbm95nkggs9ggfq4nt9yeh0/200_200_1/2cea97a17a633164b7f6003fd64690be.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "72,00 руб."
+                },
+                {
+                    "name": "Gamma Совок для корма, 27х10х5 см",
+                    "description": "Пластиковый совок для корма",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc7/kcmor7uogb1cflxzlejhjmvb23ry5sxg/200_200_1/7180f1909567643ab3bcd5a6fdbc12b1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,60 руб."
+                },
+                {
+                    "name": "Ремень безопасности с фиксатором \"Trixie\"",
+                    "description": "Ремень для собак, 45-70 см/25 мм, нейлон, черный.",
+                    "image_url": "https://garfield.by/upload/iblock/73f/nx3bg5bjj7wq6crkentbv7swm7nwvxjv/972473e6fffa0c11574c4c966e0f5996.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "Ремень безопасности \"Trixie\" (шлея+поводок)",
+                    "description": "Ремень для собак автомобильный, нейлон, черный.",
+                    "image_url": "https://garfield.by/upload/iblock/3a6/09o2op2zc5z0el7dowfml4emsuqxgmq0/cb82d1e1a10c7740035495f8a38dfb72.jpg",
+                    "amount": "L, 70-90 см",
+                    "cost": "21,10  руб."
+                },
+                {
+                    "name": "Чехол \"Trixie\" для багажника автомобиля",
+                    "description": "Чехол для багажника автомобиля, черный.",
+                    "image_url": "https://garfield.by/upload/iblock/60e/vud8gi0ofuvwkhl2lqu4rocvf4unk9pe/4abbdbd2322753098a4811353daca3ce.jpg",
+                    "amount": "2,30х1,70 м",
+                    "cost": "115,10  руб."
+                },
+                {
+                    "name": "Чехол на сиденье для автомобиля \"Trixie\"",
+                    "description": "Чехол на сиденье для автомобиля, 1,5х1,35 м., нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/6de/e059zgu7qvrjslagtdlf4q724p15x4jv/b7af8e63871dbd308e9737c8e99f9ad5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "145,40 руб."
+                },
+                {
+                    "name": "Вентиляционная решетка для автомобилей \"Trixie\"",
+                    "description": "Вентиляционная решетка для автомобилей, пластик.",
+                    "image_url": "https://garfield.by/upload/iblock/3aa/oynlh4w0oua71fs7p870wnd00bok6056/51da00eea6eac215a619ad93a45c9457.jpg",
+                    "amount": "30х110 см",
+                    "cost": "26,40  руб."
+                },
+                {
+                    "name": "Trixie Чехол на сидение",
+                    "description": "Чехол на сиденье автомобиля, 1.45 х 2.15 м, черный.",
+                    "image_url": "https://garfield.by/upload/iblock/e55/2jsh6cn2gtizrg2ogu0hfhs23hmzt4tz/b6fb93797a3ab163143972488dc574ad.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,00 руб."
+                },
+                {
+                    "name": "Trixie Чехол на сидение Бежевый",
+                    "description": "Чехол на сидения для автомобиля, бежевый, 1,4х1,2 м.",
+                    "image_url": "https://garfield.by/upload/iblock/e4d/a9k70rs5jli03kfhmb9qmzjo18ukrzqo/a4cbbfaf920a64ed982c23403bef43db.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "78,00 руб."
+                },
+                {
+                    "name": "Trixie Велоспрингер",
+                    "description": "Аксессуар для крупных и тяжёлых собак.",
+                    "image_url": "https://garfield.by/upload/iblock/b9e/j2zd7r2ebic9tgu3g3rlww703go7y2or/8c68ecedd15131bc4006e5b1f1e548a7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "204,90 руб."
+                },
+                {
+                    "name": "Trixie Сумка для велоперевозки с креплением",
+                    "description": "С креплением на багажник.",
+                    "image_url": "https://garfield.by/upload/iblock/bb0/zy3rt2fik373nob5j9hevq0qrio7gk3p/dda11e95bd2eb0501b414652a5f921ed.jpg",
+                    "amount": "48x29x42 см",
+                    "cost": "339,10  руб."
+                },
+                {
+                    "name": "Trixie Велоприцеп",
+                    "description": "Велоприцеп на прочном металлическом каркасе.",
+                    "image_url": "https://garfield.by/upload/iblock/710/xe8x4mu8a6619en945nqwlvgwd1gav3h/6e884f8e28a425c32b092a2f5f1f3e53.jpg",
+                    "amount": "S",
+                    "cost": "781,60  руб."
+                },
+                {
+                    "name": "Trixie Велоприцеп с сигнальным значком",
+                    "description": "Велоприцеп с сигнальным флажком.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/538/5nw8r2wnbn9v9xnj937a905hcmzafi5p/200_200_1/f90d3ead0bf7d884f24bd8bd7f518501.jpg",
+                    "amount": "M",
+                    "cost": "877,50  руб."
+                },
+                {
+                    "name": "Автомобильный ремень безопасности Trixie",
+                    "description": "Регулируемый автомобильный ремень.",
+                    "image_url": "https://garfield.by/upload/iblock/595/e9mn2cz44n1k74m33i40m605zt083vf0/f2aa7ac80c343ecff50d7d39dfa5c7fb.jpg",
+                    "amount": "40-60 см/20 мм",
+                    "cost": "14,40  руб."
+                },
+                {
+                    "name": "Trixie Ремень безопасности",
+                    "description": "С металлическим замком и карабином.",
+                    "image_url": "https://garfield.by/upload/iblock/38b/w7vo8amysp1u0r8hlx05r9a0ldmg3ugd/d18742fc5a5308916ef536bd5e47247b.jpg",
+                    "amount": "45-70 см/30 мм",
+                    "cost": "23,00  руб."
+                },
+                {
+                    "name": "Trixie Ремень универсальный",
+                    "description": "Ремень безопасности в автомобиль.",
+                    "image_url": "https://garfield.by/upload/iblock/d98/n51ch1rw0jc4sy9t03uua6353al60jyv/eb30f4625ff24308382189061617519d.jpg",
+                    "amount": "27 см/45 мм",
+                    "cost": "12,30  руб."
+                },
+                {
+                    "name": "Trixie Шлея с ремнем безопасности",
+                    "description": "Комфорт при автомобильных перевозках.",
+                    "image_url": "https://garfield.by/upload/iblock/b14/7qfa5hg2spifh2722qan7dh6rw97xa3i/64bf4646fc49d23f644ee94cf8c6d917.jpg",
+                    "amount": "S-М",
+                    "cost": "88,00  руб."
+                },
+                {
+                    "name": "Trixie Подстилка на сидение противоскользящая",
+                    "description": "С противоскользящим покрытием.",
+                    "image_url": "https://garfield.by/upload/iblock/e8d/w52gyw8e56yz53dliq6fy3t3yd9cbabw/8330f23182c87a558d807a04f69069bc.jpg",
+                    "amount": "0,65x1,45 м",
+                    "cost": "74,50  руб."
+                },
+                {
+                    "name": "Trixie Подстилка на сидение с высокими бортами",
+                    "description": "Со съёмными высокими бортами.",
+                    "image_url": "https://garfield.by/upload/iblock/541/n4h0v13j64ncn7mxccd8s1kctdtdj746/ba5826ffc0065fc1c578be4d11309c21.jpg",
+                    "amount": "0,65x1,45 м",
+                    "cost": "135,70  руб."
+                },
+                {
+                    "name": "Trixie Подстилка на сидение с карманами",
+                    "description": "С двумя карманами.",
+                    "image_url": "https://garfield.by/upload/iblock/a0c/32u37ljahxzxcsbabpnm68ke4ime31xx/945952eafff25ca1d929d47df4fa9217.jpg",
+                    "amount": "1,40x1,45 м",
+                    "cost": "98,90  руб."
+                },
+                {
+                    "name": "Trixie Подстилка на сидение",
+                    "description": "С чехлом для подголовника.",
+                    "image_url": "https://garfield.by/upload/iblock/300/1ponzm9yli99mhspaqk99jv2jwehgfiv/ffdd18532fd7085f337afbaa8c66b121.jpg",
+                    "amount": "1,45x1,60 м",
+                    "cost": "169,00  руб."
+                },
+                {
+                    "name": "Trixie Подстилка-плед на сидение",
+                    "description": "Можно использовать в качестве пледа.",
+                    "image_url": "https://garfield.by/upload/iblock/8b1/ijjx238vksmvza0w12mgq6mx4z293gs0/ecad2bed17360701961cdc34b9bd1b11.jpg",
+                    "amount": "145х160 см",
+                    "cost": "155,60  руб."
+                },
+                {
+                    "name": "Trixie Подстилка в багажник с фартуком",
+                    "description": "С фартуком для защиты бампера.",
+                    "image_url": "https://garfield.by/upload/iblock/fd6/peox0sxo4b3lasq2k29fcoh6dldj3tem/0facefdcc24d5e62b99de206c8f01952.jpg",
+                    "amount": "1,64x1,25 м",
+                    "cost": "184,90  руб."
+                },
+                {
+                    "name": "Trixie Подстилка в багажник с липучками",
+                    "description": "С липучками на нижней стороне для фиксации.",
+                    "image_url": "https://garfield.by/upload/iblock/111/0zkp0fgvdd4wag0j03accvp22rl6eufv/569b9fad78798183d3f25333148f5d3d.jpg",
+                    "amount": "1,80x1,30 м",
+                    "cost": "98,90  руб."
+                },
+                {
+                    "name": "Trixie Подстилка в багажник",
+                    "description": "Для небольших автомобилей.",
+                    "image_url": "https://garfield.by/upload/iblock/daf/jz49ww60jy0ejva4kb1yrio2l0cfbvnf/a3bc51dd8d8ea56aa0d3bc50a41f6dd1.jpg",
+                    "amount": "80x60 см",
+                    "cost": "191,50  руб."
+                },
+                {
+                    "name": "Trixie Подстилка-лежак в багажник",
+                    "description": "Можно использовать как лежак.",
+                    "image_url": "https://garfield.by/upload/iblock/3c1/fnqlp1hpeljaj9pjs36o6fcy1as2qm5q/cfbd113443fa8e63f85f6a553d848b25.jpg",
+                    "amount": "95x75 см",
+                    "cost": "238,20  руб."
+                },
+                {
+                    "name": "Trixie Сумка-подстилка",
+                    "description": "Для собак весом до 8 кг.",
+                    "image_url": "https://garfield.by/upload/iblock/9ca/lljwyu1ryy4lmamcil953dzpzojjocvu/052372888173cc3bd869dcfbe43d0c99.jpg",
+                    "amount": "45x38x37 см",
+                    "cost": "216,70  руб."
+                },
+                {
+                    "name": "Trixie Пандус",
+                    "description": "Максимальная нагрузка – 50 кг.",
+                    "image_url": "https://garfield.by/upload/iblock/c9c/ehbfpezwc5n7efq694kqvz1b7n47itkf/f0b4e22763b9ce135a5bab5ea513c0b9.jpg",
+                    "amount": "38x100 см",
+                    "cost": "238,20  руб."
+                },
+                {
+                    "name": "Trixie Пандус складной",
+                    "description": "Максимальная нагрузка – 90 кг.",
+                    "image_url": "https://garfield.by/upload/iblock/4bb/rqxmrt397tnq7fax4m23pp21h95s6nb0/b1d8a7f69f2439135bd0cb9d33bb923e.jpg",
+                    "amount": "40x156 см",
+                    "cost": "326,60  руб."
+                },
+                {
+                    "name": "Trixie Пандус складной нагрузкой до 75кг",
+                    "description": "Максимальная нагрузка – 75 кг.",
+                    "image_url": "https://garfield.by/upload/iblock/42e/27nnoo9iw2gvwl8xh4e0ym7f1pnrjsx6/8392944655f78ba9f68c5ee13b46965d.jpg",
+                    "amount": "38x155 см",
+                    "cost": "610,80  руб."
+                },
+                {
+                    "name": "Trixie Пандус раздвижной",
+                    "description": "Максимальная нагрузка – 120кг.",
+                    "image_url": "https://garfield.by/upload/iblock/a5b/89y07pnsh7pipzyg3vgsxm72mgwh3zhc/06a9ccd8d20a6c23c054cf48bf9a3d5b.jpg",
+                    "amount": "43x100-180 см",
+                    "cost": "706,30  руб."
+                },
+                {
+                    "name": "Trixie Решётка в багажник черная",
+                    "description": "Высота: 75-110 см; ширина: 85-140 см.",
+                    "image_url": "https://garfield.by/upload/iblock/b11/rnee6hl3i6motq9nc983jg1kz9o2xgxg/87604ca950f28ee88e571b14f2648f92.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "166,30 руб."
+                },
+                {
+                    "name": "Решётка в багажник Trixie для перевозки",
+                    "description": "Для безопасной перевозки животных.",
+                    "image_url": "https://garfield.by/upload/iblock/8e7/p7p2041yqaxadhqdy1p89ppkkpcms4wu/1c2db7a6ecffa4de5576277218924772.jpg",
+                    "amount": "96-163 см",
+                    "cost": "346,20  руб."
+                },
+                {
+                    "name": "Trixie Защитная накидка для бампера",
+                    "description": "Предотвращает появление царапин при перевозке животных.",
+                    "image_url": "https://garfield.by/upload/iblock/afc/0m24w1t1yxl3ihktpdnpm8sqw1y1ad6j/23638513c33c601c0bba9372ed42df4f.jpg",
+                    "amount": "50x60 см",
+                    "cost": "29,80  руб."
+                },
+                {
+                    "name": "Trixie Сетка-разделитель",
+                    "description": "Крепится на дверь или на потолочные ручки.",
+                    "image_url": "https://garfield.by/upload/iblock/da3/0r9obvhf90h9wvmyojnpig712ri6kv3t/c07e9ae6bde92eb9b414e1ece7e03f1c.jpg",
+                    "amount": "1х1 м",
+                    "cost": "29,00  руб."
+                }
+            ]
+        }
+    }
+}

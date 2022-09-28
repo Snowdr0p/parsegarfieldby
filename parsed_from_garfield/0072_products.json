@@ -1,0 +1,268 @@
+{
+    "Грызуны": {
+        "Груминг": {
+            "url": "https://garfield.by/catalog/gryizunyi/gruming.html",
+            "products": [
+                {
+                    "name": "Triol 624B Когтерез-ножницы \"Стандарт\"",
+                    "description": "Когтерез для животных, 70х140 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ca/92u1t3a66y07rnoreg3od7tha0yuwpyw/200_200_1/8a15f3926fd3890904841a0cb98ad5f8.jpg",
+                    "amount": "Блистер",
+                    "cost": "15,20  руб."
+                },
+                {
+                    "name": "Triol Когтерез \"Премиум\"",
+                    "description": "Боковой когтерез из металла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c9/w480srr1236u1q4fcsbcspldppjc0foj/200_200_1/06b1c4954b5b2d739c7680f13de34d22.jpg",
+                    "amount": "S",
+                    "cost": "27,60  руб."
+                },
+                {
+                    "name": "Ferplast Пуходерка GRO 4955 для мелких животных",
+                    "description": "Пуходерка для мелких животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1f9/4k1gqpbbv8wwxxbkhvg4mts1cb7v0a7b/200_200_1/07210ff0468ba1049217a7fa3824010a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,90 руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" для когтей, 8 см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc6/0t99dr1qg56ozt1b8r590wxs65v79olp/200_200_1/fa8065cc6ed7830278d58d08095c755d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" для когтей, 13 см",
+                    "description": "Ножницы для когтей, нержавеющая сталь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/064/ixt2ki2kerwjxi12su5b6y1fv98yoawg/200_200_1/f79ccb9b0844532210b71f30ecb8bc97.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "14,60 руб."
+                },
+                {
+                    "name": "TRIXIE Когтерез-кусачки De Luxe, малый, 12 см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/831/hm2mrdt7jv0k5zwao36yb9tglk2a96lg/200_200_1/c675b6651222c29857a9d8d1fec66bb6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,90 руб."
+                },
+                {
+                    "name": "Когтерез \"TRIXIE\", \"De Luxe\", большой, 16 см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/06e/xovsbyb4qys2gf2m7g0nl6rmxm1fj32b/200_200_1/08286a043df98b9c8411218f1c928669.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,10 руб."
+                },
+                {
+                    "name": "Когтерез-гильотина \"TRIXIE\", 11см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/231/pi18swyuwh10qu15s2adgtac4no2nwbb/200_200_1/32c749161309c8b45ec6d2e26a08af08.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,20 руб."
+                },
+                {
+                    "name": "Triol Когтерез боковой \"Стандарт\", 75*160 мм",
+                    "description": "Когтерез боковой для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b8a/bnivuj6gq1kh2g7g9ucjrh4lftoe8si9/200_200_1/80d4c86aa1657edf2fb106b4bcca5227.jpg",
+                    "amount": "Блистер",
+                    "cost": "19,30  руб."
+                },
+                {
+                    "name": "Triol Когтерез Стандарт, 40*130 мм",
+                    "description": "Когтерез боковой для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b0/wc3uaumga9gjuk5yzck5zkr4gc53j9ag/200_200_1/f6a6729ee3e4b0d8ea766db24a8e639f.jpg",
+                    "amount": "Блистер",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Triol 179AB Когтерез-гильотина",
+                    "description": "Когтерез-гильотина для животных, 75х130 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae0/rapolydu5mtgdvzodhdx1sfh442ehyys/200_200_1/d192819136eacee8ae74b11bfc110b57.jpg",
+                    "amount": "Блистер",
+                    "cost": "14,70  руб."
+                },
+                {
+                    "name": "Triol 621 Когтерез Стандарт, 45*127 мм",
+                    "description": "Когтерез для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/93d/9bwup270c2ij6mgni18o1mug8q6f6j7l/200_200_1/c6a3994249954f8e0c289a7c0142a15b.jpg",
+                    "amount": "Блистер",
+                    "cost": "16,90  руб."
+                },
+                {
+                    "name": "Triol 622 Когтерез Стандарт, 40*125 мм",
+                    "description": "Когтерез для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dd5/cvus838s3o2zgbon90ykkgk6quzvo21s/200_200_1/cf5a8005b49a95fb1cd02aee9af664a7.jpg",
+                    "amount": "Пакет",
+                    "cost": "16,30  руб."
+                },
+                {
+                    "name": "Hello Pet когтерез-секатор со стопором",
+                    "description": "С ограничителем  для безопасной стрижки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/876/qp53mbu3w2rgvntpv37mqikz87yrl6nb/200_200_1/309760c8b607575ba2d669bb208d95c6.jpg",
+                    "amount": "S",
+                    "cost": "20,80  руб."
+                },
+                {
+                    "name": "Hello Pet Когтерез-гильотина черный с цвет. покрытием ПВХ",
+                    "description": "Для стрижки когтей из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f79/7jfowf47maroclc2r3bqrjrtjoh7ek6a/200_200_1/f053725da36d98a09542b4d310559ae9.jpg",
+                    "amount": "Большое отверстие",
+                    "cost": "15,00  руб."
+                },
+                {
+                    "name": "Hello Pet Когтерез-ножницы малый прямой",
+                    "description": "Когтерез из нержавеющей стали для животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c9/buu06p9nadwfop76k8msfbddv2wl4xdj/200_200_1/caf61c674fad359da9811578a4cd9980.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,30 руб."
+                },
+                {
+                    "name": "Ferplast Когтерез GRO",
+                    "description": "Когтерез для собак с защитным механизмом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/da8/spa0qs0i2mgrc0u1n7y7weqov8slggxd/200_200_1/7509397de08d506950ea0470caf2bae6.jpg",
+                    "amount": "13,7 x 4,8 x 1,3 см",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" филировочные двусторонние, 18 см",
+                    "description": "Ножницы для всех типов шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c5/c2psrs8jo2mhcq4uf7uijbdcio10vw1o/200_200_1/546eb2c4ea1cc6f56ae97333e67d9125.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,10 руб."
+                },
+                {
+                    "name": "Ferplast Когтерез GRO 5984, 10,5 x 6 x h 0,7 см",
+                    "description": "Ножницы-когтерез для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b7d/cc65ubkwewv8i516xufshv7twhdk0klb/200_200_1/cd8d3661230c257a734981ed890c7802.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,30 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для грызунов GRO 4943, 13,7х4,2х5,3 см",
+                    "description": "Двусторонняя щетка-расческа для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ad/bydc6k8sfma4tb4j489ml8euz311cw4u/200_200_1/eee7d736e685876c701c98bfc2174e89.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,00 руб."
+                },
+                {
+                    "name": "Ferplast Щетка для животных GRO 4942, 13,7х4,2х3,5 см",
+                    "description": "Щетка для мелких животных (кролик, морская свинка).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd5/himh373ljbm5plfvixtjzia3kzvnwkmh/200_200_1/7abf1ea3700f86e2ad53dc617c681fb5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,10 руб."
+                },
+                {
+                    "name": "Ferplast Щетка для животных GRO 4945, 9,5х7х6 см",
+                    "description": "Щетка для мелких животных (кролики, морские свинки).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6a2/56ln8yfa28p3ljpqyr7gxqbltauzly1l/200_200_1/1319d88f0e7b58070454bbd351f5eaf3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,60 руб."
+                },
+                {
+                    "name": "Ferplast Щетка для животных GRO 4948, 13х4х2,5 см",
+                    "description": "Щетка для мелких животных (кролики, морские свинки).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b64/mob17m9uo81rx86ohskwoo3fv17tbzqk/200_200_1/091b72a6b69462d27602032c9bf30e13.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,20 руб."
+                },
+                {
+                    "name": "Ferplast Пуходерка для животных GRO 4949, 11х3,8х1,8 см",
+                    "description": "Щетка-пуходерка с шариками.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/09e/92mjyl18lxfbsjhzctb6tzt5zj6va3s7/200_200_1/a1ef1e1b2ddb911913e004f22cb03644.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,30 руб."
+                },
+                {
+                    "name": "Ferplast Набор для ухода за шерстью мелких животных",
+                    "description": "В наборе щетка, двусторонняя расческа и пуходерка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/784/ljgogo166zbix3vxd1hr55q57tjuxi9k/200_200_1/7b639d35bc60229bf7acbfe8996150f5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "57,80 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для животных GRO 4950, 12х4х1,5 см",
+                    "description": "Расческа для ухода за мелкими животными (кролики, морские свинки).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b27/qd0txch3vdh4hpmce1wvpyzq2zx7cpsd/200_200_1/e58ac6d6fc036557f30584cd63732955.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,50 руб."
+                },
+                {
+                    "name": "Ferplast Щетка для животных GRO 5759 Premium",
+                    "description": "Щетка для собак, кошек и кроликов, 20,7 x 5,7 x 4,5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5db/2lqu5v0wx9jgu33r42mopd3xvsvmm9s1/200_200_1/85ffbc3189d0cb6605a107129990daf3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,40 руб."
+                },
+                {
+                    "name": "COMFY Когтерез \"Katana\"",
+                    "description": "Когтерез-секатор из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e41/pycf2k2hny81hhma30iagz26nwak89rw/200_200_1/ea1246213295fafb2313d6a6ec5a32b2.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "14,00 руб."
+                },
+                {
+                    "name": "COMFY Когтерез \"Samurai\"",
+                    "description": "Когтерез ножницы для небольших животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f5/m9jxe8zab5fcdhy23u782yzbxdw9jetj/200_200_1/2c422f3a4028e8e1518feb5939567fcc.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "19,00 руб."
+                },
+                {
+                    "name": "COMFY Когтерез \"Shogun\"",
+                    "description": "Когтерез-гильотина для стрижки когтей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/925/tkjv30bak1ge1f2p1wpyfa2ka1rplcfy/200_200_1/6af243febbfc77ae1406456c86a2188d.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "20,50 руб."
+                },
+                {
+                    "name": "Кусачки \"TRIXIE\", для когтей, большие, 13 см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e9/wmi3zpq0btxg9azdswvjqpdkk4ix47bi/200_200_1/6cb6d4079fb4305dce112ac5ddfb3695.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,90 руб."
+                },
+                {
+                    "name": "Triol Когтерез-гильотина \"Стандарт\", 75*140 мм",
+                    "description": "Когтерез-гильотина для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d82/j5sghfjjpjcgihbl8cd7nxqjmyn2qe1y/200_200_1/690c7ddbce1763aaadc174b6af00a7c7.jpg",
+                    "amount": "Блистер",
+                    "cost": "13,20  руб."
+                },
+                {
+                    "name": "Triol 331AB Когтерез боковой",
+                    "description": "Когтерез боковой для животных, 45х135 мм, блистер.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ee/vh308sn382dcp83fjguixpwfbmw0y9zp/200_200_1/77ea899b6ff75db997600c2edeaffcb4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" филировочные односторонние, 18 см",
+                    "description": "Ножницы для всех типов шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/afc/8ve1yg0ykzko9r2mm2yi4yxs8eo4voob/200_200_1/b6fae4c58fd9ff849f8bd204f7ffb709.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,70 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" для мелких животных, 15 см",
+                    "description": "Расческа \"TRIXIE\" для вычесывания блох и вшей.",
+                    "image_url": "https://garfield.by/upload/iblock/ab6/cevo2rwpm7gkcnq2kuhd3whtwoby3smg/76fb9b0d6338d1a35428bd17deb98e09.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,00 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка + гребешок \"TRIXIE\", 7х13см",
+                    "description": "Щетка + гребешок, для мелких животных.",
+                    "image_url": "https://garfield.by/upload/iblock/a6b/rsh83j9qvryv2g1v3ymyd6m1k588qnd9/a8ff14b371d94a6fcfd2d6f913be52a1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,30 руб."
+                },
+                {
+                    "name": "Щетка \"TRIXIE\" для мелких животных, 5х18 см",
+                    "description": "Мягкая щетка \"TRIXIE\"  для грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/6a3/wjqb0f3qcl0tkf4ur1w5w70a0t4asves/b71260bd3e4561846a72f5a63f01f6e5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                }
+            ]
+        }
+    }
+}

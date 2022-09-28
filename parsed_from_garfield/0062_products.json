@@ -1,0 +1,1549 @@
+{
+    "Грызуны": {
+        "Сухой корм": {
+            "url": "https://garfield.by/catalog/gryizunyi/korma-dlya-gryizunov.html",
+            "products": [
+                {
+                    "name": "Lolo Pets Корм для кролика Baby, 400 г",
+                    "description": "Для молодых кроликов до 3 месяцев жизни.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4af/6tpfckwxvesm6sgun45mkxvgzng7wban/200_200_1/6b0b53840aac91b0d4d61e7b9aaeb445.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "LoLo Pets Корм для кролика Junior, 400 гр",
+                    "description": "Для молодых кроликов до 12 месяцев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/428/45byu2lyv3dyv7ma7xk66uadp8vzk7t9/200_200_1/5ad3ad817e9707958e29d908c2edcee5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,00 руб."
+                },
+                {
+                    "name": "Little One Стартовый набор владельца хомячка",
+                    "description": "Удобный стартовый набор владельца хомячка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/091/f8nom307oecr0uw463hyjhrscgtogrqq/200_200_1/nuu53hyrrzy7mjmy4rurdfv7h8qf5j9n (1).jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,70 руб."
+                },
+                {
+                    "name": "БОСПА Премиум Корм для крыс",
+                    "description": "Полнорационный корм для декоративных крыс",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c0e/ry36243l3a2a8bz337ih9hyw3vuk8hnb/200_200_1/премиум крысы.jpg",
+                    "amount": "450 г",
+                    "cost": "12,70  руб."
+                },
+                {
+                    "name": "LUX COLIBRI корм для хомяков",
+                    "description": "Полнорационный корм для хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f9f/pkz4iokxtczxdxye5lyt74gjtswuo4yf/200_200_1/LC-157.jpg",
+                    "amount": "400 г",
+                    "cost": "3,20  руб."
+                },
+                {
+                    "name": "LUX COLIBRI корм для морских свинок",
+                    "description": "Полнорационный корм для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/095/0mhf93i09zg1mj3feqnnrq36eaj0gpou/200_200_1/LC-171.jpg",
+                    "amount": "400 г",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "Little King корм для кроликов",
+                    "description": "Полнорационный корм для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/980/1npvtinkbvyjtgyegzr5sd0nho6fp418/200_200_1/000417.jpg",
+                    "amount": "400 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Little King корм для хомяков",
+                    "description": "Полнорационный корм для хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c35/m3zaqnfpxhkzn2ozd1sd2s6pcjzbb5c0/200_200_1/000394.jpg",
+                    "amount": "400 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Little King корм для морских свинок",
+                    "description": "Полнорационный корм для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/991/5buv6za9ewhaq0prrl22gzed5f3rj709/200_200_1/000400.jpg",
+                    "amount": "400 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Little King корм для крыс",
+                    "description": "Полнорационный корм для крыс",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df4/cav0p3dwb3xhvwfbzd28ea55sbws1j8t/200_200_1/000387-1.jpg",
+                    "amount": "400 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Little King корм для шиншилл",
+                    "description": "Полнорационный корм для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/053/hymybs3j9bsrx64bh2ol2dzwu1kwnfi1/200_200_1/000424.jpg",
+                    "amount": "400 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Бонифаций Корм для кроликов",
+                    "description": "Основной рацион для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cbf/9hsitpigpyk1o44u0c99y9nhpj76gkca/200_200_1/БН14.jpg",
+                    "amount": "1 кг",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корм для ежей",
+                    "description": "Корм для декоративных ежей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de0/a99ymd82ajng4xuq6na2ae0wzg5j5o4k/200_200_1/банка корм для ежей.jpg",
+                    "amount": "40 г",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Гаммарус",
+                    "description": "Лакомство для грызунов и улиток",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0cd/anhb8bfu78tliqolwtjx0v35msltmehz/200_200_1/банка гаммарус.jpg",
+                    "amount": "25 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Личинка черной львинки",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5eb/4lwf2ww47jgdg4668vrqk83dzcivoh2l/200_200_1/банка черная львинка.jpg",
+                    "amount": "40 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "БОСПА Премиум Корм для шиншилл",
+                    "description": "Полнорационный корм для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/781/u7txiijzuysfv5tbma0ej5z4duyom5cv/200_200_1/премиум шиншиллы.jpg",
+                    "amount": "450 г",
+                    "cost": "10,70  руб."
+                },
+                {
+                    "name": "БОСПА Премиум Корм для декоративных кроликов",
+                    "description": "Полнорационный корм для декоративных кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d7/ljuetve3jou815o1aelma8yt4mjq04n6/200_200_1/премиум кролики.jpg",
+                    "amount": "450 г",
+                    "cost": "10,70  руб."
+                },
+                {
+                    "name": "Triol Original Корм для морских свинок",
+                    "description": "Полнорационный корм для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3bd/akag93081zu11739cyii8ojn4qt92chp/200_200_1/0ecb553fac9dc99beb2651a27f6f87bc.jpg",
+                    "amount": "450 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "Triol Original Корм для кроликов",
+                    "description": "Полнорационный корм для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2fb/w7hp6wly01abd4z1e6on5ewwxkv50v6l/200_200_1/3446c46ff68b70c52416ea3de224c453.jpg",
+                    "amount": "450 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "Triol Original Корм для шиншилл",
+                    "description": "Полнорационный корм для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/325/mczmiwf75irq25exac463aviociwl8im/200_200_1/5d2d2da5380bb4b4fc0a8dfaa6d156cd.jpg",
+                    "amount": "450 г",
+                    "cost": "6,20  руб."
+                },
+                {
+                    "name": "Triol Original Корм для мышей и крыс",
+                    "description": "Полнорационный корм для мышей и крыс",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8f3/aqmqvxzlps6igr15638niv6ojz94fvl3/200_200_1/ce945464d1e189e3fdab94b159644861.jpg",
+                    "amount": "450 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "Triol Original Корм для хомяков",
+                    "description": "Полнорационный корм для хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/940/9m6819co42nhkegri2jz31j78t62ngyk/200_200_1/ea83eb95dfced89e22a4542eed777cbd.jpg",
+                    "amount": "450 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "Triol Original Корм для мелких грызунов",
+                    "description": "Полнорационный корм для всех видов мелких грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/820/jrirbgb8bifhoyhum3ovslbnr63ib2x2/200_200_1/bf5d84da3392c229157e29482689f2c5.jpg",
+                    "amount": "450 г",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Мучной червь",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b2/55hzljpbm8prqjd22gdwv7a0kuhab4ib/200_200_1/банка мучной червь.jpg",
+                    "amount": "40 г",
+                    "cost": "7,50  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Протеиновый коктейль",
+                    "description": "Белковое лакомство для грызунов и ежей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b13/xfofr3ylg2fipf0fb1pmirs3dr6isfyx/200_200_1/банка протеиновый коктейль.jpg",
+                    "amount": "30 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Шелкопряд",
+                    "description": "Белковое лакомство для грызунов и ежей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2c/yg81n30cjtvbr2i6gnmsu6vtriowg612/200_200_1/банка шелкопряд.jpg",
+                    "amount": "80 г",
+                    "cost": "10,30  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корм для джунгарских хомяков",
+                    "description": "Многокомпонентный корм для джунгарских хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af3/9hkgrfhvkiaw817c9av1sbi42bjisi8c/200_200_1/6a8e0b6a77cb63bed39361c592c18a6e.jpg",
+                    "amount": "500 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корм для декоративных крыс",
+                    "description": "Многокомпонентный корм для крыс",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c8a/rihg9v16pmih1dikne8eehsw4x0n8dfl/200_200_1/ca3872d7d2f5d1ba9896f51f25b1240f.jpg",
+                    "amount": "500 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корм для песчанок",
+                    "description": "Оптимально подобранная смесь для песчанок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e17/3w88jizcuyurshxoue5gli3xbq0ig9v9/200_200_1/6896d57a3c2f66c724fedcbda14970b4.jpg",
+                    "amount": "500 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "БОСПА Премиум Корм для хомяков",
+                    "description": "Полнорационный корм для сирийских хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d8e/rxuv8kx9np6ifq212eodwthrkugu8w8a/200_200_1/премиум хомяки.jpg",
+                    "amount": "450 г",
+                    "cost": "11,40  руб."
+                },
+                {
+                    "name": "БОСПА Премиум Корм для морских свинок",
+                    "description": "Полнорационный корм для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/979/1r4hn34ps129cua1zibmzw27phjmulsa/200_200_1/премиум свинки.jpg",
+                    "amount": "450 г",
+                    "cost": "10,70  руб."
+                },
+                {
+                    "name": "БОСПА Премиум Корм для дегу",
+                    "description": "Полнорационный корм для дегу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ab/yt787895d1wsrqiiblcvboprrdmjpa1d/200_200_1/премиум дегу.jpg",
+                    "amount": "450 г",
+                    "cost": "16,20  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Просо красное для декоративных птиц и грызунов",
+                    "description": "Зерновой корм для птиц и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e56/vribxvwzameex5ygegzs4ij3pyxqqu2k/200_200_1/b09626cf285202f97df7593d4fc9379a.jpg",
+                    "amount": "500 г",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "Dr.Hvostoff Основной рацион для хомяков",
+                    "description": "Полнорационный корм для хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84f/i1wk0dupxcst1z5ne43y2lxs6rzq8510/200_200_1/6a1f795248e97d0279d6a9cedabb4cfe.jpg",
+                    "amount": "600 мл",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "Dr.Hvostoff Основной рацион для морских свинок",
+                    "description": "Полнорационный корм для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c4/1xidxeitmhbd2768ydpxph73labvmnnv/200_200_1/ba9f84cfa1a661d671331fb2407a9292.jpg",
+                    "amount": "600 мл",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Dr.Hvostoff Основной рацион для крыс, мышей и песчанок",
+                    "description": "Полнорационный корм для крыс, мышей и песчанок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7aa/uet0n9kxgotuhtkwaxzcl7yqcxgmiygj/200_200_1/947fb0e6c13dae033fcf92274a331335.jpg",
+                    "amount": "600 мл",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Dr.Hvostoff Основной рацион для кроликов",
+                    "description": "Полнорационный корм для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/931/hlonrzg64aiuec8md12qzlpev66km10o/200_200_1/2cfecc3a5b69147bdc582fc9e33b59da.jpg",
+                    "amount": "600 мл",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Природа Корм Рацион для средних грызунов",
+                    "description": "Полноценный корм для средних грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c19/t802yxjswj5hzb92c5m8e23ptsene53v/200_200_1/9114929ad9369788e5288dc17cdf5c0c.jpg",
+                    "amount": "1,5 кг",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Природа Корм Хомячок",
+                    "description": "Полноценный корм для мелких декоративных грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/89e/frwe456t911o7ehfbmiwnb0dr3q044va/200_200_1/72b10cf95c1bae73e0f2573f2ca9ac96.jpg",
+                    "amount": "500 г",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Природа Корм Хомячок Колор + энзим",
+                    "description": "Полноценный корм для мелких декоративных грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76a/xyasxm2ghv4v163s7nerp1clc8g38l6h/200_200_1/5d46850e5897211b13f0dce4668058b4.jpg",
+                    "amount": "500 г",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "Природа Корм Морская свинка",
+                    "description": "Полноценный корм для морских свинок и других декоративных грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/214/9k0eugpfk4ghjryvno7gsenv064zrndd/200_200_1/e8ebafb5ea7fffe1e580b6a2f288ac22.jpg",
+                    "amount": "500 г",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "Природа Корм Морская свинка Биотин",
+                    "description": "Полноценный корм для морских свинок и других декоративных грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c54/e89b3lysfff7veix0agd0969cvtf4z5f/200_200_1/12da2343244413d85d2f0ffbd70e4a1a.jpg",
+                    "amount": "500 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Природа Корм Кролик Биотин",
+                    "description": "Полноценный корм для кроликов и других декоративных грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e2/5udwk3f1w8n58rxrcm0j3c0q9oowxw7h/200_200_1/e562640a6ff4164b75d4ebc20c85cf7e.jpg",
+                    "amount": "500 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Природа Корм Шиншилка",
+                    "description": "Полноценный корм для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/55e/5f32pc8l4eotuq5wl7o2tva6w1pjbykv/200_200_1/a0400cf86a7b636f65c601310e2b1225.jpg",
+                    "amount": "500 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Природа Корм Шиншилка Колор + энзим",
+                    "description": "Полноценный корм для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b6/o95sb62bo2fhvuzj4sf495ncim1dbsea/200_200_1/9983937e7e17560e013989a57516231d.jpg",
+                    "amount": "500 г",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Природа Колосок Фруктовый для грызунов",
+                    "description": "Полноценный корм и лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b73/g2wmat2uu2hc4mal8i45teklvn6wfm38/200_200_1/5c6acd886c1e05188b330a2a06d95b11.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "Природа Колосок Ореховый для грызунов",
+                    "description": "Полноценный корм и лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/872/iymxthdlzs7i9cg7nmdri1jqu7jmpzlp/200_200_1/c43f0fcbec3ba82ae01a0b9234834481.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Природа Колосок Овощной для грызунов",
+                    "description": "Полноценный корм и лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/48b/04yxrkkvs1179h1izd6y4x3np9k5ikx5/200_200_1/e60859db67eb375259d50c0305776571.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Природа Колосок Мультивитамин для грызунов",
+                    "description": "Полноценный корм и лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91b/49fsaqcwboujxs76o0m1j5kcz3qo9cfo/200_200_1/1d96d7222bf15e85288759f9b5d51e86.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Природа Колосок Медовый для грызунов",
+                    "description": "Полноценный корм и лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47f/mgux71nrgg5h59oj8t7scit0lokoiokp/200_200_1/d85a64d74262cf1a93788af6cf3e69e7.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Природа Колосок Бисквит для грызунов",
+                    "description": "Полноценный корм и лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a9/nrk7m9ry0bthiw6gjs9su62lpayt23st/200_200_1/89e88703949b457684d0ea197422ad33.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Ореховый для грызунов",
+                    "description": "Корм и лакомство для домашних грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f00/b9d3hudvk76lil8wwixkwntkq7x1d3a3/200_200_1/ad2cda38438e4040f810d026082f9047.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Мультивитамин для грызунов",
+                    "description": "Корм и лакомство для домашних грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a9/769qn8u1cr1u6joyth1hip07iofu3jkz/200_200_1/99be683a297cdcf33a950d74fbb39067.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Медовый для грызунов",
+                    "description": "Корм и лакомство для домашних грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/11d/bmh5iz56bbtj6f9x6t0277ygco4z5znh/200_200_1/1fe84294b3eb8d555e86c83e0ad3bd76.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Little One Корм для карликовых хомячков",
+                    "description": "Полнорационный корм для хомячков карликовых видов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/206/xrpk7dsjzy8ttvcynxn8n033hahbpw56/200_200_1/29286e99e13e7eb35907c2139cc57372.jpg",
+                    "amount": "400 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Nature Original Cuni",
+                    "description": "Полноценный корм для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/569/bm3yq9u1h9cr88l5u5m4khly8eeducv5/200_200_1/79635c278a192f187cad82e6ce070bb1.png",
+                    "amount": "750 г",
+                    "cost": "21,80  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Nature Original Chinchilla",
+                    "description": "Полноценный корм для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7be/safax2n94t4o7dyjm0qi0h1vif63lmqi/200_200_1/2602ff4f1b255ddc30677cfc8e6d2f65.png",
+                    "amount": "750 г",
+                    "cost": "23,20  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Nature Original Cavia",
+                    "description": "Полноценный корм для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a7d/zdkfow2ibv4t3h4bg3jc2dqwyomrgllf/200_200_1/e5d94b04b48dbb5eee9c23213757e74d.png",
+                    "amount": "750 г",
+                    "cost": "21,80  руб."
+                },
+                {
+                    "name": "Lolo Pets Корм фруктовый для морских свинок",
+                    "description": "Полнорационная смесь с низким содержанием злаков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a26/g9z5cxtnabtrz4nybd7cpxwu761699v8/200_200_1/331721863cf036fed08ad7ea81e2101a.jpg",
+                    "amount": "350 г",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "Vitapol Karma Economic Корм для хомяков",
+                    "description": "Полнорационный корм для хомяов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e8e/mteetps1tryyjo1ywrchprtteq0yqz2k/200_200_1/bfb77a6d77a4caac48585c8e917593d6.jpg",
+                    "amount": "20 кг",
+                    "cost": "139,10  руб."
+                },
+                {
+                    "name": "Lolo Pets Extrimo Корм для хомяков",
+                    "description": "Экструдированный корм для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/536/ekq3ij5q5hzuweqejedo59hxt8r917fc/200_200_1/54a0dcd6af5c3f7e5cb2aa1e81662e89.jpg",
+                    "amount": "750 г",
+                    "cost": "24,60  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Classic Zero",
+                    "description": "Кормовая смесь для кроликов и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c30/h13x9t20kd5j3b7qv3bc1wk1zs4yrbeh/200_200_1/5410340616062pack.jpg",
+                    "amount": "20 кг",
+                    "cost": "150,20  руб."
+                },
+                {
+                    "name": "Power Vit Полнорационный корм для морской свинки",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b8/19bq8wbuq651odths58zji1h9ly4x5h6/200_200_1/3189df27e6d39638db65faa4ebca64fc.jpg",
+                    "amount": "500 г",
+                    "cost": "5,30  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Crispy Pellets Chinchillas & Degus",
+                    "description": "Полнорационный корм для шиншилл и дегу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/742/6ee736rnrwp5e3q4p8az7dzorg145pu2/200_200_1/5410340615065pack.jpg",
+                    "amount": "1 кг",
+                    "cost": "18,50  руб."
+                },
+                {
+                    "name": "Веда Фитомины для кроликов, 50 г",
+                    "description": "Функциональный корм для повышения иммунитета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e5e/wlssqpwa75ol8g6rhuhpm5lok9rfr3bf/200_200_1/fe1fbc86f4ed33230d1c443f77e33e96.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Little One Зеленая долина для дегу 750 г",
+                    "description": "Корм из разнотравья для дегу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/074/88mr91evsiyawbrspuq7h1sr2nirhm3b/200_200_1/05b266688a816a34cf0afc54e9fdd974.png",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "Little One Зеленая долина для шиншилл, 750 г",
+                    "description": "Корм из разнотравья для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/079/ewkldg3xttnv6oikqg70gzimg4lzb5ji/200_200_1/65d6a65efb36b8198ed811b83924e278.png",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "Little One Зеленая долина для морских свинок 750 г",
+                    "description": "Корм из разнотравья для морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dca/8ne89bmuns9y7b13s2mnqjaykg1kvihy/200_200_1/ec6f94a07fc69957ea9c459e890a624c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "LoLo Pets Корм для мышей и песчанок, 500 г",
+                    "description": "Полнорационная кормовая смесь для мышей и песчанок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/99f/05ugv7pnwfd0kxrld19sbfuy6gr58rn2/200_200_1/92018a16fe77947d28f0b2e6eb16202c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,00 руб."
+                },
+                {
+                    "name": "Little One Зеленая долина для кроликов 750 г",
+                    "description": "Корм из разнотравья для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea0/ii878n814i5pb6gkdgvajkxs1jsy74aa/200_200_1/e54c12a67ba9da253d9a4ca46113779b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Crispy Pellets Rats & Mice, 1 кг",
+                    "description": "Корм гранулированный для крыс и мышей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/54e/jm23jlbhd93ihwjod90fs5ht9fzozdbz/200_200_1/5410340615089pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,80 руб."
+                },
+                {
+                    "name": "Веда Фитомины для морских свинок и хомяков, 50 г",
+                    "description": "Функциональный корм для повышения иммунитета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ed/tl5k0asmh80ybpoin5ffl3mfrmxcpq2g/200_200_1/f8e8a711a4b8160ba608f11e32474c0c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "LoLo Pets Корм для кролика Kids, 400 г",
+                    "description": "Для кроликов от 3-х до 8-ми месяцев жизни.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cae/jxulvoldzgl7pbcxwbtpazk4yhul3eyg/200_200_1/b64ab3acf5a678292535900dbe36d8ce.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "Веда Фитомины для мышей и крыс, 50 г",
+                    "description": "Функциональный корм для повышения иммунитета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0a5/3sww4g501dgs53on7al30dby0h2e5z6x/200_200_1/4329d13305e09c491f33875269f42463.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Little One Корм для дегу",
+                    "description": "Полноценный корм для дегу с витаминами и минералами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8e3/04huisp8i0piraewpw9hgnre0fih5maj/200_200_1/31dfdbc4ce03fb8764ca6a6bb287e30d.png",
+                    "amount": "400 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Cavia Complete",
+                    "description": "Полноценный корм для морских свинок",
+                    "image_url": "https://garfield.by/upload/iblock/0be/i03ezely7zvl8lmrxjkllbdfgf6kddvb/236a44a711428daaab54488402897088.jpg",
+                    "amount": "500 г",
+                    "cost": "19,20  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Complete Chinchilla&Degu",
+                    "description": "Полноценный корм для шиншилл и дегу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db5/5ylktd30hz639yysj97ngzv6fy1aswm6/200_200_1/5410340612552pack (1).jpg",
+                    "amount": "500 г",
+                    "cost": "21,30  руб."
+                },
+                {
+                    "name": "Versele Laga Корм COMPLETE Cuni sensitive, 500 гр",
+                    "description": "Корм для пищеварения и здоровья мочевыводящих путей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47a/bqigep24xzbv4mkrm92jj9zd6k25zbti/200_200_1/5410340613108pack.png",
+                    "amount": "за 1 ед.",
+                    "cost": "21,30 руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Complete Hamster and Gerbil",
+                    "description": "Полноценный корм для хомяков и песчанок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bbb/suhdlbi0zorarn10osvkiqhc60oyd8t8/200_200_1/5410340612965pack.jpg",
+                    "amount": "500 г",
+                    "cost": "21,30  руб."
+                },
+                {
+                    "name": "Versele Laga Корм COMPLETE Cuni Adult",
+                    "description": "Полноценный корм для карликовых кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e66/48v4k9amcvsucpx802gim6xnvj1lt1uv/200_200_1/5410340612507pack.jpg",
+                    "amount": "500 г",
+                    "cost": "19,20  руб."
+                },
+                {
+                    "name": "Versele Laga Корм COMPLETE Cuni junior",
+                    "description": "Полноценный корм для карликовых до 8 месяцев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7af/edeg35wernuy6rieod3t7zq1ov9d0qn2/200_200_1/dcddfbb128fadfee81c5145207119135.jpg",
+                    "amount": "500 г",
+                    "cost": "19,20  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм COMPLETE RAT & MOUSE",
+                    "description": "Комплексный корм для крыс",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eaa/ia0mnitq38fglb1j341xyle56bzouml6/200_200_1/5410340612989pack.png",
+                    "amount": "500 г",
+                    "cost": "21,30  руб."
+                },
+                {
+                    "name": "Versele Laga Дополнительный корм Nature Snack Cereals, 500 г",
+                    "description": "Дополнительный корм для кроликов и мелких животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c3f/gfaoconhe4xnbed2k6q1ph2w0zex82nf/200_200_1/5410340614389pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,30 руб."
+                },
+                {
+                    "name": "Versele Laga Дополнительный корм Nature Snack Fibres, 500 г",
+                    "description": "Дополнительный корм к ежедневному рациону.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ec/gurrqts6ly247zb5u0ww2o0sl323mz1e/200_200_1/5410340614402pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,30 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Cavia Nature",
+                    "description": "Полноценный основной корм для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d29/539vnfiskyz3c1zpset00as6cbep5vrg/200_200_1/5410340614099pack.jpg",
+                    "amount": "700 г",
+                    "cost": "21,80  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Chinchilla Nature, 700 г",
+                    "description": "Основной корм с овощами и витаминами для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb7/orhit5ggtbjhp52g835lr0wl8ec5vdcw/200_200_1/8c6fdeaac9da4c984ec708a472af287d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Cuni Junior Nature, 700 г",
+                    "description": "Полноценный основной корм для молодых и карликовых кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e38/bd8kmo31kue7wxp0x859llhkzq3zyxau/200_200_1/04723e9cdc08a14096f6746253a11568.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Cuni Nature, 700 г",
+                    "description": "Полноценный основной корм для кроликов и карликовых кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91c/vudrxaf7xus7ef5twtol7vyj4fq4x12o/200_200_1/fef0b76e2a20b8d8889c9dd225844414.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,80 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Degu Nature",
+                    "description": "Полноценный основной корм для дегу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/723/8k2j6921qus280447gyq02bdkwknx71r/200_200_1/84504022431c2dea0630dd152a643346.jpg",
+                    "amount": "700 г",
+                    "cost": "24,40  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Crispy Muesli Hamsters & Co",
+                    "description": "Полноценный корм для хомяков и других грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/837/347lpya646hjij17zzoyu9gr7re2ecoy/200_200_1/5410340617205pack.jpg",
+                    "amount": "400 г",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Crispy Muesli Rabbits",
+                    "description": "Полноценный корм для (карликовых) кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/690/8y429pkz0xgr8o0uyxywd64bfnb3p8li/200_200_1/0b6aca3032574705424c63da29fcfa26.jpg",
+                    "amount": "400 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Сrispy Muesli Guinea Pigs",
+                    "description": "Полноценный корм для морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/16d/dqm2a6ehy2c7exga6niwenyghz34j7gm/200_200_1/5410340617106pack.jpg",
+                    "amount": "400 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Crispy Snack Fibres",
+                    "description": "Дополнительный корм с клетчаткой для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd4/7zcc3u68a7276ffccctlshn2xpom03h6/200_200_1/20201015191026_5410340617359bigpack-800x800.jpg",
+                    "amount": "650 г",
+                    "cost": "14,70  руб."
+                },
+                {
+                    "name": "Versele Laga Корм Crispy Snack Popcorn",
+                    "description": "Дополнительный корм для кроликов, морских свинок и хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/30d/ohq00j1ymm0lzhn1otz44jkdfuaxnq5p/200_200_1/5410340617304pack.png",
+                    "amount": "650 г",
+                    "cost": "14,70  руб."
+                },
+                {
+                    "name": "Little One Корм для кроликов",
+                    "description": "Полнорационный корм для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/02f/s9ttdvpeu38yfrub2rllafvel7lsvtyo/200_200_1/8f201bb1733c1e9da9647fb63f164267.png",
+                    "amount": "400 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Little One Корм для морских свинок",
+                    "description": "Полнорационный корм для морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a0/o7q003oz5ppb8ovlf9caaslsmgvhe00x/200_200_1/06615975f54ac3daffd0b35f0f0ee94c.png",
+                    "amount": "400 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Little One Корм для хомячков",
+                    "description": "Полнорационный корм для хомячков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fcb/xbgurlwelysqpzzgioo4t3b2pqlhbh4r/200_200_1/f236d766ebb3a7dff30277006a0aac92.png",
+                    "amount": "400 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "Little One Корм для молодых кроликов",
+                    "description": "Полнорационный корм для молодых кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/075/vyk7bw9whkr1xqu0oj0cy81m9jgnt8ao/200_200_1/343fe08a0a5ef0d4c75a2bc27e5bda57.png",
+                    "amount": "400 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Little One Корм для крыс",
+                    "description": "Полнорационный корм для крыс.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d12/i0fup8h8bh8ldnbajw9n3ka8n38a2e2p/200_200_1/29ad83db86f03b0a5011662951d023d9.png",
+                    "amount": "400 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Little One Корм для песчанок",
+                    "description": "Полнорационный корм для песчанок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bde/vcuto8kh58oak11dj6nmea0dakn1jkm5/200_200_1/7e6d05434712ab4199795abd931688b8.png",
+                    "amount": "400 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Little One Корм для шиншилл",
+                    "description": "Полнорационный корм для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/038/tkq512xisau23trx8j39suy1vfprknkj/200_200_1/b8370344e7339c7ade84a3f1381714e0.png",
+                    "amount": "400 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Little One Корм для мышей, 400 г",
+                    "description": "Полнорационный корм для мышек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e9f/cq0a6g2nx5cq9mo82d628pcoettv5ler/200_200_1/0721dee32993f0a8fcd40b342742174b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Lolo Pets Фруктовый корм",
+                    "description": "Фруктовый корм для хомяков и кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/cf6/v8rm2zen9f3wzn03rvsxuyl08xcrjirg/77201d7992a2035e320a3f0246246957.jpg",
+                    "amount": "350 г",
+                    "cost": "9,00  руб."
+                },
+                {
+                    "name": "Lolo Pets Овоще-фруктовый корм 2в1, 340 г",
+                    "description": "Овоще-фруктовый корм для хомяков и кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/4db/9svypfm20zw01e82eosetn89cpoi2sp8/769d1e65ab7461ae7c2dee100c9cea34.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Basic Корм для хомяков",
+                    "description": "Полнорационный корм для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0a0/0lcwynrnmqa3fsiwcl7l4y9ff58jafa3/200_200_1/591e5fe1ddc6a5e6bdb9916ca2e1dedd.jpg",
+                    "amount": "500 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Lolo Pets Корм для кроликов",
+                    "description": "Полнорационный корм для кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/188/z042g0efixs1st2mzmtnbq18dxnt1byl/a4fa776fddc6b82c6f7bb23c251e0720.jpg",
+                    "amount": "500 г",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Lolo Pets Doypack Корм для морской свинки (Фрукты)",
+                    "description": "Корм фруктовый для морской свинки, 600 г.",
+                    "image_url": "https://garfield.by/upload/iblock/dd0/airi6w80nrsqtuvvj8v3kesbxxtvdxv6/521438ac7c13b035536d02564eec4005.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,80 руб."
+                },
+                {
+                    "name": "Lolo Pets Корм для морских свинок",
+                    "description": "Полнорационный корм для морских свинок.",
+                    "image_url": "https://garfield.by/upload/iblock/bc2/w02w0q2uh8it5ih00194kfhram85vp16/be62af6475a6437a741707bb991764a3.jpg",
+                    "amount": "500 г",
+                    "cost": "8,70  руб."
+                },
+                {
+                    "name": "Lolo Pets Doypack Корм для шиншилл, 600 г",
+                    "description": "Полнорационный корм для шиншилл.",
+                    "image_url": "https://garfield.by/upload/iblock/936/ljdamnqt4mn0ksjmk3a7gsluou7bfqnu/e84b0e9c70bbb52734c84dff4d463797.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Foody Корм для шиншилл",
+                    "description": "Полнорационный корм для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d6/myzx01tac08h0imdwfzvtwxdly9f72wv/200_200_1/LO-71600_KARMA_KARMA_FOODY_SZYNSZYLA_500g.jpg",
+                    "amount": "450 г",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Lolo Pets Foody Полнорационный корм для дегу, 450 г",
+                    "description": "Полнорационный корм для дегу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aba/cw1vrdasgfwhf5qlv35qnmk2hwioq06n/200_200_1/11e6a004bb965df985731a5d48701adb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Cavia Classic, 500 г",
+                    "description": "Классический традиционный корм для морских свинок.",
+                    "image_url": "https://garfield.by/upload/iblock/6e8/hxc36vqghh4fznx6j9ykhaupeh94ltnv/f1739c4cb49e3dac00408f9289a725e4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Versele Laga Корм CLASSIC Cuni, 500 г",
+                    "description": "Классический традиционный корм для кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/c9b/6b9ik9uscp7e1qwiwzm7m9253pgdxqmw/8314304f64b2b8b68e7ec0f2674e1029.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Hamster Classic, 500 г",
+                    "description": "Классический традиционный корм для хомяков.",
+                    "image_url": "https://garfield.by/upload/iblock/2f7/03axxr8os4hjduznblls9elczyqrg7s0/f78cce1ac6440a448cf29d924d8307f2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Корм для кролика Senior, 400 г",
+                    "description": "Для кроликов от 5 лет жизни.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fef/bh768u2s9czc17236dkazwk6qnvpqga9/200_200_1/1533ae0393d691f3537b8bd57080a128.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,00 руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корм для хомяков",
+                    "description": "Многокомпонентный корм для сирийских хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/517/g9232del23sf72wyf62cw1jshgaabks9/200_200_1/44c90c411e3580075f97b722e99dbcfd.jpg",
+                    "amount": "500 г",
+                    "cost": "5,30  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корм для грызунов",
+                    "description": "Универсальный корм для всех видов грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be8/3ex8jvereefe3f6651zer32gu1lkg7tn/200_200_1/ff4a3501cb80e8b446f68b711beb88cc.jpg",
+                    "amount": "500 г",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Природа Корм Рацион для шиншилл",
+                    "description": "Полноценный корм для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/30e/52xvhjv0jecu2izaufmj4tnkv2v3wtu5/200_200_1/9a20fc290a49186b9ac0b1e746ab41ae.jpg",
+                    "amount": "1,5 кг",
+                    "cost": "10,40  руб."
+                },
+                {
+                    "name": "Природа Корм Рацион для мелких грызунов",
+                    "description": "Полноценный корм для мелких грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/648/6e4fqsbxv7jydpxa8580t1jysokl86gr/200_200_1/ef5c858b9336849439b70ef6011da112.jpg",
+                    "amount": "1,5 кг",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Природа Корм Кролик",
+                    "description": "Полноценный корм для кроликов и других декоративных грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cdb/xbdfrooca77udjdzuemipelqh3spky5k/200_200_1/d754506c7bd4c1cda47feabd0aa8b612.jpg",
+                    "amount": "500 г",
+                    "cost": "4,00  руб."
+                },
+                {
+                    "name": "Природа Корм Крыска",
+                    "description": "Полноценный корм для крыс и других декоративных грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1c8/18a3u7ab5gj3knvv9bee4lp6mh8rxvvm/200_200_1/04dba25910039e62aa345b69f57e8370.jpg",
+                    "amount": "500 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Bonnie Корм для грызунов",
+                    "description": "Основной корм для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e9f/twisuyzes578zhort7fw9ptenf5aj8sx/200_200_1/9a28c7be9e5d07ae7045355202c10af7.jpg",
+                    "amount": "750 г",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "ENJOY Корм для грызунов",
+                    "description": "Основной корм для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/490/vimbagd1zsfe1tz472rx5pl7zop7q8rn/200_200_1/1a4e8a528d4b17129a8db94dfdffff93.jpg",
+                    "amount": "700 г",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Padovan Корм Grandmix Criceti для хомяков и мышей",
+                    "description": "Комплексный корм для мышей, хомяков и песчанок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b4c/kyvpll6weuiqis98sd678rmraxzj8ife/200_200_1/21c92470ee1604cf92cd20a06bed0411.jpg",
+                    "amount": "400 г",
+                    "cost": "12,30  руб."
+                },
+                {
+                    "name": "Fiory Корм для кроликов \"Fiory Breeders\"",
+                    "description": "Гранулированный корм для карликовых кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df5/1at5anz70h7o3ecnkjbtnef7tj5fj7dy/200_200_1/240efd82de878d917474c1b2331c1350.jpg",
+                    "amount": "850 г",
+                    "cost": "7,50  руб."
+                },
+                {
+                    "name": "Fiory Корм для кроликов \"Classic\"",
+                    "description": "Классическая смесь для декоративных кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/717/zcowf8vo5lvr576i3cfpuo3bg6sr3iry/200_200_1/748ca9cd8c99c6e12848f90c1b60e599.png",
+                    "amount": "770 г",
+                    "cost": "11,50  руб."
+                },
+                {
+                    "name": "Fiory Корм для хомяков \"Fiory Breeders\"",
+                    "description": "Полноценный рацион для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d3b/5ye7ozng0h9hax8g75y45xipfy7laj74/200_200_1/ca1e5f21d8d8a7cdb66cff15edccfd65.jpg",
+                    "amount": "900 г",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "Fiory Корм для хомяков \"Classic\"",
+                    "description": "Классическая смесь для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd4/saz9504vnqw7qbin5yxcklusd0kbwsf0/200_200_1/189e1b1e8ce8a70e2a07e3eb4f5dbc64.png",
+                    "amount": "400 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Fiory Корм для хомяков",
+                    "description": "Полноценное питание для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/92c/8aqo0h0tp5eba1c54rsqv36pd2s8x4m1/200_200_1/c77cbc62ac82709edf8349b8df12b675.png",
+                    "amount": "400 г",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "Lolo Pets Премиум корм для дегу",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/838/opqvepp9om3ymzg77oau2f64ig3b3i9p/200_200_1/1f12f4be4d182b6965adb04179097f4f.jpg",
+                    "amount": "750 г",
+                    "cost": "22,80  руб."
+                },
+                {
+                    "name": "Lolo Pets Корм Puffingers для шиншилл и дегу",
+                    "description": "Полнорационный корм для шиншилл и дегу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f33/74fyyqxcxqt6jgqssw8po5cmespmdgdq/200_200_1/04627847045fc8f8809b482dc85cad98.jpg",
+                    "amount": "110 г",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "Lolo Pets Корм Puffingers для морской свинки",
+                    "description": "Полнорационный корм для морской свинки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c5c/c10td1z6er3c6octxn4r0fzr2u3trp8l/200_200_1/abceb869f1ebec471d825f627740253c.jpg",
+                    "amount": "500 г",
+                    "cost": "17,80  руб."
+                },
+                {
+                    "name": "Vitapol \"Karmeo\" Premium Корм для хомяков",
+                    "description": "Основной корм премиум класса для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/442/l43f2rdx5h4gw936jzv6399tsuqbep1v/200_200_1/eb0cd12d72d730028c618d1e5c2b2a9c.jpg",
+                    "amount": "500 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "Lolo Pets Extrimo Doypack Корм для морской свинки",
+                    "description": "Полнорационный корм для морской свинки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/27c/0ub3yxohqt96x18beipnoy14h3fu3w90/200_200_1/42d9a8a94b83448e3250068d3e59654c.png",
+                    "amount": "750 г",
+                    "cost": "17,50  руб."
+                },
+                {
+                    "name": "Onto Корм гранулированный для грызунов",
+                    "description": "Корм для крыс, мышей, песчанок и хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e9/qydjy0ud2bn8dfrxrpabijb401012i6e/200_200_1/67165ce8a5e2fbd74bdbe7fdb822df7c.jpg",
+                    "amount": "500 г",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Lolo Pets Extrimo Корм для кролика",
+                    "description": "Полнорационный корм для кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad2/pd756ld8axhz6moh6ztl93v9nbffj681/200_200_1/e8b2c5883d928dd9d2a78d4a39089045.png",
+                    "amount": "750 г",
+                    "cost": "19,50  руб."
+                },
+                {
+                    "name": "Vitapol Премиум Полнорационный корм для дегу",
+                    "description": "Корм с овощами и травами для дегу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc9/3je1tsj6qtj9zhnus033q5413hlwd790/200_200_1/f6aa62681cc9ec8d3090237e32001ab9.jpg",
+                    "amount": "750 г",
+                    "cost": "27,90  руб."
+                },
+                {
+                    "name": "Vitapol Премиум Полнорационный корм для шиншилл",
+                    "description": "Смесь овощей и зерновых для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/467/9l6tyaaopb0bxd9nk6z0rhky6b1n9x4s/200_200_1/970ddb7cce5f5b5ece0f094af03b3c9d.jpg",
+                    "amount": "750 г",
+                    "cost": "31,90  руб."
+                },
+                {
+                    "name": "Vitapol Премиум Полнорационный корм для морских свинок",
+                    "description": "Полнорационная смесь для морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e60/i8mjp1mkzlbbud6xqueb8ziodqe1365w/200_200_1/e636c62e00f529366f063195d06451b1.jpg",
+                    "amount": "900 г",
+                    "cost": "16,70  руб."
+                },
+                {
+                    "name": "Vitapol Magic Line Полнорационный корм для кроликов",
+                    "description": "Полнорационная смесь с овощами и фруктами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/909/pfsuaczl27p4nap2mb92rxw4c6l7wqii/200_200_1/5dd5fd78a080fd3685e52bb7c032e7c4.jpg",
+                    "amount": "300 г",
+                    "cost": "16,40  руб."
+                },
+                {
+                    "name": "Vitapol Премиум Полнорационный корм для кролика",
+                    "description": "Полнорационный корм для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a40/67fmnvtd7lqx99gf07l3yuumz8qfko2e/200_200_1/45762f396be05a434b70163abe350ac5.jpg",
+                    "amount": "900 г",
+                    "cost": "23,00  руб."
+                },
+                {
+                    "name": "Vitapol Magic Line Полнорационный корм для хомяков",
+                    "description": "Смесь предназначена для обогащения рациона грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d30/i9m4i0djcl6l9h4bls68xaxdjggshde4/200_200_1/03c33a039900d3c45379d51653f5a652.jpg",
+                    "amount": "350 г",
+                    "cost": "19,80  руб."
+                },
+                {
+                    "name": "Vitapol Корм для хомяков Premium",
+                    "description": "Высококачественная смесь зерна и овощей для хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f64/2ldf964fotbzuecnnk72axen5jbvlw3d/200_200_1/premium-karma-penoporcjowa-dla-chomika-karowatego-750-g-zvp-0102.jpg",
+                    "amount": "750 г",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Vitapol Economic Корм для кролика",
+                    "description": "Полнорационный корм для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2fc/f5w7i39d1grcej225217s1rv5pvr7rpi/200_200_1/d7b0585f132e26a38731b8681776fef7.jpg",
+                    "amount": "1,2 кг",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Vitapol Фруктовый корм для хомяка и кролика",
+                    "description": "Дополнительный корм для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/37e/8xb551mat9qp13pfcagkwkn81850d8vw/200_200_1/fb15fc6b79758afa04f466b5023a5951.jpg",
+                    "amount": "350 г",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Lolo Pets Extrimo Корм для шиншилл",
+                    "description": "Полнорационный корм для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3d9/8b3e1cvhtx110k6w65hzif1ffwmbw8vx/200_200_1/b41376fe7c3cab84226eb0be76c3d6a0.jpg",
+                    "amount": "750 г",
+                    "cost": "20,80  руб."
+                },
+                {
+                    "name": "Lolo Pets Корм Extrimo для дегу",
+                    "description": "Полнорационный корм для дегу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/870/9wbfsek78ywj42zsncox34j919763iwq/200_200_1/24388d74819d32295aa79dc06eb64b3b.jpg",
+                    "amount": "750 г",
+                    "cost": "24,20  руб."
+                },
+                {
+                    "name": "Versele Laga Корм COMPLETE Ferret",
+                    "description": "Полноценный корм для хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84e/obpqtmfu7fc0p1nbhp9cf04yts6x2pfl/200_200_1/5410340613160pack.jpg",
+                    "amount": "750 г",
+                    "cost": "21,50  руб."
+                },
+                {
+                    "name": "Power Vit Полнорационный корм для шиншиллы, пакет",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/21f/n6nrqagv9atmslo51gvseddx6ffr1xxo/200_200_1/3758cb0db9515795156f53f19ac274bd.jpg",
+                    "amount": "400 г",
+                    "cost": "5,20  руб."
+                },
+                {
+                    "name": "Power Vit Полнорационный корм для мышей и песчанок",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c96/fb2ni3tawre13myk7n4wd3jnc096iy1h/200_200_1/6b1aa2234f3aa2d805997a38f01a9a90.jpg",
+                    "amount": "400 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Power Vit Корм для мышей и песчанок, пакет",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/740/t3rtqg457mqoeifku8ii24fvu02t01rd/200_200_1/181feaa7b41d8b4064f304485e24def2.jpg",
+                    "amount": "400 г",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Power Vit Корм фруктовый для морской свинки",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3db/cawvm4zqlr2wa6su87sc1ecsjxd1d56h/200_200_1/e708fd2a7319402bc003311bca51b893.jpg",
+                    "amount": "350 г",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "Power Vit Полнорационный корм в пакете д/морской свинки,",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/012/gffstjmv0b8w8g186ufqdn0ookyjemxd/200_200_1/a8ef72f5fef72d54acf60a19845217ea.jpg",
+                    "amount": "400 г",
+                    "cost": "5,20  руб."
+                },
+                {
+                    "name": "Power Vit Корм 2в1 овоще-фруктовый для кролика",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/417/4q65zpge7ysxs95xlqfd7mcbz5y6gqqw/200_200_1/9d29e1f090fd5e268990f192cefd91d0.jpg",
+                    "amount": "340 г",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Power Vit Юниор корм для молодых кроликов",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aaf/kitk5ph7z0tq2yaykm8v844n0kigegfc/200_200_1/77d406031c7a7ca4e95655fd765ee00b.jpg",
+                    "amount": "300 г",
+                    "cost": "4,00  руб."
+                },
+                {
+                    "name": "Power Vit Корм фруктовый для кролика",
+                    "description": "Полнорационная кормовая фруктовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a94/sf9y953xdqqn3do3xbpic4b7oibc80cw/200_200_1/506c6061f665cc6a18e35a43722d4883.jpg",
+                    "amount": "350 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Power Vit Премиум полнорационный корм для кролика",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e62/sxxwezmsxt63goh95ie1yu360hfsd5z1/200_200_1/16bb23dc2a7f3ddd96a5ea39911fbaba.jpg",
+                    "amount": "1 кг",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "Power Vit Полнорационный корм для кролика",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db2/jlhvi3xt8uhdyzrk6khxezg8gdf6upba/200_200_1/b8c52c0e6287744cfac672c25c8a9498.jpg",
+                    "amount": "400 г",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Power Vit Овощной корм для хомяка",
+                    "description": "Полнорационная овощная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/213/ng9sp129yv2g5hcz6etv70cufcv9edif/200_200_1/5b7024420909f0c132a7be53ad2020ff.jpg",
+                    "amount": "300 г",
+                    "cost": "6,00  руб."
+                },
+                {
+                    "name": "Power Vit Корм фруктовый для хомяка, коробка",
+                    "description": "Дополнительная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/22c/rhtxjrskt3pu3tlpev8gq3u8507z2xh8/200_200_1/46ff0fcf3eb20fee23e88b720f194127.jpg",
+                    "amount": "350 г",
+                    "cost": "5,20  руб."
+                },
+                {
+                    "name": "Power Vit Фруктовый корм для хомяка, пакет",
+                    "description": "Дополнительная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b5/fyy221oct50d9tpuqb5x636wzcuj1r10/200_200_1/654237608355768267890691a79c28c7.jpg",
+                    "amount": "400 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Power Vit Полнорационный корм для хомяка",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a0/bn2ykipjxu0lqf0c29ji56kx0rowkqmu/200_200_1/9056afc60ff1d67537d4bcfd556a231c.jpg",
+                    "amount": "400 г",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Power Vit Премиум полнорационный корм для хомяка",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c4e/t5c6i0hvrd81luvmrfdchbkqh052v38s/200_200_1/c15c8d60c4ad41954c09e0c0e1a7813c.jpg",
+                    "amount": "1 кг",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Lolo Pets Гранулят для грызунов и кроликов",
+                    "description": "Полнорационная кормовая смесь для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dd2/abh4jx9tvszytggxdrio3yd067a5p6t0/200_200_1/ae04ec6b404279a88b17a59655df2b3d.jpg",
+                    "amount": "500 г",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Lolo Pets Полнорационный корм для крыс",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/731/nrow7r9vkakz19i6xdog0ucluwpo8vhu/200_200_1/9a2f88471622be5297d35fa7fd9b5689.jpg",
+                    "amount": "500 г",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Versele Laga Корм для кроликов Cuni Nature Re-Balance",
+                    "description": "Корм для чувствительных к определенным пищевым ингредиентам.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c7/4odhwivhe96430be0kflihxega4mssgg/200_200_1/e396f5ad088883178155e2a7c1508229.jpg",
+                    "amount": "700 г",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Vitapol Гранулят для шиншилл",
+                    "description": "Полнорационный гранулированный корм для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8cf/o1hjqocsc00ncf0vc4t5z3164v53qg0n/200_200_1/e83b788b566790ac6ed9a0ef97315688.jpg",
+                    "amount": "500 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "Vitapol Корм для шиншилл",
+                    "description": "Полнорационный корм для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ca/xpls00gqerb3gh9s4t6fqm9znor5y0t3/200_200_1/72b9453cdab96f3db194251d257ed8e7.jpg",
+                    "amount": "450 г",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "Vitapol Полнорационный корм для кролика",
+                    "description": "Полноценная основная смесь для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/46e/3m4uv21e8sk6slycxy70zk45yrp3cqta/200_200_1/7fea5dc34733be4b524da9265895cecc.jpg",
+                    "amount": "500 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "Vitapol Овоще-фруктовый корм для хомяка и кролика",
+                    "description": "Дополнительный овоще-фруктовый корм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/339/xvuqhgzy8pzikha05i401yyntz3wa227/200_200_1/1be7c5c0a0ef5b428f98eb43d2959d55.jpg",
+                    "amount": "340 г",
+                    "cost": "8,80  руб."
+                },
+                {
+                    "name": "Vitapol Корм овощной для грызунов и кролика",
+                    "description": "Смесь овощей и зерновых для грызунов и кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e3/rrm97jr2u9t9ts2lqymm98h79lgu4700/200_200_1/5eef9ed0b37637812873ded65adb5873.jpg",
+                    "amount": "300 г",
+                    "cost": "6,20  руб."
+                },
+                {
+                    "name": "Vitapol Коктейль для грызунов",
+                    "description": "Коктейль из экзотических фруктов и овощей для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df8/o0d5ne424pl7j21z23jp277lvmfcpz7k/200_200_1/9a28e797141f9c9469e0818534cb9d39.jpeg",
+                    "amount": "1,9 кг",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Vitapol Гранулят для грызунов и кролика",
+                    "description": "Полнорационный гранулят для грызунов и кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6df/dj734w6zc1tznkz9sde643ezvtjrmn8a/200_200_1/3f2aafb476bf1b28713b29a9719e015a.jpg",
+                    "amount": "500 г",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Versele Laga Chinchilla Nature Re-Balance, 700 гр",
+                    "description": "Облегченная и «чувствительная» суперпремиум формула.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f24/3ha1sks3w20yd65yezfgnmllmcr56xs2/200_200_1/f09a20668972d501a4fb5a8968cffa53.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "Fiory Корм для мышей, 400 г",
+                    "description": "Полноценное питание для декоративных мышей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42b/0403evza7v65udqvvr7x4u98tt6mipm3/200_200_1/4570dd8880472fe7868437873be8f5b0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,50 руб."
+                },
+                {
+                    "name": "Fiory Корм для крыс, 850 г",
+                    "description": "Специальная смесь для домашних крыс.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d9e/uantn12rifuvwakdkrl1phv70vysi3jz/200_200_1/40e30e95f8c328aadb7bbe41f979d41e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "20,50 руб."
+                },
+                {
+                    "name": "Fiory Корм для морских свинок и кроликов, 850 г",
+                    "description": "Полноценный рацион для кроликов и морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a68/k5yctmbd3zz0q2anbz3lqg6olvjtmgmx/200_200_1/0bb72bac97a167166651db0da78bc729.png",
+                    "amount": "за 1 ед.",
+                    "cost": "16,20 руб."
+                },
+                {
+                    "name": "Fiory Корм для дегу, 800 г",
+                    "description": "Полноценный рацион для дегу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fdf/p56egoy6s1bmi725ycfzpydr9okbpqwp/200_200_1/dc602a3808b72f109962ff786b422d04.png",
+                    "amount": "за 1 ед.",
+                    "cost": "20,90 руб."
+                },
+                {
+                    "name": "Fiory Корм для шиншилл, 800 г",
+                    "description": "Полноценный рацион для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/934/7esppbnmvm3clk3grs60lkv2d2j550oj/200_200_1/55277b1986408952ff69e6abd8d951e9.png",
+                    "amount": "за 1 ед.",
+                    "cost": "20,50 руб."
+                },
+                {
+                    "name": "Fiory Корм для грызунов \"Травяные колечки\", 400 г",
+                    "description": "Полноценный рацион для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f1f/os4q7eldr6km867zj26aa8oyzkk92uzh/200_200_1/756546f8babb07706228d62bad343d40.png",
+                    "amount": "за 1 ед.",
+                    "cost": "22,50 руб."
+                },
+                {
+                    "name": "Vitapol Корм для морской свинки \"Magic Line\", 300 г",
+                    "description": "Полнорационный корм для морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff1/fuo239jusf5anahaspw4r7co3ng7r2w3/200_200_1/26513814947466e0974f9b02c570b76a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,40 руб."
+                },
+                {
+                    "name": "Vitapol Excellent Полнорационный корм для шиншилл и дегу, 500 г",
+                    "description": "Полноценный корм для шиншилл и дегу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7cb/cggz8oe6z39rjxrge39w9mcg8gmdeeq0/200_200_1/ce7407a5290f8bf4f9a42b4eded69835.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,90 руб."
+                },
+                {
+                    "name": "Vitapol Expert Корм для хомяка, 750 г",
+                    "description": "Полнорационный корм для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/51b/2l7xtfqgwdxfu2u1t7j9qh9s1fzg72i9/200_200_1/d993d72c6fa4338b9389ba0ebc066ee9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,80 руб."
+                },
+                {
+                    "name": "Lolo Pets Премиум Полнорационный корм для крыс, 750 г",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5af/rsz2hxh8r2662e1se2ei3xo0i9wn1d4t/200_200_1/e04ada307641e124c5bb57b3b9226c4c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,90 руб."
+                },
+                {
+                    "name": "Lolo Pets Премиум Полнорационный корм для шиншилл, 750 г",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c12/j4w1kcjqfa2chwpej3bonwcejjyn09f8/200_200_1/3cb77ffea2327ad90b533c40157c7097.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,00 руб."
+                },
+                {
+                    "name": "Vitapol Karmeo Корм для крыс, 500 г",
+                    "description": "Основной корм для крыс",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c18/kizxjgiemoohkflkob8rfrxegxn5twrz/200_200_1/5039d9b05d753c6083a7af2a743c933a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,30 руб."
+                },
+                {
+                    "name": "Padovan Корм Grandmix Cavie для морских свинок и шиншилл, 850 г",
+                    "description": "Комплексный корм для морских свинок, шиншилл и дегу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b8e/c92e5zvbqvakuvk7xvalrhvk3myf0ytq/200_200_1/fd3101e3ac01830b531faaa26b500a07.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,70 руб."
+                },
+                {
+                    "name": "Padovan Корм Grandmix Coniglietti для кроликов, 850 г",
+                    "description": "Комплексный корм для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ce/75s1m78fb3nzww6i35qpx6vsekz2q65o/200_200_1/efb31d0a44148e6b2f911f97265a05c9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,80 руб."
+                },
+                {
+                    "name": "Padovan Корм Premium Coniglieti для кроликов, молодняка, 500 г",
+                    "description": "Комплексный корм с кокцидиостатом для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/52f/qqbyrmkc0h94wl3ewzv69elhmx96zuul/200_200_1/83bf7e77438fc5eb0ae58bd6fe0bff47.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Puffingers для кролика, 110 г",
+                    "description": "Полнорационный корм для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b4/ciw37dyaz4fqhx8h0e39698h5zjqscv5/200_200_1/dbc3cb04f98fb2d5cbfa11eef70005e8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,50 руб."
+                },
+                {
+                    "name": "Versele Laga Chip Nature, 750 г",
+                    "description": "Полнорационный корм для бурундуков и белок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1de/bkj8jfzteleapg2hcp1lf04sm6k20hv0/200_200_1/0b1426a4379f58089f2ec69d197cdbf6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,60 руб."
+                },
+                {
+                    "name": "Рубин ЭКО Комбикорм для грызунов универсальный экструдированный",
+                    "description": "Злаковые гранулы для кроликов, крыс, шиншилл, хомяков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a9/xedo8j21at5zdv8rpwtw52hjoo1058gl/200_200_1/254885d6f27c4d1aa16203ddf5fdf459.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Mini Hamster Nature, 400 гр",
+                    "description": "Полноценный основной корм для карликовых хомяков.",
+                    "image_url": "https://garfield.by/upload/iblock/fb8/5awfyjs07bznsnpud315ow7luvaa2ary/93f29ce7bc177547cd8f68f2724ce67f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Gerbil Nature, 750 гр",
+                    "description": "Полноценный основной корм для песчанок.",
+                    "image_url": "https://garfield.by/upload/iblock/17f/z4e16m2locp2f0sikmkh2bmur8hxjzd7/28cb68d3f87c8f971ade1083e90fcfb5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,10 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Hamster Nature, 750 гр",
+                    "description": "Полноценный основной корм для хомяков.",
+                    "image_url": "https://garfield.by/upload/iblock/035/axafdhcm840mcp0wzh7dk3e6mhkt9997/f7fa0b964d314ff4729d5906aa9927ed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,20 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Rat Nature",
+                    "description": "Полноценный основной корм для крыс.",
+                    "image_url": "https://garfield.by/upload/iblock/9b2/38ghbxipfwcsphhfn6fwdvvbwl5dhqby/3f8840b9c7b6802cfb8393aa66bbcfbf.jpg",
+                    "amount": "750 г",
+                    "cost": "15,90  руб."
+                },
+                {
+                    "name": "Vitapol Корм для хомяка \"Karma\", 400 г",
+                    "description": "Полнорационный корм для хомяков.",
+                    "image_url": "https://garfield.by/upload/iblock/c01/zlygqu0sbnpki1z1a2smk7h3orokb3wj/aacf5bb689ed0cfab2fbcf15362c9593.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Vitapol Корм для кроликов, 400 г",
+                    "description": "Полнорационный корм для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/29c/otwcfu5tzzm41kp93swwpt2aktsyg294/200_200_1/e59f2f99762b452450a35fdeb8ed5cad.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,80 руб."
+                },
+                {
+                    "name": "Vitapol Expert Корм для кролика, 750 г",
+                    "description": "Полнорационный корм для кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/43f/ozeqz8x9ldizl24o9hk2u1dbto00igim/76848ad00fc8508d2285d92bacb93045.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,70 руб."
+                },
+                {
+                    "name": "Vitapol Корм для морской свинки",
+                    "description": "Полнорационный корм для морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a3/s0yh0py8flxi87c2d8ih723kpnc2khfz/200_200_1/2116c723b20b48ad68ddeb35cf5c8ed8.jpg",
+                    "amount": "500 г",
+                    "cost": "5,60  руб."
+                },
+                {
+                    "name": "Vitapol Fruits Корм для морской свинки, 400 г",
+                    "description": "Полнорационный корм для морских свинок.",
+                    "image_url": "https://garfield.by/upload/iblock/43f/cuy3a08arxio2joulo4dmh6499ffkln7/1d55752d1f8572398387f7daf280d33f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,80 руб."
+                },
+                {
+                    "name": "Vitapol Karma Economic Корм морских свинок, 1,2 кг",
+                    "description": "Полнорационный корм для морской свинки.",
+                    "image_url": "https://garfield.by/upload/iblock/8d3/qhokwz20h63ejrsd4dcwof23h1kcf9hv/7716405657987c1f044a5c8495144cff.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Vitapol Expert Корм для морской свинки, 750 г",
+                    "description": "Полнорационный корм для морской свинки.",
+                    "image_url": "https://garfield.by/upload/iblock/cd6/trp3f6okq8kfsrujztt7lro35l47k11c/5dbe90bc088bb6ddf2e844ad5ad7f311.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,70 руб."
+                },
+                {
+                    "name": "Vitapol Expert Корм для шиншилл, 750 г",
+                    "description": "Полнорационный корм для шиншилл.",
+                    "image_url": "https://garfield.by/upload/iblock/6d0/cnw8jk996mlot2b0bjg647djs64x5gqp/e6776d188085b48d9803ec4ba816a24a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,20 руб."
+                },
+                {
+                    "name": "Vitapol Expert Корм для дегу, 750 г",
+                    "description": "Полнорационный корм для дегу.",
+                    "image_url": "https://garfield.by/upload/iblock/47d/o6gecb8yyqf3sf2a3l3zwv0uztceh1tj/528520c3ecf62b94db01abe256695468.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,20 руб."
+                },
+                {
+                    "name": "Vitapol Корм для дегу",
+                    "description": "Полнорационный корм для дегу.",
+                    "image_url": "https://garfield.by/upload/iblock/7c0/c4pemcnqcjc3ia55gjo7enhtu3fr2iud/79c9d87130e7fb80bed73e480446dc2d.jpg",
+                    "amount": "450 г",
+                    "cost": "7,90  руб."
+                },
+                {
+                    "name": "Vitapol Корм для мышей и песчанок, 400 г",
+                    "description": "Полнорационный корм для мышей и песчанок.",
+                    "image_url": "https://garfield.by/upload/iblock/be1/mso9v9cc4o5nurxqpw0npwh7m7gvq7yf/94d6dfaf16078275a350ea60da58de9e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Vitapol Expert Корм для мышей и песчанок, 400 г",
+                    "description": "Полнорационный корм для мышей и песчанок.",
+                    "image_url": "https://garfield.by/upload/iblock/7c6/138imgiflbqysftnga8y52h4vt4ln7sv/41c6c22a57fa89d19d2141109ff8df4f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,90 руб."
+                },
+                {
+                    "name": "Vitapol 1 Корм для мышей и песчанок, 500 г",
+                    "description": "Полнорационный корм для мышей и песчанок.",
+                    "image_url": "https://garfield.by/upload/iblock/136/ey010n89vc7p7pv3wve8pv7n0ifme3gg/7a7174a126e1ac81425b45a42984c906.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "Vitapol Корм для декоративных крыс, 400 г",
+                    "description": "Полнорационный корм для декоративных крыс.",
+                    "image_url": "https://garfield.by/upload/iblock/714/vfp8pif2700xpb4gxf1k5aub6qrr0bew/d48317355d47fdd3f6619fb410b5f896.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Vitapol Expert Корм для декоративных крыс, 750 г",
+                    "description": "Полнорационный корм для декоративных крыс.",
+                    "image_url": "https://garfield.by/upload/iblock/2e2/y2otpytu639t7e1u55ypmfdwb1tahxvj/07b7ed8dd7abccdc5f2e4bbdae469e45.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,90 руб."
+                },
+                {
+                    "name": "Vitapol 1 Корм для декоративных крыс, 500 г",
+                    "description": "Полнорационный корм для декоративных крыс.",
+                    "image_url": "https://garfield.by/upload/iblock/d15/k4q1eyy69y0agtj5uwityoemneoa2if5/cd76b668528982131baff114b5294810.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "LoLo Pets Exotic Cocktail, 3 л",
+                    "description": "Коктейль для грызунов, в ведре.",
+                    "image_url": "https://garfield.by/upload/iblock/8b6/1qdyp05oorlzoqabwgwnbltaqy27qzrc/e8ddeba54377b2c088936510dd0237f4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,40 руб."
+                },
+                {
+                    "name": "LoLo Pets Люцерна гранулированная для грызунов, 350 г",
+                    "description": "Дополнительный корм для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43b/brh0q0wsogehn2pbo6fx49ydnkpebdn4/200_200_1/788a7262114ec5e53d2f1546be256e2f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Lolo Pets Premium Корм для хомяков, 900 г",
+                    "description": "Полнорационный корм для хомяков.",
+                    "image_url": "https://garfield.by/upload/iblock/86a/y2xsr0oca042xon9mn42dqohfmqn2tzu/f43306d1e49c85f70017d2d63c2c2d82.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,20 руб."
+                },
+                {
+                    "name": "Lolo Pets Premium Корм для кроликов, 900 г",
+                    "description": "Полнорационный корм для кролика.",
+                    "image_url": "https://garfield.by/upload/iblock/0f9/5zsc0fqoxvbjal1yzesa0tkz27v79swn/bf7b47ed746705fdba86411e698daa54.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,50 руб."
+                },
+                {
+                    "name": "Lolo Pets Premium Корм для морской свинки, 900 г",
+                    "description": "Полнорационный корм для морской свинки.",
+                    "image_url": "https://garfield.by/upload/iblock/c6d/qh2lk514cd5x6nlj35v9c1126h670wqh/fc7004c9911fef1fed6bbdd8820c6e81.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,50 руб."
+                },
+                {
+                    "name": "Lolo Pets Basic Корм для шиншилл, 3 л",
+                    "description": "Полнорационный корм для шиншилл, ведро.",
+                    "image_url": "https://garfield.by/upload/iblock/f87/g5zmh1ct1gmufrvb2f6yra0f8ew0ifmg/da8916e57a4dec26f65a021579b1da2f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,80 руб."
+                },
+                {
+                    "name": "Versele Laga Корм Crispy Pellets Ferrets, 700 гр",
+                    "description": "Гранулированный корм для хорьков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e1/j19mk3tk1vh6060qf00uxoh6wl7a7r38/200_200_1/5410340615102pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,80 руб."
+                },
+                {
+                    "name": "LoLo Pets Сено луговое",
+                    "description": "Луговое сено для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f33/w9xn0bv6u5dhdmkteouefu1ngh78497n/200_200_1/d39f26c0cf25d75602e8fe3a10281ce6.jpg",
+                    "amount": "300 г",
+                    "cost": "3,20  руб."
+                }
+            ]
+        }
+    }
+}

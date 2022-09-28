@@ -1,0 +1,107 @@
+{
+    "Грызуны": {
+        "Амуниция": {
+            "url": "https://garfield.by/catalog/gryizunyi/amunitsiya.html",
+            "products": [
+                {
+                    "name": "Gamma Комплект шлейка и поводок \"Лариска\", 160х230 мм",
+                    "description": "Амуниция для крысы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/80a/gqtpukvh0ip8i2r2ucjbtcagb3ycrd3w/200_200_1/99fbd2fc9a9ebb76818c8605721578b0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,10 руб."
+                },
+                {
+                    "name": "Gamma Комплект шлейка и поводок для кролика \"Мегаполис\"",
+                    "description": "Амуниция для кролика из капрона, 10х1200 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/463/4f303ecxa0sgeg4vk763tonkwhjqwtn5/200_200_1/f3a1032006370f99de381b801b25c0d7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Набор \"Trixie\" (шлея и поводок) для маленьких кроликов",
+                    "description": "Набор (шлея 20–33 cм/8 мм+ поводок 1,25 м), нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/dca/nh604y3tiprdhyc6eblomvowynjv2z8e/b989bf387b3955bbfa564d0ac6b17248.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,30 руб."
+                },
+                {
+                    "name": "Ferplast Мягкая шлейка с поводком JOGGING",
+                    "description": "Регулируемая шлейка для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7bc/zdmss04jts0frnxhv747ffq81zxpr760/200_200_1/c323755d60d9664e2296fa65db4964a6.jpg",
+                    "amount": "S",
+                    "cost": "44,90  руб."
+                },
+                {
+                    "name": "Набор \"Trixie\" (шлея+поводок)",
+                    "description": "Шлея + поводок для кроликов, нейлон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/006/kc1ip4jsvlwypcbqs8w10xhk12xea2mm/200_200_1/83b162a66007378dbe7d70a0bb97e64b.jpg",
+                    "amount": "25-32 см/1,2 м",
+                    "cost": "22,70  руб."
+                },
+                {
+                    "name": "Ferplast Поводок для кроликов NY RAB",
+                    "description": "Регулируемая шлейка для кроликов, 120 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ba7/5dtkbq2xtrx1w8dudxmx6p294jcbruii/200_200_1/d5f7d1629b782936b142a8156aa647cc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,00 руб."
+                },
+                {
+                    "name": "Gamma Комплект шлейка и поводок \"Прогулка\", 10*1200 мм",
+                    "description": "Амуниция для морской свинки из капрона.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ec3/oyd94a9ckcgnw3z6o45kzxo294gs9ycy/200_200_1/4e7e881a05378de81345300e7efa5108.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Living World Шлейка с поводком для хомяков, красная",
+                    "description": "Шлейка и поводок для хомяка, 75 см/8 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/495/fc56w5j8h6a0oomnyxgrjk0d1f4zls3t/200_200_1/d934ba10b18eee03abef7354e710d6ef.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Набор \"Trixie\" (шлея+поводок) для кроликов",
+                    "description": "Набор (шлея 8 мм+ поводок 1,3 м), нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/813/749v03ujujt1fy3h3349csdbp37xnkgj/26dda5c433c43c9ee711d65db31e3169.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Набор \"Trixie\" (шлея и поводок) для кроликов",
+                    "description": "Набор (шлея 25-44 cм /10 мм+поводок 1,25 м), нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/7bd/b0vis63zezzz4ow0cjhirs7lyk4vqpz2/cb1934f7be2e0e2ddcb1d2ccdcbbc5fa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "Набор \"Trixie\" (шлея и поводок) для морских свинок",
+                    "description": "Набор (шлея 21–35 см/10 мм+ поводок 1,25 м), нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/ce4/7xs0f8a1saqzatso3k4zjkp6qczewuyf/cbf42eba6c9073cc1276e977d5e0c259.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,20 руб."
+                },
+                {
+                    "name": "Набор \"Trixie\" (шлея и поводок), для кроликов",
+                    "description": "Набор (шлея 25–44 cм/10 мм+ поводок 1,25 м), нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/287/zcgz05jvvty1edvtm3jxu0tuo7p29196/855b83a65140015ad98f028f5a3f6dbc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,50 руб."
+                },
+                {
+                    "name": "Набор \"Trixie\" (шлея и поводок), для крыс",
+                    "description": "Набор (шлея 12-18 см+ 1,2 м поводок) для крыс.",
+                    "image_url": "https://garfield.by/upload/iblock/117/zou6gu23w19s0mm7gdpbmva6925hnvtt/033a5b56dcabe3de4db55c78ecb59e4e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,50 руб."
+                },
+                {
+                    "name": "Набор \"Trixie\" (шлея с поводком) для морских свинок",
+                    "description": "Набор (шлея 18-25 см + поводок 1.2 м), для морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/73e/o7wmkj64fuq6ard0q1zbu0a9dylel01k/200_200_1/aad82ef9d961bff9a6eaa5b0fb5eb459.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,50 руб."
+                }
+            ]
+        }
+    }
+}

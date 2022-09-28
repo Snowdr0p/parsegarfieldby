@@ -1,0 +1,331 @@
+{
+    "Рыбки": {
+        "Всё для пруда": {
+            "url": "https://garfield.by/catalog/akvariumistika/vsye-dlya-pruda.html",
+            "products": [
+                {
+                    "name": "EHEIM Пылесос вакуумный",
+                    "description": "Вакуумный пылесос для пруда",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea4/nwytc6sf93nezkgg3ur7a2tia9rvfdsr/200_200_1/VAC40_korb_421x391.jpg",
+                    "amount": "VAC40",
+                    "cost": "1400,10  руб."
+                },
+                {
+                    "name": "Boyu Компрессор мембранный LK",
+                    "description": "Применяется для аэрации крупных объемов воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fb/h1tdistr2i2x7vgq27qmja7c6xlrepk1/200_200_1/61374298b2640a7f8c45bb710950e88b.jpg",
+                    "amount": "50 Вт, 80 л/мин",
+                    "cost": "470,10  руб."
+                },
+                {
+                    "name": "Boyu Компрессор мембранный SES",
+                    "description": "Применяется для аэрации крупных объемов воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0b/yjfv9l6hthff4pjm0vbis0dua9wxlk1z/200_200_1/0dad418fff53d91213f5805638e036f0.jpg",
+                    "amount": "10 Вт, 10 л/мин",
+                    "cost": "160,10  руб."
+                },
+                {
+                    "name": "Aquael Фильтр прудовый Extreme S  UV 12 Set",
+                    "description": "Фильтр для механической и биологической очистки пруда.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/48d/xqts801vgfv4msgaut8dkhxywsrvpfwd/200_200_1/ce610e77b3472d0dc4407b92b4de323f.jpg",
+                    "amount": "2000 л/ч",
+                    "cost": "1026,10  руб."
+                },
+                {
+                    "name": "Aquael Насос прудовый Aquajet PFN Plus",
+                    "description": "Высокопроизводительная садовая помпа.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4e/3lp8kwjcv4f5h177vn5ujm97934jzlrn/200_200_1/4cc30d62eaaa26f128fb0286be35c2bb.jpg",
+                    "amount": "15 000",
+                    "cost": "1344,40  руб."
+                },
+                {
+                    "name": "Eheim Компрессор Air",
+                    "description": "Энергоэффективный аэратор для пруда.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6a/2rbq945bqza3mkeos7qi4gir2f1uab8q/200_200_1/853ac02f460099b6d2a13cba4c206322.jpg",
+                    "amount": "500",
+                    "cost": "320,10  руб."
+                },
+                {
+                    "name": "Eheim Проточный прудовый фильтр Loop",
+                    "description": "В комплекте фильтр, насос, стерилизатор.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a5/hqinz8j8idbmjq8asem2kmogs1jx56gs/200_200_1/77db7baccf3cb695266b50beb5648ef9.jpg",
+                    "amount": "10 000",
+                    "cost": "1330,10  руб."
+                },
+                {
+                    "name": "Eheim Напорный прудовый фильтр Press",
+                    "description": "В комплекте фильтр, насос, фильтрующий материал, фитинги.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f98/rhm304lubzu0nczt73gnmyr7vsc4rdoa/200_200_1/ca5fd16479f4dc0b68a2acef8ec999f2.jpg",
+                    "amount": "7000",
+                    "cost": "1095,10  руб."
+                },
+                {
+                    "name": "Eheim Прудовая фонтанная помпа Play",
+                    "description": "Насос со сменными насадками для разного типа выброса воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a9f/nrz4gllg3r0a0ka7apgc4u6andhnn2jb/200_200_1/6f297604408ec24a5e1fad7e85efcdf6.jpg",
+                    "amount": "1000",
+                    "cost": "355,10  руб."
+                },
+                {
+                    "name": "Eheim Насос Universal",
+                    "description": "Прудовый насос(шнур 10 м).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d70/xmgevk30byo5d5bgbwhgoy1jyi3cov1s/200_200_1/9ba2201d7a061582905654732f4e3473.jpg",
+                    "amount": "2400",
+                    "cost": "890,10  руб."
+                },
+                {
+                    "name": "Eheim Прудовый насос Flow",
+                    "description": "Универсальный насос для непрерывной работы под водой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/198/yik26711u11klf7ntl4j40q96yvhg3zz/200_200_1/358fef8e58ee0ecb1ec67d586d1c9d59.jpg",
+                    "amount": "3500",
+                    "cost": "615,10  руб."
+                },
+                {
+                    "name": "Boyu EFU Биофильтр прудовый",
+                    "description": "Биофильтр прудовый напорный с УФ-лампой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4d/cx3xfrsjec2nl8cx0m8p10dvqtw0ufyy/200_200_1/ebf21e543ffedb9ea3821934e97455e1.jpg",
+                    "amount": "9 Вт",
+                    "cost": "415,10  руб."
+                },
+                {
+                    "name": "Boyu SPF Прудовый насос",
+                    "description": "Подходит для использования в пресной и морской воде.",
+                    "image_url": "https://garfield.by/upload/iblock/ab9/lpaqpwwa73lvqx6sz2tarm0lv7d717l4/f047d3d5e3b4ba39aff7f1e0f0006dfe.jpg",
+                    "amount": "3800 л/ч",
+                    "cost": "355,10  руб."
+                },
+                {
+                    "name": "Boyu ACQ Компрессор электромагнитный",
+                    "description": "Для рыборазводен, декоративных прудов, торговых аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4d8/h796vyksdq8qmoh548fffzu20tbkqwhn/200_200_1/aaa45fb198d8637e021f71135c6cc835.jpg",
+                    "amount": "16 Вт, 25 л/мин",
+                    "cost": "146,10  руб."
+                },
+                {
+                    "name": "Sera Активированный уголь \"Pond Super Carbon\", 2 кг.",
+                    "description": "6 недель активной фильтрации до 4000 литров прудовой воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fd/hp0frfqx9r2n6l7fu7u8vcx8f42w8scw/200_200_1/ca1e51238270974f9ce512515e20926a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "127,80 руб."
+                },
+                {
+                    "name": "Aquael Фильтр прудовый Maxi",
+                    "description": "Фильтр для водоемов и прудов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae2/8lxg29d0hp0efq50gfjv3q3ob7gclhfm/200_200_1/085a11599abb115e89679cdaa2d8aac1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "288,80 руб."
+                },
+                {
+                    "name": "Aquael Фильтр прудовый KlarJet 5000",
+                    "description": "Внешний фильтр для водоемов и прудов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/617/uxsac2egq8mkgixngn7y29ttkrcrormr/200_200_1/3056f72a74d2ac978d0d2711b8607e46.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "962,40 руб."
+                },
+                {
+                    "name": "Aquael Фильтр прудовый Dekor",
+                    "description": "Внутренний фильтр для водоема и пруда.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e7/hllw4dqjs0i51wldvblh26tm6ptlc8yo/200_200_1/3858ca7029639a8f17bfe6be69ab6a64.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "340,30 руб."
+                },
+                {
+                    "name": "Boyu YT-25000 Биофильтр безнапорный",
+                    "description": "Прудовый безнапорный биофильтр с УФ-лампой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/789/l0x2qe252giwn32wtnvt0mot33nvw5nb/200_200_1/5afff0fe95ec9762a8f31e7dedc67bc8.jpg",
+                    "amount": "40 Вт,  5000 л/ч",
+                    "cost": "1120,10  руб."
+                },
+                {
+                    "name": "Aquael Насос прудовый Aquajet PFN",
+                    "description": "Высокопроизводительная садовая помпа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/15e/m9m4xom9amrc9hzgbtzu0mfjr3jp4kuy/200_200_1/775-aquajet-pfn-3500-10000.jpg",
+                    "amount": "3500",
+                    "cost": "388,10  руб."
+                },
+                {
+                    "name": "Tetra Pond Algo Rem",
+                    "description": "Для борьбы с мелкими зелеными водорослями (мутной зеленой водой).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/501/dym2fgb9ovsv8df06izbutgycpjaviuh/200_200_1/8b8ffdd54113b6625ba724c1170523c4.jpeg",
+                    "amount": "1 л",
+                    "cost": "94,90  руб."
+                },
+                {
+                    "name": "Tetra Корм Pond Colour Sticks",
+                    "description": "Корм в виде палочек для усиления окраса рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5fa/kn8fjpvvj2az32ukjlg7l7xdi3a7e7tm/200_200_1/0d6f5844f7ad18406e871cc255be7b88.png",
+                    "amount": "10 л",
+                    "cost": "109,40  руб."
+                },
+                {
+                    "name": "Tetra Корм Pond Variety Sticks",
+                    "description": "Корм в виде палочек трех видов для прудовых рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/36e/uwg6xprgkda5ua2o79re4amhsyvjw621/200_200_1/fb66a45c257c9f1efe812421d577fc50.jpg",
+                    "amount": "25 л",
+                    "cost": "177,60  руб."
+                },
+                {
+                    "name": "Tetra Корм Pond Wheatgerm Sticks",
+                    "description": "Облегченный корм для прудовых рыб в осенне-зимний период.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b0/qm242eguppbe1099vt19vcwt60rgqa82/200_200_1/59b24cd681c6837a2392148d7550fc9e.jpg",
+                    "amount": "10 л",
+                    "cost": "122,50  руб."
+                },
+                {
+                    "name": "Tetra Корм Pond Multi Mix",
+                    "description": "Смесь из нескольких видов корма для прудовых рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae5/c1b2nlgey8jumg4fn4weipb2d9eud62a/200_200_1/72b0cd95bbb6d006aedd36efb223fd52.png",
+                    "amount": "10 л",
+                    "cost": "148,70  руб."
+                },
+                {
+                    "name": "Sera Кондиционер для прудов \"Pond Crystal\"",
+                    "description": "Кондиционер связывает \"муть\" на поверхности пруда.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9cc/pa09zpp4a2kr1aq7gtx2bwuxhkz7iny3/200_200_1/feb764e6fbdb681feeda4ad2dd81ed48.jpg",
+                    "amount": "5 л",
+                    "cost": "495,40  руб."
+                },
+                {
+                    "name": "Aquael Фильтр прудовый KlarJet 10000 Fountain UV Filter Set",
+                    "description": "Внешний фильтр для прудов и водоемов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b5e/n5v6m42egurfbm8r1h1mbh15e9wzbw81/200_200_1/90b83524c3a7feec92c2965f61ef3fe7.jpg",
+                    "amount": "до 3500 л/ч",
+                    "cost": "954,70  руб."
+                },
+                {
+                    "name": "Tetra Корм Pond KOI Sticks",
+                    "description": "Полноценный корм высокого качества для всех видов карпов кои.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2fe/t08qiuvdjy14xuzbxq12tdhcokktzzfk/200_200_1/a6b7a2266e9883d38c0060ddeefa9961.png",
+                    "amount": "1 л",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Sera Корм KOI Prof spring/automn",
+                    "description": "Корм для температур ниже 17°.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cde/ranlv8q62yzd1wvb6ghvec1ildpbh33d/200_200_1/f1c7ccbfc6efdc5bc8c2b725f474923b.png",
+                    "amount": "7 кг",
+                    "cost": "306,80  руб."
+                },
+                {
+                    "name": "Sera Корм для всех прудовых рыб \"Pond Mix Royal\"",
+                    "description": "Сбалансированная смесь хлопьев и гранул для прудовых рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/621/se3mf41p4rebsmk3a4sb22mhantybpp9/200_200_1/354d54b7b0a88bff60b83af8f763f6fe.jpg",
+                    "amount": "185 г",
+                    "cost": "25,30  руб."
+                },
+                {
+                    "name": "Sera Корм Pond granulat",
+                    "description": "Гранулированный корм для прудовых рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c1f/at8pkcjjxuiatwygvkr8hlmzyzmoe4sg/200_200_1/00a2771c56973ea1970ccbaff295a4d1.jpg",
+                    "amount": "170 г",
+                    "cost": "17,70  руб."
+                },
+                {
+                    "name": "Sera Корм для всех прудовых рыб \"Pond Flakes\"",
+                    "description": "Хлопьевидный корм для прудовых рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/535/121w8ywfq69nl2w2pp1kx0iktn6mousl/200_200_1/0f06fe4a60009d88d3049c941c5c66f8.jpg",
+                    "amount": "180 г",
+                    "cost": "20,70  руб."
+                },
+                {
+                    "name": "Tetra Сачок Pond Fish Net 4",
+                    "description": "Сачок прудовый с телескопической ручкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b94/4x411t145sale0ylf5j3h9okes1e5r6u/200_200_1/11037db533ac5ba9a5260ed17f308234.png",
+                    "amount": "за 1 ед.",
+                    "cost": "114,00 руб."
+                },
+                {
+                    "name": "Aquael Фильтр прудовый Maxi 1",
+                    "description": "Фильтр для механической и биологической очистки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/911/ucgexiyetmw9gzlisrb59ku4ukmerrzr/200_200_1/4ea0358980ad6e5fc418e92cdbcfa49d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "337,40 руб."
+                },
+                {
+                    "name": "Aquael Фильтр KlarJet Pool 5500",
+                    "description": "Песочный фильтр для бассейнов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c05/bt6qs8xhuwi0un01mi6hrs7sxw6670oo/200_200_1/20ca05de80141db5b66a108e09054093.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "954,80 руб."
+                },
+                {
+                    "name": "Aquael Фильтр со стерилизатором Klarpressure UV 8000",
+                    "description": "Напорный фильтр для водоема до 8000 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/78d/sbch5hk3lkgcaguabtk05egrspolm6cc/200_200_1/8ec10e6dcae040e47dcb3217d4cd6ba9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "785,10 руб."
+                },
+                {
+                    "name": "Tetra Сачок прудовый Algae Net Head",
+                    "description": "Сачок без телескопической ручки, 45,5 х 40 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/03c/dlo9y61i2tn6j406kwbz9eu10chnd3yd/200_200_1/0224820ec8c43a9d3a7dbc7b057db082.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "44,20 руб."
+                },
+                {
+                    "name": "Tetra Корм Pond Sticks",
+                    "description": "Корм для прудовых рыб в виде палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d16/5cntjm35pdcfancxnkc4l5ickex416hd/200_200_1/d8478a2e26d2c6fc9dc510eb48492973.png",
+                    "amount": "1 л",
+                    "cost": "13,20  руб."
+                },
+                {
+                    "name": "Tetra Pond AlgoFin",
+                    "description": "Для борьбы с нитевидными водорослями в пруду.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c9/8zfi1lkvgi5z09oij98vvenvatxhydrx/200_200_1/29a1987ab5b09c0a5c201f9a001717ec.png",
+                    "amount": "1 л",
+                    "cost": "91,40  руб."
+                },
+                {
+                    "name": "Tetra Pond Fountain AntiCalc",
+                    "description": "Для удаления известкового налета в прудах, 250 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/651/8j1ejfo4w8ax7s30l9jarlywrkhf803k/200_200_1/c975b4e7b1d444727bae4137e3243223.png",
+                    "amount": "за 1 ед.",
+                    "cost": "36,50 руб."
+                },
+                {
+                    "name": "Tetra Pond Fountain AntiAlgae",
+                    "description": "Для удаления водорослей в прудах, 250 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c3c/6x42sgiyzfu9mlsisar430lrr1ax1cyg/200_200_1/d8c02e2d0a1aab90a0908ae06b2ea4e4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "36,50 руб."
+                },
+                {
+                    "name": "Tetra Pond SeasonStart",
+                    "description": "Для подготовки к прудовому сезону, 250 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2a/4efey64cdy4m23cbsv1jqylzma4g065t/200_200_1/91d85d21d3a7d96991634bba66086ad0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,90 руб."
+                },
+                {
+                    "name": "Tetra Pond AquaFit",
+                    "description": "Для улучшения качества воды в пруду, 250 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1f6/yljl6ilwp54korusimlgupkbn07b9fko/200_200_1/5e948363fa71b54f4972aa674f797bdc.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,90 руб."
+                },
+                {
+                    "name": "Tetra Pond FilterZym",
+                    "description": "Для развития фильтрующих бактерий в прудах, 10 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/205/9d46sfo93tc9iabw15vs0kz2qo539vet/200_200_1/3fc824aa49ff5f8394162c84134091f4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "25,60 руб."
+                },
+                {
+                    "name": "Tetra Pond AquaSafe",
+                    "description": "Для натуральной и безопасной воды в водоеме для рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a55/rajewg3259ipxh6rmim8zvp2ivemj13d/200_200_1/a3c4ff2921296649d5857eee762c2818.png",
+                    "amount": "250 мл",
+                    "cost": "25,50  руб."
+                },
+                {
+                    "name": "Aquayer Альгокс",
+                    "description": "Средство против зеленых водорослей в прудах.",
+                    "image_url": "https://garfield.by/upload/iblock/b38/zw0xu9u5e24mcyqo9n2s3fvly50d41ua/19ee08808883664a04cb554f02116f73.png",
+                    "amount": "1 л",
+                    "cost": "36,90  руб."
+                }
+            ]
+        }
+    }
+}

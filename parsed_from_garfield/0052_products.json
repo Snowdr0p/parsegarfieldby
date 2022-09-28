@@ -1,0 +1,51 @@
+{
+    "Птицы": {
+        "Переноски": {
+            "url": "https://garfield.by/catalog/birds/perenoskii.html",
+            "products": [
+                {
+                    "name": "RIO Стартовый набор владельца волнистого попугайчика",
+                    "description": "Удобный стартовый набор владельца волнистого попугайчика",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b1/6tm9w7zaf7d2cswa81qugct0t1m4jugi/200_200_1/dskl1ogj3z3wckh8l59nw47tjhog4jjn.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "Vitapol Транспортная коробка для мелких животных",
+                    "description": "Для перевозки крыс, мышей, хомяков, попугайчиков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/351/6kv9zj9jyv58iqb0eocigzw1c1tsopbm/200_200_1/bb94cd442bf03d92742012b2c81d5633.jpg",
+                    "amount": "13,8 х 8,6 х 7,6 см",
+                    "cost": "1,60  руб."
+                },
+                {
+                    "name": "Ferplast Домик для клетки Nido",
+                    "description": "Домик-гнездо для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/213/nia1c4cmf8cz91aqkg0h3rh8husbs047/200_200_1/e8a13c17cbe0ae7b0260eb4e11e0a1ff.jpg",
+                    "amount": "mini",
+                    "cost": "13,50  руб."
+                },
+                {
+                    "name": "Trixie переноска Transport Box",
+                    "description": "Для транспортировки птиц и мелких животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ef/behuihupf3yhfsprvsp02wiwa4szqw29/200_200_1/578ff401cf51bddc5b043f6899782cd6.jpg",
+                    "amount": "22x14x15 см",
+                    "cost": "30,70  руб."
+                },
+                {
+                    "name": "Fiory Коробка для транспортировки птиц",
+                    "description": "Для транспортировки птиц малых и средних размеров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aa4/w1ur3b1eolidwceormvnab44tgxdeqas/200_200_1/55da117bc3e73ffb2f59d523a22fffc9.png",
+                    "amount": "за 1 ед.",
+                    "cost": "1,70 руб."
+                },
+                {
+                    "name": "Lolo Pet Транспортная упаковка Small",
+                    "description": "Транспортная упаковка для мелких животных, 25 грамм.",
+                    "image_url": "https://garfield.by/upload/iblock/2b9/y6uqyovxyxll0i1g8c6onza3wmxqotg1/336d1c9ec5f54ec75c36c639bf8f5914.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,80 руб."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "Кошки": {
+        "Мягкие коготки": {
+            "url": "https://garfield.by/catalog/cats/myagkie-kogotki.html",
+            "products": [
+                {
+                    "name": "ДиАнКари Антицарапки на когти для кошек (20 шт.)",
+                    "description": "Мягкие коготки, клей в комплекте.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3cd/hwvxy3ibuzx4b5mam1b84ppb48g93bd9/200_200_1/00c611ee24da979d0f250381276d1ebf.jpg",
+                    "amount": "S",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Стоп-проблема Антикоготки, 22 шт/уп",
+                    "description": "Мягкие коготки для кошек (антицарапки)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/746/2ifh244fi34ttps1dg5h07mlkwjadct4/200_200_1/e66aae368f7131049a851ee7c58a7230.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Cliny Мягкие коготки пурпурные",
+                    "description": "Мягкие коготки для кошек (антицарапки), 40 шт",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/787/nu2bwydis2xow6p2v5nyer5qvs9wi18k/200_200_1/088c9b845a123338a8d98045e34d16dd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Cliny Мягкие коготки розовые",
+                    "description": "Мягкие коготки для кошек (антицарапки), 40 шт",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad2/8c34n8znjroa44fmsijygunjejbc1jw8/200_200_1/3a8d547a048678db8145662dc88a221c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Cliny Мягкие коготки жемчужно-белые",
+                    "description": "Мягкие коготки для кошек (антицарапки), 40 шт",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c10/ojr72isih8b5dtbe0dlt0kebsiwqr2pa/200_200_1/2feea7261098797c65f6a2eb5c34c265.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Cliny Мягкие коготки красно-белые",
+                    "description": "Мягкие коготки для кошек (антицарапки), 40 шт",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/253/yar2pyzb8mab6kteqs2iz5m2icft9pd6/200_200_1/33abab9e0ec69497ce2dec1c2adb6fd4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Cliny Мягкие коготки прозрачные",
+                    "description": "Мягкие коготки для кошек (антицарапки), 40 шт",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6a/02bcamoak9aovzo4g31m5niolovrootf/200_200_1/21694e25d3a2812e6943fdd8110d204a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Cliny Мягкие коготки серебристые",
+                    "description": "Мягкие коготки для кошек (антицарапки), 40 шт",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb1/lknnlf2t32cbl4vuhxmduamtqgl9tk3z/200_200_1/48666fbe27a9bc076a9bc867eb2b9be4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Антицарапки фиолетовые (40 шт)",
+                    "description": "Колпачки на когти для кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/dc4/z55uyedw072jh9cd7qyikika30vfw4ld/ff332328324a7c18ce92295290d135b4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,40 руб."
+                },
+                {
+                    "name": "Антицарапки красные (40 шт)",
+                    "description": "Колпачки на когти для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1bd/ngv1ere57g4qnvxgvpzloa96s7x8nmyh/200_200_1/a579cfee163b3d9ccf35e27ba58f9526.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,40 руб."
+                },
+                {
+                    "name": "Антицарапки синие (40 шт)",
+                    "description": "Колпачки на когти для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e08/ia0zeixh1i6m535i42ube57bzo5cjr5v/200_200_1/01bdce916791fdd2584ab09d98e0c973.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,40 руб."
+                },
+                {
+                    "name": "Антицарапки жёлтые (40 шт)",
+                    "description": "Колпачки на когти для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/120/o33xg90ll3mftz4dhbp5buhodvkufkfr/200_200_1/b794ca516c50a6e3bdf99fe57e3bdbbf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,40 руб."
+                },
+                {
+                    "name": "Антицарапки прозрачные (40 шт)",
+                    "description": "Колпачки на когти для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c95/koy9sf3fzx3yw2kq7hht4hhx52t2hi84/200_200_1/e3114b9db59dd908a244d6192a12ece7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,20 руб."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,2172 @@
+{
+    "Кошки": {
+        "Домашний груминг": {
+            "url": "https://garfield.by/catalog/cats/gruming.html",
+            "products": [
+                {
+                    "name": "DeLIGHT Расческа с \"кольцами\"",
+                    "description": "Предназначена для кошек и собак, удаляет старую шерсть, грязь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e1f/tpilxstj9g284zxw7cyhhz40i5jbmrks/200_200_1/40c84a8213722eaf45cf75ea871ec67d.jpg",
+                    "amount": "56 зубьев",
+                    "cost": "21,70  руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа с \"кольцами\" разнозубая",
+                    "description": "Предназначена для кошек и собак, удаляет старую шерсть, грязь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be8/tv8rcf2p8rs91788bjz0f3wks3oh6hbt/200_200_1/a9950d97f1e54d7f45ed64fc9f49641b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа с вращающимися длинными зубьями",
+                    "description": "Для особо пушистых кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/61b/0p2bhxpevss1q7w5hxnadcwy26qkuxx3/200_200_1/07f85bcc0fbeba3ebb3e9edb38500b74.jpg",
+                    "amount": "24 зуба",
+                    "cost": "33,60  руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа с вращающимися зубьями",
+                    "description": "Расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a91/bb1zna3jj5m91wb9f7ygobaqlygo1115/200_200_1/859e8f6889999be21d161109becd36af.jpg",
+                    "amount": "37 зубьев",
+                    "cost": "33,60  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка металлическая",
+                    "description": "Пуходекра с частой металлической щетиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ee5/29ryj8ayxpv0ovrkdhkcagkpevej57ml/200_200_1/7dfc278c5638184d136ab4a77db01fff.jpg",
+                    "amount": "S",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка металлическая с каплей",
+                    "description": "Пуходерка с частой металлической щетиной с каплями",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/156/851awq1ko9gscwkdwil9a7xvo6zddt6g/200_200_1/ac09b380c924ecc9e7465e9d3d0790e2.jpg",
+                    "amount": "S",
+                    "cost": "18,70  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка металлическая с пласт. синей ручкой",
+                    "description": "Пуходерка с частой металлической щетиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1dd/i2gp84hgko69ky2g1xvb5ql8x8jrifa5/200_200_1/92741b630b6abc8f9847b91f14b35aa3.jpg",
+                    "amount": "L",
+                    "cost": "18,70  руб."
+                },
+                {
+                    "name": "DeLIGHT Двухсторонняя гибкая, жесткий корд",
+                    "description": "Пуходерка с частой металлической щетиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b91/423hrmpal2fx7gszod20g6mpjm61uj6h/200_200_1/d13d2ba5e801e7ca7c7ce25d731bd054.jpg",
+                    "amount": "S",
+                    "cost": "48,50  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка пластик, мягкий корд",
+                    "description": "Пуходерка с частой металлической щетиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de6/lm94w1mg8sec0yvh50roze1xr782qurz/200_200_1/b5f3a4961c467d120fe515586c0dfda7.jpg",
+                    "amount": "S",
+                    "cost": "17,60  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка пластик, с каплей",
+                    "description": "Пуходерка с частой металлической щетиной с каплями",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fdd/08py8fwn7cjuo3h9glwqtwbumbv38w6k/200_200_1/10a7d7f671663d63ef94dce905064af8.jpg",
+                    "amount": "S",
+                    "cost": "18,80  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка пластик, жесткий корд",
+                    "description": "Пуходерка с частой металлической щетиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84e/qkudo41uggoza61t4f8pkbpfyunsz71z/200_200_1/dbdc94fa364245ccd0495d277691713f.jpg",
+                    "amount": "M",
+                    "cost": "22,30  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка пластик, разнозубая",
+                    "description": "Пуходерка с частой металлической двухуровневой щетиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3d0/8gsv0i8freurqfpekdbq07peidm0wwnm/200_200_1/1c1e87d01684667a038f1e6ef4f1c559.jpg",
+                    "amount": "M",
+                    "cost": "22,30  руб."
+                },
+                {
+                    "name": "DeLIGHT Щетка массажная с металл. зубьями",
+                    "description": "Придает шерсти здоровый и пушистый вид",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/739/cnk49zrwcvhxv0gqzb7fnzogz69kirou/200_200_1/6c5260bf17a2e01c0b114b29a32bd257.jpg",
+                    "amount": "M",
+                    "cost": "32,00  руб."
+                },
+                {
+                    "name": "DeLIGHT Щетка резиновая на руку с каплей",
+                    "description": "Щетка с металлическими зубьями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff0/yq6tjrwmcb6rw4alm6tup8wjfin1v6ql/200_200_1/f17f0bd437d09e4a01cddb9e677b7faf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,50 руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-секатор со стопором",
+                    "description": "Когтерез из нержавеющей стали",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/787/x0prqsazdhrosrhhwx7ti6ofy06hu0fg/200_200_1/f3edfef9ac26a58ca819602ad8760bd1.jpg",
+                    "amount": "S",
+                    "cost": "23,50  руб."
+                },
+                {
+                    "name": "DeLIGHT Колтунорез боковой, 9 лезвий",
+                    "description": "Колтунорез для средних и крупных собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9bd/6scvt74j86d2kjuateh81i56ovmlj6i4/200_200_1/36696b1cd7b16961c3200aebd57c5bfe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,70 руб."
+                },
+                {
+                    "name": "\"Le Salon\" Двухсторонняя щетка 2 в 1",
+                    "description": "С одной стороны у неё расческа, с другой щетка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/670/tcm8cjku2k4yfauuvzkjta384flzu0ln/200_200_1/f597b3d3449ae4c61d56c08a7abc2247.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,70 руб."
+                },
+                {
+                    "name": "Hello Pet расческа алюминиевая с круглой синей ручкой",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/497/y6bfbkn7xi1o8e20nb0eir74hk1dcxyh/200_200_1/2788b7c61418e449f9c1ea726cc82157.jpg",
+                    "amount": "30 см 15/85",
+                    "cost": "55,50  руб."
+                },
+                {
+                    "name": "Hello Pet расческа алюминиевая с овальной синей ручкой 20/80",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/iblock/376/21dmy0iaq7ounb2249pqdl2yqqgm6h34/c131f50fb036266de43a970959dbef74.jpg",
+                    "amount": "25 см",
+                    "cost": "47,50  руб."
+                },
+                {
+                    "name": "Trixie Рукавица массажная, розовый/чёрный",
+                    "description": "Рукавица массажная для ухода за шерстью кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c91/x5xluc61bx60exlnavsfuucaz799rudz/200_200_1/originals_PHO_PRO_CLIP_PHO_PRO_CLIP_23132-3_sSALL_fAWK_dV1.jpg",
+                    "amount": "16х24 см",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Trixie Щётка массажная с пластиковой щетиной, розовый/черный",
+                    "description": "Щетка для ухода за шерстью кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c0/5lm11o7hpn8caqg1zlo1tn856khhfpad/200_200_1/originals_PHO_PRO_CLIP_PHO_PRO_CLIP_23133-3_zSALL_aAWK_cV1.jpg",
+                    "amount": "19 см",
+                    "cost": "14,40  руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа с удлиненными зубьями, 19 см",
+                    "description": "Профессиональная расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/049/p9zhfksm3oz6z8oigh61kg6g6g568822/200_200_1/item_88234.jpg",
+                    "amount": "23/39",
+                    "cost": "27,60  руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа антистатик разнозубая, тефлон",
+                    "description": "Предназначена для кошек и собак, удаляет старую шерсть, грязь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e39/k2usdyds415q0rfqzsf7bkzc8p618axw/200_200_1/item_88225.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,50 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа-антистатик, тефлон",
+                    "description": "Подходит для всех видов шерсти кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c4/aobsb99jsc53243nlxzpk6z6g6ams0sk/200_200_1/item_88218.jpg",
+                    "amount": "24 зуба",
+                    "cost": "16,60  руб."
+                },
+                {
+                    "name": "Triol Щетка-рукавица Премиум",
+                    "description": "Аксессуар для ухода за шерстью кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb0/acyg1o859493z10ztzt6uuqgw2pvqkpq/200_200_1/deb8c684b4668a3542d5ebc187d6eb3145bfd7b0.jpg",
+                    "amount": "18 х 22,5 см",
+                    "cost": "33,30  руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-ножницы малый длинные ручки с упором",
+                    "description": "Когтерез для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c90/rnqu74z5efl1acmzlpm7my58664j1vcy/200_200_1/item_88448.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,60 руб."
+                },
+                {
+                    "name": "For Friends Щетка пластиковая с каплей и граблями",
+                    "description": "Пуходерка для ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad6/n92gigiswy3wrszqh989mgdf1hjv1js7/200_200_1/b1dcba058f7b2a32974a96b14e6b7de6.jpg",
+                    "amount": "44х44 мм",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "For Friends Щетка пластиковая трехрядная с каплей, синяя",
+                    "description": "Пуходерка для ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/efc/ig0da2ex48wtc0ir7vclxldbzlmss8ut/200_200_1/8ca1ffe0a13b163b0d21557a50c71af3.jpg",
+                    "amount": "L",
+                    "cost": "12,90  руб."
+                },
+                {
+                    "name": "For Friends Щетка пластиковая с каплей",
+                    "description": "Пуходерка для ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c07/2acrzffcv38kyj9np6n5l87hinxkohl0/200_200_1/6fa3fb4b70fe0f4dab0905c4cf162d5c.jpg",
+                    "amount": "L",
+                    "cost": "19,10  руб."
+                },
+                {
+                    "name": "For Friends Щетка пластиковая с каплей, синяя",
+                    "description": "Пуходерка для ухода за шерстью и подшерстком с граблями",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/030/sjyqdvrff8po88my0a9n3up6ql75w90i/200_200_1/06d6fb446f9c491573b7075507f8185b.jpg",
+                    "amount": "L",
+                    "cost": "12,60  руб."
+                },
+                {
+                    "name": "For Friends Щетка  деревянная с каплей",
+                    "description": "Пуходерка для ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d48/n6v7a6n9ec2h8iw6axul54szkb9fntxs/200_200_1/d8052fee5237c327edbad67e91bcec70.jpg",
+                    "amount": "S",
+                    "cost": "10,60  руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа со спицей разнозубая (зубья 18-22 мм)",
+                    "description": "Расческа для создания фигурных проборов и распределения локонов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ba/w682hnbfwx0rzbn7wx1l9xzrelaiq6ng/200_200_1/e00e6afc3c01f8e9ff4ebed2eec33fae.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "39,90 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа со спицей",
+                    "description": "Расческа для создания фигурных проборов и распределения локонов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/54a/9piaefnbldinid9jun6ma3bqqhaa05we/200_200_1/c1b6de621456ed51422d786430ce1212.jpg",
+                    "amount": "37 зубьев",
+                    "cost": "33,30  руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа алюминиевая с матовой овальной ручкой",
+                    "description": "Ультралегкая расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b3b/tagwhwynoabn4e9nd7e056ki5jajqx88/200_200_1/04a16556be16b9fceb9471eaaf86e263.jpg",
+                    "amount": "10,5 см",
+                    "cost": "69,70  руб."
+                },
+                {
+                    "name": "For Friends Пуходерка металлическая без капли",
+                    "description": "Пуходерка с деревянной ручкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a26/jpk4xe16df5g0xke6wupf2dwdmbttrcv/200_200_1/3aad640616b9e153b7cfa308826bdf65.jpg",
+                    "amount": "L",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "For Friends Щетка двусторонняя",
+                    "description": "Щетинки из нейлона и металла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6e/swjzn3nzaat62qhqscu428xq9168u30l/200_200_1/2c517dd156bf8094f9791889f1ba9be8.jpg",
+                    "amount": "S",
+                    "cost": "16,70  руб."
+                },
+                {
+                    "name": "For Friends Щетка самогрумер угловая",
+                    "description": "Щетка для самообслуживания",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/35a/h9qf2nw1g5ct56uiubhz0o4ibly4j9vj/200_200_1/76df24a6c89a3e82b9e5e8252deac3c5.jpg",
+                    "amount": "13x8 см",
+                    "cost": "13,20  руб."
+                },
+                {
+                    "name": "For Friends Колтунорез с изогнутыми зубьями",
+                    "description": "Колтунорез для животных с грубой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4e/ob3fu40uj4dipe593xs2skyscvv4t90n/200_200_1/fec7491b54ac27cf9ffa3b0a5d2cf909.jpg",
+                    "amount": "5,5 х 15,5 см",
+                    "cost": "21,90  руб."
+                },
+                {
+                    "name": "For Friends Щетка двусторонняя с деревянной ручкой",
+                    "description": "Щетинки из нейлона и металла с наконечниками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2f6/evetn6ea4rrlg2sw3v2qqmcn1rkhhdsb/200_200_1/dcf7b4e45c41d02b492126e58329d713.jpg",
+                    "amount": "S",
+                    "cost": "10,60  руб."
+                },
+                {
+                    "name": "CAMON Колтунорез 8 изогнутых лезвий",
+                    "description": "Колтунорез для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce0/ip2i06wh8sedlmdguwxlcwuvwlm7k0z4/200_200_1/3a440b50830bc667c2e55ee4b6c386d8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,40 руб."
+                },
+                {
+                    "name": "CAMON Сумка для груминга кошек",
+                    "description": "Идеальный аксессуар для удержания вашего питомца",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a20/gf5cu100vo3fwjcb4auofq71y2mg4evo/200_200_1/386285ead839923f2a05476f0e0e9d6f.jpg",
+                    "amount": "Розовая",
+                    "cost": "60,70  руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Пуходерка пластик мягкий корд",
+                    "description": "Пуходерка для животных с частыми металлическими щетинами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ecb/uyqjk9yg5aa106wprq1vr0axfoxhymsr/200_200_1/f18bb2b7269acd9a04b99f0c2972dc79.jpg",
+                    "amount": "M",
+                    "cost": "24,50  руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Когтерез-секатор со стопором",
+                    "description": "Когтерез из нержавеющей стали для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd0/fyj6hezu4w9pu9h418slm7j5p5rzi3gz/200_200_1/7b7fa4fd5edb5b6bb5772e3f3e176e2e.jpg",
+                    "amount": "S",
+                    "cost": "25,80  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка металл. длиннозубый корд",
+                    "description": "Пуходерка с частой металлической щетиной для пушистых животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/482/h2x0rrdsm71zrq9a8da0tza9ssj5oz5i/200_200_1/58310ba2552f5ad9db96ff0d6f33d885.jpg",
+                    "amount": "XL",
+                    "cost": "35,80  руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа-антистатик без ручки",
+                    "description": "Тефлоновая расческа для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34d/u1khvv1zu381e88s6j2it89syqieeba8/200_200_1/cc0331ea891a1e716e21f77f4a4c89f3.jpg",
+                    "amount": "15 см",
+                    "cost": "28,60  руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа \"МИНИ\"",
+                    "description": "Подходит для всех видов шерсти кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e37/ox7wm3i382vhz2mtiabtnvzaw12zst8j/200_200_1/b3b32558da3b2e6c95d8121fc40d617f.jpg",
+                    "amount": "17 зубьев",
+                    "cost": "13,40  руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-секатор",
+                    "description": "Для крупных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac9/3q9hjmfozy9pzay8lwvjl47s48lkje4j/200_200_1/f4777ea9048016b940b4ef0a60594fb0.jpg",
+                    "amount": "S",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Triol Расческа-грабли \"Стандарт\"",
+                    "description": "Расческа для животных, 115х165 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b1/umcuihh58usvm62qan9c74xc6my38mnq/200_200_1/d0edaf6c7c3b2be0438237625576088f.jpg",
+                    "amount": "Блистер",
+                    "cost": "18,60  руб."
+                },
+                {
+                    "name": "Triol Щетка двусторонняя \"Стандарт\" (блистер)",
+                    "description": "Щетка для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a47/80pkj62wfltzcexyn8kpx8ozch3xb4hq/200_200_1/2f4b7eb65d7828e8b0e0b71d368411fe.jpg",
+                    "amount": "M",
+                    "cost": "18,40  руб."
+                },
+                {
+                    "name": "Triol Пуходерка с каплей \"Стандарт\" (блистер)",
+                    "description": "Пуходерка с мягкой щетиной для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fa/tuslf3qqomnjfrfu96ycl115u8buq7hb/200_200_1/154fd365a1dfac6390816b2af7a1aa69.jpg",
+                    "amount": "S",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Triol 624B Когтерез-ножницы \"Стандарт\"",
+                    "description": "Когтерез для животных, 70х140 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ca/92u1t3a66y07rnoreg3od7tha0yuwpyw/200_200_1/8a15f3926fd3890904841a0cb98ad5f8.jpg",
+                    "amount": "Блистер",
+                    "cost": "15,20  руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Расческа-триммер",
+                    "description": "Особенно эффективна для удаления лишнего подшерстка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/312/jxny1227nfgu9f4usba2fdcc0udduhgz/200_200_1/97dd8524f3f7ff75f4ffdf9c6207d76b.jpg",
+                    "amount": "11 х 15 см",
+                    "cost": "78,20  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа с овальной фиолетовой ручкой, 19,2 см",
+                    "description": "Алюминиевая расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/616/svbm60oj7eb1f25fl2a7fpvfa4b5ml0o/200_200_1/44226f14e78c09eec9a4d86ac02539ca.jpg",
+                    "amount": "20/80",
+                    "cost": "39,60  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа фиолетовая с редкими зубцами",
+                    "description": "Алюминиевая расческа для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/910/34jkj9vzqgpdzxjzhkincqz5ijjamrxf/200_200_1/25d139fa5200489bf778c4cb5ccaa121.jpg",
+                    "amount": "25 см",
+                    "cost": "45,20  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа синяя с редкими зубцами",
+                    "description": "Алюминиевая расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a22/e29siufcjzgso7j513wn8d4p8rzhysn7/200_200_1/98d151c1592ff03a770ba36928687d75.jpg",
+                    "amount": "25 см",
+                    "cost": "45,20  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа с овальной синей ручкой 50/50",
+                    "description": "Алюминиевая расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76c/w8yl99r637kav6i9vo64tjs4g27lwkl8/200_200_1/90a00b5e566f60f4e88b0b9c72d79d78.jpg",
+                    "amount": "30 см",
+                    "cost": "50,90  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа с круглой фиолетовой ручкой, 30 см",
+                    "description": "Алюминиевая расческа с частыми и редкими зубцами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ead/jaqxun1wgovhwdz3avl0ihdyryzq0tsl/200_200_1/e6562d0d938255e79faa846c0aadb0bb.jpg",
+                    "amount": "15/85",
+                    "cost": "45,50  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа с круглой фиолетовой ручкой, 25 см",
+                    "description": "Алюминиевая расческа с частыми и редкими зубцами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/10e/9gswpqr059gw3ukvs10lqofuvceu8qv8/200_200_1/c96b3b9e049b6e7017fdba2d52716d66.jpg",
+                    "amount": "20/80",
+                    "cost": "32,80  руб."
+                },
+                {
+                    "name": "Triol Пуходерка \"Стандарт\" (пакет)",
+                    "description": "Пуходерка для ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/39d/w91y36h9fc1uekxn7zxpe9jual0pr45v/200_200_1/2cf4cc1d85228d9c4f938a6403aae928.jpg",
+                    "amount": "12,8 х 8,5 см",
+                    "cost": "9,30  руб."
+                },
+                {
+                    "name": "Triol Расческа-триммер \"Премиум\" (блистер)",
+                    "description": "Триммер для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84b/70g6nx4ko7o9zntz1b8q990wct00qqii/200_200_1/94423f0c103c2de647890e460160f2d5.jpg",
+                    "amount": "S",
+                    "cost": "72,80  руб."
+                },
+                {
+                    "name": "Triol Расческа-гребень \"Премиум\"",
+                    "description": "Гребень с частыми зубцами, 67х75 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/945/ewc0rh3hm3ttc1lj9snstat5hashqa9k/200_200_1/f2b5ea83951436c2bf97814612b9ad03.jpg",
+                    "amount": "Блистер",
+                    "cost": "21,40  руб."
+                },
+                {
+                    "name": "Triol Расческа комбинированная \"Премиум\"",
+                    "description": "Расческа для ухода за шерстью, 46х204 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/571/wio6hiw865olroxif5hbdmbpsvx3er1v/200_200_1/3a840871870a30242db8c6c1730d05fe.jpg",
+                    "amount": "Блистер",
+                    "cost": "22,90  руб."
+                },
+                {
+                    "name": "Triol Когтерез-ножницы \"Премиум\"",
+                    "description": "Когтерез для животных, 64х98 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/060/3c8ve6moq7kjopl4j1wl2qfo1grshtye/200_200_1/29e74fa7773d8588cc4976dba20be1a8.jpg",
+                    "amount": "Блистер",
+                    "cost": "20,30  руб."
+                },
+                {
+                    "name": "ДиАнКари Грумер",
+                    "description": "Грумер для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/16d/zcdb6uqxfb31ayhsybbo7g4g62405v5n/200_200_1/c39be4f455d1a448d5fbb5e340d59575.jpg",
+                    "amount": "11,5 х 15 см",
+                    "cost": "46,50  руб."
+                },
+                {
+                    "name": "Ziver Пуходерка с капельками, гелевая ручка",
+                    "description": "Пуходерка для ухода за шерстью.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/28f/iog08fp5xdht8m3vkxj26l4q49uguosa/200_200_1/c62800c51de2a2bb352cf3e4604206fb.jpg",
+                    "amount": "8 х 5 см",
+                    "cost": "16,60  руб."
+                },
+                {
+                    "name": "Triol Пуходерка с каплей с деревянной ручкой (пакет)",
+                    "description": "Пуходерка для ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e8f/0pohjyrv993wmpy4l0rqu9veek9flhum/200_200_1/0e75a5debb4b48986c30998f9b2fe626.jpg",
+                    "amount": "12 х 6,5 см",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Triol Пуходерка с деревянной ручкой (пакет)",
+                    "description": "Пуходерка для ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ba/spaxzus7f6n6prdjg7h5aamisziw82vz/200_200_1/87546183a0909308b7011c45edd246b3.jpg",
+                    "amount": "12 х 6,5 см",
+                    "cost": "8,80  руб."
+                },
+                {
+                    "name": "Гамма Щетка из резины овальная",
+                    "description": "Аксессуар для ухода за шерстью кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d91/tb1pdj228a1n2eyow94x3yfgnflauumo/200_200_1/12097bc0ae3bb22660680381233e49c1.jpg",
+                    "amount": "12,5 х 8 см",
+                    "cost": "7,80  руб."
+                },
+                {
+                    "name": "Triol Когтерез \"Премиум\"",
+                    "description": "Боковой когтерез из металла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c9/w480srr1236u1q4fcsbcspldppjc0foj/200_200_1/06b1c4954b5b2d739c7680f13de34d22.jpg",
+                    "amount": "S",
+                    "cost": "27,60  руб."
+                },
+                {
+                    "name": "Catit Массажер для кошек с креплением к стене",
+                    "description": "Щетка для самообслуживания",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a51/8w6od94z4x5uibkys1kvitfs47r6vfjr/200_200_1/f35e17cba163dabf55f32e66b0c18901.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,40 руб."
+                },
+                {
+                    "name": "Щетка для бережного расчесывания \"TRIXIE\", 19 см",
+                    "description": "Мягкие пластиковые щетинки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f3/1ldsasxjg0d23qvbtjth52zwq53ptv7s/200_200_1/17ea8f0cfa9094dcbb3f324b6833219d.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "\"Le salon\" Щетка со щетиной",
+                    "description": "Маленькая щетка со щетиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b55/z8tose5vo0pmbule08xtt5fa9uq4zj5x/200_200_1/db214123be7750ff1967c0ff5187e87b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,00 руб."
+                },
+                {
+                    "name": "FURminator Undercoat Cat M/L Long Hair",
+                    "description": "Фурминатор для кошек (от 5 кг) с длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ebb/qhni3ry048pq1pvnfy23nrm3p2snz7s9/200_200_1/f85fc6c7189375ff50753c8d19a75ef7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "97,50 руб."
+                },
+                {
+                    "name": "FURminator Undercoat Cat M/L Short Hair",
+                    "description": "Фурминатор для кошек (от 5 кг) с короткой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/022/d4ehdvk2ydck1wqnq9fcfhhgpnrzhjon/200_200_1/cf52d6e99b06eba52db2d6fd3cd4dd70.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "97,50 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Массажная перчатка для шерсти, 16х24 см",
+                    "description": "Подходит для чувствительных и молодых животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/02a/0n3fhwdpzku57vxvy1ht1hv0xa6chj6e/200_200_1/9aea753b06e1e952f691916a9f05f45b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,10 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" металлическая, 16 см",
+                    "description": "С мелкими и широкими зубцами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0eb/yk08osqnysbpm3y04cbqj2v109va6ccg/200_200_1/21c1a5f756d586c07068b7a7dd230cc0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,20 руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-ножницы малый с упором",
+                    "description": "Когтерез для кошек, собак, кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a41/hise7nl0padklg23ktjvc6sddhzlgfs6/200_200_1/d9e4b73130ab8d86fb9545be3e7993de.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,60 руб."
+                },
+                {
+                    "name": "DeLIGHT Расчёска алюм. 25 см с плоской синей ручкой",
+                    "description": "Расческа для животных с густой, пушистой или длинной шерстью, зуб. 3,6 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bed/m7e6u93adib20q76e3rynfwn5oybbgd9/200_200_1/91333d7ce9911b615d87b5b9491b36ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "51,90 руб."
+                },
+                {
+                    "name": "Колтунорез \"TRIXIE\" с изогнутыми короткими зубьями, 18 см",
+                    "description": "Облегчает расчесывание и истончает шерсть.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cf9/5t3lrhask7bpbbv00edvfqawf5skchz6/200_200_1/e907c6bc2d5a2050f8280ca267381b1f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,60 руб."
+                },
+                {
+                    "name": "DeLIGHT Расчёска алюм. 30 см с круглой синей ручкой",
+                    "description": "Расческа для животных с густой, пушистой или длинной шерстью, зуб. 3,6 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b79/uxedsmgi93ap7hnpxp38blagiy2cssrt/200_200_1/37f07520217f8f3d2c5fcb3d0095c95b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "68,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Колтунорез боковой \"мини\" 8 лезвий загнутый (синяя ручка)",
+                    "description": "Для кошек и мелких собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bf9/ao43x5qzyn8xqrp30jhso7bccufpe47t/200_200_1/6e686cbbed4982150c390db4bdc005ba.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,30 руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Расческа с \"кольцами\" двухсторонняя",
+                    "description": "Расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43c/f9n4bmxz2uqa54zya8vq93v8n54pregr/200_200_1/b740a358e2e1f69d9086fc999f4b5fcc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,90 руб."
+                },
+                {
+                    "name": "Ferplast Пуходерка для животных GRO 5948,19x12,1x4,2 см",
+                    "description": "Пуходерка со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bd8/rpns81qlkktxq8jo0cf7p4vo5psal0sn/200_200_1/5b39e8c47b630d318b5f078a623d9ae0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,50 руб."
+                },
+                {
+                    "name": "Ferplast Грумер для шерсти GRO 5960",
+                    "description": "Триммер для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/643/i0zbs81fk9fegny033ri33x0cuqmlimn/200_200_1/0b800ed9479f9ea96a85389d51f7e7c0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "70,80 руб."
+                },
+                {
+                    "name": "FURminator Undercoat Cat S Long Hair",
+                    "description": "Фурминатор для кошек (до 5 кг) с длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d77/b4dyxds1hq2qml2fi8444fqevr3n5lw6/200_200_1/3c4171988b5ea8ca0404e79c0f1f5b3b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "90,70 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа \"МИНИ\" двухсторонняя",
+                    "description": "Подходит для всех видов шерсти собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/37c/1ajaybuqtzpn1edh9kezvt2a19xexthv/200_200_1/01ccc3f5d8e6ae64d3df2a9a75daa29f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа \"МИНИ\" разнозубая",
+                    "description": "Подходит для всех видов шерсти кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd1/i0k6apkdtpvnr8x7thhdvm6yc3mr9bqw/200_200_1/2d11c9b6c1bac8f45aead368ede2517a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,50 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа-антистатик двухсторонняя",
+                    "description": "Подходит для всех видов шерсти кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/345/ms0m8xj4lgoutnqisdn4sanv3a9nxtbu/200_200_1/386403a3610097992e9266c5ee0e4e92.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,50 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка \"TRIXIE\", 10x17 см",
+                    "description": "Мягкие металлические щетинки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae0/v71xlnmjyjkqpbv0lce22os7rk88antf/200_200_1/d3867811c76fc6523bcabb4af0b86f82.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,40 руб."
+                },
+                {
+                    "name": "DeLIGHT Грабли двухрядные особопрочные широкие",
+                    "description": "Расческа с супердлинным зубом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fc3/hnubiuq7pp6i8iqfimwc36iwd9o7adp9/200_200_1/bad37da09dd1bb3dbfe5df44804a5e9c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "77,30 руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-гильотина большое отверстие, черный с синим",
+                    "description": "Для средних и крупных пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aee/o6iz60c4ilxbg9qwq8f5z4anbdkv28n5/200_200_1/05b02ba610134db6985406cb5f057f83.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-гильотина малое отверстие, черный с синим",
+                    "description": "Для мелких и средних пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c8c/2rejmojmcpn2qulyaybktamn2rvubv9f/200_200_1/eae55449e36f73adb7ff0894a116a8c1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-гильотина с малым отверстием (прорезин. ручки)",
+                    "description": "Для средних и крупных пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df2/f93dv3977vnsyr14bsg2qod6btejp6pw/200_200_1/8afc6e84d6f9c519deed132b8ad995d4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-ножницы загнутый",
+                    "description": "Из высококачественной быстрорежущей нержавеющей стали",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e23/r9ygkkg6k8sos35p54hdwjxzwgk6vnss/200_200_1/6d45f1a6117b5e3968f03a22380a567d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,30 руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-ножницы прямой",
+                    "description": "Из высококачественной быстрорежущей нержавеющей стали",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ba/dptj6q4ncrouu6iqna329m8zszy5mqxq/200_200_1/ddc109cd45cd2358d12aaba2e24ea32d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,90 руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-секатор средний со стопором",
+                    "description": "Для крупных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/688/bembjy5ddicd8rk5323g1pu7rmqdgtnq/200_200_1/77786570e81c4c6e1ea40ddf8a03ff70.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,80 руб."
+                },
+                {
+                    "name": "\"Le salon\" Когтерез малый",
+                    "description": "Когтерез для мелких животных, 12 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b65/0s7c8zm595i2u9z1nd74nj095cxrl5cv/200_200_1/84c23935f6a6e971f0877214ca536b3e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,40 руб."
+                },
+                {
+                    "name": "DeLIGHT Колтунорез боковой \"мини\" 8 лезвий прямой",
+                    "description": "Для кошек и мелких собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f2/sv3tredikwkrao5g8jza3wfnj0k7h61s/200_200_1/e692584b15039915f1c7bcde73e94a92.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,80 руб."
+                },
+                {
+                    "name": "TRIXIE Угловая массажная щетка, 8х13 см",
+                    "description": "Массажная щетка с кошачьей мятой для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a4/yec0fbyshyw2rg0xvlww9eqecc64qq2m/200_200_1/27c7f7437e602fed29ddd4e2dd02e59f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,10 руб."
+                },
+                {
+                    "name": "\"Le salon\" Расческа-антистатик",
+                    "description": "Для среднешерстных и длинношерстых пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4c/pkxl9uem7xnvjfhro93vo884janj6222/200_200_1/3f786d6449c5290dad629d9b2bd5544e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,40 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа с кольцами 90 зубьев",
+                    "description": "Расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a6a/m7q3qp0r4f16c0j24b2ekfyhma3at5fa/200_200_1/30698d64f23b22d19472a9f18f928545.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,30 руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-ножницы малый прямой",
+                    "description": "Для кошек, собак, кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f3/0n2wc0ty8ru12y404asqnuy5gwq1qw8f/200_200_1/b6ea834061c9358e7413724994755a23.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,40 руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" для когтей, 8 см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc6/0t99dr1qg56ozt1b8r590wxs65v79olp/200_200_1/fa8065cc6ed7830278d58d08095c755d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" для когтей, 13 см",
+                    "description": "Ножницы для когтей, нержавеющая сталь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/064/ixt2ki2kerwjxi12su5b6y1fv98yoawg/200_200_1/f79ccb9b0844532210b71f30ecb8bc97.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "14,60 руб."
+                },
+                {
+                    "name": "TRIXIE Когтерез-кусачки De Luxe, малый, 12 см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/831/hm2mrdt7jv0k5zwao36yb9tglk2a96lg/200_200_1/c675b6651222c29857a9d8d1fec66bb6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,90 руб."
+                },
+                {
+                    "name": "Когтерез \"TRIXIE\", \"De Luxe\", большой, 16 см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/06e/xovsbyb4qys2gf2m7g0nl6rmxm1fj32b/200_200_1/08286a043df98b9c8411218f1c928669.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,10 руб."
+                },
+                {
+                    "name": "Когтерез-гильотина \"TRIXIE\", 11см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/231/pi18swyuwh10qu15s2adgtac4no2nwbb/200_200_1/32c749161309c8b45ec6d2e26a08af08.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,20 руб."
+                },
+                {
+                    "name": "Triol Когтерез боковой \"Стандарт\", 75*160 мм",
+                    "description": "Когтерез боковой для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b8a/bnivuj6gq1kh2g7g9ucjrh4lftoe8si9/200_200_1/80d4c86aa1657edf2fb106b4bcca5227.jpg",
+                    "amount": "Блистер",
+                    "cost": "19,30  руб."
+                },
+                {
+                    "name": "Triol Когтерез Стандарт, 40*130 мм",
+                    "description": "Когтерез боковой для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b0/wc3uaumga9gjuk5yzck5zkr4gc53j9ag/200_200_1/f6a6729ee3e4b0d8ea766db24a8e639f.jpg",
+                    "amount": "Блистер",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Triol 179AB Когтерез-гильотина",
+                    "description": "Когтерез-гильотина для животных, 75х130 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae0/rapolydu5mtgdvzodhdx1sfh442ehyys/200_200_1/d192819136eacee8ae74b11bfc110b57.jpg",
+                    "amount": "Блистер",
+                    "cost": "14,70  руб."
+                },
+                {
+                    "name": "Triol 621 Когтерез Стандарт, 45*127 мм",
+                    "description": "Когтерез для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/93d/9bwup270c2ij6mgni18o1mug8q6f6j7l/200_200_1/c6a3994249954f8e0c289a7c0142a15b.jpg",
+                    "amount": "Блистер",
+                    "cost": "16,90  руб."
+                },
+                {
+                    "name": "Triol 622 Когтерез Стандарт, 40*125 мм",
+                    "description": "Когтерез для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dd5/cvus838s3o2zgbon90ykkgk6quzvo21s/200_200_1/cf5a8005b49a95fb1cd02aee9af664a7.jpg",
+                    "amount": "Пакет",
+                    "cost": "16,30  руб."
+                },
+                {
+                    "name": "Насадка FURflex Cat deShedding S 24 YA",
+                    "description": "Насадка против линьки для маленьких кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/672/fs9148xqbnge0lc93ov2fxvzpo9r5buh/200_200_1/a0a8360d0a1e63eb80d4db1177f6e3ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "76,80 руб."
+                },
+                {
+                    "name": "Расчёска \"TRIXIE\" с вращающимися зубьями",
+                    "description": "Гребень для распутывания шерсти",
+                    "image_url": "https://garfield.by/upload/iblock/141/y1eehpiwf79rzhvmsjam656vbpaqeild/8d40d14db4c1a51f498b5d045d5cb69b.jpg",
+                    "amount": "13 см",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" с деревянной ручкой",
+                    "description": "Гребень для вычесывания выпавшей шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8eb/6z7j17mgtz9j1uwgbv2ly582fzqmod0h/200_200_1/c34070def9843c992aadd0cd79cd381d.jpg",
+                    "amount": "Двусторонняя",
+                    "cost": "12,80  руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Массажная щетка с металлической щетиной",
+                    "description": "Предназначена специально для собак с жесткой шерстью, 8 x13 см.",
+                    "image_url": "https://garfield.by/upload/iblock/274/rk8h57x3g8wqleuqyri0fzk2jhi4gmue/fd6c42b4f706e6709ad318e755fee0a5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "Массажная щетка \"TRIXIE\", с петлей для руки, резиновая",
+                    "description": "Стимулирует кровообращение, для всех типов шерсти.",
+                    "image_url": "https://garfield.by/upload/iblock/5fe/jke568wovyu8yklts6lzkes3cz5nin8n/d685bc9856cb0382d83d0f8b149e855d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,40 руб."
+                },
+                {
+                    "name": "Массажная перчатка\"TRIXIE\" для ухода за шерстью, 14х25 см",
+                    "description": "Ухаживает за шерстью во время поглаживаний животного.",
+                    "image_url": "https://garfield.by/upload/iblock/167/nraxtqtcjuer0hrr271i0ivjsoeersug/277b522f4300bf620109718f68fe9663.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "Массажная перчатка  \"TRIXIE\" для ухода за шерстью, 18х24 см",
+                    "description": "Ухаживает за шерстью во время поглаживаний.",
+                    "image_url": "https://garfield.by/upload/iblock/4d3/qygo3z68ecwgomyijqfjwakxquhm6x5w/360ecaf987568dc86efc0c2d937d148b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,40 руб."
+                },
+                {
+                    "name": "Массажная перчатка \"TRIXIE\" для ухода за шерстью 18х24 см",
+                    "description": "Для жесткой шерсти, щетина с наконечниками.",
+                    "image_url": "https://garfield.by/upload/iblock/f27/yk0poljk7lsvqcw5cyrkp1n3er8mtaji/78d88fb52534b1f613fb1d16ffd6eba9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,20 руб."
+                },
+                {
+                    "name": "Мягкая щетка \"TRIXIE\", деревянная, 5х18 см",
+                    "description": "Щетка \"TRIXIE\" с нейлоновыми щетинками",
+                    "image_url": "https://garfield.by/upload/iblock/ee7/gmnvi4kyjfnkjdslzubf22h1w9cvu6zz/272a85131bdc93865840321ec7863ce0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка \"TRIXIE\", с деревянной ручкой, 10х18 см",
+                    "description": "Нежный уход за верхним слоем шерсти и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/449/s2281fbqapy4efderh1fnomz5j11j9c7/200_200_1/9fe91151e8fd6e740e799a7257a0cdfa.jpg",
+                    "amount": "Односторонняя",
+                    "cost": "14,10  руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка \"TRIXIE\" с деревянной ручкой, 6x13 см",
+                    "description": "Для нежного ухода за верхним слоем шерсти и подшерстком",
+                    "image_url": "https://garfield.by/upload/iblock/3db/zhnk393c2x5ka8ejubku9mldavk23x59/c18bc7f091815711ed03327200971f22.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка \"TRIXIE\" с деревянной ручкой, двусторонняя, 6x13см",
+                    "description": "Для нежного ухода за верхним слоем шерсти и подшерстком",
+                    "image_url": "https://garfield.by/upload/iblock/3b3/lgxd69s74kv8rdtyh9iwwlesjg1cc6rl/09c4a44776c653269785cadebaf4d37a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,70 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка \"TRIXIE\", 10х19 см",
+                    "description": "Для нежного ухода за верхним слоем шерсти и подшерстком.",
+                    "image_url": "https://garfield.by/upload/iblock/04e/9229jg70v0bc2rhvu12writ8w8n8b286/7e1cc79d4378699165a80824f928b180.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,40 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка \"TRIXIE\", 10х17см",
+                    "description": "Для нежного ухода за верхним слоем шерсти и подшерстком.",
+                    "image_url": "https://garfield.by/upload/iblock/ebb/f7d55mihh5g5auzto3vqjz2rqo0yd1kg/c2cfd5ca87eef41ee1d7b361952defe7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,10 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка \"TRIXIE\" двусторонняя, 10х17см",
+                    "description": "Для нежного ухода за верхним слоем шерсти и подшерстком",
+                    "image_url": "https://garfield.by/upload/iblock/9b1/5h9fw02pogtxh34mpqyu58wf1cfmxita/e06916d7c179cee64ee4fb314b490049.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,60 руб."
+                },
+                {
+                    "name": "Щетка-пуходерка + гребешок\"TRIXIE\", с деревянной ручкой , 6x13см",
+                    "description": "Мягкая щетка со скребком для очищения щетки",
+                    "image_url": "https://garfield.by/upload/iblock/d69/8zdqug3molgt6r1lkeilmcmbeuw4n4g7/6803f02196e2f2ccdab399ce87a3d102.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,60 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка + гребешок\"TRIXIE\", с деревянной ручкой 9x13см",
+                    "description": "Мягкая  щетка со скребком для очищения щетки.",
+                    "image_url": "https://garfield.by/upload/iblock/257/fkefmj2vbsdgsz2ekl2x5lizc61nvw4k/8d7d5f7b3799132141b330903cd0be07.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,40 руб."
+                },
+                {
+                    "name": "Triol 313C Расческа-грабли двухрядная Спорт",
+                    "description": "Расческа-грабли для собак, 115х155 мм, пакет",
+                    "image_url": "https://garfield.by/upload/iblock/eca/28065srgb9ty8983n5ezedoxl059wi6o/41f491c831a9000f3ba3fba28e51952d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,90 руб."
+                },
+                {
+                    "name": "Triol 308 Расческа комбинированная Спорт",
+                    "description": "Расческа для собак, 30х200 мм, пакет",
+                    "image_url": "https://garfield.by/upload/iblock/de9/mm7l919ljfy5h6aleankld5wlerbe6ie/883c4932e42d2096c260e81d17878e08.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "Щетка \"Hartz\" щетина/массажная, двухсторонняя",
+                    "description": "Двухсторонняя щетка-расческа для собак",
+                    "image_url": "https://garfield.by/upload/iblock/ab4/nbi0gvr8qp94fuqx4634104clc5gjr1l/346bd6472cc11604379b52664cbaa6ad.png",
+                    "amount": "за 1 ед.",
+                    "cost": "19,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа с \"кольцами\" двусторонняя",
+                    "description": "Предназначена для кошек и собак, удаляет старую шерсть, грязь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eea/cek8f9i0usoo3sj4qfm29urwdmwsf4uu/200_200_1/be411379dcd8302db4251988f3500dfc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,70 руб."
+                },
+                {
+                    "name": "DeLIGHT Колтунорез-капля с одним лезвием, карманный",
+                    "description": "Небольшой колтунорез для животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9e7/1jdc57e7vcmfclb8oshm1rux40n7syuc/200_200_1/6bc4c8d4a3504bbfa636676e806f84a2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,70 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-грабли, 13 длинных зубьев",
+                    "description": "Для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/734/xvwp5k8r69xiqbr9clavoaoue4bl83ik/200_200_1/fdb5bf54c7cd0342cac34784dec87543.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-грабли, 13 коротких зубьев",
+                    "description": "Расческа для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/929/63v6utg243ryjhlt7vzuch3eyjld12qj/200_200_1/d8eed728e445ccdb1c8b5f307a2e5dbb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-грабли, 20 коротких зубьев",
+                    "description": "Расческа для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f67/1ooui7rf577l67u7pjosgcgmm4oydndg/200_200_1/9d66fe762c1540f8d026c3db6a90e990.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,50 руб."
+                },
+                {
+                    "name": "Hello Pet расческа с вращающимися зубьями (24 зуба)",
+                    "description": "Для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84a/xi6jpuvc3ado8d5h8f40x3rt2otlepll/200_200_1/71c9515d1346223d2b9c6cf7dd4847e0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "Hello Pet расческа с вращающимися длинными зубьями (24 зуба)",
+                    "description": "Для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b20/d6wevberh1jhsn0e4g6jclhsey3ig9kk/200_200_1/e345e525223a25f231342e51504a105e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,00 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-антистатик (тефлон) 24 зуба",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/iblock/10c/78spfxkrco3f4pik1rqjolimbkb505v8/34fff6a565980d0a961523ece691fdb3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "Hello Pet расческа металлическая редкая 24 зуба",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/iblock/b21/8yosqnjfds4g1b5owmb4f1s1s5ajrpoy/0b012adf84d94260c8dc7f0a170cd8c6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа двухсекционная",
+                    "description": "Для кошек и собак с плавающими зубьями",
+                    "image_url": "https://garfield.by/upload/iblock/616/28d06rww0omu6d1z92zt23x73od3q3zz/d0711d4d28190ec2684f4b0833ec1f75.jpg",
+                    "amount": "20 плав. зубьев",
+                    "cost": "27,50  руб."
+                },
+                {
+                    "name": "Moser Animal clipper \"REX Mini\"",
+                    "description": "Машинка-триммер для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91a/oezfwnq5tqca3qqbts3c1jdqjglyxikm/200_200_1/34697efe0450953e08f5cdd142b24da6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "160,30 руб."
+                },
+                {
+                    "name": "Hello Pet Когтерез-гильотина черный с цвет. покрытием ПВХ",
+                    "description": "Для стрижки когтей из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f79/7jfowf47maroclc2r3bqrjrtjoh7ek6a/200_200_1/f053725da36d98a09542b4d310559ae9.jpg",
+                    "amount": "Большое отверстие",
+                    "cost": "15,00  руб."
+                },
+                {
+                    "name": "Hello Pet Когтерез-ножницы малый прямой",
+                    "description": "Когтерез из нержавеющей стали для животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c9/buu06p9nadwfop76k8msfbddv2wl4xdj/200_200_1/caf61c674fad359da9811578a4cd9980.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,30 руб."
+                },
+                {
+                    "name": "Hello Pet Пилка \"мини\"для когтей (Б) /12/",
+                    "description": "Подходит для собак и котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e73/vtpxk7yukhc6ump5318cqv2qkruxh5r1/200_200_1/80cae08bbb44e34b59d47ebf9f90c946.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,00 руб."
+                },
+                {
+                    "name": "Grumer Toy Dog XS Long Hair",
+                    "description": "Для длинношёрстных (шерсть от 5 см) собак и котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cf5/03r3eu9bpru3gbhr800b3qkiudw3d2za/200_200_1/1cdbc7ce45df95fa4843dbf1a116ebe7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "47,10 руб."
+                },
+                {
+                    "name": "Grumer Toy Dog XS Short Hair",
+                    "description": "Для короткошерстных (шерсть до 5 см) собак и котов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/112/bas7avrsouajt39iqdjk843s2jln0zf9/200_200_1/3073c6ab13bc2e0c2bf8163423e81877.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "47,10 руб."
+                },
+                {
+                    "name": "\"Le salon\" Рукавица массажная",
+                    "description": "Массажная рукавица для удаления линялой шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/32d/6m0uvo2p53l2ef8b519gnayacm7yesyv/200_200_1/67eec4b6b6223c697a7444df11dae13b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,00 руб."
+                },
+                {
+                    "name": "Резиновая щетка \"Le Salon \", овальная",
+                    "description": "Резиновая щетка на руку.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e85/zktsirjq6dfak6f4ugmbcntyecgbhvsh/200_200_1/dbbef2710f17cf547d57048f9b0478bd.jpg",
+                    "amount": "14.5x12.3x4 см",
+                    "cost": "15,40  руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Пуходерка металлическая длиннозубый корд",
+                    "description": "Пуходерка для пушистых животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af9/az39esymelmemoootuzmh4qa15wl5303/200_200_1/1dc509bf93d87027f47e31bfa5f7f8e0.jpg",
+                    "amount": "XL",
+                    "cost": "56,20  руб."
+                },
+                {
+                    "name": "Western Когтерез гильотинный Buddy",
+                    "description": "Когтерез для животных из нержавеющей стали",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d86/4xpnp7478m6dhsnzvmm6o1pnk9f8cn51/200_200_1/a6b4e3303b45ba9f4bfbb130f7a6f723.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,90 руб."
+                },
+                {
+                    "name": "Western Когтерез для собак и кошек Buddy",
+                    "description": "Когтерез для животных из нержавеющей стали",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d36/t8wxgoc4uy63zo13vhhfsumqxwvkd57t/200_200_1/d398e3af6183c46930f5e1029b014218.jpg",
+                    "amount": "L",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Moser Триммер Prima 1586-0064",
+                    "description": "Профессиональный триммер с комбинированным питанием",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f16/ev1y8pmdea814aecln3y5zsr39pfs9il/200_200_1/9f87d3e66a4d4004fa7e10a541c1c943.png",
+                    "amount": "за 1 ед.",
+                    "cost": "285,10 руб."
+                },
+                {
+                    "name": "Moser Триммер Rex Mini 1411-0063",
+                    "description": "Профессиональный тихий триммер для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d41/spikhubpx4xrt08xwboezjndx96a9r76/200_200_1/fc4a1d1c2fd02c58ca27055c2a01f27e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "214,10 руб."
+                },
+                {
+                    "name": "CAMON Щетка деревянная для ухода за шерстью",
+                    "description": "Мягкая щетка для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9f5/r2u0uzxkll6gy8e2jq8mjzxyuk5hmuo5/200_200_1/8fe8b94d0950d9077a7ad25fcbb1b6ce.jpg",
+                    "amount": "5 х 18 см",
+                    "cost": "18,40  руб."
+                },
+                {
+                    "name": "CAMON Варежка массажная двухсторонняя",
+                    "description": "Мягкая рукавица для массажа и удаления линялой шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a9/s93wzlkmfebtymjxdxb03h8q0uj56iq8/200_200_1/2af59ffad6b1ba7d67358b021cfb88b6.jpg",
+                    "amount": "15 х 26 см",
+                    "cost": "29,40  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходёрка проф. мягкий корд с длинным зубом",
+                    "description": "Пуходёрка для повседневного ухода за шерстью кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/181/kmv96nvtr52y07ba8n01u4os9pw6np8f/200_200_1/7ec16681d1da9df535ab0d8e17d1ab11.jpg",
+                    "amount": "L",
+                    "cost": "80,90  руб."
+                },
+                {
+                    "name": "DeLIGHT Расчёска-грабли двухрядные",
+                    "description": "Расческа-грабли для повседневного расчесывания кошек и собак с любым типом шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/813/lygn3wwzrbt61115iuofl936r1r9qsa9/200_200_1/c7c074c33264970dc67dccfed59bfb3b.jpg",
+                    "amount": "25 зубьев",
+                    "cost": "39,20  руб."
+                },
+                {
+                    "name": "YUUP! Колтунорез капелька",
+                    "description": "Инструмент для обрезания колтунов и спутанной шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/458/gd25evq9ql15p1jhu6osklg1r3h2806v/200_200_1/f159fa596954f9847088f69855bde198.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "63,70 руб."
+                },
+                {
+                    "name": "Ультра-силиконовая щётка с функцией купания",
+                    "description": "Для удаления  средней и длинной  шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7fc/7gsl5yldtqf9f46jfqeir3n7qtvqrl4s/200_200_1/c4b4d565e0157342802e1766bf38f0c0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "51,50 руб."
+                },
+                {
+                    "name": "Ультра-силиконовая щётка для удаления средней и длинной шерсти",
+                    "description": "Для удаления линялой шерсти и подшерстка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/030/12aq6u1659bcf3l9flhipud80hm31cya/200_200_1/625e8f127853219d748865963e6c7c8c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "47,70 руб."
+                },
+                {
+                    "name": "Ультра-силиконовая щётка для удаления шерсти, мини",
+                    "description": "Для удаления линялой шерсти у мелких пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dee/p8kbwqzbfvu3yu3gbryx3kf57uj4r21u/200_200_1/c156745949a80b4f483e26ffd7a788e2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "54,50 руб."
+                },
+                {
+                    "name": "Ультра-силиконовая щётка для удаления короткой шерсти",
+                    "description": "Для удаления линялой шерсти и подшерстка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b2/o89kx3obn64cpz7dxbjignfg55s6tzoe/200_200_1/eff847ada0a10835dce5b2b766d0b671.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "51,50 руб."
+                },
+                {
+                    "name": "Hello Pet Рукавица резиновая с искусственной щетиной",
+                    "description": "Рукавица для чистки шерсти животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/85d/h5wgmdizqaeceme7hgmv0nnb9m5r4dxl/200_200_1/227e173ce47fa188cedc7b3263da6823.jpg",
+                    "amount": "15х12 см",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "CAMON Щетка массажная на руку красная",
+                    "description": "Подходит для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a51/m477p29abl8fdji7sf2b3ijv2t1b25sf/200_200_1/89eb8bf5bf446d24aee9ead05ca8b404.jpg",
+                    "amount": "13х9 см",
+                    "cost": "23,50  руб."
+                },
+                {
+                    "name": "CAMON Варежка массажная двухсторонняя грубая",
+                    "description": "Двусторонние перчатки для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5af/xdkfmaphobjurlz0uvrihxwyhv5n5s04/200_200_1/7cf3fc2e6cfd583213015cd205fa9e40.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,80 руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Пуходерка пластик с каплей",
+                    "description": "Пуходерка для животных, мягкий корд",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/867/ktuk2ns7q8yak25oj0ez9wuse6ottnp0/200_200_1/c78ae91232f698b11a42fb8f6515f2ff.jpg",
+                    "amount": "S",
+                    "cost": "28,40  руб."
+                },
+                {
+                    "name": "DeLIGHT Щетка односторонняя (зуб 3 см)",
+                    "description": "Профессиональная щетка для просушки шерсти животного",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/049/prpxxoy5unmd3l77zwvmtrw9r6pc1mbh/200_200_1/bc4c59abfe1c67c5e2f54d6bf7337bb2.jpg",
+                    "amount": "S",
+                    "cost": "110,30  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка металл. длиннозубый супержесткий корд",
+                    "description": "Пуходерка с частой металлической щетиной для кавказских овчарок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/626/6klk8av00tp81olm4bczo2f0r1h7anro/200_200_1/541f99d53c6d9c1ade00c8836a511620.jpg",
+                    "amount": "XXL",
+                    "cost": "69,60  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа с матовой овальной ручкой, 10,5 см",
+                    "description": "Расческа алюминиевая, ультралегкая.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ed/t4xak2zc38f13cfwz62iourmdog6wp5d/200_200_1/55caf59c41491d69bd85dad25e91c1ce.jpg",
+                    "amount": "82 зуба",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа с матовой овальной ручкой, 19 см",
+                    "description": "Расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ac/x85gw19c11c1cjeey2130folp912h1un/200_200_1/854472a62f38de4336b99bb2387ced22.jpg",
+                    "amount": "70 зубьев",
+                    "cost": "36,50  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа с круглой синей ручкой, 25 см",
+                    "description": "Алюминиевая расческа с частыми и редкими зубцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/863/0phahb9bmn69ypnazamygri2ypy86ve2/200_200_1/1440ca98e3843da239f8b8bdff7dd9b9.jpg",
+                    "amount": "20/80",
+                    "cost": "33,20  руб."
+                },
+                {
+                    "name": "Ferplast Когтерез GRO",
+                    "description": "Когтерез для собак с защитным механизмом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/da8/spa0qs0i2mgrc0u1n7y7weqov8slggxd/200_200_1/7509397de08d506950ea0470caf2bae6.jpg",
+                    "amount": "13,7 x 4,8 x 1,3 см",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "ДиАнКари Когтерез для когтей собак и кошек",
+                    "description": "Когтерез для ухода за когтями животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/542/3jqz44tp3de9p6cyn4j0e009whaxz3lw/200_200_1/a4cf15d131600e7a5e01b413bcff778e.jpg",
+                    "amount": "16 х 5 см",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "ДиАнКари Когтерез и пилочка для животных",
+                    "description": "Набор для ухода за когтями собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42d/bj9g4nxk9fck4kwweyba67q94ue8bcf7/200_200_1/ba842ce6b316dbabdaea2d6d2af41049.jpg",
+                    "amount": "16,5 х 5 см",
+                    "cost": "8,50  руб."
+                },
+                {
+                    "name": "ДиАнКари Когтерез и пилочка для когтей собак и кошек",
+                    "description": "Комплект для ухода за когтями животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/333/ib1c6u4q9loogf6i2foqmhvyac7u4i44/200_200_1/5c335ee451c7b471afacba83c1a511c2.jpg",
+                    "amount": "16 х 5 см",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "ДиАнКари Когтерез для животных с ограничителем",
+                    "description": "Когтерез для когтей собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/725/xi9lz0yurafgbdx4zbz9uf05xtjqag93/200_200_1/e1bc5b8a5cbad5c7a2ffe25a5c70d557.PNG",
+                    "amount": "12 х 4 см",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "ДиАнКари Массажер-перчатка",
+                    "description": "Резиновая перчатка для шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4d/z739hcbv4600ww68gdyr34k1pzdwewqq/200_200_1/d4d70ea413f791cccb3e6bd6024f42f7.jpg",
+                    "amount": "13,8 х 5 см",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "ДиАнКари Массажер",
+                    "description": "Резиновая щетка для ухода за животными.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/118/0jqxwzd3e6isvnjsdp0ofp4u3xcajkeu/200_200_1/0d4f91aa7837ef0679de2f57185ffc91.jpg",
+                    "amount": "13,8 х 5 см",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "ДиАнКари Пуходерка, на конце капельки",
+                    "description": "Не царапает кожу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/35b/dfo0qu92l37twb3ezai5sa61jnc80rb7/200_200_1/98fbbd25985890165edb28b5061ec8ed.jpg",
+                    "amount": "14,5 х 9,5 см",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Hello Pet Пуходерка, с пластиковой ручкой без капли",
+                    "description": "Подходит для всех видов шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/471/kvyote0ghwrinzz3h7xv711ac46v0ae1/200_200_1/859d44f339bde4205246705333f3d68f.jpeg",
+                    "amount": "S размер",
+                    "cost": "10,40  руб."
+                },
+                {
+                    "name": "Щетка односторонняя \"Lolo Pets\"",
+                    "description": "Односторонняя щетка для животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/359/e8dc0rg7jbfj947wbc2yyfk7hmfhoao9/200_200_1/9fc763b05dbc8a16c1e650ffffb3035b.png",
+                    "amount": "14,5 x 9 см",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Hello Pet Пуходерка металлическая (без капли)",
+                    "description": "Подходит для средних и больших животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df1/57y5uospxrok96a6zv6l0ji0tkm7rce1/200_200_1/117982e7ae12f06db47a690c9366757a.jpg",
+                    "amount": "M",
+                    "cost": "15,50  руб."
+                },
+                {
+                    "name": "Hello Pet Пуходерка метал. с пластиковой черной ручкой",
+                    "description": "Подходит для всех видов шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/05e/s3u5c0sf4zwdt1zbo1jc6fyaq0258twa/200_200_1/77286a557cd583867dcdcbf1c3c74afc.jpg",
+                    "amount": "S",
+                    "cost": "12,00  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-антистатик без ручки (тефлон)",
+                    "description": "Для кошек и собак, расческа из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad6/02o8lzsondfdzuvsypq070i9br5ia18m/200_200_1/15d04821c59ac7ff695d283df3942452.jpg",
+                    "amount": "15 см 39/23",
+                    "cost": "20,90  руб."
+                },
+                {
+                    "name": "Lolo Pets Щетка двухцветная",
+                    "description": "Односторонняя щетка-пуходерка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab0/26ctytsc8x35ejo1bif6xl8r5k7uw2w1/200_200_1/87c7d1d54ab7ba346cd5b539f395f229.png",
+                    "amount": "15x6,2 см",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Щетка-пуходерка Lolo Pets",
+                    "description": "Односторонняя щетка с деревянной щеткой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/40a/1apxi5mmx7qc03intm8w05f4w20bep0f/200_200_1/d439775d0ef15bda8337fdda69afc662.png",
+                    "amount": "12,5x6 см",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Hello Pet Щетка резиновая на руку (с каплей)",
+                    "description": "С Металлическими зубьями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d52/uv5ux1m3treqa9tsga1thn9mqjuuv91h/200_200_1/9d4e45cfcba982241ea068e46c614134.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,30 руб."
+                },
+                {
+                    "name": "For Friends Когтерез-гильотина, 8х14 см",
+                    "description": "Для стрижки когтей кошек и собак мелкой и средней породы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/167/7w41k6lif4z7dukcnnnrl93bhv97cgup/200_200_1/49cded375563026f81e5402f7a0f67ea.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,40 руб."
+                },
+                {
+                    "name": "Artero Колтунорез для лап и ушей",
+                    "description": "Для удаления колтунов в труднодоступных местах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ca8/f403oqam0lzd04n0o21pf7yahmis8ioq/200_200_1/c5ab6489154198edf2111e4ea0db635f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,20 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5872 с вращающимися зубцами",
+                    "description": "Грабли для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d68/rmfzu4d3bkxk85q32osfnuo69j7oe9ja/200_200_1/a11ed0d70250ea769f7e90164b2be1ab.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,80 руб."
+                },
+                {
+                    "name": "\"Le salon\" Самоочищающаяся пуходерка",
+                    "description": "Самоочищающаяся пуходерка для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0bb/mnw16q8k9vx7vmbv57nei913hmivs93s/200_200_1/51444b81033d2a70bc7ea1d67d94668c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,50 руб."
+                },
+                {
+                    "name": "\"Le salon\" Массажная резиновая щетка",
+                    "description": "Щетка для короткошерстных и гладкошерстных пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/353/d0jmqbeny6ttxlctcyiap81nd4zp7dj1/200_200_1/ff368e980b5d4aa6e40ffbcc33b9c109.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,70 руб."
+                },
+                {
+                    "name": "\"Le salon\" Пуходерка",
+                    "description": "Пуходерка для всех пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fee/4vnph4j77vdt7kpwxarum5prlcrj5dax/200_200_1/f14a664f111f4cd45bc523ad872a759c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,50 руб."
+                },
+                {
+                    "name": "CAMON Когтерез со стальными лезвиями",
+                    "description": "Когтерез для когтей собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5bf/sm9gcnc5a7o3v6vz1thyxsm8ybq4i96c/200_200_1/173dc29a7c0986888072a66a1fcc9edd.jpg",
+                    "amount": "M",
+                    "cost": "24,80  руб."
+                },
+                {
+                    "name": "Щетка-пуходерка \"TRIXIE\", 10х21 см",
+                    "description": "Для деликатного ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/099/07alyi6088adx69jqlbir7fl7x98wnhb/200_200_1/975a54ba6d1e4d37e11a0f596ef1670f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,20 руб."
+                },
+                {
+                    "name": "Щеткая-пуходерка \"TRIXIE\", 12х20 см",
+                    "description": "Для деликатного ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9d6/fd6ars18fppj7ke3f4alxb36vyb3cvzc/200_200_1/888f71836b81e43922e7dc92ce832981.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,20 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Щетка для деликатного ухода, 10х17 см",
+                    "description": "Для ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/40b/wa55io2s2t10rd1zympeqzr1j3ltt7s7/200_200_1/f53cf1e3057877ed34ccd668b8e4f932.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,40 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" для вычесывания, 15 см",
+                    "description": "Для вычесывания блох и вшей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f43/hmhg4az0k8vw652pdolvgv15pg81n7zj/200_200_1/84c262f6f17661ed1b085d1e23f66733.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,70 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" с широкими зубцами, 22 см",
+                    "description": "С закругленными зубцами для деликатного ухода за шерстью.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0a8/dkxrs0di7e4yv19gzj3qyks4p96v9f9e/200_200_1/075438d5df7bbd4e665824295a229a93.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,90 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" рукавица массажная двусторонняя, 12х14 см",
+                    "description": "Мягкая резиновая щетина для мокрой шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc4/m7gcpq7jyiyutyuuq4o3y7l27x2yovak/200_200_1/6faf783b1cf7c05b1f678a05b8ddb4d1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,70 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Щетка двусторонняя, 6х19 см",
+                    "description": "Для деликатного ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/98e/8f7v70c803c7wy6kgxjsnx42qqqazo7q/200_200_1/9a85133bd0a3d742bcdd04ca9f1c0b83.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,90 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Щетка двусторонняя, 5х19 см",
+                    "description": "Для деликатного ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8a5/0wpbw60irjis9bf0xjmbeyogwrmm1iac/200_200_1/34ccb4f4b311e235a7c3761b1dd0395c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "41,60 руб."
+                },
+                {
+                    "name": "Щетка \"TRIXIE\", 7х12 см",
+                    "description": "Для деликатного ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ad/4gs6htcrfkzp2xi6ko6jrbqoics1o4n6/200_200_1/3853a7c06d14ea2d7b6ef947a261f204.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,20 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Щетка двусторонняя, овальная 6х21 см",
+                    "description": "Щетка деревянная для шерсти и подшерстка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2de/ejy3w5clif0h1nnlwjuvr53vzyfojn59/200_200_1/e2b23b181fb2a4cdacc82493d7ebf12a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Универсальный грумер \"TRIXIE\",  7х18 см",
+                    "description": "Предназначен для облегчения расчесывания и истончения шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e0/571mdo1nugdhiep7k8rx2pl3qhb1f71k/200_200_1/0f0295654979864dda4aaccc98018baa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "52,10 руб."
+                },
+                {
+                    "name": "Колтунорез универсальный \"TRIXIE\" с мелкими зубцами, 5х18 см",
+                    "description": "Помогает расчесывать и разрезать колтуны.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/302/fcso1vdsj09im95ov7hnu0g7o77dl2ix/200_200_1/8b7e6f79391b0c20d804cc8c7524e8b5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "62,80 руб."
+                },
+                {
+                    "name": "Аллюминевая расческа \"Hello Pet\" с острой ручкой, 22 мм",
+                    "description": "Предназначена для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a13/ms2bk9oz6vcyjp4ycd02dco36tnh013e/200_200_1/68f9b23b0855f5f7ff677906c12cabbd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "59,20 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа 34 плавающих зуба",
+                    "description": "Расческа для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b8f/82t20oietucneeph1s1ghr9zi5ph4f60/200_200_1/b572fa91689c0995e577c4de3333e956.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,30 руб."
+                },
+                {
+                    "name": "SENTRY Щетка \"Groom ‘n Comb Secret\"",
+                    "description": "Ухаживающая угловая щетка с кошачьей мятой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dff/uctjg9ibiap1oexzbcmm1ffpegay85lr/200_200_1/37c3993534076da072a314a1171aeb4d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "LO 53131  Щётка-пуходерка",
+                    "description": "Белая щетка-пуходерка, 14,8х12.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/133/ij29j892x1j0ll7psct7fls4429n41rw/200_200_1/9b33100ca381a731bf1b27d14fd35c14.png",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "DeLIGHT Скребница двухсторонняя большая",
+                    "description": "Эффективно удаляет старую выпавшую шерсть и лишнюю воду",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ecb/914ooj2ni9rqdmn28c7o2ethj5scgj2t/200_200_1/51cb1dbaee4f2bac554c9116c27c31aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "32,80 руб."
+                },
+                {
+                    "name": "Ziver Расческа с перемен. вращающ. зубчиками (18+17)",
+                    "description": "Для расчесывания шерсти, с гелевой ручкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be7/rxxqpt41qcpvuhttwrwri8l51x1lg1de/200_200_1/01bcba0e50202bc22e36d8d066d4db1b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,90 руб."
+                },
+                {
+                    "name": "Ziver Расческа, 35 вращающихся зубчиков",
+                    "description": "Для расчесывания шерсти, с гелевой ручкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ed0/g3ai2a39t5y32jxd58pwn1efrc8q84an/200_200_1/8707210c3b6ac821a3876e825d002376.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,90 руб."
+                },
+                {
+                    "name": "Ziver Расческа, 24 вращающихся зубчика",
+                    "description": "Для расчесывания шерсти, с гелевой ручкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b7/idnfvgzvsay0wv7ximt7r80rcvf1m9nu/200_200_1/d61aa8f6ff37ebeb491070a5ee5dbc3d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,90 руб."
+                },
+                {
+                    "name": "Ziver Расческа двухсторонняя",
+                    "description": "Для расчесывания шерсти, с гелевой ручкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/baf/g8c282un8qqobsej5z5kz9cod6n7f6bu/200_200_1/acc8519fd7f1a89389cd7d472edc5c82.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,50 руб."
+                },
+                {
+                    "name": "Ziver Колтунорез прямой, 9 лезвий",
+                    "description": "Против колтунов, с гелевой ручкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/654/ps294381nft1h1r30drnuznrrl6dtjtg/200_200_1/9d22eb495864a6f62baab585ec17cdb7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,30 руб."
+                },
+                {
+                    "name": "ДиАнКари Расческа двухсторонняя, деревянная ручка",
+                    "description": "Расческа для груминга, 17,5 х 5,4 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d3/1y2rqj4nh8qc276ly1wr9mayxqw7xk5t/200_200_1/48455225af0031b2a1e5a103265ae8e2.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "ДиАнКари Расческа, деревянная ручка",
+                    "description": "Расческа для грумминга, 19 х 3 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c50/o1aq9j8us1uxkckohkbfj3o779bxffx8/200_200_1/d52a6dda0fecdfbc9f14b9727f9e811c.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "ДиАнКари Когтерез и пилочка для животных, 14,5 х 8 см",
+                    "description": "Комплект для ухода за когтями животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab6/2l0ns59dv1ux18zw0mw2ilwag8sizpty/200_200_1/a376f37c3f9e9fdafc9ee3fcecff859e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Hello Pet Пуходерка пластик с каплей малая",
+                    "description": "Мягкие безопасные зубья",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/15c/19k931yqqgmub0bsl5xvtnkx8x2w0c2g/200_200_1/27793f165913672ba6fc6ac455192d0d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,80 руб."
+                },
+                {
+                    "name": "Ferplast Массажная щетка GRO 5935",
+                    "description": "Массажная перчатка для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0a/93iwua4kyx3pnusa08x67iiecctn6t4f/200_200_1/5f9382ee9ea4b6243c76ad665939856a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,70 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5862 с прореженными зубчиками короткая",
+                    "description": "Расческа для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42d/ukidmb4mu8bwforsjfbdfpndp8p2w34e/200_200_1/9b8808e582a6cf397f83e5f8f29d64fd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,10 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-грабли 25 зубьев, двухрядная",
+                    "description": "Подходит для собак и котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6b/oap7l2mm8kpac2cco7xfgpwwpbt5la6d/200_200_1/23759a8e37ce4712655adc1b72cc9657.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "13,50 руб."
+                },
+                {
+                    "name": "Beeztees Щетка для вычесывания во время линьки",
+                    "description": "Регулируемая щетка для короткой и средней шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9f7/uopocy0gqbw7gtxw1sx3d9m1fvlsclu5/200_200_1/0d23e2390157a3e0a4f511da2c2c3850.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "48,90 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Щетка односторонняя для шерсти, 5х21 см",
+                    "description": "Для ухода за верхним слоем шерсти и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c41/w351dz0yrdar0qk0fl8iknmb5bc6guz2/200_200_1/c976c57af5643c23e4f47013be910456.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,70 руб."
+                },
+                {
+                    "name": "Массажная щетка \"TRIXIE\" для кошек, 7х11 см",
+                    "description": "Силиконовая щетка для ухода за шерстью.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/166/pbgmfjmyljam5lk1zmbnojo6z0r3f70q/200_200_1/c0ba6892a59c53184e8e4a6df23ee5c7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,30 руб."
+                },
+                {
+                    "name": "Hello Pet Щетка массажная малая метал. зуб для кошек",
+                    "description": "Для повседневного ухода за шерстью кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6f/50c8lznjd1708xapw2if0zbhvvhupcu7/200_200_1/1f0d839b6f3b33f003f7db5b61c627d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,00 руб."
+                },
+                {
+                    "name": "Ferplast Когтерез GRO 5984, 10,5 x 6 x h 0,7 см",
+                    "description": "Ножницы-когтерез для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b7d/cc65ubkwewv8i516xufshv7twhdk0klb/200_200_1/cd8d3661230c257a734981ed890c7802.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,30 руб."
+                },
+                {
+                    "name": "Ferplast Когтерез GRO 5808, 10,5 x 6 x 0,7 см",
+                    "description": "Когтерез для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/853/bz63wzeu5lv52592uo15jls2lf3y83ji/200_200_1/4a70219c1280d9377254b2061c649fd5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,50 руб."
+                },
+                {
+                    "name": "Ferplast Щетка для кошек GRO",
+                    "description": "Двусторонняя щетка-пуходерка для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6db/9xnpjkcaf93xuwashksetxdh8gbdtumd/200_200_1/038817e5b28cfc09512a6ed273e732c9.jpg",
+                    "amount": "S",
+                    "cost": "27,30  руб."
+                },
+                {
+                    "name": "Ferplast Пуходерка для кошек GRO 5799, 14,5x6,8x3,5 см",
+                    "description": "Пуходерка для кошек с пластиковыми зубьями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/08c/qui5xl7bxjwxai1201wodsl98sppvouf/200_200_1/24df81dd02dab85d3011b630385c61b2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,30 руб."
+                },
+                {
+                    "name": "Ferplast Пуходерка для кошек GRO 5802, 16x9,8x3,3 см",
+                    "description": "Пуходерка для кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/512/t7pa1dmjlavksxrpbqtbkfzs42v1jska/200_200_1/81b74c337d366e639dca8357a3ab294b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,90 руб."
+                },
+                {
+                    "name": "Ferplast Пуходерка для животных GRO 5942, 15x7,3x3,3 см",
+                    "description": "Пуходерка для кошек и собак со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bd2/sftv4yqawxrtpplzw69vfg8d02cjyta5/200_200_1/b84bce5e0647b04a8746e8db7e3465f9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,30 руб."
+                },
+                {
+                    "name": "Ferplast Пуходерка для животных GRO 5944, 16x9,8x3,3 см",
+                    "description": "Пуходерка со средней и длинной шерстью.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9cc/y3533s74468ljguv494xoeq3l9ivr0up/200_200_1/660315ce1ebe1697af5b27f1bbcd4826.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,90 руб."
+                },
+                {
+                    "name": "Triol Колтунорез боковой \"Стандарт\", 65*190 мм (блистер)",
+                    "description": "Для собак и кошек (9 функциональных зубцов-лезвий).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd3/5ckxw255upxqpb3lck3os7rfd2s2bkjp/200_200_1/ffeeaee57388e972b8a3d13f1223e597.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,10 руб."
+                },
+                {
+                    "name": "Ferplast Пуходерка для животных GRO 5946, 16,5x11,4x3,3 см",
+                    "description": "Пуходерка со средней и длинной шерстью.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/24e/9fjc5wl7om2h70a3iabtpdii8tg8fg3v/200_200_1/b816ce11a18d75470b92c1e0e7a52920.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,60 руб."
+                },
+                {
+                    "name": "Ferplast Щетка для животных GRO 5982, 17x10,5x5 см",
+                    "description": "Щетка-пуходерка для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b73/a24j9ph4r96an24j23x8lf3d2sa45npm/200_200_1/44eb4930df3a7b7ae59e4cc0d7574201.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "32,40 руб."
+                },
+                {
+                    "name": "DeLIGHT Щетка одностор. на дерев. основании, чёрная",
+                    "description": "Деревянная ручка из бука, жёсткий корд (зуб. 2,2 см)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a2/9n38pmfymjyopgrbxlg3bgy2zglphf9q/200_200_1/a4191899a790e67c655ac17be214e629.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,90 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5860 с прореженными зубчиками длинная",
+                    "description": "Расческа для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/318/z77b9qo65gse9v379nzd6aa0zj5zyyot/200_200_1/42043f70e5d0a57fbb7d990714b5762e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,40 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Щетка деревянная для ухода за шерстью, 5х18 см",
+                    "description": "Мягкая щетка для ухода за шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4aa/aw6dsv7aidvmn9a6km1znw0ju3vp05gm/200_200_1/fac863e43668883b22189d1af6b759bb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "Beeztees Расчёска с вращающимися зубцами средняя, 21 см",
+                    "description": "Расческа для ухода за шерстью животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/319/qe6zu2njlmc82f688ja0khp1x6i4x2q1/200_200_1/3842b898f51a1d4a39babfb3e42ca884.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,40 руб."
+                },
+                {
+                    "name": "Beeztees Колтунорез грубый, 19 см",
+                    "description": "Колтунорез для длинношерстных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ca/03hpf3s4s68m9egnwch5ad3zm0dox8zl/200_200_1/df2b4c5bb0b4a6995c943caf5a7eff26.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,70 руб."
+                },
+                {
+                    "name": "Beeztees Расческа-скребница двойная, 15 см",
+                    "description": "Гребень для животных с густым подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d0f/ln2l4ka65f36m1il96jl1u4fatnfdtte/200_200_1/ac24393de7703abb8656b28780eac76e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,20 руб."
+                },
+                {
+                    "name": "Beeztees Пуходерка самоочищающаяся большая, 17 см",
+                    "description": "Пуходерка для животных со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0f/4hai0znvzwnx1hhv8ps5wcjykrfj1a0i/200_200_1/53166a3210295bbacf4da85369a65eb5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "44,90 руб."
+                },
+                {
+                    "name": "Hello Pet Пилка для когтей",
+                    "description": "Для полировки, стачивания и чистки когтей у животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/160/8uy5dxh6vcwjls4g12te3a3avnpc7n3n/200_200_1/d6321b304c8f1cf65412b8627680173e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "ДиАнКари Электрическая машинка для шлифования когтей",
+                    "description": "Машинка на батарейках, 17х2,5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f5/u5omzo50nyb35ufewuwh0uki8lmjuw9p/200_200_1/83c320f999f1914b939dbd2bafb5e447.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,50 руб."
+                },
+                {
+                    "name": "ДиАнКари Массажерка-перчатка, 22х17,5 см",
+                    "description": "Массажная щетка для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1eb/1xllfzqiy2a3fh3rzhroydg7r49laghi/200_200_1/08d7e6346f9e2578737651ab9469733d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,60 руб."
+                },
+                {
+                    "name": "Ferplast Двусторонняя щетка для животных GRO 5933",
+                    "description": "Для животных с короткой шерстью, 11 x 15 x 3,5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81c/su3621e2yh58jl67fxgncrdzp4mel1gk/200_200_1/e217d4a464da14d9e04eb90c8cc4e9a0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "51,50 руб."
+                },
+                {
+                    "name": "Hello Pet щетка резиновая на руку (без капли)",
+                    "description": "С металлическими зубьями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b0/s2t336t97ljqa5fijnybpkk7lb4zi7mp/200_200_1/f332f01235954304b9f8d38c0aee3de4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,40 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для животных GRO 5866, 20,2x1,6x4,2 см",
+                    "description": "Расческа для животных со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a54/2fliiwytwszxwja93i0bg0gj17y5c7ns/200_200_1/ac1ed448f4eda7c6ff1e7b866226fd2e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,10 руб."
+                },
+                {
+                    "name": "Алюминиевая расческа \"Hello Pet\"с острой ручкой, 18 мм",
+                    "description": "Предназначена для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d89/pcc1fdaevqbltpoxncpw0rxk54gz4cwp/200_200_1/f1d9480f79363cb59aeb9601dfb65c04.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "57,00 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Массажная щетка, 6х12 см (для нанесения шампуня)",
+                    "description": "Щетка из натуральной резины.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b7/k0b2niukdzd899w725y6jbmdp021xh7e/200_200_1/e7c3cbf68360237950e8f48217e1afac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,20 руб."
+                },
+                {
+                    "name": "Grumer Small Dog Short Hair",
+                    "description": "Для собак мелких пород до 9 кг с короткой шерстью (менее 5 см)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b7c/z3219q4eg0hm61wyrtdonkop11ogxxuy/200_200_1/aaa6d71454cc6309d0124b76a219fbd0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "49,60 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа-антистатик без ручки с удл. зубом, 19 см",
+                    "description": "Тефлоновая расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d8/is4s63y3efdnotf7og3t8lqs2iet5snw/200_200_1/687c98d31f22dca757788d575b0f0d65.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,20 руб."
+                },
+                {
+                    "name": "Щетка \"TRIXIE\", деревянная, двусторонняя, круглая 6х17см",
+                    "description": "Щетинки из нейлона и металла с наконечниками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/329/hwwif7uzwsffusz6emsy9ft3r0gpglpu/200_200_1/e8beca6eceaa3a17f0fb97cab9b5438d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Мягкая щётка-пуходёрка \"TRIXIE\", 7x16 см",
+                    "description": "Мягкая пластиковая щетина с наконечниками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/757/s7p71zdmyis1v17ikl7ytmlkus5eljjq/200_200_1/cfdfcc0f5ab5e7f71c258fe2dca8aa33.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,50 руб."
+                },
+                {
+                    "name": "DeLIGHT Щетка узкая односторонняя профессиональная",
+                    "description": "Щетка с длиной зуба 2 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/529/apwqggyxdsw7e2963j5h0la0m9vkf58l/200_200_1/72e9bd1010db355f47263aff5e005419.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "56,90 руб."
+                },
+                {
+                    "name": "DeLIGHT Грабли трехрядные особопрочные узкие",
+                    "description": "Расческа с длинным зубом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/33d/5da0j4cnkz5am8yb49txmva6uv3jn8bn/200_200_1/9c052b8292382f7126b538722934d34d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,30 руб."
+                },
+                {
+                    "name": "Hello Pet Колтунорез боковой мини (загнутый)",
+                    "description": "Боковой колтунорез мини, 8 лезвий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f66/vl1xlqdxu12m15naa09c8sk7ggl20gxv/200_200_1/03374e9fb582a4eff5d161d34ba13b03.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,40 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" с короткими зубьями, 22 см",
+                    "description": "С тонкими закругленными зубьями для нежного ухода за шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/327/mszad7agmaq0nhfomdi2pz3qxh694n9e/200_200_1/b9af8c1c91b88eecfaf00696770d4218.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,90 руб."
+                },
+                {
+                    "name": "Резиновая щетка круглая \"Le salon\"",
+                    "description": "Резиновая щетка для короткошерстных пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/539/hajh6k9n1n53h14oe8abwcvuwht3tb8k/200_200_1/93fdf37723111e7a086e27f001aa6f7d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,30 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5856 с частыми зубцами",
+                    "description": "Расческа для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65d/qci7b3h4ratqagzbjtryt0cbslpo1hnf/200_200_1/b175fd2cf1afe85728880686ef0579b9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,70 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Щетка-пуходерка двусторонняя, 7х16 см",
+                    "description": "Для деликатного ухода за шерстью и подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/850/rkxbmidhtifxthte5lhp0pl3wum6ywlh/200_200_1/f55b62a3fd2c48efc06f3f1e9dd13d18.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,90 руб."
+                },
+                {
+                    "name": "Колтунорез \"TRIXIE\" универсальный, 7х18 см",
+                    "description": "Помогает расчесывать и разрезать колтуны.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a33/uzuaezickjld1hm4z51a00xcew374a0t/200_200_1/c98afabafde08fdfccaffc90ee71a7a4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "58,40 руб."
+                },
+                {
+                    "name": "FURminator Резиновая щетка для кошек и собак",
+                    "description": "Резиновая щетка-фурминатор для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad0/oionlszw121lkrz5k8mxwgfjo8d1kg9t/200_200_1/ef5ea73cecf1c2caac820ed180623ec8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,10 руб."
+                },
+                {
+                    "name": "Hello Pet колтунорез боковой мини (прямой)",
+                    "description": "Боковой колтунорез мини, 8 лезвий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c5/zh45citewif1xia0bo7pmc5q9ucm0cx6/200_200_1/aa73e3888812e8b957a29618b554e2e9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,60 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа 44 плавающих зуба",
+                    "description": "Удаляет старую шерсть, грязь и предотвращает скатывание шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c63/2h63v57jq1ly8bx3dsjlxymuv97mav1l/200_200_1/643457f7587a515a291eca2f842cc8ee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,00 руб."
+                },
+                {
+                    "name": "Массажная арка \"TRIXIE\", серый, 36*33 см",
+                    "description": "Поддерживает уход за натуральным мехом кошки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b67/bnv0x9aopv3fucianv5c1p4wc5yi0kx1/200_200_1/9c9c857d2ec070d9c9722e8a28b270dc.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "61,50 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-антистатик (тефлон) 58 зубцов",
+                    "description": "Для кошек и собак удаляет старую шерсть, грязь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e51/oufq66fjwfi2caazbt2zunq1j5rxm2vm/200_200_1/f31ab28935fe11401e3388f6e0921366.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,80 руб."
+                },
+                {
+                    "name": "Wahl \"PocketPro\"",
+                    "description": "Триммер для животных, роторный.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f7a/snbi9xjif61bhixwkbh34w963i1to1v6/200_200_1/ab4eba98e2ef8e60c56badb281b84fed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "56,00 руб."
+                },
+                {
+                    "name": "Hello Pet Когтерез-ножницы загнутый",
+                    "description": "Когтерез из нержавеющей стали для животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e56/7rthmywlfcbe3ggh4k2y3drwlgyd3hrl/200_200_1/f4c88766037fd435d6f234d7220e0d7b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,00 руб."
+                },
+                {
+                    "name": "ДиАнКари Массажерка-перчатка для жесткой шерсти, 24х18 см",
+                    "description": "Перчатка стимулирует кровообращение.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/08a/twoqqg9y2x6ur2270lavn9ika9hhczva/200_200_1/79f11727eb9124141dba7936142ce8cd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,10 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5878 с вращающимися зубцами разной длины",
+                    "description": "Расческа для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/401/l5b3acdbdqj66vmx8326ijgqnw8l1bts/200_200_1/8d1ad82cdee560988144851ec66e9e60.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,20 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5874 2-ух рядная с вращающимися зубцами",
+                    "description": "Грабли для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e79/98hlwzp758bz6kgaqxxcr6xoznqjwpm8/200_200_1/c119574bb74f1088e679d473de52eaf1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,90 руб."
+                },
+                {
+                    "name": "DeLIGHT Пилка для когтей",
+                    "description": "Для обработки когтей у животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb2/xp83ak4h2bi9r1evcraqbqxj0pxqbmko/200_200_1/fdba5b4c113afa10fb62cffb0b993153.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,90 руб."
+                },
+                {
+                    "name": "Резиновая щетка \"Le salon\" 13х8х3 см",
+                    "description": "Подходит для всех пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/852/1x2z53zly30giui55efw6un874o43dbf/200_200_1/be6bb7497b900dc6ee0df25dc3c7df01.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,00 руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Когтерез-ножницы загнутый",
+                    "description": "Когтерез-ножницы для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/855/9zvljveoj1kegbprbf97sinje10b6sda/200_200_1/548c6e3ac209eb3493aa51b9ed7a67ed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,70 руб."
+                },
+                {
+                    "name": "8in1 Perfect Coat DeShedder Cat",
+                    "description": "Дешеддер для удаления подшерстка у кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/492/hbuhuziyjaoh037gy4pi88ddc1ihhi82/200_200_1/42aba363fccad967fb348a5ed632278a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "COMFY Когтерез \"Katana\"",
+                    "description": "Когтерез-секатор из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e41/pycf2k2hny81hhma30iagz26nwak89rw/200_200_1/ea1246213295fafb2313d6a6ec5a32b2.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "14,00 руб."
+                },
+                {
+                    "name": "COMFY Когтерез \"Samurai\"",
+                    "description": "Когтерез ножницы для небольших животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f5/m9jxe8zab5fcdhy23u782yzbxdw9jetj/200_200_1/2c422f3a4028e8e1518feb5939567fcc.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "19,00 руб."
+                },
+                {
+                    "name": "COMFY Когтерез \"Shogun\"",
+                    "description": "Когтерез-гильотина для стрижки когтей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/925/tkjv30bak1ge1f2p1wpyfa2ka1rplcfy/200_200_1/6af243febbfc77ae1406456c86a2188d.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "20,50 руб."
+                },
+                {
+                    "name": "Кусачки \"TRIXIE\", для когтей, большие, 13 см",
+                    "description": "Ножницы для когтей, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e9/wmi3zpq0btxg9azdswvjqpdkk4ix47bi/200_200_1/6cb6d4079fb4305dce112ac5ddfb3695.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,90 руб."
+                },
+                {
+                    "name": "Triol Когтерез-гильотина \"Стандарт\", 75*140 мм",
+                    "description": "Когтерез-гильотина для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d82/j5sghfjjpjcgihbl8cd7nxqjmyn2qe1y/200_200_1/690c7ddbce1763aaadc174b6af00a7c7.jpg",
+                    "amount": "Блистер",
+                    "cost": "13,20  руб."
+                },
+                {
+                    "name": "Triol 331AB Когтерез боковой",
+                    "description": "Когтерез боковой для животных, 45х135 мм, блистер.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ee/vh308sn382dcp83fjguixpwfbmw0y9zp/200_200_1/77ea899b6ff75db997600c2edeaffcb4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "FURminator Undercoat Cat S Short Hair",
+                    "description": "Фурминатор для кошек (до 5 кг) с короткой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/662/dn7na3ud18nk2qb4ou7yvvp810dat3r5/200_200_1/13fc31c58ea5efe04023bd9d47fafb18.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "90,70 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка \"TRIXIE\"",
+                    "description": "Щетка-пуходерка для ухода за шерстью, 7x16 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/72c/q68so2x5h6t8e06iibvt2u8z36yy1yyf/200_200_1/9ad9c348e2fad96059508e81792c6041.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,70 руб."
+                },
+                {
+                    "name": "Мягкая щетка \"TRIXIE\" с подвижной головкой, 5х20 см",
+                    "description": "Мягкая щетка для верхнего слоя шерсти и подшерстка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4b/phekousjwmeaot8rpz6qu44fgt1jctw2/200_200_1/0285b5f1da8afbc3d3e712548fd49611.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "44,60 руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\",  для ухода за шерстью, 22 см",
+                    "description": "С закругленными зубьями для разглаживания шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/79d/6tgqvm3glovlbprv79p18yhi2r2ze80g/200_200_1/cd7d7ff61c2d235acb84759f263af9d1.jpg",
+                    "amount": "Короткие зубья",
+                    "cost": "25,90  руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" с вращающими зубьями, 22 см",
+                    "description": "Для распутывания шерсти с закругленными зубьями",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/75d/zphiwt3tzvsr0h2lct0oml3ztlul36ll/200_200_1/0d738db751d67f54656c97002cf0480a.jpg",
+                    "amount": "Тонкие зубья",
+                    "cost": "31,70  руб."
+                },
+                {
+                    "name": "Расческа \"TRIXIE\" \"Comb\" с деревянной ручкой",
+                    "description": "Расческа для вычесывания выпавшей шерсти, 22 см.",
+                    "image_url": "https://garfield.by/upload/iblock/d93/g6iej16uhtbm3q15g2vb8vqpbgs108qu/b5b02b78b5e7bcb5b3c47df476a81ab6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,70 руб."
+                },
+                {
+                    "name": "Массажная щетка \"TRIXIE\" с петлей для руки 6х15 см",
+                    "description": "Для поверхностного ухода за шерстью.",
+                    "image_url": "https://garfield.by/upload/iblock/c6c/49o4vvwr5es3sulk7svi8onilm2bp0q4/4778156200cd87346667f105b57c6b34.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,30 руб."
+                },
+                {
+                    "name": "Массажная щетка \"TRIXIE\", с петлей для руки, 9x13см",
+                    "description": "Массажная щетка резиновая, разноцветная.",
+                    "image_url": "https://garfield.by/upload/iblock/520/vjlhpv977k6qxy602hx5eghequ5uvhno/9974021499c257c941b78ad0d954f537.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,70 руб."
+                },
+                {
+                    "name": "Щетка \"TRIXIE\" пластиковая односторонняя",
+                    "description": "Щетинки с наконечниками, предназначена для верхнего слоя шерсти.",
+                    "image_url": "https://garfield.by/upload/iblock/1ca/7rl0xg5x3m59jyji7koi4ayur95xp692/6a44cffae276db9c5bbb1052b43ed82e.jpg",
+                    "amount": "5x19 см",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Щетка \"TRIXIE\" пластиковая, двухсторонняя, 19x5см",
+                    "description": "Мягкие нейлоновые и пластиковые щетинки с наконечниками.",
+                    "image_url": "https://garfield.by/upload/iblock/e28/qx2c65ec038sw6fk1gu2m8whlrpjrb53/3c436692bf2b80999fdd3ef9f00c838d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,00 руб."
+                },
+                {
+                    "name": "\"TRIXIE\" Щетка двусторонняя, овальная 6х23см",
+                    "description": "Щетка двусторонняя для верхнего слоя шерсти и подшерстка",
+                    "image_url": "https://garfield.by/upload/iblock/ec4/ijy3wdk859ik1y8zdn4oqpjgybucaite/e64febd52576ccbb478e725205297e56.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,70 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка \"TRIXIE\" для ухода за шерстью, 10х16 см",
+                    "description": "Металлические щетинки, для верхнего слоя шерсти и подшерстка",
+                    "image_url": "https://garfield.by/upload/iblock/abb/o8y3ylzrkgu46e1l98zuuvq6x7likyd5/f5c97672a86f253c82afc578416af314.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,40 руб."
+                },
+                {
+                    "name": "Щетка-пуходерка \"TRIXIE\" , пластик, 9х16 см",
+                    "description": "Подходит как для верхнего слоя шерсти, так и для подшерстка.",
+                    "image_url": "https://garfield.by/upload/iblock/e12/rlffjjhtj0f59h5qr0fvwi3bl03t6ob6/3f89f93b0356880d84bd544708a959b9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,80 руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка + гребешок \"TRIXIE\"",
+                    "description": "Мягкая щетка с гребешком для очистки щетки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/740/7ggk5qadq61lh533zthqjucaulwkaqg0/200_200_1/111edd1caa2b5cee302dbda13c4fb904.jpg",
+                    "amount": "7x13 см",
+                    "cost": "11,40  руб."
+                },
+                {
+                    "name": "Мягкая щетка-пуходерка + гребешок \"TRIXIE\", с деревянной ручкой, 11x14см",
+                    "description": "Мягкая щетка со скребком для очищения щетки",
+                    "image_url": "https://garfield.by/upload/iblock/7b9/rz0bqr660q2va9u16r0w2zjym0i53sr5/949987e21f2b2d691fc6c8b9ac206951.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,10 руб."
+                },
+                {
+                    "name": "Колтунорез \"TRIXIE\" с изогнутыми длинными зубьями, 19 см",
+                    "description": "Распутывающая расческа с изогнутыми зубьями и зазубренными краями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/444/hveish149z7ofyqa095ouxvuo8hq0ltj/200_200_1/af5eefd3c7801b31293b628ea129cd69.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,40 руб."
+                },
+                {
+                    "name": "Ручка FURflex Handle 24 YA",
+                    "description": "Ручка для насадок FURflex",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7f5/q2ru6aj1iblujg6mp52etqc9illsew7b/200_200_1/db115cd311764625c8a3860c32a6ea62.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "38,10 руб."
+                },
+                {
+                    "name": "Triol 311 Расческа Спорт",
+                    "description": "Расческа для собак, 30х195 мм, пакет",
+                    "image_url": "https://garfield.by/upload/iblock/90b/3qbdoqy2ggeo7hrbjx19bzdi15xjq79l/97b1b17a471758a05ff5275a0a13dad9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Triol 307 Расческа Спорт",
+                    "description": "Расческа для собак и котов, 35х200 мм",
+                    "image_url": "https://garfield.by/upload/iblock/9ae/a1gi1o1jlf2s9ixm021srdimizsnhq9v/0dfd75b75f1b64f14409231fe7dcae0e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Triol 306 Расческа двухсторонняя Спорт",
+                    "description": "Расческа двусторонняя, 55х195 мм",
+                    "image_url": "https://garfield.by/upload/iblock/fe2/p0rvbj6s9yxxt42jhafk9tx5xxaxwigs/42d2f305eeac5d9ad5b6a072d4a57bbc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "Grumer Small",
+                    "description": "Для кошек и собак весом до 5 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ed/eqryj104a4ad8txb25w22pe7q5d73b5b/200_200_1/38a89c809c5b0253f1e49eb0955f659f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "39,00 руб."
+                },
+                {
+                    "name": "Catit Набор для груминга короткошерстных кошек",
+                    "description": "Качественный уход за шерстью , 5 предметов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/493/qtcspn3udnocj3oa18kafqcqx8zxv5j4/200_200_1/750d3936b4e4564e1695e2aa7ec13a4a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "168,50 руб."
+                },
+                {
+                    "name": "Catit Набор для груминга длинношерстных кошек",
+                    "description": "Качественный уход за шерстью, 5 предметов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/764/326d9af7jj713knw6t1apxu4altm5k35/200_200_1/26a4ef5ecd717cc42584c1dcc194a8ee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "193,80 руб."
+                }
+            ]
+        }
+    }
+}

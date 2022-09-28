@@ -1,0 +1,261 @@
+{
+    "Птицы": {
+        "Витамины и добавки": {
+            "url": "https://garfield.by/catalog/birds/vitaminy-i-dobavki.html",
+            "products": [
+                {
+                    "name": "БОСПА ЭКО Универсальная травка для домашних животных",
+                    "description": "Универсальная травка для домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/burgcg5cw22ttd285rmvwil6eftqyrzw/200_200_1/08d9cc84912c6478f950e6d781c5596e.jpg",
+                    "amount": "150 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Точило для попугаев и декоративных птиц",
+                    "description": "Лакомство для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f53/ldqb5kcn49nw60o022wv707qcj35ino3/200_200_1/8996e73ead6f232e534e9c73eb34e93a.jpg",
+                    "amount": "40 г",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для попугаев с древесным углем",
+                    "description": "Лакомство для попугаев с древесным углем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0bd/6oqcablj5jb3kxxulyx5rqxdi3wwcped/200_200_1/b73ea89b2365b2b40e703e4250571e0f.jpg",
+                    "amount": "30 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для попугаев с ракушкой",
+                    "description": "Лакомство для попугаев с ракушкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bca/bcythks3m38v830wogs997gvoe4wlnsr/200_200_1/46bcb3be12f343e52e57f6cc3ce02ea1.jpg",
+                    "amount": "30 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для попугаев с витаминами",
+                    "description": "Лакомство для попугаев с витаминами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a58/680yf3w9azp5nhuprnk3ubxjkxpuhluj/200_200_1/7dd51ad9cbf450451478ef4d2a49ec62.jpg",
+                    "amount": "30 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "Dr.Hvostoff Мел для волнистых попугаев с ракушечником",
+                    "description": "Добавка для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/117/le48iblsdpqoyjs59h60ulj8iy8pttvc/200_200_1/f246bda01c15e52dd4d5d7b072a7332a.jpg",
+                    "amount": "16 г",
+                    "cost": "1,10  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Мел для волнистых попугаев",
+                    "description": "Добавка для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34a/23dnz27sq32039hc2cwo68wmnj5trosi/200_200_1/50b0dbddc8da93200750d7ccf787e1ca.jpg",
+                    "amount": "16 г",
+                    "cost": "1,10  руб."
+                },
+                {
+                    "name": "Dr.Hvostoff Минеральная смесь для пищеварения",
+                    "description": "Добавка для всех видов птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/186/v8u00h4gfk0p19zx7i59zvflnkbfy6vu/200_200_1/f196b1f607c3c789cda9256cbf1ffdfa.jpg",
+                    "amount": "1 кг",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Beeztees Игрушка для птиц Кость каракатицы",
+                    "description": "Камень для чистки клюва",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/630/00cw3ulz1ctaoos9qvu80yphbq82njzs/200_200_1/941f00c32aafef7a1e447272915cf1d9.jpg",
+                    "amount": "",
+                    "cost": "22,90  руб."
+                },
+                {
+                    "name": "RIO Кость сепии",
+                    "description": "Минеральный корм для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e81/bg2evvqc31o8wvt96rs5nhmlr3emn3qj/200_200_1/81fe75d36a17fcb2121e3c256b63f723.jpg",
+                    "amount": "1 шт",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "RIO Витаминно-минеральные гранулы для волнистых и средних попугаев, 120 г",
+                    "description": "Добавка для птиц способствует укреплению иммунитета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b64/z89phz2895sn9hhki3mjl63q2h1j9818/200_200_1/1f9f2f28dbe26433ec39a47d13426408.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "RIO Витаминно-минеральные гранулы для канареек, 120 г",
+                    "description": "Добавка для птиц способствует укреплению иммунитета у мелких птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c96/goed4nraib4yznabjvc5e4sjxlg9rrtk/200_200_1/b4f7165338e5987909f9b8ff3d033630.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Irbis Сorn \"Овощная тарелка\" для птиц, 15 таб.",
+                    "description": "Мультивитаминная добавка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b3b/of35oqbar9dtlfq4xh2x21wesi0l9p5x/200_200_1/4a45ebbf2bacbf2f178960a1e3a79af6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Irbis Сorn \"Фруктовая корзина\" для птиц, 15 таб.",
+                    "description": "Мультивитаминный комплекс для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/19f/749uzch1k3gs1mo7s2qj9j77n2lq848e/200_200_1/74f8426baf2c4f7d5940c330b0d0d72f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Versele-Laga Sepia Mineral (панцирь каракатицы)",
+                    "description": "Минеральное лакомство для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/709/7yieaebye4zmpi0b678kx2o1275ge6x1/200_200_1/2221330 (1).jpg",
+                    "amount": "16 см",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "RIO Минеральная Смесь, 520 г",
+                    "description": "Добавка для птиц способствует улучшению работы пищеварительной системы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9b3/2v4zi806nnxhe9f0q72helbnabd2te5c/200_200_1/6a62f9df7886b5be649b211a816cbbcd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "БОСПА Минеральный камень для попугаев Ромашка",
+                    "description": "Лакомство для попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/362/kgtrrxrnz2460r253bnoeczvf645lka1/200_200_1/f88f488ff75fff28068d7219a448b296.jpg",
+                    "amount": "30 г",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "Природа Минерал Цитрус для декоративных птиц",
+                    "description": "Полезное лакомство для средних и декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f79/bx3om03drm7yx7tff9y3jku8oosc70tx/200_200_1/9f7d75e1c27a518737474c1bdc3949d2.jpg",
+                    "amount": "18 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Природа Минерал Зеленое яблоко для декоративных птиц",
+                    "description": "Полезное лакомство для средних и декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2af/4604g10vwg1jt67bpv6lpmllkp6ggw36/200_200_1/b91f2bc577c955e11a1feeff1fc05bbb.jpg",
+                    "amount": "18 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Природа Мелок с морскими ракушками Крейда",
+                    "description": "Полезное лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bbb/e5ywf36d02k0l6a21cekl9f8ufdne9jy/200_200_1/3eb4ec54bb4e480362564ee3788d94ee.jpg",
+                    "amount": "18 г",
+                    "cost": "2,20  руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Trink + Fit для птиц, 50 мл",
+                    "description": "Витамины для здоровых костей и красивых перьев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/420/552jltmcmvfkn0indto7598z40668b7f/200_200_1/af9ec68c2595db554a8170574477ed25.png",
+                    "amount": "за 1 ед.",
+                    "cost": "21,00 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" LoloLine Sing Song для канареек, 20 г",
+                    "description": "Дополнительная кормовая смесь, способствующая пению.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/74d/c39qwipug4x6rpbhhel2eiprcigwtqro/200_200_1/540cad9b2be207bbd4f95f3780e1834e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,00 руб."
+                },
+                {
+                    "name": "RIO Набор для проращивания для всех видов птиц, 25 г",
+                    "description": "Дополнительный корм для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41f/m0m87lkko3hn489ziq0lngf5ifq42no4/200_200_1/65e15b3b5f9ee08dbde18ece09bdc75f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Bea Vit Total, 50 мл",
+                    "description": "Кормовая добавка для собак,кошек, птиц и грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e03/mfa36e8fz19ryxlggi60t38fnw5v4m9n/200_200_1/bb7e1fb2fb864f1357eb83f91dbe0422.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Beeztees Йодный камень для птиц, 5х5х3 см",
+                    "description": "Минеральный камень для стачивания клюва и восполнения дефицита витаминов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/00f/seq4o6bc3mhdu1fqeljx52ja939lfihu/200_200_1/1b03df1382b58e3b023df3092c2ac9f1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" LoloLine Super Color для канареек, 20 г",
+                    "description": "Дополнительная кормовая смесь для улучшения цвета оперения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f7/qqzwntch7kef949m3w9q2ptu2od0mp43/200_200_1/738978692677266af4643d716b5e681d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,10 руб."
+                },
+                {
+                    "name": "ORLUX PICK BLOC (минеральное лакомство), 350 гр",
+                    "description": "Минеральное лакомство, дополнительный корм для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d24/be8fxkn3taknu8a5u5nau1tx1xc4g91n/200_200_1/f0a2bfbd3d00d3dd34a79fb0df74110c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Algolith, 250 г",
+                    "description": "Минеральная смесь для активизации пигмента.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/32d/p7drcci2saj1wuf43kq40zq7wcpm0gc6/200_200_1/676ce34fd11c330b1340dee16a5f71f5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,90 руб."
+                },
+                {
+                    "name": "Beaphar Paganol",
+                    "description": "Комплекс при проблемах с оперением, 50 мл.",
+                    "image_url": "https://garfield.by/upload/iblock/6df/uy24sa6tr0b3abq6cud155b94i8kz7zh/8f0f6fafea187e01d528d208f2cfe9d2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,80 руб."
+                },
+                {
+                    "name": "Beaphar Vinka",
+                    "description": "Кормовая добавка для декоративных птиц, 50 мл.",
+                    "image_url": "https://garfield.by/upload/iblock/13a/a8zm9h833waad0rrz2v1t3ol2z0oj2l0/12fe2d0c99361e0481c6b6de57c2d858.png",
+                    "amount": "за 1 ед.",
+                    "cost": "16,60 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Vitamin Cal, 250 г",
+                    "description": "Сбалансированная пищевая добавка к корму.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a6b/yh57f9fztv7wa2y32ph5pgd3entw3z9t/200_200_1/ff1ebf996e109e080228c38471292b4a.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "23,60 руб."
+                },
+                {
+                    "name": "Beaphar Комплекс витаминов группы В, 50 мл",
+                    "description": "Витамины для здоровья шерсти (оперения) и нервной системы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f52/1wkka6gtysg5ri22cmzddeslbdc55lf5/200_200_1/21d6869b729a67620b6eea43c76c21eb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,90 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Мел для птиц натуральный, 35 г",
+                    "description": "Минерально-кормовая добавка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/876/scovo9ym8buu2wyfhr6h12pymy56hd3k/200_200_1/d456a297e8236626ab7fb14f252ac65c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Мел для птиц с апельсином, 35 г",
+                    "description": "Минерально-кормовая добавка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b2b/ia8x7siu69nx6xf9fzg63a2r2c6wsok5/200_200_1/1413c38944b6912164a5b99054825fe7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,20 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Мел для птиц с яблоком, 35 г",
+                    "description": "Минерально-кормовая добавка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/683/pu86ktzs4ig6781x6s4rhvsu47b458x8/200_200_1/5f652d378023d5b8116f8f0f48cc8805.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "\"Lolo Pets\" Мел для птиц с ракушками, 40 г",
+                    "description": "Минерально-кормовая добавка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/308/3m8y7y4x3zt0adfhfej46pkkf34v8pfl/200_200_1/3bdbaa2cdcb79a31aaec070d639e30ee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                }
+            ]
+        }
+    }
+}

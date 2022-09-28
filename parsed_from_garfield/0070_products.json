@@ -1,0 +1,58 @@
+{
+    "Грызуны": {
+        "Туалеты, купалки": {
+            "url": "https://garfield.by/catalog/gryizunyi/tualety-rodent.html",
+            "products": [
+                {
+                    "name": "Triol Купалка Little Town для мелких животных",
+                    "description": "Купалка для мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/03b/u14lsz2zkayr7il0ekooa1qmzpi00xp2/200_200_1/0d3211d7067902fc54e79a6a0a445215.jpg",
+                    "amount": "13х9,5х10 см",
+                    "cost": "11,30  руб."
+                },
+                {
+                    "name": "Туалет угловой \"Trixie\"",
+                    "description": "Туалет для хомяков и мышей, пластик",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ae/0gso7s89fkq2n31r3eoq72k900r32b8a/200_200_1/d235a69639827fe30215436c320d61e2.jpg",
+                    "amount": "16х7х12/12 см",
+                    "cost": "3,10  руб."
+                },
+                {
+                    "name": "Ferplast Туалет KOKY для хомяков с лопаткой",
+                    "description": "Туалет для хомяков и мышей из пластика",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/50d/xkqwnkapjnr5o4yzgg6ag769fn6pgjfp/200_200_1/521a9815c2117abd00d7e9bf5bfb6bc7.jpg",
+                    "amount": "18х10,2х8,3 см",
+                    "cost": "28,40  руб."
+                },
+                {
+                    "name": "Green Farm Дом-купалка для шиншилл",
+                    "description": "Деревянный домик-купалка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/311/wn3kqevh2i3zjlbetu86czom7lsmm7ld/200_200_1/cf5792335315715f731252369dd2aa50.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "38,30 руб."
+                },
+                {
+                    "name": "Living World Угловой туалет для грызунов, красный",
+                    "description": "Пластиковый туалет для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be1/01q314xjdea78bz6fy2b4sc0a0vlsda8/200_200_1/ba867d67502b404507bbf464cc86d820.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Купалка Savic Wellness bath",
+                    "description": "Купалка для шиншилл и песчанок, 35х23х15 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9b9/dgtbfyfqbo9rp1h9c2vlw8t04i4i57ev/200_200_1/b02e3ccd1ea22f2eb379b1a6875b7ce5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "51,80 руб."
+                },
+                {
+                    "name": "Туалет угловой 3 \"Trixie\"",
+                    "description": "Для грызунов, с крышкой, пластик. 14х8х11/11см.",
+                    "image_url": "https://garfield.by/upload/iblock/10a/zy8023xqsy6ec7a6ka0zi1wmk7azwbue/02cb0cd3f2eb80cd50eaa24ab763bcd5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                }
+            ]
+        }
+    }
+}

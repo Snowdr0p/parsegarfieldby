@@ -1,0 +1,3005 @@
+{
+    "Кошки": {
+        "Косметика и средства по уходу": {
+            "url": "https://garfield.by/catalog/cats/kosmetika-i-sredstva-po-ukhodu.html",
+            "products": [
+                {
+                    "name": "Влажные салфетки с пропиткой из зубной пасты для зубной гигиены",
+                    "description": "Для гигиены полости рта",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9fd/e5c4iuxv22zz4nga6z1r50j1gbugw90s/200_200_1/2def5df60608bf5048b07d07d112fd98.jpg",
+                    "amount": "35 шт/уп",
+                    "cost": "26,40  руб."
+                },
+                {
+                    "name": "Зубная щетка для новичков (маленькая)",
+                    "description": "Для приучения к чистке зубов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0af/3ipb7i3nqdorjhnnup7r4zvxq3z2jrv9/200_200_1/aff1ae6846ef795499f8239e9e3ece7c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,30 руб."
+                },
+                {
+                    "name": "Wahl Easy Groom Conditioner",
+                    "description": "Профессиональный концентрированный кондиционер.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c76/b4avkpqxmrvkx2up941lfyb6ly8d0cjl/200_200_1/363f7bf7ccfa8588dc190a9e94593229.jpg",
+                    "amount": "500 мл",
+                    "cost": "62,00  руб."
+                },
+                {
+                    "name": "Beaphar Спрей DETANGLING 250ML",
+                    "description": "Спрей от колтунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6da/wpkjecxrvlp6imzkjowyud4s7tiw9hd8/200_200_1/1b4179b86e546df7a68d033efd03d213.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,20 руб."
+                },
+                {
+                    "name": "Шампунь-спрей Doctor VIC для собак и кошек",
+                    "description": "Экспресс-очищение шерсти с алоэ вера",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/964/m6gtl1kktwj9yveg6ye30ocv4m5jkxbh/200_200_1/шампунь-спрей.jpg",
+                    "amount": "250 мл",
+                    "cost": "16,40  руб."
+                },
+                {
+                    "name": "Gamma Шампунь-бальзам восстанавливающий для кошек",
+                    "description": "Шампунь для кошек с ароматом кокоса",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ec9/rozcoflutofyuilpd49qd1y3p783y3n2/200_200_1/01f72b61-2cc1-11ec-bba7-1866da6865b0.jpg",
+                    "amount": "400 мл",
+                    "cost": "10,80  руб."
+                },
+                {
+                    "name": "Gamma Шампунь укрепляющий для кошек",
+                    "description": "Шампунь для кошек с ароматом винограда",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/67c/zd3vywktm1a20p5h1rdznx5fc005b8kc/200_200_1/dfe9cbea-2cc0-11ec-bba7-1866da6865b0.jpg",
+                    "amount": "400 мл",
+                    "cost": "10,80  руб."
+                },
+                {
+                    "name": "Gamma Шампунь распутывающий для кошек",
+                    "description": "Шампунь для кошек с кондиционирующей добавкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a03/agnnns98fw260sdajdxkzo5475o8r0tz/200_200_1/1e98f5f0-2cc1-11ec-bba7-1866da6865b0.jpg",
+                    "amount": "400 мл",
+                    "cost": "10,80  руб."
+                },
+                {
+                    "name": "Полотенца устранение аллергенов с шерсти животных",
+                    "description": "Средство для устранения аллергенов с шерсти животных в виде влажных полотенец",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3e1/3gx1841tm1q6ff8exjqljak32fxhbchs/200_200_1/4f45ec_a4dc6841e2894e0d85ad4e45338a1cbe_mv2-855x1290.jpg",
+                    "amount": "25 шт/уп",
+                    "cost": "23,30  руб."
+                },
+                {
+                    "name": "Салфетка-напальчник для ухода за ушами",
+                    "description": "Анатомическая влажная салфетка-напальчник для ухода за ушами у собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57a/gk90pp5dn6xf31z5hx88ioqxzlsngpfi/200_200_1/923705-1-855x1290.jpg",
+                    "amount": "35 шт/уп",
+                    "cost": "21,80  руб."
+                },
+                {
+                    "name": "Салфетка-напальчник для ухода за глазами",
+                    "description": "Анатомическая влажная салфетка-напальчник для устранения слёзных дорожек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c4e/7yubp6s5d1g2wmr847kutdyrbzhs9598/200_200_1/923606-1-855x1290.png",
+                    "amount": "35 шт/уп",
+                    "cost": "21,80  руб."
+                },
+                {
+                    "name": "Шампуневые полотенца для экспресс-купания",
+                    "description": "Полотенца с шелковым протеином и экстрактом меда для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bba/aw11rgx5cdz78igig4h2h3g4u8eeo7lc/200_200_1/4f45ec_5eb1406a7f3348b291d6140e89cf50d9_mv2-855x1290.jpg",
+                    "amount": "25 шт/уп",
+                    "cost": "23,30  руб."
+                },
+                {
+                    "name": "Влажные полотенца для экспресс купания",
+                    "description": "Антибактериальные влажные салфетки для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2bf/czytp6jjfvskjd2vy5z41agaefa1s6wi/200_200_1/dcmonline_4976555945669.jpg",
+                    "amount": "28 шт/уп",
+                    "cost": "18,30  руб."
+                },
+                {
+                    "name": "Gamma Кондиционер для собак и кошек",
+                    "description": "Кондиционер для кошек и собак с ароматом манго",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/587/lc12b6oue9h6mnubaa93w3xe9xx1vs6b/200_200_1/6db6511b-2cc1-11ec-bba7-1866da6865b0.jpg",
+                    "amount": "400 мл",
+                    "cost": "10,80  руб."
+                },
+                {
+                    "name": "Gamma Шампунь витаминизированный для кошек",
+                    "description": "Шампунь для кошек с ароматом апельсина",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/613/yr6mitzebgguh9yoliw903l81fc6j1xg/200_200_1/0a3b60d8-2cd1-11ec-bba7-1866da6865b0.jpg",
+                    "amount": "400 мл",
+                    "cost": "10,80  руб."
+                },
+                {
+                    "name": "Doctor VIC Бальзам-маска с кератином и провитамином для кошек",
+                    "description": "Бальзам-маска с кератином и провитамином В5 для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9d0/5nwz7ljwsathdysnrn1ktuubeyuq5sb5/200_200_1/4810956017801 Бальзам-маска Doctor VIC с кератином и провитамином B5 для кошек_1.jpg",
+                    "amount": "200 мл",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Doctor VIC Бальзам-маска с протеинами шелка для кошек",
+                    "description": "Подходит для длинношерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0df/xcsv15asvvrrj8te2q243y079ftbt2b3/200_200_1/Бальзам-маска Doctor VIC с протеинами шелка для кошек, 200 мл.jpg",
+                    "amount": "200 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "MODUM Подстилка для животных Zoooo Normal",
+                    "description": "Подстилка впитывающая для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b36/133vpcmyzfyxfn7aramo5bnqtq09t5rn/200_200_1/1.png",
+                    "amount": "60х60 см (100 шт)",
+                    "cost": "128,60  руб."
+                },
+                {
+                    "name": "MODUM Подстилка для животных Petsy Super",
+                    "description": "Подстилка впитывающая для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6fa/bp7hagw5bxloqzelya8cflocqk4v7aw0/200_200_1/1 (1).png",
+                    "amount": "60х40 см (5 шт)",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "MODUM Подстилка для животных Zoooo Standard",
+                    "description": "Подстилка впитывающая для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/436/xxjt78usz4h7t9p366dp1xtzxzlk3blr/200_200_1/1.png",
+                    "amount": "60х40 см (5 шт)",
+                    "cost": "5,60  руб."
+                },
+                {
+                    "name": "Миралек Мусс СкинВет Sensitive",
+                    "description": "Гипоаллергенное увлажняющее средство для ухода за кожей собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/26b/q8xeijz5mwg0lug6oxe2wrgrac1sqlca/200_200_1/нет фото.jpg",
+                    "amount": "160 мл",
+                    "cost": "58,40  руб."
+                },
+                {
+                    "name": "Platinum Бальзам Забота о коже и шерсти",
+                    "description": "Бальзам для оказания первой помощи при заживлении ран",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c5/pdde0gmmirzlrgptffjszuznf015pstp/200_200_1/20190405_SkinCare_1_cmyk.jpg",
+                    "amount": "40 мл",
+                    "cost": "125,10  руб."
+                },
+                {
+                    "name": "Platinum Спрей 3в1 Classic для полости рта",
+                    "description": "Спрей для чистки зубов кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ee/roo2ghf5nn7bv330sjovli3kd3cs2cvz/200_200_1/20200305_Platinum_OCC_Classic_Spray.jpg",
+                    "amount": "65 мл",
+                    "cost": "175,10  руб."
+                },
+                {
+                    "name": "Platinum Спрей 3в1 Forte для полости рта",
+                    "description": "Спрей для чистки зубов кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81d/cnix3sm43756poqvdgzhz6ss080qzx9w/200_200_1/20200305_Platinum_OCC_Forte_Spray.jpg",
+                    "amount": "65 мл",
+                    "cost": "205,10  руб."
+                },
+                {
+                    "name": "Platinum Гель 3в1 Wild Salmon для полости рта",
+                    "description": "Гель для чистки зубов кошек и собак с лососем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/51f/cx0tm4sg7vn0trtt86awzzvoc7czm9l3/200_200_1/20200305_Platinum_OCC_Gel_WildSalmon.jpg",
+                    "amount": "120 мл",
+                    "cost": "205,10  руб."
+                },
+                {
+                    "name": "Влажные салфетки для ухода за лапами и областью под хвостом",
+                    "description": "Салфетки для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c91/1odsfiiol7a2hpb7chmq8tdmfnom9vne/200_200_1/379121.jpg",
+                    "amount": "90 шт/уп",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Doctor VIC Шампунь для черной шерсти собак и кошек",
+                    "description": "Шампунь для собак и кошек с черной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57a/finqvrf7y5tfjfvt7e45jz6nsxpolml7/200_200_1/листовка_DV_черная_шерсть_new_2.jpg",
+                    "amount": "250 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Gamma Пеленки для животных, 60х60 см",
+                    "description": "Впитывающие одноразовые пелёнки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8be/a2fpeotn718amqkyy071puktfvp5hob8/200_200_1/723f742c-f948-11e8-93e2-0050569459e9_MoUZCg3.jpg",
+                    "amount": "5 шт/уп",
+                    "cost": "7,50  руб."
+                },
+                {
+                    "name": "Doctor VIC Шампунь-кондиционер CHERRY VANILLA для кошек",
+                    "description": "Шампунь для кошек с ароматом вишни и ванили",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d9a/rrbcyik7uvhnh7merkes172tt2dyj10w/200_200_1/20220127130150290_14.jpg",
+                    "amount": "250 мл",
+                    "cost": "11,90  руб."
+                },
+                {
+                    "name": "Doctor VIC Шампунь-кондиционер EXOTIC COCKTEIL для кошек",
+                    "description": "Шампунь для кошек с ароматом цитрусовых и манго",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ad/x6lwd3d6u0bwotzmegk8hrap0rd011pv/200_200_1/20220127130130036_15.jpg",
+                    "amount": "250 мл",
+                    "cost": "11,90  руб."
+                },
+                {
+                    "name": "Doctor VIC Шампунь-кондиционер TROPICAL CANDY для кошек",
+                    "description": "Шампунь для кошек с ароматом тропических фруктов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aec/09neqlf6q5btq5gtu04lmxpxyl5v9kvn/200_200_1/20220127130141959_18.jpg",
+                    "amount": "250 мл",
+                    "cost": "11,90  руб."
+                },
+                {
+                    "name": "Шампуневые полотенца с коллагеном и плацентой",
+                    "description": "Влажные полотенца для кошек, 30х20 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/597/654hhmo1fk5t0o81f3118zbuoz3zo1ox/200_200_1/63e2bf6643d44d2176c5cffe026fcf90.jpg",
+                    "amount": "25 шт/уп",
+                    "cost": "23,30  руб."
+                },
+                {
+                    "name": "Fitodoc Стоматологический гель для собак и кошек",
+                    "description": "Гель для гигиены ротовой полости у собак, кошек и других мелких домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c56/a3bqiqt8xsagxa8uzyvnm5v1vi0yd0r2/200_200_1/14326d0ec11ab4debf2c6e2036acf9b1.jpg",
+                    "amount": "75 мл",
+                    "cost": "22,10  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь для Длинной Шерсти",
+                    "description": "Шампунь для собак и кошек с длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c1a/x986rk0qv9w1ae8oyrvfsx3v4yks1ibk/200_200_1/f8ec8541e8043058753ffa4429924abf.jpg",
+                    "amount": "250 мл",
+                    "cost": "45,70  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь Контроль Запаха",
+                    "description": "Шампунь для очищения сильных загрязнений и удаления неприятных запахов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8cb/u3dx2ckkjde9bbpd9r5v6mujpjxss214/200_200_1/7d0762299dbfe6c3119c9900814bae2b.jpg",
+                    "amount": "250 мл",
+                    "cost": "45,70  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь Универсальный для всех типов шерсти",
+                    "description": "Шампунь для ежедневного применения для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/113/r8vd6tev0kymvqj84jkfi7tf6bku3ipe/200_200_1/91599134364a31d50201a409aa8f804e.png",
+                    "amount": "250 мл",
+                    "cost": "35,10  руб."
+                },
+                {
+                    "name": "YUUP! Средство для очищения контура глаз",
+                    "description": "Специальное средство для очистки внешнего контура глаз",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e6/slmayny352d3fl424gbe5qppm2nir2pe/200_200_1/d6d4e8ad7cfaf7fdc03af461cf082663.jpg",
+                    "amount": "300 мл",
+                    "cost": "101,00  руб."
+                },
+                {
+                    "name": "YUUP! Маска Увлажняющая",
+                    "description": "Маска для объема и текстурирования шерсти собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/281/utwk5sprnq1m4wdgaf0anvqywldpj332/200_200_1/77ddf6e172bd92e96deee9e28b08d687.jpg",
+                    "amount": "1 л",
+                    "cost": "158,00  руб."
+                },
+                {
+                    "name": "YUUP! Увлажняющий кондиционер",
+                    "description": "Шампунь для распутывания шерсти кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a8/6a8fzlznfbmyccf3g1xdb810f8if0zzj/200_200_1/5270934cc2d8de06aec98a67d8edbbbb.jpg",
+                    "amount": "1 л",
+                    "cost": "104,50  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь Суперочищение 1:40",
+                    "description": "Экстраконцентрированный шампунь для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ba/5ufugdbf0ci2f6ul5j4e8134ojtdx5mu/200_200_1/78ee2f0f2f9c84a65dd427930330d6a0.jpg",
+                    "amount": "1 л",
+                    "cost": "104,50  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь Объем и Текстурирование",
+                    "description": "Шампунь для собак и кошек с кучерявой и волнистой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/526/ka1kj26orgc5m5v6vecal5oi1sk2j7f5/200_200_1/4879e4a973d26f8d625c3e98d5255075.jpg",
+                    "amount": "1 л",
+                    "cost": "86,90  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь Восстановление и Укрепление",
+                    "description": "Шампунь для восстановления длинной шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3fc/sg83m9omnlhvt1e5esfuwc6n7iybex45/200_200_1/2b412d268de016b470e37bfdcb971494.png",
+                    "amount": "1 л",
+                    "cost": "86,90  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь Блеск и Глубина Черного",
+                    "description": "Шампунь для собак и кошек с темной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a91/9gicg6wxz9nrl5e2lm65jk0k6kx2e634/200_200_1/2cdb66bde7962cec9548846cc6c7d4c7.jpg",
+                    "amount": "1 л",
+                    "cost": "86,90  руб."
+                },
+                {
+                    "name": "Beaphar Шампунь Bio Cat & Kitten",
+                    "description": "Шампунь для кошек и котят с розой и авокадо",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c3a/rt7698lfkc8to0xx7govvbhns9m1um9q/200_200_1/e8fadc34156b2163e4796a200f52a3f2.jpg",
+                    "amount": "200 мл",
+                    "cost": "35,10  руб."
+                },
+                {
+                    "name": "Beaphar Лосьон Eye Cleaner для чистки вокруг глаз",
+                    "description": "Лосьон для чистки вокруг глаз кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/52e/yhii5dfdnmma59hpzkstn9v9sjpwjgzx/200_200_1/199bfdc0842724e2ea3b14ad173daf82.png",
+                    "amount": "100 мл",
+                    "cost": "25,70  руб."
+                },
+                {
+                    "name": "Beaphar Молочко Ear Cleaner для чистки ушей",
+                    "description": "Молочко для чистки ушей кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d09/tit979asv3e4qoiqsycyslu141v4t3mc/200_200_1/3bb9880291c8471348ba2c54270d703c.png",
+                    "amount": "100 мл",
+                    "cost": "33,60  руб."
+                },
+                {
+                    "name": "Beaphar Сухой шампунь Bio Dry с маком и гранатом",
+                    "description": "Сухой шампунь для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f85/ozcs4ntew1d9zfdlk8un35jhwv4vz8qs/200_200_1/89b7cc4756adcab07b2a97cc9056e5aa.png",
+                    "amount": "200 мл",
+                    "cost": "35,10  руб."
+                },
+                {
+                    "name": "CAMON Лосьон для ушей",
+                    "description": "Для гигиены слухового прохода собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b29/xfuebr9okbg3lwieflx9coi1q2rih9x9/200_200_1/91ffbc34218d470ac02809e95436f987.jpg",
+                    "amount": "200 мл",
+                    "cost": "41,20  руб."
+                },
+                {
+                    "name": "Neoterica Цитодерм Шампунь от аллергии и зуда",
+                    "description": "Шампунь для ухода за кожей и шерстью животных, склонных к аллергии",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8db/fejsznp7578gh5vegwamdxxmc3fdt6a0/200_200_1/df22693f2637e8b9ab3881506ee2590b.jpg",
+                    "amount": "200 мл",
+                    "cost": "25,90  руб."
+                },
+                {
+                    "name": "Шампунь Frutty Ямайский банан для собак и кошек",
+                    "description": "Не содержат силиконов, парабенов и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/45e/wg91ljevc8uniwljfmu4lxlpvvn326v0/200_200_1/acabf09ec11579963b34e6b8af3bc608.png",
+                    "amount": "250 мл",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Шампунь Frutty Экзотическое личи для собак и кошек",
+                    "description": "Не содержат силиконов, парабенов и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/27a/yx2dz9u5ojpp26hx99t6hc3orzfa8ldl/200_200_1/bd95f103554ad43e2f397ea21d1640d5.png",
+                    "amount": "250 мл",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Шампунь Frutty Тропическое манго для собак и кошек",
+                    "description": "Не содержат силиконов, парабенов и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/18e/w2zqgewy4jbnf1pkt64gzobed7nu9uyx/200_200_1/701d6e590bf3d8eea0bc47a30752ab59.png",
+                    "amount": "250 мл",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Шампунь Frutty Сочный грейпфрут для собак и кошек",
+                    "description": "Не содержат силиконов, парабенов и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c7/e8bejwns3plfzpec53w41k3y9gfc0imq/200_200_1/27711c27a3b7b1a14e2f79747c1c51bc.png",
+                    "amount": "250 мл",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Шампунь Frutty Дикая малина для собак и кошек",
+                    "description": "Не содержат силиконов, парабенов и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/11d/hmjppxalx3ad5n8zsf1gdcgtq4rbj2yn/200_200_1/00e9dfced7209373aaa53e660832879e.png",
+                    "amount": "250 мл",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "CCS SmartWash50 Hydrating Blend Shampoo",
+                    "description": "Высококонцентрированный увлажняющий шампунь для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1b/kpq992ejquld7mffshzxxh1t2a3euwid/200_200_1/HydrateWash.png",
+                    "amount": "3,8 л",
+                    "cost": "314,30  руб."
+                },
+                {
+                    "name": "CCS SmartWash50 Tropical Breeze Grooming Shampoo",
+                    "description": "Высококонцентрированный шампунь с ароматом тропического бриза",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b1/8c7hqak9kmj07xp838usbcl9zpdal1jt/200_200_1/8ae752045e7428cdd291cf2709ba7214.png",
+                    "amount": "59 мл",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "CCS SmartWash50 Jungle Apple Grooming Shampoo",
+                    "description": "Высококонцентрированный шампунь с ароматом яблока",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/689/dmltrwhmjstvf1twt7p8rc6d42n2zwd1/200_200_1/0b585487b0c34595824ec58ea0dc6c24.png",
+                    "amount": "355 мл",
+                    "cost": "68,40  руб."
+                },
+                {
+                    "name": "MILORD Маска питательный «КАНАПА»",
+                    "description": "Маска для всех типов шерсти собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9b3/n2svwf4ir0a2cnrkvmyin6mawt7ywb7w/200_200_1/666fe8c43bd0e32fa3855a7637971c09.jpg",
+                    "amount": "300 мл",
+                    "cost": "45,80  руб."
+                },
+                {
+                    "name": "Pchelodar Крем питательный с прополисом и маточным молочком для лап",
+                    "description": "Крем для ухода за кожей подушечек лап и когтей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3a4/rmdotlr7hlz0spmy3kst7zel1xvbkxyt/200_200_1/11cdd44924b0d861c724b7f26698792e.jpg",
+                    "amount": "50 мл",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Irbis Denta Спрей для зубов и десен для кошек и собак",
+                    "description": "Предотвращает появление зубного камня",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2fa/99tflfk9zyx303x5g0a501043k7jq10o/200_200_1/d383345fa47cda8a550209785f04edc8.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "CCS SmartWash50 Cherry & Oats Grooming Shampoo",
+                    "description": "Высококонцентрированный шампунь с ароматом вишни и овсянки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/39c/jusw13eikx1dzej4fmzhmv8zy119i68l/200_200_1/384adaee2522f9520a9e3ab4b1b99b78.png",
+                    "amount": "59 мл",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "CCS SmartWash50 Papaya Starfruit Grooming Shampoo",
+                    "description": "Высококонцентрированный шампунь с ароматом папайи и карамболы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ae/fxr02s03q30eq28s1r5ymhxs1bsuf0bt/200_200_1/72c72b3a72e041809919feaa717a9e5d.png",
+                    "amount": "355 мл",
+                    "cost": "68,40  руб."
+                },
+                {
+                    "name": "CCS Diamond Miracle Moisture Shampoo",
+                    "description": "Суперувлажняющий шампунь для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/607/siqpsqnt920q5tj99t3xescn0nfh3ru3/200_200_1/fcb7970258f1f8f19fbac508b57a229a.jpg",
+                    "amount": "473 мл",
+                    "cost": "123,10  руб."
+                },
+                {
+                    "name": "CCS Diamond Miracle Repair Shampoo",
+                    "description": "Супервосстанавливающий шампунь для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/15c/d9v1jps2vwd1d8oudnmf02ox5bm9jmw8/200_200_1/b81213c39f8a929df46d2bd0e3bccf65.jpg",
+                    "amount": "473 мл",
+                    "cost": "123,10  руб."
+                },
+                {
+                    "name": "CCS Ice on Ice Shampoo",
+                    "description": "Распутывающий шампунь для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb7/m3apykatqvyiqs5f85hyaqlsq0ybf2ii/200_200_1/a9dbc82933b3852e86d5ead115a58f9b.jpg",
+                    "amount": "473 мл",
+                    "cost": "109,40  руб."
+                },
+                {
+                    "name": "Cliny Зубная паста Кальций +",
+                    "description": "Паста для ухода за зубами собак и кошек с ионами серебра",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab9/zzpifn333qalpxer5fsv9f7o1gt6l9er/200_200_1/429c28a7b4ec70e321bfcaf126ca671b.jpg",
+                    "amount": "75 мл",
+                    "cost": "16,40  руб."
+                },
+                {
+                    "name": "MILORD Спрей для расчесывания «УНО»",
+                    "description": "Облегчает процесс расчесывания собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8fc/uptzhuza2jsvf53iffmkdwkte14ffs32/200_200_1/a37bf8af4615c8aa42362546b014fb73.jpg",
+                    "amount": "2 л",
+                    "cost": "187,40  руб."
+                },
+                {
+                    "name": "MILORD Шампунь текстурирующий «Персик и апельсин»",
+                    "description": "Шампунь для средней, жесткой и вьющейся шерсти собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/16a/mjwjhhk1tqzzd0jotk5ifm2w7ewmp4fv/200_200_1/ae75aa02944a447b0da53b262a095a47.jpg",
+                    "amount": "300 мл",
+                    "cost": "20,80  руб."
+                },
+                {
+                    "name": "Спрей Doctor VIC для удаления пятен со светлой шерсти",
+                    "description": "Зоогигиеническое средство для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c0/6z2rs6zcqbqjqrxz4mhcxiswe5mpl1fl/200_200_1/5ebfbf1760ee0cd853f95ddccfd55be0.jpg",
+                    "amount": "100 мл",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Amstrel Шампунь для гладкошерстных кошек (масло ши)",
+                    "description": "Шампунь для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/809/4uuud64f8v5axvxqx3jcfufx6kqgs0jh/200_200_1/3571a5c6bf61a026bb1344f4bfbe9406.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Amstrel Шампунь ранозаживляющий для кошек (кедр/чайное дерево)",
+                    "description": "Шампунь для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc2/ylcaftst12eymd8sf72755imaf4r10w2/200_200_1/abdd4f30f747daf18297f3a8905ac2d0.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Amstrel Шампунь гипоаллергенный для кошек (масло ши)",
+                    "description": "Шампунь для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b3c/3llmhqu3df0x1e2tcoz5l329eb4algxx/200_200_1/0b35eab31c62de3d375f816e8d954e9f.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Amstrel Шампунь кондиционирующий для кошек (травы)",
+                    "description": "Шампунь для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c61/pl5k9zb7pm4zd8trmng837sjwpajq8nu/200_200_1/90ef1003cc931779c39e5ef9be214cfd.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Amstrel Шампунь кондиционирующий для кошек (липа/череда)",
+                    "description": "Шампунь для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a75/y6a19vh9dehyhtdarp5elzgki01rt6sn/200_200_1/85669b8af68643165eec7c5b67a3f87a.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Amstrel Шампунь кондиционирующий для котят (мед/шалфей)",
+                    "description": "Шампунь для котят.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a5a/z5s7e114mlbcazook8azk17jana7h7w5/200_200_1/217ca63620cc1cbe487f937c7e7f7772.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Amstrel Шампунь восстанавливающий для кошек (кокосовое масло/пантенол)",
+                    "description": "Шампунь для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b7/92j34cy4cf1ih49az3i8otw1z0s07hl2/200_200_1/60b7c23619d10c52db142f2c34df479c.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Amstrel Антипаразит. шампунь для кошек (пальмароза и алоэ)",
+                    "description": "Шампунь для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db8/1079685m2l08pvhop0ytso3stp1iu8h1/200_200_1/c522a157a53d18bf53ab44c21845255b.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Pchelodar Крем защитный с прополисом и воском для лап",
+                    "description": "Крем для защиты лап собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e95/kpjx7q1s2ed3pbr5olb3hvyzq2yxjiam/200_200_1/3c559b3a047a3bca548bfd14912a5d47.jpg",
+                    "amount": "60 мл",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь антипаразитарный для кошек",
+                    "description": "Шампунь на основе масел чабреца, лаванды и чайного дерева",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/801/qlf77ouwyq8yrfu8la4iswng3zv2zke4/200_200_1/76a52f8fe91d91c060f60be2454030e5.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь дегтярный для кошек и собак",
+                    "description": "Шампунь против зуда с дегтем и мятой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a41/ufwapw71bgfn2qsaf3rbnhf6bowzmirk/200_200_1/aedbfc491df7a043b96b9876ce9e1941.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь для кошек с короткой шерстью",
+                    "description": "Шампунь для короткошерстных пород кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/964/fs2ojq9h7yn4rnx813eqj8pnc2dsh5yx/200_200_1/11c33f1a9c30ed9085d295dadb6aab95.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь для кошек с длинной шерстью",
+                    "description": "Шампунь для длинношерстных пород кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/55a/j0apc1t0bkem2u6ji5elyq9jq6du1g5p/200_200_1/97f856ef6510c498165a33212f87bcc7.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь для котят",
+                    "description": "Шампунь с экстрактами мать-и-мачехи и ромашки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b89/qg6ielxl7rg8esqo4dmurlgqlg3s41q5/200_200_1/3001203f1ba0fae1b87292139e683fc9.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Le Artis Спрей против спутывания шерсти",
+                    "description": "Спрей для облегчения расчесывания кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc0/g23tlok06qgrug4nug2vwyf49j70z5lt/200_200_1/d7155ccbf8f02aaf41362b184387edad.png",
+                    "amount": "200 мл",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Le Artis Шампунь для котят Нежный",
+                    "description": "Шампунь для мытья шерсти и чувствительной кожи котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/90d/rh5jn0pfv3mcokxc3vz2r2y6bepbhv3f/200_200_1/058da95afe3e73c05cd38da70c1715d3.png",
+                    "amount": "200 мл",
+                    "cost": "9,50  руб."
+                },
+                {
+                    "name": "Triol Защитный воротник",
+                    "description": "Для предотвращения расчесывания или зализывания ран",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d0/v85w80am21fufxu0huajeayd3qpx536x/200_200_1/5055128ea52d20cedabcec7ebd9ac166.jpg",
+                    "amount": "XS",
+                    "cost": "13,70  руб."
+                },
+                {
+                    "name": "Лосьон Doctor VIC для ушей \"Очищение и подсушивание\"",
+                    "description": "Для гигиены слухового прохода собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/298/ki3g7aawzft1f6o91v91i123pho9qebn/200_200_1/уши очищение.jpg",
+                    "amount": "60 мл",
+                    "cost": "8,80  руб."
+                },
+                {
+                    "name": "Бальзам-кондиционер Doctor VIC для короткошерстных",
+                    "description": "Подходит для собак и кошек, с кератином.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a29/qwoafzacf2k88kqigighqhmvj6r75q7h/200_200_1/a58ab8d49a2dd75fc242eec95cdfe5ca.jpg",
+                    "amount": "200 мл",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Бальзам-кондиционер Doctor VIC от колтунов",
+                    "description": "Подходит для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/51e/ozbo45khg90853me3v7cy0tgd6frxqf3/200_200_1/f5ba9b012f8640cec66bd92248083884.png",
+                    "amount": "200 мл",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "Шампунь Doctor VIC с протеинами шелка для короткошерстных кошек",
+                    "description": "Шампунь с протеинами шелка для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/abe/peq4puacybk4o701g3xmvivth6u2exxw/200_200_1/a49d1eba20531b7ccd5e4f93a00d8b15.png",
+                    "amount": "250 мл",
+                    "cost": "9,80  руб."
+                },
+                {
+                    "name": "Шампунь Doctor VIC с протеинами шелка для длинношерстных кошек",
+                    "description": "Шампунь с протеинами шелка для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/916/0xod1lcy5fcl92et37318iggcsb03qmz/200_200_1/06477b2cbd2058dd0a879c8ba5f1a72f.png",
+                    "amount": "250 мл",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Спрей Doctor VIC для чистки зубов и свежести дыхания",
+                    "description": "Средство для ухода за полостью рта у кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7cb/25hcswxpan9maz0h0a3hb6kclcc3uphe/200_200_1/для зубов.jpg",
+                    "amount": "100 мл",
+                    "cost": "11,90  руб."
+                },
+                {
+                    "name": "Лосьон Doctor VIC для гигиены глаз собак и кошек",
+                    "description": "Предупреждает воспалительные процессы, очищает веки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff5/db9fu1upggmtzbl3tnyhfnekn9x881ik/200_200_1/для глаз.jpg",
+                    "amount": "60 мл",
+                    "cost": "6,20  руб."
+                },
+                {
+                    "name": "Wahl Deep Black Shampoo",
+                    "description": "Профессиональный шампунь для ухода за черной и белой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ba7/o7y6ll5xm14uyuvyzx1q0x4m2t391t85/200_200_1/6828adbc2959c0ae5d9036dcfb23251a.jpg",
+                    "amount": "500 мл",
+                    "cost": "62,00  руб."
+                },
+                {
+                    "name": "Wahl Diamond White Shampoo",
+                    "description": "Профессиональный шампунь для ухода за белой и светлой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e9e/632agb6dgnlschrgtu8mbblj9dv5z2l0/200_200_1/3f3569a0c07da70b74e916b5ecf1a35d.jpg",
+                    "amount": "5 л",
+                    "cost": "294,60  руб."
+                },
+                {
+                    "name": "Wahl Dirty Beastie Shampoo",
+                    "description": "Профессиональный шампунь для ухода за шерстью любого цвета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5be/3gjbe9arfkjgh02v1pp98085oxdonry8/200_200_1/d52f5acf2479550d06c1ebe0116dea24.jpg",
+                    "amount": "500 мл",
+                    "cost": "62,00  руб."
+                },
+                {
+                    "name": "Wahl Aloe Shampoo",
+                    "description": "Концентрированный шампунь для животных с алоэ",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/25b/m9m4md6vjjy8be0s21vi1dxlmja99why/200_200_1/8e62582dd22cf40e0d05b593d6b308f6.jpg",
+                    "amount": "500 мл",
+                    "cost": "62,00  руб."
+                },
+                {
+                    "name": "Trixie Зубная щетка, 15 см",
+                    "description": "Для котов и мелких собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bbc/9cwr40h00y3p1ilic3q492nkqz9dhzwt/200_200_1/fd9ac51a7f40f49c87113697f4b8c822.jpg",
+                    "amount": "1 шт из набора",
+                    "cost": "2,30  руб."
+                },
+                {
+                    "name": "Бальзам-кондиционер Doctor VIC \"Шелк и блеск\" для длинношерстных собак и кошек",
+                    "description": "С протеинами шёлка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f88/3zwtvyxtbplx6k1drso0ld094pvul24r/200_200_1/6ce9709bc5f2f7341b67dade8da49d53.jpg",
+                    "amount": "200 мл",
+                    "cost": "14,10  руб."
+                },
+                {
+                    "name": "Бальзам-кондиционер Doctor VIC \"Шелк и блеск\" для короткошерстных собак и кошек",
+                    "description": "С протеинами шёлка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5cd/7gkcc64tnf4dtybnodg5ntborm0w56rl/200_200_1/664fe3afb3d29c4d90eb59bf9c9f4660.png",
+                    "amount": "200 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Beaphar Спрей SHINY COAT",
+                    "description": "Спрей для придания блеска шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/61f/z3ukmhjs6u62dc0po6dp1mtclhcxy2ht/200_200_1/eb5902ab115c4b7da61f788de0647e3f.jpg",
+                    "amount": "250 мл",
+                    "cost": "25,00  руб."
+                },
+                {
+                    "name": "Шампунь Doctor VIC для белой шерсти собак и кошек",
+                    "description": "Для деликатного очищения светлой (белой) шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b5/hy9itcrg6tct35lry2okzroee4zmpwvy/200_200_1/0bda38b998a65003c4a4045862ad78c1.png",
+                    "amount": "250 мл",
+                    "cost": "12,00  руб."
+                },
+                {
+                    "name": "Шампунь Doctor VIC концентрированный для глубокой очистки шерсти собак и кошек",
+                    "description": "Суперконцентрат 1 к 32",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ec/w1z9vvyjgzrkfad4u2gk48tl264kj11m/200_200_1/cc1a52394f142e5b338cf7c1622cfc4c.png",
+                    "amount": "250 мл",
+                    "cost": "18,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Бальзам-кондиционер укрепляющий",
+                    "description": "С протеинами шелка и витаминным комплексом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/257/jao9c8rgzqp24lemv6vc5bacqk4ul5bb/200_200_1/8809eba23c8a70e09f458a4d16873689.jpg",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь с медом и алоэ вера",
+                    "description": "Шампунь для длинной и густой шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/808/avqb2hnhoq6mf0863373m7a8nwgoeu7u/200_200_1/79da793516e64e37af3fd5c55cc10806.jpg",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь с медом и облепихой",
+                    "description": "Шампунь для всех типов шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82d/k3ntajt0lw9kwke5274xv3l5sww3yn7e/200_200_1/45390ca8a1d005140851ab82553efa8b.jpg",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь укрепляющий",
+                    "description": "Шампунь с пергой и кератином",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e6/hpq5meh29k1vdoxe2gyhyxkzneew5s3h/200_200_1/9bb2676bd2709d5b0ee1e161ed890a2d.jpg",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь с медом и маслом миндаля",
+                    "description": "Шампунь для животных с короткой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/afb/60t9jpg5dc4l0gmm95datiy8bac3qh4j/200_200_1/d0d24d4832610b786490962bd3e73036.jpg",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь питательный",
+                    "description": "Шампунь для кошек и собак с маточным молочком и эластином",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2c0/9037jwagr43qesjmrdxftezfbo6zrkqq/200_200_1/da071d525b528093894cff3fd91d2ee9.jpg",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь восстанавливающий",
+                    "description": "Шампунь для собак и кошек с прополисом и протеинами шелка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0f2/k3uyl12s99lr08j8memczpzwa9xpqykk/200_200_1/154b27ef23f4799a64637f0271ac8d04.jpg",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь-кондиционер оттеночный",
+                    "description": "Для собак и кошек с белой и светлой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f15/zdo06y2ma3nhhv5bgpft3k2ep0k10v1z/200_200_1/797d311f9d7ac5e66b6e806361b98732.jpg",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь для бесшерстных пород",
+                    "description": "Для бесшерстных пород собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b2/cxxsz82zzo3qqo2yhwmkskho19lk2j1i/200_200_1/acb6706a3eb62d7a632ec4630a67ca85.jpg",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь текстурирующий",
+                    "description": "Для жесткошерстных пород собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c3c/iqlvng23uclpf1sv67g19zppxfrybt3g/200_200_1/6851d8570d31bce25a695ae249fde76b.JPG",
+                    "amount": "350 мл",
+                    "cost": "23,40  руб."
+                },
+                {
+                    "name": "Mr.Gee Салфетки для глаз, ушей и мочки носа",
+                    "description": "Влажные салфетки для глаз, ушей и мочки носа.",
+                    "image_url": "https://garfield.by/upload/iblock/328/8ps3qtv790g2kxza7650cmupf275ter4/1350b6a6a4552299b05a86fe00f38ce2.jpg",
+                    "amount": "1 упак (15 шт)",
+                    "cost": "3,30  руб."
+                },
+                {
+                    "name": "Mr.Gee Влажные салфетки Универсальные",
+                    "description": "Универсальные салфетки.",
+                    "image_url": "https://garfield.by/upload/iblock/147/8n08881kif1v3xavgtf96x4f03havyhh/904a6d6b371483e86f7788bf705e5950.jpg",
+                    "amount": "1 упак (15 шт)",
+                    "cost": "3,30  руб."
+                },
+                {
+                    "name": "Мягкая силиконовая щетка в форме чулка",
+                    "description": "Облегчает приучение новичков к уходу  зубами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0be/9bw6930s6c9az70zxrbe5jiqsv1qa1u1/200_200_1/19ce8d24dfb23eb17f45477a67c9d8ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,50 руб."
+                },
+                {
+                    "name": "Canina Спрей для ухода за шерстью Feinglanz, 200 мл",
+                    "description": "Спрей для ухода за шерстью собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/129/syf5j3d1bqlrx1qevhw1boiull9ygmjo/200_200_1/53be7870066874681fe3a19c1d4ddd90.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "48,80 руб."
+                },
+                {
+                    "name": "Apicenna Зубастик Crystal line спрей для чистки зубов, 30 г",
+                    "description": "Зоогигиенический стоматологический спрей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aeb/rwnehjswrx5awdu1q6boizfacmpk910a/200_200_1/deb99ae7f0c135b3c34acf9047215661.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,10 руб."
+                },
+                {
+                    "name": "Triol Салфетки-рукавицы влажные для животных (5 шт.)",
+                    "description": "Влажные салфетки из нетканого волокна, 26х17 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81a/hgis993ivv8spzy4p93fcz9biay3pwfr/200_200_1/1d222dbb594fa43ff79ea22852fc9b0a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Beaphar Bio Anti Tangle Spray Dog and Cat",
+                    "description": "Спрей против колтунов для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dec/sbfhmdh4rfv1zd7kpeoh9rt4nqotxfad/200_200_1/6b193b8117408efdde8f14ecf227c343.png",
+                    "amount": "200 мл",
+                    "cost": "35,80  руб."
+                },
+                {
+                    "name": "Гамма Шампунь универсальный для кошек/котят, 250 мл",
+                    "description": "Универсальный шампунь для шерсти любого типа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f5/ggn7opommfykxlunp0ito20c39qfc320/200_200_1/126603787904422f4977aebbbff73bf7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,90 руб."
+                },
+                {
+                    "name": "Wahl Paw Protecting Spray, 75 мл",
+                    "description": "Защитный спрей для лап.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d31/u8hzqxgjevytg1ccqqoj3rm19ze1100a/200_200_1/811a1492d5301917cf916897c8fec5ce.png",
+                    "amount": "за 1 ед.",
+                    "cost": "42,50 руб."
+                },
+                {
+                    "name": "Beaphar Sensitiv Лосьон tear stain remover, 50 мл",
+                    "description": "Для удаления слезных пятен под глазами у кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/875/othombws4ln8j41zexnhokhnuv2lkne5/200_200_1/e9bc98eba69ad940f88b6c47a86cfb99.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,60 руб."
+                },
+                {
+                    "name": "Comfy Cat Shampoo, 330 мл",
+                    "description": "Шампунь для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c01/g1rb620sda9nv6f9l2b6puglefttihyg/200_200_1/1b9348252ad0c9a33b964b39e5702c77.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Серный\", 80 мл",
+                    "description": "Шампунь с облепихой против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b4/43j7sh5j85p8zkfth99j367wnp9okvq2/200_200_1/62b039f2f4da7ffdb54478519e9e8bfb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Яичный\", 80 мл",
+                    "description": "Шампунь против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c9/8w3kc6wo8uywgqwu9v35clgm611t6lqw/200_200_1/b5076e2e15dcc230d9e1b5a5a1c1c8fd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "MILORD Лосьон для ушей «ОЗОНИК», 100 мл",
+                    "description": "Лосьон для гигиены ушей собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/758/9qpg2u48jmk1svz1r37z6azjofjzepnj/200_200_1/ae179eca834325f705940adf6dea693b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "22,70 руб."
+                },
+                {
+                    "name": "Pchelodar Зооарена Антистатик спрей, 125 мл",
+                    "description": "Очищающий спрей для шерсти с антистатическим эффектом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/795/9y3knpelatr85xs1iyroojee95bymqu7/200_200_1/e98dda70fcc9417049c5834fa552fcb2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,90 руб."
+                },
+                {
+                    "name": "Pchelodar Зооарена Антиколтун спрей, 125 мл",
+                    "description": "Спрей для распутывания шерсти животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1bb/p1w1yzfot31ft2c5fhgtktvkqz2u4tit/200_200_1/daf5e4f9741da84cc15e6a7c35ddf617.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,50 руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Спрей-кондиционер увлажняющий, 350 мл",
+                    "description": "Для распутывания котлунов, с маслом норки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea2/vvwjd4p78o4nnp2mc8y3vwtxaexk2bbr/200_200_1/d2492aeecfa3a8640b25137e295f8878.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,50 руб."
+                },
+                {
+                    "name": "Pchelodar Бальзам для длинношерст. собак и кошек, 250 мл",
+                    "description": "Бальзам-кондиционер для длинношерстных кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fc0/klksax77gf2dbf4wsfs7ncw33c8ydnlk/200_200_1/22ed244cfdf51349a35fe43734e8c672.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,90 руб."
+                },
+                {
+                    "name": "Pchelodar Шампунь Stop перхоть с мёдом и чередой для кошек, 250 мл",
+                    "description": "Шампунь для ухода за кожей и шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/239/xxfscinuow7vzyzp3iecjf3rxgpr72d3/200_200_1/ba637c266e9c773f161649f7eff753a6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Pchelodar Шампунь Stop линька с мёдом и лопухом для кошек, 250 мл",
+                    "description": "Шампунь для ухода за кожей и шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/274/iult823a5v4kwkgo9g5u71gv5e71cp82/200_200_1/7112eb8260d0403c8e2b48bcdce49aab.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Pchelodar Шампунь Stop запах с мёдом и геранью для кошек, 250 мл",
+                    "description": "Шампунь для ухода за кожей и шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/411/rl5llqo9niq8izn3h8auw3dh9pspqqry/200_200_1/9c1a113eda0e73dafb4dbb5edb18a4fc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Pchelodar Шампунь с пергой и хвоей для длинношерст. кошек, 250 мл",
+                    "description": "Шампунь для длинношерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a7/3dulqwwx8c0i4wmt4zprv4ei44zk9opm/200_200_1/097e44aec9f0307ed84b05019ad85cfd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,80 руб."
+                },
+                {
+                    "name": "Pchelodar Шампунь с маточным молочком для короткошерстных кошек, 250 мл",
+                    "description": "Шампунь для короткошерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/adc/fsl4ym2001c05fud9sf2wsdtprx32kf6/200_200_1/097e44aec9f0307ed84b05019ad85cfd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,80 руб."
+                },
+                {
+                    "name": "Pchelodar Шампунь с маточным молочком для длинношерстных кошек, 250 мл",
+                    "description": "Шампунь для длинношерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b4b/wwajbva0cohamoq22pvfja5mf0cyucvn/200_200_1/097e44aec9f0307ed84b05019ad85cfd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,80 руб."
+                },
+                {
+                    "name": "Pchelodar Мыло с маточным молочком, 250 мл",
+                    "description": "Крем-мыло для животных с маточным молочком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d70/vjqsy15clxk1zi44j2x2pi2x1ne4g20y/200_200_1/9f66326b2a8f07320b7aca0a427efa85.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "Pchelodar АпиДоктор Ясные глазки, 100 мл",
+                    "description": "Для очищения области вокруг глаз собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/14b/8brsx2r6atm5bniufhd1lgl7kwvycbtb/200_200_1/a7417cb35d4ce0c0efd14679c00bd5e8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,60 руб."
+                },
+                {
+                    "name": "Pchelodar Слезинка, 50 мл",
+                    "description": "Лосьон с маточным молочком для глаз собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c78/v76eaf9gmu6mj3iwppe4xume7z5ae4uf/200_200_1/25fee108a1423eeb73dfd17b94d83dda.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,50 руб."
+                },
+                {
+                    "name": "Pchelodar АпиДоктор Чистые ушки лосьон, 100 мл",
+                    "description": "Лосьон гигиенический для очистки ушей собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb4/324ku1u0wv4eol140yasdw824vr3n2vu/200_200_1/f3c3b9b66ab4ae35564c999626d5f3fa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Pchelodar Ушастик лосьон, 50 мл",
+                    "description": "Лосьон гигиенический для очистки ушей собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/871/id0fogn3zc4qei3ewppm4fc8oagnl15r/200_200_1/61af64c6fd0a5b331a4afa8f98575d1a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,50 руб."
+                },
+                {
+                    "name": "Pchelodar Крепкие зубки (спрей), 50 мл",
+                    "description": "Спрей для обработки десен собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2db/bd97w9ynbrk8xv0uwkk30c7cbm0u28ru/200_200_1/76ab52a99ee2fc42e384f98dae5547c9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,80 руб."
+                },
+                {
+                    "name": "Pchelodar Крепкие зубки (гель), 25 г",
+                    "description": "Гель для обработки десен собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e7f/zqnd59pwa2ug54m30rmo7ty51j3cui7h/200_200_1/e2ace633e6cf4e609e4ce4e35dada48c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,40 руб."
+                },
+                {
+                    "name": "БиоФлор Шампунь бактерицидный, 250 мл",
+                    "description": "Шампунь для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cac/pmyv1fe4ve6t7b8fdjr5eq61rzzs502r/200_200_1/367a418b9c4c67caa9cb9e022917d53b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "БиоФлор Шампунь дезинфицирующий, 250 мл",
+                    "description": "Шампунь для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e31/arejo2b54darfgz7xhoxkivs0wg0te27/200_200_1/917e19bfe8cb8951aaf5c77053ed27dd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "БиоФлор Шампунь пивной, 250 мл",
+                    "description": "Шампунь с регенерирующим эффектом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/631/ucbz39412ivhfpycax9k09uhlbxeiktt/200_200_1/75ce85637c8bda8c4dda313b2ea8d7c5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "БиоФлор Шампунь репейный, 250 мл",
+                    "description": "Шампунь с противоаллергическим эффектом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/079/1blo1fx594ljraz8pzxji3d7d1ygumle/200_200_1/a453a52502d02e313eabf1c6441aeac3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "Doctor VIC Набор для котят Kitten Kit",
+                    "description": "Средства ухода для котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e8/usjzlfu5ivxy0g9l6nx1nw9js94c71x1/200_200_1/937eba0866a7425c284fa74e4be8af77.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,40 руб."
+                },
+                {
+                    "name": "Beaphar Mouth Wash Ополаскиватель для полости пасти, 250 мл",
+                    "description": "Подходит для собак и котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb1/mgi4z2wuye3ta5u3hve3w3y3vr4widyz/200_200_1/e2f36216a5f0d6970501b1f0b8ad349c.gif",
+                    "amount": "за 1 ед.",
+                    "cost": "29,30 руб."
+                },
+                {
+                    "name": "Triol Игрушка-зубная щетка для собак Клык, 95 мм",
+                    "description": "Игрушка из термопластичной резины для чистки зубов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57b/oq63ijgjgtpq42d615lbsii0lrbotykp/200_200_1/15ec7c9da00216deaed818705cfe476f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,20 руб."
+                },
+                {
+                    "name": "Натуральный дезодорант для устранения неприятных запахов собак и кошек 270 мл",
+                    "description": "Борется с неприятными запахами шерсти животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ab/0rhwojd337hstzw6fhtf9tiew5xyvojn/200_200_1/39523eb3bbe6626b8b7f0ebdc8dfa47e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "42,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь антипаразитарный для кошек и собак",
+                    "description": "Шампунь для кошек и собак, 200 мл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f16/46d94lourkq2xx565kl6j7wkgorwn1k6/200_200_1/3dec596f92a99c638d5307109e4a5442.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,30 руб."
+                },
+                {
+                    "name": "CCS Shine For Sure Aerosol, 118 мл",
+                    "description": "Спрей для блеска шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e33/uir0l4bq1pjuudv30glm5vhtcgg88aoy/200_200_1/b7459f4f1efe495f4986c078f8a59a16.png",
+                    "amount": "за 1 ед.",
+                    "cost": "109,40 руб."
+                },
+                {
+                    "name": "Beaphar Дезодарант DEO LOTION D/C GASSPRAY 250 ML",
+                    "description": "Премиум спрей-дезодорант для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/493/5f7bx1o711fn6d33z9cywf2q1nc77k92/200_200_1/bb9c017ef56ab4fdc50141e7f935e401.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,10 руб."
+                },
+                {
+                    "name": "Beaphar Бальзам-кондиционер BAUME CHAT",
+                    "description": "Премиум бальзам-кондиционер для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b0/xrh9lyywh9qs2i3m3pveo6brnflo753x/200_200_1/88fefb69e080510cef41a7706c021491.jpg",
+                    "amount": "200 мл",
+                    "cost": "36,50  руб."
+                },
+                {
+                    "name": "Beaphar Спрей JOJOBA OIL 250 ML",
+                    "description": "Спрей-дезодорант с маслом жожоба для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d84/mm5o780krn400f0uekb8ybeza943a7oo/200_200_1/a86a54e74e52350a54ba49e7b8a455a7.png",
+                    "amount": "за 1 ед.",
+                    "cost": "30,90 руб."
+                },
+                {
+                    "name": "Irbis Frootti Шампунь для кошек \"Сочный арбуз\", 250 мл",
+                    "description": "Шампунь для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65d/wv5n5shv78gyzzp8ry4eusl5n92wz2k0/200_200_1/9adc17de48202ee1edcf8709cbc3b5f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "Irbis Frootti Шампунь для кошек \"Спелый манго\", 250 мл",
+                    "description": "Шампунь для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e37/oywe0q6jc4jx3deg9gaooeigrtqui2vu/200_200_1/e72fabb319ea9532d50e72ec231c0a54.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "Irbis Frootti Шампунь для кошек \"Тропический грейпфрут\", 250 мл",
+                    "description": "Шампунь для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ece/fq8vj1emx1sobudgpty0bvwvfjjknb79/200_200_1/58d3aa3f1a55798f7afb88aa694a44b0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "Гамма Влажные салфетки \"Уход за глазами и ушами\", 15 шт/уп.",
+                    "description": "Салфетки для ухода за животными,  20 х 15 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b7/93w6jlj1x5xvy26apz5v8ztfqdvhcsub/200_200_1/1099fba3bfe9530b50141878f182d015.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,60 руб."
+                },
+                {
+                    "name": "Гамма Влажные салфетки \"Уход за лапами\", 15 шт/уп",
+                    "description": "Салфетки для ухода за животными, 20 х 15 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/35b/1os3h5h5dnfhmc5uk7dby4fc41wwxpti/200_200_1/274302a76839141fac9b5ef9d0a6f0b7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,60 руб."
+                },
+                {
+                    "name": "Влажные салфетки \"Уход за шерстью\", 15 шт.",
+                    "description": "Салфетки для ухода за животными, 20 х 15 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/24e/f29fvwx3g43zkuap005qoqa6emglw751/200_200_1/158c1f6351d7b33f1f0aebd7556c6a2c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,60 руб."
+                },
+                {
+                    "name": "Шампунь Tropiclean ягодный с кокосом, 355 мл",
+                    "description": "Очищает самую грязную шерсть",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0c/tpdf3ratmlck15krn7a7xt9ka34cozjv/200_200_1/a2bab644189beb8297df4509ce4345f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,70 руб."
+                },
+                {
+                    "name": "Trixie Салфетки для ухода за ушами, 30 шт",
+                    "description": "Салфетки для кошек, собак и мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ca2/1cu0y7gxrqzz2uw88mgzpnkal9b1t3q1/200_200_1/546f562c44ede5e7077f55a488f9833b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,60 руб."
+                },
+                {
+                    "name": "Apicenna Росинка Crystal Line лосьон для ушей, 30 мл",
+                    "description": "Очищает ушную раковину и наружный слуховой проход.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae4/axz9naugk1856chx1ndiotpiji41q0h8/200_200_1/f83831c40a27db870c4e12b87d3f97a6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,80 руб."
+                },
+                {
+                    "name": "Шампунь Doctor VIC для жесткошерстных собак и кошек",
+                    "description": "Для средней и жесткой шерсти для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5dd/95i12zdb4jzjrjiv0cyjo3dq46gvc48w/200_200_1/e2a6a0717e748298d2b72b60daf9f1fd.jpg",
+                    "amount": "250 мл",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Beaphar Шампунь ANTI ITCH 200ML",
+                    "description": "Шампунь против зуда для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/834/506cnkazc91c3qmd7qbbfsq4d41ni6uh/200_200_1/10ed405903d1405567116060e337fcfd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,50 руб."
+                },
+                {
+                    "name": "Beaphar Шампунь ANTI DANDRUFF 200ml",
+                    "description": "Шампунь против перхоти для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/861/ojzrbu5sqo1jvule3parboh5197nmrr7/200_200_1/b9bd85e3246ad12e79d5e214cd7a7eb6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,50 руб."
+                },
+                {
+                    "name": "Beaphar Шампунь Quick Washing 250ml",
+                    "description": "Экспресс-шампунь для быстрого очищения кожи и шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b99/u4rrulcqo9iko7tclp7b7vk5atu1e43s/200_200_1/ekspress_shampun_quick_washing_dlya_bystrogo_ochishcheniya_kozhi_i_shersti.png",
+                    "amount": "за 1 ед.",
+                    "cost": "32,80 руб."
+                },
+                {
+                    "name": "Шампунь \"TRIXIE\" для кошек, 250 мл",
+                    "description": "Для эффективного \"оживления\" шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/479/zz1zgr91fsae8res2a2hnjqx8d03698t/200_200_1/6f021bf595aebf6e9dad4bd53b005d99.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,50 руб."
+                },
+                {
+                    "name": "Шампунь \"TRIXIE\" для длинношерстных пород кошек, 250 мл",
+                    "description": "Для длинношерстных пород кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b7/uo0fsziglv7htzv6wfgm0mhr6ulryf2w/200_200_1/083406ac298518701e742b72e309004f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,50 руб."
+                },
+                {
+                    "name": "Hartz Шампунь против спутывания шерсти у котов, 443 мл",
+                    "description": "Шампунь для котов и котят, против спутывания шерсти.",
+                    "image_url": "https://garfield.by/upload/iblock/166/ki33pp3plbca2350z5hetp9nt28ziftp/17f2dcaf4c1ab1f13b6649093eed3569.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,60 руб."
+                },
+                {
+                    "name": "Beaphar Tooth gel Зубной гель, 100 г",
+                    "description": "Для ежедневного ухода за зубами без щетки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3b/zlc1pj3ror132d3d0t8dojrgv4nlevw8/200_200_1/627b061b3b65cbb836dbb3650ea5ef35.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,60 руб."
+                },
+                {
+                    "name": "Beaphar Зубная паста для собак и кошек, 100 г",
+                    "description": "Двойная зубная паста для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/594/e2psxwjwt68tpwqqaqrp38t2djgrq3ao/200_200_1/efdcd3b9cce6987efe82cacc988c323f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,40 руб."
+                },
+                {
+                    "name": "Beaphar Средство Oftal для глаз, 50 мл",
+                    "description": "Для чистки глаз и удаления слезных пятен.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c06/ylpj9ppcp21h3jm75z1iw4p9nmfacxkh/200_200_1/e379b6f4523a3eab033c6b8d5f1e3f79.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,30 руб."
+                },
+                {
+                    "name": "Beaphar средство Ear Cleaner для чистки ушей, 50 мл",
+                    "description": "Средство-антисептик для чистки ушей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/838/645s33npfbh4kbui4n9pu4de8gvydpk3/200_200_1/c422119c025eadad9ae9377eca7b4571.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Шампунь ProVitamin Macadamia Oil Cat&Kitten, 250 мл",
+                    "description": "Провитаминный шампунь для котят и кошек",
+                    "image_url": "https://garfield.by/upload/iblock/fbe/5f474bvm6wvhbbrb0k7633w176o03a9n/99427f7f90274540a46d8b1ff8e6af3a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,30 руб."
+                },
+                {
+                    "name": "Beaphar Tooth Brush+Paste Combipack",
+                    "description": "Зубная паста и щётка для собак и кошек, 100 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c7/us0e11hu1fl6we7okasukc2749icw307/200_200_1/ae623e5f8a1c95462c1ab9163f72eb6a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "30,30 руб."
+                },
+                {
+                    "name": "Шампунь ProVitamin Anti Tangle Cat, 250 мл",
+                    "description": "Шампунь от колтунов для кошек с длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de5/mv0k928b909bvg19jsgil5k05eqw1r0i/200_200_1/shampun_provitamin_shampoo_anti_tangle_ot_koltunov_dlya_koshek_s_dlinnoy_sherstyu.png",
+                    "amount": "за 1 ед.",
+                    "cost": "20,40 руб."
+                },
+                {
+                    "name": "Tropiclean Шампунь Гипоаллергенный для щенков и котят",
+                    "description": "Гипоаллергенный шампунь для котят и щенков, 355 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c15/j7dfgetofwj679syxsds4h77gkmga5ji/200_200_1/88f905f4a5573e12d62badf79d7ac2c6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,70 руб."
+                },
+                {
+                    "name": "TropiClean Кондиционер Лайм и масло какао",
+                    "description": "Увлажняющий кондиционер для собак и кошек, 355 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/382/dzlbxo2vfoo3gn16yfv5djyo9mixbocw/200_200_1/5f675dba550f593960786f90388ea202.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,70 руб."
+                },
+                {
+                    "name": "TropiClean Кондиционер Киви и масло какао",
+                    "description": "Увлажняющий кондиционер для собак и кошек, 355 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f9c/1i3zh5aebr34fsuh3wccw48wlrbq9re9/200_200_1/6a5f4c36ea02cd79d009c54b774231a0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,70 руб."
+                },
+                {
+                    "name": "Bio-Groom кондиционер \"овсяный\" для собак, 355 мл",
+                    "description": "Успокаивающий противозудный кондиционер.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e7/wrtoqc2hu14olm2a8frag3dhf864pf25/200_200_1/95dc4e33963d54c1cb24f6ea5185e427.png",
+                    "amount": "за 1 ед.",
+                    "cost": "47,70 руб."
+                },
+                {
+                    "name": "Bio-Groom кондиционер \"свежесть\" для собак, 355 мл",
+                    "description": "Ароматизированный кондиционер для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aac/ypgdy9kqmvanldfd6bzbznhr70y9uge6/200_200_1/650d95c40fdd804af31897fbc01d4c81.png",
+                    "amount": "за 1 ед.",
+                    "cost": "49,80 руб."
+                },
+                {
+                    "name": "Bio-Groom кондиционер \"шелковый\" для собак, 355 мл",
+                    "description": "Кондиционер-ополаскиватель для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/72e/4evxwl7aar6rh7s3hxvd4bnfg2mse1gi/200_200_1/2c20a5482690fad98784e7f2fc698848.png",
+                    "amount": "за 1 ед.",
+                    "cost": "48,50 руб."
+                },
+                {
+                    "name": "Шампунь Doctor VIC \"7 трав\" для кошек всех пород",
+                    "description": "Натуральные экстракты 7-ми целебных трав.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/737/fgnbdwjo72xk1nti52070f6x0c733vyb/200_200_1/9d2e43b02261aab18b8f3efb6fcb7ee5.png",
+                    "amount": "250 мл",
+                    "cost": "6,50  руб."
+                },
+                {
+                    "name": "Шампунь-кондиционер Doctor VIC для бесшерстных кошек и собак",
+                    "description": "С кератином и провитамином B5, для сфинксов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/300/xrb6us7s4aft7ah3nwz29bx4m3vts66m/200_200_1/4810956008977 Шампунь-кондиционер с кератином и провитамином B5 для бесшёрстных пород собак и кошек.jpg",
+                    "amount": "250 мл",
+                    "cost": "7,80  руб."
+                },
+                {
+                    "name": "Doctor VIC Шампунь Шиповник и ромашка для котят",
+                    "description": "Шампунь с экстрактом шиповника и ромашки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/180/yi9x2lxzb9ip21ztbm5nx6r0r43resfq/200_200_1/Без имени-1.jpg",
+                    "amount": "250 мл",
+                    "cost": "6,20  руб."
+                },
+                {
+                    "name": "Бальзам-кондиционер Doctor VIC для длинношерстных",
+                    "description": "С кератином и провитамином В5, для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1f0/r1xz4dbec0lloraosft54ap90bn9nx0d/200_200_1/c23f73db8ac67ffe13ed1455e3fcf6a0.png",
+                    "amount": "200 мл",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Бальзам-кондиционер Doctor VIC для щенков и котят",
+                    "description": "C кератином и провитамином В5.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/412/p34m41m1vrl8rvoxeq0etnpd3w3agwuy/200_200_1/64f7f822481ad0f44b2c0976f6fb34a7.png",
+                    "amount": "200 мл",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Шампунь-кондиционер Doctor VIC для котят",
+                    "description": "С кератином и провитамином B5",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bac/vcpgberjfguzpdkr0l5kef88w3ly9mj9/200_200_1/14c78a386bc96752ff7aab33695d5900.png",
+                    "amount": "250 мл",
+                    "cost": "7,80  руб."
+                },
+                {
+                    "name": "Лосьон Doctor VIC гигиенический для ушей",
+                    "description": "Для регулярной гигиены слухового прохода, для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/942/w6gj4hq78d0rcgilpu91upvd1zakz2ai/200_200_1/для ушей.jpg",
+                    "amount": "60 мл",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Спрей-кондиционер Doctor VIC для длинношерстных собак и кошек",
+                    "description": "Облегчение расчесывания длинношерстных собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91c/mu8bb1gexmf1m3z48sutx8o1b2ij07i6/200_200_1/63e5de38fadb2e29924ac44d0aff493f.png",
+                    "amount": "200 мл",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Воротник защитный  \"Trixie\" \"Veterinary\"",
+                    "description": "Ветеринарный воротник с зажимом для собак",
+                    "image_url": "https://garfield.by/upload/iblock/95f/ic8uoou457h507n1ssxhv0rvu8v1902x/2cfa1eac032fe8d802042310e90ae892.jpg",
+                    "amount": "(XS), 22-25 см/7 см",
+                    "cost": "10,90  руб."
+                },
+                {
+                    "name": "Воротник защитный \"TRIXIE\" \"Velcro\"",
+                    "description": "Ветеринарный воротник на липучке для собак.",
+                    "image_url": "https://garfield.by/upload/iblock/339/936616pl88t3ffpol67h3sgrxsrw1pbu/d334ee329bb65fdc238ab08d4ed362a2.jpg",
+                    "amount": "(XS), 18-23 см/8 см",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Cliny Влажные гигиенические салфетки",
+                    "description": "Влажные гигиенические салфетки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/994/q2vulkossjwwxr80lnymxgh2aioq5rok/200_200_1/7f0b3cd51fdb7875286d02e3e9836bd5.jpg",
+                    "amount": "10 шт/уп",
+                    "cost": "3,30  руб."
+                },
+                {
+                    "name": "Жидкость для полости рта Cliny",
+                    "description": "Жидкая зубная щетка для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/699/uaajk2eve1gygmsz58bq57dfew9wrzul/200_200_1/6c0707fc46a10d6a380a3d558de2efcd.jpg",
+                    "amount": "100 мл",
+                    "cost": "13,10  руб."
+                },
+                {
+                    "name": "Cliny Лосьон очищающий для глаз",
+                    "description": "Удаление загрязнений и профилактика болезней глаз",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/446/x5rv5vih9xtr9kd1ps91fgr8yylvwen7/200_200_1/4b5884594c4fc2910e2c103327e4700e.jpg",
+                    "amount": "50 мл",
+                    "cost": "13,30  руб."
+                },
+                {
+                    "name": "Cliny Лосьон очищающий для ушей",
+                    "description": "Удаляет загрязнения и выделения. Профилактика болезней ушей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d97/k1r13chwg04k3g1s1u9wgansz2r2ccxw/200_200_1/a098bb017eba25892f426576fa9ef279.jpg",
+                    "amount": "50 мл",
+                    "cost": "13,90  руб."
+                },
+                {
+                    "name": "Cliny Спрей для полости рта",
+                    "description": "Спрей для полости рта",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/483/dj8xkpeiyhz5svy8edznabv16sqydwli/200_200_1/57023f0edf423e536289848eb4044e5d.jpg",
+                    "amount": "100 мл",
+                    "cost": "12,20  руб."
+                },
+                {
+                    "name": "Cliny Зубная щётка+массажёр для дёсен",
+                    "description": "Набор для ухода за полостью рта",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/320/uya37le3tnwmn9vgaghg7qhyo877d5jf/200_200_1/21506a9888f249df3af9c88e4c00dac7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Cliny Зубной гель",
+                    "description": "Гель для ухода за зубами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dab/utzr3mo36it1m9a1q0qn1ds4ybuobuv5/200_200_1/d3b7b583081637a22be995a5aaa083c9.jpg",
+                    "amount": "75 г",
+                    "cost": "13,20  руб."
+                },
+                {
+                    "name": "Bio-Groom шампунь без смывания для котов, 236 мл",
+                    "description": "Предназначен для быстрого купания без воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bae/lf4ey2v08s8tcdmssa22pqebq20nmquu/200_200_1/ff846ca06260d0b26d781589a02b5d53.png",
+                    "amount": "за 1 ед.",
+                    "cost": "40,10 руб."
+                },
+                {
+                    "name": "Bio-Groom шампунь для белой шерсти котов, 236 мл",
+                    "description": "Специальные осветляющие и перлесцентные добавки придают шерсти яркость и блеск.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d62/kn9gyccdwqnw6ofd7veyoagtefrmetij/200_200_1/684650032290b4986829f052d7fdcb25.png",
+                    "amount": "за 1 ед.",
+                    "cost": "42,40 руб."
+                },
+                {
+                    "name": "Шампунь-кондиционер Doctor VIC для длинношестных кошек",
+                    "description": "С кератином и провитамином B5, для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/93c/zrxn11wjcqv41v478j9f7ejwj60fuhhf/200_200_1/9b323d822c76dc0eacc30fb31033f7c8.png",
+                    "amount": "250 мл",
+                    "cost": "7,80  руб."
+                },
+                {
+                    "name": "Шампунь-кондиционер Doctor VIC для короткошерстных кошек",
+                    "description": "С кератином и провитамином B5, для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/94f/1lfyfw61szajk40rleppmqh7zomqu2zu/200_200_1/c666ee342ba95f623e3c3e41e05214e1.png",
+                    "amount": "250 мл",
+                    "cost": "7,80  руб."
+                },
+                {
+                    "name": "Агроветзащита Барс Лосьон для очищения ушей",
+                    "description": "Лосьон для очищения ушей собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/313/4ojrl4o077bsm0yvl1z095evn0hmwq4l/cd2227709d856f838aed3509b8db9e39.jpg",
+                    "amount": "20 мл",
+                    "cost": "13,80  руб."
+                },
+                {
+                    "name": "Воск защитный для лап \"Айда гулять!\"",
+                    "description": "Защищающий кожу лап воск для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d6/w4jnb3eszjyv5vbxiqbnc4jd7byeg9er/200_200_1/20cb5d01bfec112a02510fb4242cbed4.jpg",
+                    "amount": "100 г",
+                    "cost": "20,20  руб."
+                },
+                {
+                    "name": "Apicenna Зубастик Crystal Line гель для зубов, 30 мл",
+                    "description": "Стоматологический гель для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83c/2gwqpxensmmunt5d9kvmz34rtd3qac1m/200_200_1/b56879f019151f01b628a7af8550582c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,70 руб."
+                },
+                {
+                    "name": "Крем защитный для лап \"Айда гулять!\"",
+                    "description": "Питательный крем для лап собак.",
+                    "image_url": "https://garfield.by/upload/iblock/8b4/y8mgmmek9fupz9tnb0bixkkxgmbd46py/e68905b6a6db458129c7350bb7766450.jpg",
+                    "amount": "120 г",
+                    "cost": "13,50  руб."
+                },
+                {
+                    "name": "Лосьон Doctor VIC для очищения шерсти от слёзных пятен",
+                    "description": "Для гигиены и удаления пятен от слез у собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/790/dg8iz7wmygktncav2f9pnj7a69hr749e/200_200_1/от слезных пятне.jpg",
+                    "amount": "60 мл",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Веда Фитоэлита Лосьон для ушей",
+                    "description": "Для гигиенической обработки ушей животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a28/fffbfp0zwnmqdf824f06iax6i7chznfk/200_200_1/eb3631376152b250b4a859ae200593aa.jpg",
+                    "amount": "15 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Жидкое мыло \"Айда гулять!\"",
+                    "description": "Для ежедневного мытья лап и живота собаки.",
+                    "image_url": "https://garfield.by/upload/iblock/e0b/dnjy2q7yctndasulmg3rs43ma0z0gbcd/b6acbd011219f5890af5b052ea0dcae4.jpg",
+                    "amount": "350 мл",
+                    "cost": "19,50  руб."
+                },
+                {
+                    "name": "Фармакс Айда Гулять Салфетки для глаз и ушей",
+                    "description": "Салфетки для глаз и ушей кошек и собак.",
+                    "image_url": "https://garfield.by/upload/iblock/97e/b9ebgb0nfijgoedw3yd2uumfevhoty5e/302d39f31d0a9474534a0965e8099d96.jpg",
+                    "amount": "80 шт",
+                    "cost": "20,60  руб."
+                },
+                {
+                    "name": "Фармакс Айда Гулять Салфетки для кожи и складок",
+                    "description": "Для очищения кожи и кожных складок животных.",
+                    "image_url": "https://garfield.by/upload/iblock/08a/ppfobax3vjn7ef0ki227w1r43g6ve58s/f77b0435b072bcc4faa1fd09722cd7a1.jpg",
+                    "amount": "50 шт",
+                    "cost": "20,60  руб."
+                },
+                {
+                    "name": "Фармакс Айда Гулять Салфетки для лап и шерсти",
+                    "description": "Салфетки для очищения лап и шерсти собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/783/x6297vwbhfto1zmqhdi5v8iur17800z1/ceb8dd8cc2f295615262e29010f8ba15.jpg",
+                    "amount": "40 шт",
+                    "cost": "20,60  руб."
+                },
+                {
+                    "name": "Веда Лосьон для глаз Календула",
+                    "description": "Для обработки глаз при слезоточении у собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/683/lmsx7tjkx8g3m6xfjroecbo0xc52uaj3/200_200_1/66637588a93b131eec0d2e5207011043.jpg",
+                    "amount": "10 мл, 1 флакон",
+                    "cost": "2,10  руб."
+                },
+                {
+                    "name": "Веда Лосьон для глаз Ромашка",
+                    "description": "Для ухода за веками и слизистыми глаз собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d5/zigfz6mlcpzutw0hk4uhjzkd8xmic3m9/200_200_1/61f8ceaaa11fef9cdfc4ff61fc8b72bb.jpg",
+                    "amount": "10 мл, 1 флакон",
+                    "cost": "2,10  руб."
+                },
+                {
+                    "name": "Веда Лосьон для глаз Зеленый Чай",
+                    "description": "Для гигиенической обработки глаз собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/835/lqq0svrxdftozwnj19uwujn1i3h77l1h/200_200_1/319b83960595b3fe2ad09d441ecee139.jpg",
+                    "amount": "10 мл, 1 флакон",
+                    "cost": "2,10  руб."
+                },
+                {
+                    "name": "Салфетки для чистки и устранения запаха из ушей",
+                    "description": "Влажные салфетки из натурального хлопка, 20 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1e5/m56sg4ln751h70ym5a94zx02s6v9cqag/200_200_1/de6d4780edf9f11bcf8659baf32f421b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,60 руб."
+                },
+                {
+                    "name": "Влажные салфетки для ухода за пастью, ушами и глазами",
+                    "description": "Влажные салфетки для кошек и собак, 90 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e3a/gijhwz99lxjxu63q62se8ne1pbly2sjs/200_200_1/222f33119e0e5a5a686a70f78cedfda2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,60 руб."
+                },
+                {
+                    "name": "Fitmin for Life Шампунь для щенков Junior, 300 мл",
+                    "description": "Шампунь для щенков и котят с алоэ вера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/53b/4sglx33ptznwkbjmo05ebvy94y28ho06/200_200_1/a5bfe436ba39e1a40f0ad6e1d53a9833.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,70 руб."
+                },
+                {
+                    "name": "Сухие салфетки для чистки зубов и массажа десен",
+                    "description": "Для ухода за зубами собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d0/kpm97ebps72gy1md6xba6z756akceo8l/200_200_1/cd2acd14385104082d0bea38e9043034.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,20 руб."
+                },
+                {
+                    "name": "Шампунь Tropiclean Oxymed Medicated, 592 г",
+                    "description": "Лечебный шампунь для котов и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e9f/g3hj11da823qjd8d94x3d24831xlyfzg/200_200_1/93a571184f225bf4d6a5b6fec227b618.png",
+                    "amount": "за 1 ед.",
+                    "cost": "40,50 руб."
+                },
+                {
+                    "name": "Шампунь Tropiclean Oxymed Hypollergenic, 592 мл",
+                    "description": "Гипоаллергенный шампунь для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bbf/3mm0gnbocfohu6c5fsb9yrtohkmxyfwf/200_200_1/94c3ecdb91e27365ce9a636a7eba3f3c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "29,90 руб."
+                },
+                {
+                    "name": "Шампунь Tropiclean Oxymed Anti-Itch, 592 мл",
+                    "description": "Шампунь от зуда для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/79d/l01vtf6f6gj34x5c10ntonaqu2prk547/200_200_1/dc1c01ae874a3d92efcdf2ffaba95370.png",
+                    "amount": "за 1 ед.",
+                    "cost": "29,90 руб."
+                },
+                {
+                    "name": "Бальзам-уход Tropiclean Oxymed Treatment, 592 мл",
+                    "description": "Кондиционер для шерсти котов и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/704/6hadv0iu9bb7h2490papfd1bmd10va7y/200_200_1/af941f6364af8392b6d84c583069e53a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,90 руб."
+                },
+                {
+                    "name": "Beaphar Шампунь TEA SHA TREE 250 ML",
+                    "description": "Шампунь с маслом чайного дерева для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d65/jqri1tx3qujo55ntethqwm1xeg7y8zhe/200_200_1/ec723f669200893ec795c8a1714ace0a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Beaphar Мусс D/C GAS SPRAY 250 ML",
+                    "description": "Премиум мусс для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/18d/f476hwmq4t1qxorex5na7093q34qvatb/200_200_1/68cbc8f42742e192bfb1427ad5068f52.png",
+                    "amount": "за 1 ед.",
+                    "cost": "27,20 руб."
+                },
+                {
+                    "name": "Чистотел Шампунь Гипоаллергенный для кошек",
+                    "description": "Деликатно ухаживает, снимает раздражение",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be2/1tm2jmszzlkqdwpvsb5680t4uqe5twc4/200_200_1/c705-3.jpg",
+                    "amount": "220 мл",
+                    "cost": "8,50  руб."
+                },
+                {
+                    "name": "Чистотел Шампунь Восстанавливающий для кошек",
+                    "description": "Укрепляет шерсть, устраняет линьку",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5fa/pfbk1d93cipb5o53ar0maj4y2w33rz9c/200_200_1/c703-3.jpg",
+                    "amount": "220 мл",
+                    "cost": "8,50  руб."
+                },
+                {
+                    "name": "Миралек Мусс СкинВет Seb",
+                    "description": "Гипоаллергенное увлажняющее средство для ухода за кожей собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a8/wwck4ppxwyn1goy3vpcp5cfztwvpjc13/200_200_1/20211221161244321_muss_02.png",
+                    "amount": "160 мл",
+                    "cost": "76,70  руб."
+                },
+                {
+                    "name": "Миралек Шампунь СкинВет Soft",
+                    "description": "Шампунь для регулярного использования для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/237/sfmok0t0ljdsox10y89usw6oz3s79qwc/200_200_1/full_flacon-skinvet-soft_disk-top.jpg",
+                    "amount": "200 мл",
+                    "cost": "33,20  руб."
+                },
+                {
+                    "name": "Миралек Шампунь СкинВет Sensitive",
+                    "description": "Гипоаллергенный увлажняющий шампунь для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f9e/tc298j2h8jkdr6sjkuz1t0tpwkw64z75/200_200_1/full_flacon-skinvet-sensetive_disk-top.jpg",
+                    "amount": "200 мл",
+                    "cost": "44,70  руб."
+                },
+                {
+                    "name": "Миралек Шампунь СкинВет Seb",
+                    "description": "Увлажняющий шампунь при себорейных состояниях кожи для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/908/godx4kd925493j3n2srf4suu6hstyd9w/200_200_1/full_flacon-skinvet-seb_disk-top.jpg",
+                    "amount": "200 мл",
+                    "cost": "56,10  руб."
+                },
+                {
+                    "name": "Platinum Гель 3в1 Forte для полости рта",
+                    "description": "Гель для чистки зубов кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57f/76a13s9qv7fqw7vnl5o457nqmhee45yi/200_200_1/20200305_Platinum_OCC_Classic_Gel.jpg",
+                    "amount": "120 мл",
+                    "cost": "240,10  руб."
+                },
+                {
+                    "name": "Platinum Гель 3в1 Classic для полости рта",
+                    "description": "Гель для чистки зубов кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0e/0usqdg9kqscvu2bi1hqttqpvj9gea5b8/200_200_1/600000979353b0.jpeg",
+                    "amount": "120 мл",
+                    "cost": "205,10  руб."
+                },
+                {
+                    "name": "Фармакс Айда Гулять Салфетки влажные с антисептическим эффектом для шерсти и лап",
+                    "description": "Влажные гигиенические салфетки для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ff/mcrt83o6n1c15r1n7bddd00cnzfd9or4/200_200_1/salfetki_ag_antisepticheskie.jpg",
+                    "amount": "40 шт/уп",
+                    "cost": "20,60  руб."
+                },
+                {
+                    "name": "CCS SmartWash50 Vanilla Oatmeal Shampoo",
+                    "description": "Высококонцентрированный шампунь с ароматом ванили и овсянки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b0f/im7mf5wu7usuqijdp5q7plyzzhtksixj/200_200_1/3b5ffb82fdae55677d32ede5cee543ac.png",
+                    "amount": "355 мл",
+                    "cost": "82,10  руб."
+                },
+                {
+                    "name": "YUUP! Пенка для Очищения Шерсти без Воды",
+                    "description": "Пенка для ежедневного применения для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d7/7eexgwbe6gtto7qvnejs1vt2804bcf64/200_200_1/4eb44ac49876b941c49f7ddf29726cb2.jpg",
+                    "amount": "150 мл",
+                    "cost": "37,80  руб."
+                },
+                {
+                    "name": "YUUP! Кондиционер для Распутывания Шерсти",
+                    "description": "Увлажняющий шампунь для животных с длинной, тонкой и курчавой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6f/fl5kk4pw68vemdfda0mxv7t5t4b2myzl/200_200_1/631108e28278e7d8ba39e5b7b3a2417c.png",
+                    "amount": "250 мл",
+                    "cost": "43,90  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь для Темной Шерсти",
+                    "description": "Шампунь для собак и кошек с темной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c6/n5i0ihyqa0ubmepbjl7v65qz8u825qmb/200_200_1/4dabd4ee9da54e995d663823affb88ab.jpg",
+                    "amount": "250 мл",
+                    "cost": "46,60  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь для Белой и Светлой Шерсти",
+                    "description": "Шампунь для животных с белой и светлой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aae/y78zb1i809pigdtavbet5f47vit4zycm/200_200_1/20f5aacde0407882cfdcd17432a5a322.jpg",
+                    "amount": "250 мл",
+                    "cost": "42,20  руб."
+                },
+                {
+                    "name": "YUUP! Маска для Блеска шерсти",
+                    "description": "Восстанавливающая маска для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d93/ueiqylwvlwfl41mhcaeafu12xxl2i78s/200_200_1/7bc03b925dfc1d93ebb7b6f5c770fa98.jpg",
+                    "amount": "1 л",
+                    "cost": "149,20  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь Глубокое очищение",
+                    "description": "Шампунь для собак и кошек с любым типом шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d69/g62ex90uffptwhjqstxc3000sxshf9pr/200_200_1/fb59d59b64e1e71bbec1ea4e06068c61.jpg",
+                    "amount": "1 л",
+                    "cost": "78,10  руб."
+                },
+                {
+                    "name": "YUUP! Шампунь для животных с чувствительной кожей",
+                    "description": "Успокаивающий шампунь для щенков и животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ba/i2tgtl6n3kooye59678ow2okn10tr905/200_200_1/c4cbd46128de588b37faed5fa9fbf21f.jpg",
+                    "amount": "250 мл",
+                    "cost": "45,70  руб."
+                },
+                {
+                    "name": "CCS Smart Rinse Tropical Breeze Grooming Conditioner",
+                    "description": "Увлажняющий кондиционер с ароматом тропического бриза",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c80/j0tmwgdfbhuoiac2f4nw7pgxbrhf7ip9/200_200_1/eba9771f849497eaab4952a2c8cc39dc.png",
+                    "amount": "59 мл",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "CAMON Салфетки для глаз",
+                    "description": "Очищающие салфетки для глаз для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b7/d11zc0uudzc9j2z1dqbxjuvtmmtmea5i/200_200_1/a399d287554ebe6eca85ae1f67b85c8e.jpg",
+                    "amount": "15 шт/уп",
+                    "cost": "10,60  руб."
+                },
+                {
+                    "name": "CAMON Салфетки антибактериальные с ароматом мирры",
+                    "description": "Влажные салфетки для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/519/t2y7sxp3pme9a9fl47ce99rvxgch7ebw/200_200_1/1b65ef43ea781ab89a79b2f2ef58c194.jpg",
+                    "amount": "40 шт/уп",
+                    "cost": "18,90  руб."
+                },
+                {
+                    "name": "CAMON Салфетки очищающие с ароматом иланг-иланг",
+                    "description": "Влажные салфетки для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ba1/cuhiptr9izfi0md9tnlpbwvhzt9rsmz0/200_200_1/cf3d7f3f95e2718775553573f2677437.jpg",
+                    "amount": "40 шт/уп",
+                    "cost": "14,20  руб."
+                },
+                {
+                    "name": "CAMON Зубная щетка наперсток",
+                    "description": "Щетка-напальчник для чистки зубов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/658/ifaqr0uo00g38c2lwg8cwtcx1h1hor4l/200_200_1/b7947bdaa0b6e44e93146c3beb13b63f.jpg",
+                    "amount": "2 шт/уп",
+                    "cost": "13,80  руб."
+                },
+                {
+                    "name": "Gamma Шампунь для кошек и котят антипаразитарный с экстрактом трав",
+                    "description": "Шампунь для кошек и котят против внешних паразитов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/15e/cnwrb8v0ixhhnfzw505o0uucn0cws5tm/200_200_1/8c4906372147788db3f5280eac92dca7.jpg",
+                    "amount": "250 мл",
+                    "cost": "4,90  руб."
+                },
+                {
+                    "name": "Шампунь Frutty Медовая груша для собак и кошек",
+                    "description": "Не содержат силиконов, парабенов и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a57/18ck0p2wvbmtf3ye94hj1j681iz3wphf/200_200_1/6087a0c72c976472ce2bc8dc0dcc2406.png",
+                    "amount": "250 мл",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Cliny Магия белого шампунь-кондиционер",
+                    "description": "Восстанавливает белый цвет шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/51b/i6inmpbvoegdeixxwwikwhkem18lpx9e/200_200_1/1d2a053ff176ba1a0ba277c127a6f0a4.jpg",
+                    "amount": "300 мл",
+                    "cost": "16,90  руб."
+                },
+                {
+                    "name": "Cliny Глубокая очистка шампунь-кондиционер для собак и кошек",
+                    "description": "Для интенсивного очищения грязной шерсти и удаления неприятного запаха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb5/lk141lc2gaz3wqkekzr2kitxmwnl8f8j/200_200_1/d994ea18a743b9992873998a915ac8d7.jpg",
+                    "amount": "300 мл",
+                    "cost": "16,90  руб."
+                },
+                {
+                    "name": "Cliny Гипоаллергенный шампунь для кошек",
+                    "description": "Для ухода за чувствительной кожей и шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/003/gpwvqir5h6e5tgqkzaykei8m74ejv19x/200_200_1/7b8c0c73bfe83868df35c8e0d40152a9.jpg",
+                    "amount": "200 мл",
+                    "cost": "12,70  руб."
+                },
+                {
+                    "name": "Шампуневые полотенца для деликатного ухода",
+                    "description": "Гипоаллергенные полотенца для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a2c/bjq44jg0d5qb1n11pyk6bog0wa0riq4d/200_200_1/1bf0e6e9e8c40a1e0bcc81085dad3f1e.jpg",
+                    "amount": "25 шт/уп",
+                    "cost": "25,10  руб."
+                },
+                {
+                    "name": "Cliny Кондиционер-антистатик спрей для кошек и собак",
+                    "description": "Облегчает расчесывание, снимает статическое электричество",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/861/85di5w3ljwas03nwqahheygvv1zovaft/200_200_1/705a016ed713c7b9636179305d4ee820fcf7a70f.jpg",
+                    "amount": "200 мл",
+                    "cost": "23,10  руб."
+                },
+                {
+                    "name": "Стоп-проблема Лосьон для глаз",
+                    "description": "Лосьон для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/959/itm109o4zwdykjxtd86k3usm8w5pxtgs/200_200_1/841b0da3d31ae0ac2b457e7991985fdc.jpg",
+                    "amount": "25 мл",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "Влажные салфетки для ухода за мордочкой и усиками",
+                    "description": "Влажные салфетки для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2b2/u5zvr1ahu1a7c2onnfq76wszvgp5j5y7/200_200_1/2a8aeab48cbd569216b2aa2e11455f44.jpg",
+                    "amount": "30 шт/уп",
+                    "cost": "43,20  руб."
+                },
+                {
+                    "name": "Влажные салфетки для ухода за глазами и удаления слезных дорожек",
+                    "description": "Салфетки для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c3c/tj2lzgd1u2k0u98dfxnr9wxm00c5zilx/200_200_1/3ecbfd1484b17f5d87bbc97449889c95.jpg",
+                    "amount": "30 шт/уп",
+                    "cost": "31,20  руб."
+                },
+                {
+                    "name": "Влажные салфетки для чистки и ухода за ушами",
+                    "description": "Салфетки для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df4/5fazfgddm52ko8dau5be9a9gz8lw1a03/200_200_1/16ff9303921711466438f70ae1205d44.jpg",
+                    "amount": "30 шт/уп",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "Irbis Denta Гель для зубов и десен для кошек и собак",
+                    "description": "Предотвращает появление зубного камня",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/859/vsujo3z60jo5bc2frgjsdbm0hu7vahth/200_200_1/a33d4757f6f7af9e93bc4cf8a655ea61.jpg",
+                    "amount": "30 мл",
+                    "cost": "11,10  руб."
+                },
+                {
+                    "name": "CCS Smart Rinse Cherry & Oats Grooming Conditioner",
+                    "description": "Кондиционер с ароматом вишни и овсянки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65f/qvlet3vrm585dp17pfp9p1k43nesk12q/200_200_1/04e5407512bb0fc935fc90f0f11995c1.png",
+                    "amount": "59 мл",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "CCS Diamond Miracle Repair Conditioner",
+                    "description": "Супервосстанавливающий кондиционер для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d3a/h3n9w8hln9kcl4k24756n4mww6yfmlut/200_200_1/90ad2837719e1b4f698eeec137468ee7.png",
+                    "amount": "473 мл",
+                    "cost": "86,90  руб."
+                },
+                {
+                    "name": "CCS White on White Shampoo",
+                    "description": "Отбеливающий шампунь для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bf0/f9230tw28aph1n4owg60mjdfexicm01o/200_200_1/010e6233322d4fbd21aa41a0625fc13d.jpg",
+                    "amount": "118 мл",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "Artero Шампунь увлажняющий Hidratante",
+                    "description": "Для длинношерстных пород собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b92/tfyimc4r261q4xgdak8dwz5oxo8j5ckt/200_200_1/1a0b8b74e4134468b05b47bf61bd4bea.jpg",
+                    "amount": "250 мл",
+                    "cost": "24,50  руб."
+                },
+                {
+                    "name": "Artero Шампунь тонирующий Blanc",
+                    "description": "Шампунь для светлой шерсти собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/03c/u8yu62thgxegbe5pjd4im3q1zjylrto2/200_200_1/8640be2897d016f9ff4901d69f90c6b7.jpg",
+                    "amount": "250 мл",
+                    "cost": "26,10  руб."
+                },
+                {
+                    "name": "Artero Шампунь для кошек 4 Cats",
+                    "description": "Ухаживает за шерстью и кожей кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f10/k0e5kv0np3yufmdd3ooduo4lmjubfo51/200_200_1/66f0449ab622d81260a75457b686a81c.jpg",
+                    "amount": "250 мл",
+                    "cost": "23,30  руб."
+                },
+                {
+                    "name": "Artero Шампунь витаминизированный Vitalizante",
+                    "description": "Для пород с жесткой вьющейся шерстью.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dda/09hxf29tyosblvp4nim06fwhktfjrl9f/200_200_1/b5440dcf903dba0f1cb7a733bbb5cb88.jpg",
+                    "amount": "250 мл",
+                    "cost": "22,30  руб."
+                },
+                {
+                    "name": "Artero Кондиционер \"Жизненный протеин\"",
+                    "description": "Концентрированный кондиционер для всех типов шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f5e/33l6sktqqbwwfdx7i1lk180pnpx99pvc/200_200_1/d47c5a875fe1a6b5e2f2c6d29ac5e74d.jpg",
+                    "amount": "100 мл",
+                    "cost": "33,10  руб."
+                },
+                {
+                    "name": "Artero Кондиционер \"Жизненный кератин\"",
+                    "description": "Концентрированный кондиционер для длинношерстных пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/275/z0096n3h1uz1ml753ho4k1mhb13givwv/200_200_1/7b3820a5a3ebc346cf317a8363c7c1b7.jpg",
+                    "amount": "100 мл",
+                    "cost": "33,10  руб."
+                },
+                {
+                    "name": "MILORD Бальзам питательный «КАНАПА»",
+                    "description": "Бальзам для длинной шерсти собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3d0/edgo6ngbup4p2a9d1412kxq2sc87tv9m/200_200_1/d8de823d7f2ae718f4e0e12aff1bc1ba.jpg",
+                    "amount": "300 мл",
+                    "cost": "25,50  руб."
+                },
+                {
+                    "name": "MILORD Шампунь питательный «Канапа»",
+                    "description": "Шампунь для длинной шерсти собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81f/89kpeub1ur5b2cdz0o2dutfa789qmxhl/200_200_1/66ffc3ccba6d0c36b1c0d9fbd0b6a723.jpg",
+                    "amount": "300 мл",
+                    "cost": "20,80  руб."
+                },
+                {
+                    "name": "MILORD Шампунь очищающий \"Виноград\"",
+                    "description": "Шампунь с пантенолом, экстрактом винограда и маслом арганы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1df/5mntagziywync2mywslzhuhzc4dgr7si/200_200_1/1f1f5255f234275edf1b384e8318308c.jpg",
+                    "amount": "300 мл",
+                    "cost": "20,80  руб."
+                },
+                {
+                    "name": "MILORD Шампунь увлажняющий \"Миндаль\"",
+                    "description": "Шампунь с пантенолом и маслом миндального ореха",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fe1/whvtmofh21mf9yvoujcvi2nmpfpm9hv9/200_200_1/a1b66d01d94565948d228849a7d8a204.jpg",
+                    "amount": "300 мл",
+                    "cost": "20,80  руб."
+                },
+                {
+                    "name": "MILORD Шампунь Универсальный \"Пшеница\"",
+                    "description": "Шампунь для всех типов шерсти собак и кошек с экстрактом пшеницы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d89/b6kstinkr1vukmletyjdbbn2yx5rtvgv/200_200_1/f4f47fa666da286e6880a8cc303096ae.jpg",
+                    "amount": "300 мл",
+                    "cost": "18,40  руб."
+                },
+                {
+                    "name": "MILORD Бальзам Универсальный с экстрактом пшеницы",
+                    "description": "Бальзам для ухода за шерстью и кожей собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a9c/0xmyf3escomwfqidphynzui3py6efp8g/200_200_1/eb54d211345b58eee82ac52e00e76baa.jpg",
+                    "amount": "300 мл",
+                    "cost": "25,50  руб."
+                },
+                {
+                    "name": "MILORD Парфюм \"Верона\"",
+                    "description": "Парфюм для животных, запах винограда",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/669/ygzlvb2pfenoesdfjx86f19x2m993zej/200_200_1/674a8a4fe925f142a9734fb367af5ccb.jpg",
+                    "amount": "100 мл",
+                    "cost": "30,10  руб."
+                },
+                {
+                    "name": "Irbis Local Биоспрей для ушей кошек и собак",
+                    "description": "Спрей с акарицидным эффектом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/537/5neevcs0uc5sz062xnm0bho5ktiihm59/200_200_1/11d031a5aba77d19cd2c9cc2d689c16c.jpg",
+                    "amount": "30 мл",
+                    "cost": "9,70  руб."
+                },
+                {
+                    "name": "Amstrel Репеллентный шампунь для собак и кошек (лаванда/чайное дерево)",
+                    "description": "Шампунь для кошек и собак с маслом лаванды и чайного дерева",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b2f/450ytwzbeifkhmgxbbe3n48wklpyn8gt/200_200_1/6af8c833a76d9ce8f663d5b09b193146.jpg",
+                    "amount": "120 мл",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "8in1 Гигиенический лосьон для ушей Pro-Sense",
+                    "description": "Для ухода за ушами кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b89/lv5b1sgghktu020dlm8zyvb33smgcb92/200_200_1/bff0a4bff3f404b27894ea4e397b66e8.jpg",
+                    "amount": "118 мл",
+                    "cost": "25,20  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь антипаразитарный для щенков и котят",
+                    "description": "Шампунь на основе масел чабреца, лаванды и чайного дерева",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/90a/m5vaul51z9o4smdfl7opxk092c8yno6b/200_200_1/afc8e5cc750060345c87a36ac330c71a.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь для собак и кошек в период линьки",
+                    "description": "Шампунь с экстрактами брусники и калины",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5bb/3kd0cpdyi49d6k1hoznvx3s39i4w26a4/200_200_1/482fe720feafa6ade37109a9969066a8.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Herba Vitae Шампунь гипоаллергенный для кошек и собак",
+                    "description": "Шампунь с лопухом и тысячелистником",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e36/3ziy8q30ffcp2o03e8d492zgksjn95sy/200_200_1/42f026642a9eafebfbbb85c0a924763c.jpg",
+                    "amount": "250 мл",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Le Artis Масло для когтей и подушечек лап",
+                    "description": "Средство для собак, кошек, хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e1d/3s1omrwnro31pz5puv3xkm9o6rnv3nxz/200_200_1/8050d0c7a4d1ebdae458e6b6396b8ac7.jpg",
+                    "amount": "15 мл",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Le Artis Спрей защитный с хитозаном",
+                    "description": "Спрей для усиления блеска шерсти у кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/740/ucbi2ny3zmxsndkxymhn4o5jy0pbqtc4/200_200_1/7ede76005f3d1e70c5e19c506cdaa1a3.png",
+                    "amount": "200 мл",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Le Artis Крем-суфле для бесшерстных пород",
+                    "description": "Для ухода за бесшерстными кошками и собаками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d49/kia5jdl2hn87y3ldt0f7ljymuzi2mzb9/200_200_1/516c8d918a8cd83f96f6f6c080b2e52b.png",
+                    "amount": "150 мл",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Le Artis Кондиционер-бальзам с маслом каритэ",
+                    "description": "Восстанавливающий кондиционер для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c4/z0pzfzf4h7qsshj4z8sze3aisyhm8ifj/200_200_1/cb0eac0b18653f7dad0b402262c03186.png",
+                    "amount": "150 мл",
+                    "cost": "9,50  руб."
+                },
+                {
+                    "name": "Le Artis Кондиционер-бальзам Антиколтун",
+                    "description": "Средство для защиты шерсти от спутывания и сечения",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83d/rwb5p52c1g5d4p36ss9gk5rbi6i38lga/200_200_1/1d822e53770a07f4d8ac6273a2ec1402.png",
+                    "amount": "150 мл",
+                    "cost": "9,50  руб."
+                },
+                {
+                    "name": "Le Artis Маска-бальзам Реконструктор для кошек и собак",
+                    "description": "Восстанавливающая маска с норковым маслом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6da/n6675beoik8dpp5uv11pgmnrvu3vz2ic/200_200_1/b5d7ee133bb62e2bbddb2aefef7f7d84.png",
+                    "amount": "150 мл",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "Le Artis Шампунь Энергия фруктов для кошек и собак",
+                    "description": "Шампунь для восстановления тонуса шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f8d/3tx97bajbuk405d1iklqhq6sm4avfskd/200_200_1/6f9c3de89cb1ca2dc96048142ff97917.png",
+                    "amount": "200 мл",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "Le Artis Шампунь-пенка для бесшерстных животных",
+                    "description": "Воздушный шампунь для бесшерстных пород животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a1/057wvcen6pvdyostm04mhqotoyyijcks/200_200_1/e1f693ab5d64fa2bc81247c74b15bd5f.png",
+                    "amount": "150 мл",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "Le Artis Шампунь для кошек с миндальным маслом",
+                    "description": "Шампунь для кошек с чувствительной кожей и шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/884/s6dw6bgio4bdjkxs4n366cbp3o4o6v6t/200_200_1/6e792f89f32b7ab0cde08313d50704a5.png",
+                    "amount": "200 мл",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "Le Artis Шампунь для кошек с биотином и протеинами шелка",
+                    "description": "Шампунь для укрепления корней волос",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/62f/snda2rntkmktxc571yza53tor1fr2wsw/200_200_1/cf4c635f43cf333635a2b923b4ba761d.jpg",
+                    "amount": "200 мл",
+                    "cost": "9,40  руб."
+                },
+                {
+                    "name": "\"Выгодно!\" Шампунь для щенков и котят всех пород",
+                    "description": "Для щенков и котят с любым типом шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/440/svhm7kq7x9ooe3whokgajpsx9qhgqa3a/200_200_1/44a67744717f0a42193beb663c940ba4.png",
+                    "amount": "200 мл",
+                    "cost": "2,90  руб."
+                },
+                {
+                    "name": "Mr.Gee Сухой шампунь цинком и ромашкой",
+                    "description": "Сухой шампунь для очищения шерсти и кожи",
+                    "image_url": "https://garfield.by/upload/iblock/d51/jo8dkjm3ttz0th57cj1nopb73vlkt6sr/a63b2d3393607bd1ec7dc942cb3afe5f.jpg",
+                    "amount": "95 мл",
+                    "cost": "17,80  руб."
+                },
+                {
+                    "name": "Mr.Gee Сухой шампунь с мятой",
+                    "description": "Сухой шампунь для очищения шерсти и кожи",
+                    "image_url": "https://garfield.by/upload/iblock/4e0/8bfm6z80sjbo1f92zu7aatmlgdz7oyab/27cd8efdbeff55a6befe042f0e6faea3.jpg",
+                    "amount": "95 мл",
+                    "cost": "17,80  руб."
+                },
+                {
+                    "name": "Mr.Gee Бальзам питание и уход",
+                    "description": "Бальзам для восстановления шерсти.",
+                    "image_url": "https://garfield.by/upload/iblock/9c6/fy3ch2zjhyqkthxptyaom23bl1ja721t/d32584accec93c3ce59da370fc8bc980.jpg",
+                    "amount": "400 мл",
+                    "cost": "20,90  руб."
+                },
+                {
+                    "name": "Mr.Gee Шампунь увлажняющий",
+                    "description": "Шампунь для увлажнения кожи и шерсти",
+                    "image_url": "https://garfield.by/upload/iblock/b9f/9h075kz8ccx56qr71rpj1z57neys5kby/2b46fc19b0c946abe5f9a516ca4ed844.jpg",
+                    "amount": "400 мл",
+                    "cost": "18,70  руб."
+                },
+                {
+                    "name": "Mr.Gee Шампунь объём и блеск",
+                    "description": "Шампунь для объёма и блеска шерсти",
+                    "image_url": "https://garfield.by/upload/iblock/088/ik79e3pa98jjbdz0tynt45cyois143z7/d26d9926a981cad95965621d63c9d02b.jpg",
+                    "amount": "400 мл",
+                    "cost": "18,70  руб."
+                },
+                {
+                    "name": "Mr.Gee Шампунь для глубокого очищения шерсти",
+                    "description": "Шампунь для глубокого очищения шерсти",
+                    "image_url": "https://garfield.by/upload/iblock/b07/aioyfdt1dnr2kf38xd5ldbv89pdb8mkg/19c039393ee42362f507b43f7a259aa0.jpg",
+                    "amount": "400 мл",
+                    "cost": "18,70  руб."
+                },
+                {
+                    "name": "Mr.Gee Шампунь гипоаллергенный",
+                    "description": "Шампунь для чувствительной кожи.",
+                    "image_url": "https://garfield.by/upload/iblock/5d6/bpoblxqv39uvt7nwbr8alruzb9enuxe1/11c2a63bcee0e173ad4f1a2ce80fb439.jpg",
+                    "amount": "400 мл",
+                    "cost": "18,70  руб."
+                },
+                {
+                    "name": "Mr.Gee Очищающий лосьон для ушей",
+                    "description": "Для мягкого очищения ушной раковины.",
+                    "image_url": "https://garfield.by/upload/iblock/b6f/325826jj9twoo0fcv8j8hcf7zj0q1rt2/ddcab2f65adb50f2c04b6e2b518a2f2b.jpg",
+                    "amount": "150 мл",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Mr.Gee Гипоаллергенный лосьон для глаз",
+                    "description": "Для ухода за нежной кожей вокруг глаз.",
+                    "image_url": "https://garfield.by/upload/iblock/e36/nzarp6x2yas7so8g2p4mczze843uvlgw/ad6dac4d6021ef5644ccda2abb5d8ba7.jpg",
+                    "amount": "150 мл",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Mr.Gee Ушная бактерицидная пудра",
+                    "description": "Бактерицидная пудра для глаз, ушей, носа.",
+                    "image_url": "https://garfield.by/upload/iblock/4b5/a4bcfl9yhvm00alb61y7yit9d31mlhiv/411a2710c351e4a94ad7414b7e932114.jpg",
+                    "amount": "40 г",
+                    "cost": "17,30  руб."
+                },
+                {
+                    "name": "Mr.Gee Пудра для лап и кожи",
+                    "description": "Бактерицидная пудра для лап и кожи.",
+                    "image_url": "https://garfield.by/upload/iblock/e49/66kxyzrjflp9lfa76b40zimfy7nlvbe3/971fe6342fa1bcea145c09af20b74603.jpg",
+                    "amount": "40 г",
+                    "cost": "21,10  руб."
+                },
+                {
+                    "name": "Beeztees Спрей для чистки зубов, 175 мл",
+                    "description": "Стоматологический спрей для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a8d/5i8ffcetj2fr8us6usjt26i0yt6nhjt3/200_200_1/c7aa39e4b4a4e70d739bd27d53180ed9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,20 руб."
+                },
+                {
+                    "name": "MILORD Набор косметики пробный, 4х100 мл",
+                    "description": "Косметика для ухода за собаками и кошками",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/799/b7rzzm9u09w1qp6c7fkn1wsol9j1q2r4/200_200_1/c8d5567b2798f40e896dac8a95397edf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,60 руб."
+                },
+                {
+                    "name": "MILORD Шампунь для лап «Зимний Мандарин», 200 мл",
+                    "description": "Шампунь для регулярного мытья лап после прогулок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42f/oiyu247t6ltp6489a8cawadym3ynnybm/200_200_1/974a3f023f8cfa20b06c88ef9b32e487.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,10 руб."
+                },
+                {
+                    "name": "Irbis Forte Биошампунь антипаразитарный для кошек, 250 мл",
+                    "description": "Шампунь от блох и клещей для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/793/hsfvne2uoioal8yc50vkgyd4yluczmpp/200_200_1/4c66a11cae7570e253fa209dc46e3d5e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,50 руб."
+                },
+                {
+                    "name": "Шампунь Animal Play Sweet \"Виноград и гвоздика\", 300 мл",
+                    "description": "Репеллентный шампунь для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e31/econs42ifst72rzx1ho4nd8veb8yxbt1/200_200_1/c381545740532a701f12a115ab538b86.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Шампунь Animal Play Sweet \"Персиковый марципан\", 300 мл",
+                    "description": "Бережный шампунь для щенков и котят.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ee/ay08pw3xr79vg5k5lp8xhbo9amxxn6m1/200_200_1/ef32f368ef29f9cd41f748767cf362aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "Шампунь Animal Play Sweet \"Фисташковое мороженое\", 300 мл",
+                    "description": "Ухаживающий шампунь для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c0/69p3zjv6pr2w3gw0aur9awot3ln9lho3/200_200_1/4301901d87a9a20519c81a34b268a7bb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "Шампунь Animal Play с протеинами пшеницы и витаминами, 250 мл",
+                    "description": "Гипоаллергенный шампунь для щенков и котят.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/999/kif31z4j229fed0qu9kze1z617bbzxca/200_200_1/f608b645737ce890c7d3534d70cd691d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Шампунь Animal Play с аминокислотами, 250 мл",
+                    "description": "Гипоаллергенный шампунь для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/609/ntmkvgcgwllckbicw6e8fq1xtfwmzvdv/200_200_1/eec774a913b4d5495b1338b5e4aae862.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Шампунь Animal Play дегтярный, 250 мл",
+                    "description": "Универсальный шампунь для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81d/q5oa5q97g4lp6qvg61rrx4zikj165zk4/200_200_1/fbc376d9d5aeebb4db6d86b2eb6d7197.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Шампунь Animal Play с экстрактом мелиссы, 250 мл",
+                    "description": "Успокаивающий шампунь для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/813/je302mz59cdcqfkmp7ww2su8bd14q12l/200_200_1/643642c271669cc0f43f608ba801bd4a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Шампунь Animal Play с экстрактом календулы, 250 мл",
+                    "description": "Шампунь \"Без слез\" с витаминами для котят.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3e2/dbczo7yz5jz0ojlewvq0jt8msgtojl03/200_200_1/43eb0b74c51e1c1bdedfc3a8b9ae3b31.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "ЭКО ZООЛЕКАРЬ Спрей зубной для кошек и собак, 100 мл",
+                    "description": "Спрей для обработки ротовой полости и зубов у животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d70/x0u1iw6sk95anmkdzzvydy6hszdj6cp0/200_200_1/e9737ba92398e986184124edd7110882.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,60 руб."
+                },
+                {
+                    "name": "Artero Гель для ушной гигиены \"Aurigel\", 100 мл",
+                    "description": "Гель для чистки ушей собак и кошек всех пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/398/i3laf5133wcrc13cf3dp2rsegdyufetw/200_200_1/435ed37c1d24810a011ca632d2730f13.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,70 руб."
+                },
+                {
+                    "name": "Кровоостанавливающий порошок \"Cardinal\", 14 гр",
+                    "description": "Снижает риск заражения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5cd/movxqqtqc3cv9czo7ecmd3l2qip91d9y/200_200_1/0d37f5f33e1165bbc532f4b9c0d53f7b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "38,90 руб."
+                },
+                {
+                    "name": "Artero Лосьон для глаз \"Pretty eyes\", 250 мл",
+                    "description": "Лосьон для устранения пятен в уголках и вокруг глаз.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b05/321srx7ptn6fvwbj9dvw87xhkjqqwf2w/200_200_1/db393f09635d56f63a7a3c8eafa9f9d2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,60 руб."
+                },
+                {
+                    "name": "Artero Спрей Balsam, 250 мл",
+                    "description": "Успокаивающий спрей для снятия раздражения кожи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b1b/m3y51emtihxi6f7srh70w2zpn932ddyt/200_200_1/0e52025bd1e593d81024ade4b3c5b8f2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,10 руб."
+                },
+                {
+                    "name": "Artero Спрей-кондиционер Matt-X, 300 мл",
+                    "description": "Спрей-кондиционер для легкого расчесывания.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5bc/wtk6sob5gikb3mttponwb2rpz3a16uzk/200_200_1/303b52a70443e916c1139112950aa679.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,70 руб."
+                },
+                {
+                    "name": "Artero Спрей-кондиционер Flash, 300 мл",
+                    "description": "Питательный спрей-кондиционер для любого типа шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7cc/a59kbiqfy12o9uesf0w5kw0as9yak43q/200_200_1/b4489e8f0af09570e3b233f72e3c62bf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,60 руб."
+                },
+                {
+                    "name": "Artero Шампунь базовый Basic, 5 л",
+                    "description": "Очищающий шампунь для любого типа шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/92b/wqeuo5txq1vr248wjlrw8mqp3ae1al0c/200_200_1/4f5739c7cd2a3e9ad67800e0d2fd7dc1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "93,50 руб."
+                },
+                {
+                    "name": "Artero Салфетки гигиенические для глаз, 50 шт.",
+                    "description": "Для устранения слезных дорожек и выделений в области глаз.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/50c/cqe633a3mijhhk33brwjnm6dzuiksawh/200_200_1/941c0dadd352170ec965accea4872d2b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,30 руб."
+                },
+                {
+                    "name": "Artero Салфетки гигиенические для ушей, 50 шт.",
+                    "description": "Для устранения ушной серы и грязи в области наружного уха.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b1/gcg3ghepp5tsqq16m4oa7gcuc47d3fgh/200_200_1/aa969d60c0f906b02a436287c6d2e647.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,30 руб."
+                },
+                {
+                    "name": "Влажные салфетки для гигиены зубов (35 шт/уп)",
+                    "description": "Салфетки с пропиской из зубной пасты.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a93/wtyvtlwxrusxkte7205u4n0l0gorf1tr/200_200_1/519b43ad4141a5d89656e3dfec90fab0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,70 руб."
+                },
+                {
+                    "name": "OROPHARMA Лосьон Ear Care Cat, 150 мл",
+                    "description": "Успокаивающий лосьон для ушей с фиалками.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6e/sr993loz5yfdfog0y4ua2n9gj1ol9no4/200_200_1/255913b833b3d5b98537fd9db807a0d0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "ЭКО ZООЛЕКАРЬ Гель зубной для кошек и собак, 80 мл",
+                    "description": "Гель для обработки ротовой полости и зубов у животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/414/tfel0qrxlpwu5qi3er5nnkbk1tpymuix/200_200_1/23814a89dac45a8dda76ec946dc1ede4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "\"Выгодно!\" Шампунь для кошек всех пород, 200 мл",
+                    "description": "Шампунь для кошек с любым типом шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c79/5lx0t1r0hq5i5vul7d1o05z5qkbq73mi/200_200_1/45a3586fabadb9e953f5e5a597e48d4f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "2,90 руб."
+                },
+                {
+                    "name": "Comfy Dry clean powder, 200 г",
+                    "description": "Сухой шампунь для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc1/6x8xm2gp448bd63kyb8voxidw5nwivga/200_200_1/ba9e263005530c98216c6d8d7b82d29e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Пивной\", 80 мл",
+                    "description": "Шампунь с хмелем и крапивой против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ec/3o25ifoqeh18ei4mckkj8yu0t5vopr97/200_200_1/38e6f1317d9e1e3aaec228511296160e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Репейный\", 80 мл",
+                    "description": "Шампунь с корой дуба против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3fa/rcqcluuyudmjfi6zynli69ey0wb5h5dk/200_200_1/97cfd4f5a52b91a8b29785e45e94a89c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Шалфейный\", 80 мл",
+                    "description": "Шампунь с ромашкой против блох для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/375/zk7ggmqmg1zkmptoopnnmc05n302fuce/200_200_1/83edf5097c071aeddf441f13ec18ee6d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "MILORD Парфюм \"Венеция\", 100 мл",
+                    "description": "Парфюм для животных, запах миндаля и специй.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3a4/jg2zqyk527pszuswqnukszhqua3kvtwf/200_200_1/40d878e29dc9e645e26592e817bad880.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,10 руб."
+                },
+                {
+                    "name": "MILORD Спрей-антистатик \"Виноград\", 100 мл",
+                    "description": "Cпрей для груминга собак и кошек с запахом винограда.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f5d/yoyb2lgximlsp1vdtyuspmkwb88d94y1/200_200_1/d371d259ff95203435f50a2a7eeb2b12.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "MILORD Шампунь для лап «Репеллентный», 200 мл",
+                    "description": "Для регулярного мытья лап животных после прогулок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a3/dyevjc9wuiwnqs5lz3qjabwrpzgswt6q/200_200_1/ec332b62dc8b170a065f96b319c28496.png",
+                    "amount": "за 1 ед.",
+                    "cost": "17,30 руб."
+                },
+                {
+                    "name": "Pchelodar Зооарена Очищающий спрей для лап, 125 мл",
+                    "description": "Очищающий спрей для лап животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dbb/7gqnyolo4ek3h2q0yj3kq50vzsev2npd/200_200_1/3ec746d0acaa82eab7f20ca112c7437f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,20 руб."
+                },
+                {
+                    "name": "Pchelodar Шампунь с пергой и хвоей для короткошерст. кошек, 250 мл",
+                    "description": "Шампунь для короткошерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/649/yrdw22gubytxtpp671lfp1aj5gqgr6w9/200_200_1/23ccab7a0dc0dce546c80ffb14223594.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,80 руб."
+                },
+                {
+                    "name": "Pchelodar Шампунь с прополисом для короткошерст. кошек, 250 мл",
+                    "description": "Шампунь для короткошерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f9/zq58q9yqjgtmwq8bo9gtb47x2b2qwb7v/200_200_1/5663a29b5f838ff22e6a608fd23d59ba.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,30 руб."
+                },
+                {
+                    "name": "Pchelodar Шампунь с прополисом для длинношерст. кошек, 250 мл",
+                    "description": "Шампунь для длинношерстных кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea0/kzdkarj73wos28q42g5oa6y6org5z5ah/200_200_1/ecc818178e38f5c8ce1e77eaf1d2a81f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,30 руб."
+                },
+                {
+                    "name": "Pchelodar Крем-мыло с маточным молочком, 200 мл",
+                    "description": "Для мягкого очищения лап животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6a/srdf5bdffwehuz7w2xhaecgnemj6v4tn/200_200_1/d4caae4dda337fabed7115d82fc52de1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Pchelodar Крем питательный для лап, 75 мл",
+                    "description": "Крем с прополисом и маточным молочком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc8/k8pbcm0ce2ngx14xy34mckgsnineqf2y/200_200_1/ad832ad8122eb36d36ae42b04277eaec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,90 руб."
+                },
+                {
+                    "name": "Pchelodar АпиДоктор Здоровая кожа лосьон, 100 мл",
+                    "description": "Лосьон для ухода за кожей собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6df/tzantksejb40mrd0xrfhe9bu5n7n4pb3/200_200_1/0b0f2263715a198dcabaa4b78586cb5e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "БиоФлор Шампунь серный, 250 мл",
+                    "description": "Шампунь с противовоспалительным эффектом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/292/sh2ii2v2osgy1ycvjmgqt3s8lvm9u5lu/200_200_1/10775a945e7f2a557e92dd2ad2dc48ef.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "БиоФлор Шампунь ранозаживляющий, 250 мл",
+                    "description": "Шампунь для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34b/qhwkrfur6afhqzozq3sw8tm0x3h92hbl/200_200_1/f7f2d3a4b16a71024a672519614436b7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "Beeztees Гель для чистки зубов, 100 г",
+                    "description": "Зубной гель для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ef3/63m2aj4djblndtb6ro6juqjpyy4bto5b/200_200_1/c35e68b622097c6def60a1723b33aca1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,20 руб."
+                },
+                {
+                    "name": "Beaphar Eye Gel, 5 мл",
+                    "description": "Гель для ухода за глазами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/559/zz3lwrqdywyzqcrhvqg8oaoehdfvn369/200_200_1/afaeeefa05cbbacf8fdf6b0fd2462c47.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,20 руб."
+                },
+                {
+                    "name": "Beaphar dental  powder Зубная пудра, 75 г",
+                    "description": "Состоит из измельченных натуральных коричневых водорослей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c0d/4io071e1e3m4l9o9ryqp7w3ay6c0d1ec/200_200_1/71effe433a516278c248f72a9eb24255.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,70 руб."
+                },
+                {
+                    "name": "Trixie Салфетки-напальчники для ушей, 50 шт.",
+                    "description": "Одноразовые напальчники для ухода за животными.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1fd/wbh5h0sax5rspnw9mwosklqr4frxkafx/200_200_1/653c1dd2699234fdb699b83a13e9d588.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,60 руб."
+                },
+                {
+                    "name": "CAMON Полотенце из ПВА пены для собак",
+                    "description": "Супервпитывающее полотенце для собак, 66х43 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ddc/hl7rrxp3bx90gwzvfxk1rtg6two04ry3/200_200_1/74ea18b5fce5e62b4655ad2476d18b59.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,80 руб."
+                },
+                {
+                    "name": "Pchelodar Лосьон для поверхностных и глубоких ран, 140 мл",
+                    "description": "Для санации поверхностных и глубоких ран",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/53f/f6j64h6l2ds0sol8e8dwgg8mu2khyatb/200_200_1/94ab557e594d6d5c3f618741a755b392.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "Artero Салфетки гигиенические для зубов, 50 шт.",
+                    "description": "Для устранения неприятного запаха и уменьшения налета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/366/12fvdhjxlkw8clb0mf65hxwbmjao9inn/200_200_1/b8ccb7f25aeecb17cd0ac3ab92940b9a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,30 руб."
+                },
+                {
+                    "name": "Bio-Groom кровоостанавливающая пудра, 14 мл",
+                    "description": "Пудра кровоостанавливающая для собак, котов и птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea7/ad2ce1x820q7f4hmmjgkpcfyt0qfsswn/200_200_1/df89478e86950d3cf141f3e2cfdc69d5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,40 руб."
+                },
+                {
+                    "name": "Amstrel Лосьон для ушей \"Septocare\", 30 мл",
+                    "description": "Для очищения ушной раковины у кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c97/3d59wagwxnggi2f0rqqhl7n8s92uhvm2/200_200_1/b0f1a97a8ae1a4b5f8c1fca91eb00219.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Гамма Шампунь для гладкошерстных кошек, 250 мл",
+                    "description": "Универсальное средство для гигиены животного",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f20/3oab16o3u7dhu9ahp0b45xm0zgl0scq5/200_200_1/4bfc53323602cf3450dbf26da07f36d2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,90 руб."
+                },
+                {
+                    "name": "Гамма Шампунь для длинношерстных кошек, 250 мл",
+                    "description": "Универсальное средство для гигиены животного",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b7/dsg1jwo0qsbivh1ix6b2yn23rnku2op4/200_200_1/075e0420bd5b98662772a0c46b94b08e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,90 руб."
+                },
+                {
+                    "name": "ЭКО ZOOлекарь Очищающий лосьон для ушей, 30 мл",
+                    "description": "Для очищения ушной раковины у кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/521/hldfzywo7jnfzyepy1clo2iwu0hmpvr1/200_200_1/4387fc46e36caba4926c20573313795a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Buster Design Воротник, бирюзовый (7,5 см)",
+                    "description": "Ветеринарный воротник для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/16a/87xlepa01lmjwu953jcghp6b17rnlzn9/200_200_1/2211724fb68183720bcb87ad8e6c2773.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Buster Design Воротник, зеленый (15 см)",
+                    "description": "Ветеринарный воротник для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ee9/uj7fixd4iv4jafypf85oguwp1jgbua1x/200_200_1/1063102e958094b709b04a63e2498c05.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,90 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"9 трав\" для кошек и собак",
+                    "description": "Биошампунь для кошек и собак, 200 мл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae4/z9gg5bfp25yl4613a8yn4yge6cpaggb6/200_200_1/123a4bcc6ed54e5e9ee584ad03d0373d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "DeLIGHT Зубная щетка двухсторонняя",
+                    "description": "Для чистки зубов у животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5af/m4unrnxyy6k1j4sawezgqs4wm3u4cbag/200_200_1/15bb0719e020e0f1050fe776db64033a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,70 руб."
+                },
+                {
+                    "name": "Beeztees Зубная щетка трехсторонняя, 17 см",
+                    "description": "Для профилактики налета и зубного камня.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3e1/rdbxwlq0hl5q3cwa82fzsqsu9ippw090/200_200_1/94ae18b4df62390fdc472ba6a47e820f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,40 руб."
+                },
+                {
+                    "name": "8 in 1 Excel Лосьон для ушей Ear Cleansing Liguid 118 мл",
+                    "description": "Лосьон для очищения ушей, 118 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/67b/2xya0qknutl0b945ivxlzwgvhwntqkxr/200_200_1/86dc58275a3b321518ab3dc6b515305d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,90 руб."
+                },
+                {
+                    "name": "Лосьон для глаз 8 in 1 Excel Tear Stain Remover Liguid, 118 мл",
+                    "description": "Лосьон для удаления слезных дорожек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/989/gfkpiexd1mwyxh0ev530iww0jgmz0v5x/200_200_1/49d2325f3664a873a5180568c655f33b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,90 руб."
+                },
+                {
+                    "name": "CCS Black on Black System Kit",
+                    "description": "Пробный набор для чёрной шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/945/2abuw3g7bcv4jeiq7v1zc46gopqcpbv2/200_200_1/0508e3ff0f098e506c2d9384e39b4126.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,30 руб."
+                },
+                {
+                    "name": "Barry King Салфетки для ухода за шерстью, 70 шт",
+                    "description": "Очищающие салфетки для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d5f/wu9bdplyacbu3nkdjka3kjo725dur497/200_200_1/e158ac5d1d793541e385c5f6c83f4cd3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "Спрей для устранения колтунов с функцией  усиления блеска шерсти 220 мл",
+                    "description": "Спрей для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c96/mw6z2u4d7sezgevourfgce94n6mo32gj/200_200_1/317ce4195aa22be6e06197d9081e799f.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "67,40 руб."
+                },
+                {
+                    "name": "Beaphar Шампунь CAT 200ML",
+                    "description": "Французский шампунь для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/18d/mpg5lkgh7zp7y2xwscudfs94u2s0gwhy/200_200_1/f41ac7886ca846a27692652df1d18a3b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,30 руб."
+                },
+                {
+                    "name": "Beaphar Шампунь DEMELANT CHAT 200ML",
+                    "description": "Французский шампунь для кошек с длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e05/t0snr368e4x5sfgzzs6s00tps6a2zmp8/200_200_1/ceef95c92afb20cee5edae9ccf8bbfce.png",
+                    "amount": "за 1 ед.",
+                    "cost": "30,30 руб."
+                },
+                {
+                    "name": "Irbis Frootti Шампунь для кошек \"Сладкая малина\", 250 мл",
+                    "description": "Шампунь для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/958/z3i0291c0uzpht7zeft218ogizk8cw82/200_200_1/2acb70d8ba0225ea1fdd4b7d55673553.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Биошампунь \"Ванильный\", 80 мл",
+                    "description": "Шампунь с пшеницей против блох для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eec/wrqjla1zlm6s2vawdf3ymlk9y538q80z/200_200_1/fd448c035de6cefe596d8a05bbe9a5fb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "Bio-Groom шампунь для котят, 236 мл",
+                    "description": "Помогает контролировать запах, pH-сбалансирован, не вызывает раздражения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/451/054cjlfjklm6v8h0b3xy9bed0tjoo84p/200_200_1/3793e840a7d91ddfa1078bda814fe457.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,40 руб."
+                },
+                {
+                    "name": "Canina Гель для зубов Mikrosilber Zahngel, 50 мл",
+                    "description": "Гель для зубов с микросеребром и экстрактом грейпфрута",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a84/lb2dgv7r1p6dnzgn51i06yfp712xi23b/200_200_1/9a2cf1c6fae5050f47c61793b76407d7.png",
+                    "amount": "за 1 ед.",
+                    "cost": "46,80 руб."
+                },
+                {
+                    "name": "Beeztees Зубная паста с ароматом мяты, 100 г",
+                    "description": "Зубная паста для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f08/h5gzpxagh0hl6l07yl8srhg4dzsyp2ba/200_200_1/664e52ee044efcee412a6f3d9fd9afa4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,90 руб."
+                },
+                {
+                    "name": "Canina Лосьон для ушей Mikrosilber Ohrenspulung, 100 мл",
+                    "description": "Лосьон-ополаскиватель для ушей с микросеребром",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a43/69zxpvkj1vp3ks5ff7k8h1zei3le12g6/200_200_1/cfd2bb4e4f42dc6104479aad82ab812e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "47,30 руб."
+                },
+                {
+                    "name": "Amstrel Лосьон для глаз \"Opticare\" для кошек и собак, 30 мл",
+                    "description": "Средство для обработки глаз у животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1c1/x4jxukpk2nz795johv9iblc7wai8wu8k/200_200_1/ace944d0ac985783ed9db0c7e2e8c553.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Лосьон для глаз для кошек и собак, 30 мл",
+                    "description": "Средство для обработки глаз у животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1c/3hujacfr0zpmn7q9e47mxypocf9h2wvi/200_200_1/ce8c0d077d76d00c0a1c85954ec87f23.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Шампунь кондиционер Ms.Kiss \"Грациозный сфинкс\", 200 мл",
+                    "description": "Для кошек  бесшерстных пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9b/i57213sqb06cobyc3lr11bqky11a6rke/200_200_1/5094c37c233a801f6a4bd34478f3bf72.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,20 руб."
+                },
+                {
+                    "name": "Trixie Салфетки-напальчники для зубов, 50 шт.",
+                    "description": "Одноразовые напальчники для ухода за животными.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/78a/ci8hnmi21ho74esz43wqx5q76a9tvtnb/200_200_1/a6f8be58a5641858eccc76d487a93ea6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,60 руб."
+                },
+                {
+                    "name": "Irbis Local Биокапли глазные для собак и кошек, 15 мл",
+                    "description": "Капли с акарицидным эффектом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b24/nwu3x6o7nq0phv1zqbdv6cpprxdg6u68/200_200_1/4f589a9373c0e2998bfd387e1508cc7f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "Irbis Local Биокапли ушные для собак и кошек, 15 мл",
+                    "description": "Капли с акарицидным эффектом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c1b/p8ataqn8hpu5ttx1l0bi29mnxbj4q5ln/200_200_1/04ed896c91fa8487b4dbb68ae7c0eed7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,30 руб."
+                },
+                {
+                    "name": "CCS Gold on Gold System Kit",
+                    "description": "Набор пробников для золотистой шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ace/6gtq759zxoxmnjh775mpkihklmu52k6h/200_200_1/3635780accd16d4b24cc882a22f9fd9c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,30 руб."
+                },
+                {
+                    "name": "OROPHARMA EYE CARE CAT очищающий лосьон для глаз, 150 мл",
+                    "description": "Против пятен от слез.",
+                    "image_url": "https://garfield.by/upload/iblock/7d4/j00mtnj4u6hwajw1tmu3dfoctim1zfoh/25f50af45a26a9db3ce5f2cd71d8f2f6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,00 руб."
+                },
+                {
+                    "name": "Сухой шампунь \"TRIXIE\", 450 мл",
+                    "description": "Сухой пенящийся шампунь для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/76d/47gz8uk87xjibpllzil8nc3h06pantuk/a020103a0a7fc5b419446dac759338cd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,50 руб."
+                },
+                {
+                    "name": "Trixie Шампунь сухой",
+                    "description": "Сухой шампунь для собак, кошек и других мелких животных",
+                    "image_url": "https://garfield.by/upload/iblock/f78/bqzwh8q8vqll1dak8izqz7cudhco76jk/c8e434ed79a0a89462e40d0713aa131e.jpg",
+                    "amount": "200 г",
+                    "cost": "12,80  руб."
+                },
+                {
+                    "name": "Hartz Лосьон для очищения ушей, 118 мл",
+                    "description": "Лосьон для очищения ушей котов и соба",
+                    "image_url": "https://garfield.by/upload/iblock/e67/gad7t31boqmx3zg9j8rrnckbvai45r3n/a3225806c815bdd1b04d7caf6815bcd1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "13,90 руб."
+                },
+                {
+                    "name": "Hartz Зубная щетка и зубная паста, 85 г",
+                    "description": "Уход за зубами и ротовой полостью кошки или собаки.",
+                    "image_url": "https://garfield.by/upload/iblock/def/ysft3f93lhfcphhqg4b95yocasswl01f/eb5a78f01f5d5dc67c900cc248d5b6da.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,00 руб."
+                },
+                {
+                    "name": "Hartz Зубная паста, 85 г",
+                    "description": "Уход за зубами и ротовой полостью кошки или собаки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6db/516vsepa0uydvd54hioz02chjvr4u80f/200_200_1/1b252f5035ff015353d07efc2cb3c64f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Hartz Влажные салфетки для кошек и собак",
+                    "description": "Влажные салфетки, 20х18 см., 80 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/615/nvo60lc9d7etcrm771q85dor3x4cfbfi/bafd79cd2a29b04f74a381459ce764f6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Hartz Шампунь для мытья кошек без воды, 236 мл",
+                    "description": "Шампунь для мытья кошек и котят без воды",
+                    "image_url": "https://garfield.by/upload/iblock/b56/aer4on2yd3hpals0911od20tp7pj3sga/adfaa6dfd48f193769082167f53aef56.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,70 руб."
+                },
+                {
+                    "name": "Beaphar Grooming Powder for Cats",
+                    "description": "Cухой шампунь для кошек, 150 г",
+                    "image_url": "https://garfield.by/upload/iblock/0a9/mtcapxbxp1j4nsl6abchlixqbp5ne2y2/49e25915c70c8bda61614e886fa7e3ca.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,00 руб."
+                },
+                {
+                    "name": "Шампунь Tropiclean Aloe Moiste, 592 мл",
+                    "description": "Натуральный шампунь с экстрактом Алоэ.",
+                    "image_url": "https://garfield.by/upload/iblock/5a1/g6jsalgl7tkkf9veazwdoh6qkep5psez/4261e62ac5c69988e9b1d8559a8e49fb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,20 руб."
+                },
+                {
+                    "name": "Tropiclean Шампунь Лечебный",
+                    "description": "Шампунь от зуда и перхоти, 236 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9b/3y4pk6hr7chubup8x9z7un9rifwl52l1/200_200_1/dcc09367f7df839df9cbf13bae77c8ac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,00 руб."
+                },
+                {
+                    "name": "Шампунь для белой шерсти Tropiclean Awapuhi White Coat, 592 мл",
+                    "description": "Шампунь для собак и кошек с белой шерстью.",
+                    "image_url": "https://garfield.by/upload/iblock/96f/1xbo8fy5q0pjno1aes0v3dqd5cdx016d/31cc94cddcdb6ca68514aec9cfedddfc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Шампунь Tropiclean Puppy Hypo-Allergenic, 592 мл",
+                    "description": "Гипоаллергенный шампунь для котят и щенков.",
+                    "image_url": "https://garfield.by/upload/iblock/c07/k6q8mz0vlioe4dps6etsdmaxc06bo2k1/9557980ab223c9ee0d2d0315ada9a0b5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Шампунь Tropiclean Kava, 592 мл",
+                    "description": "Шампунь для яркости шерсти.",
+                    "image_url": "https://garfield.by/upload/iblock/8bf/v3t7u01w6433oh93vfdyrpyiu4wtrnvc/8435861d57be8ed93b7b9ed9a5114792.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Увлажняющий кондиционер TropiClean KIWI, 592 мл",
+                    "description": "Кондиционер для шерсти собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/b07/eschti3h3lpjsmbzyt7p8wvrf3t77ikm/91aa3dba86254773399d5cb4b8d86be4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Спрей TropiClean Oxymed Anti-Itch, 236 мл",
+                    "description": "Спрей против зуда.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bda/rffvbfps07o27yfczrqpom2eg5as8c3y/200_200_1/9f4654c4f913bed6ef48d45d1257af18.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,20 руб."
+                },
+                {
+                    "name": "Cпрей Tropiclean Oxymed Medicated, 236 мл",
+                    "description": "Лечебный успокаивающий спрей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f80/u3xyor4myci1xf566swxlvlhpch64jdd/200_200_1/3edab71f278a7b9f216c3b8910c93d54.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,80 руб."
+                },
+                {
+                    "name": "Лосьон для ушей Tropiclean Oxymed Ear Cleaner, 118 мл",
+                    "description": "Лосьон для очищения ушей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f29/mxsaqotf81uwk8ll1n47zwgcq0fa0wl7/200_200_1/003974edf8929ea98e6236ce7e3eb506.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,40 руб."
+                },
+                {
+                    "name": "Гель для чистки зубов TropiClean Fresh Breath, 118 мл",
+                    "description": "Гель для чистки зубов собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/884/9ilm0vlmqobgi27f88d3gh82x06dl07b/1813eb28e3c645d67f863a44933fe3fc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,20 руб."
+                },
+                {
+                    "name": "Освежающая пена Fresh Breath Instant Mint Foam, 133 мл",
+                    "description": "Освежающая пена для полости рта.",
+                    "image_url": "https://garfield.by/upload/iblock/329/6qba5l5kot76udmz7mx87gfcnnih4hs0/faeb6867fe6da51f5093ee3ed47ae439.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,00 руб."
+                },
+                {
+                    "name": "Кондиционер TropiClean \"Киви\", 236 мл",
+                    "description": "Кондиционер для уходя за шерстью домашних питомцев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c8/yyg51ob5by6hpu56dlab231ez2g9i91q/200_200_1/44ea608660e26f01f068d8527a68895e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "Капли Tropiclean Dog Breath Drops, 52 мл",
+                    "description": "Капли для полости рта кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76c/oqyukwp9lu97jpic042cw0wljdwragjq/200_200_1/344caf9bb63ee4ccb2460909ea9fb008.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "Bio-Groom спрей-блеск для шерсти, 473 мл",
+                    "description": "Помогает распутывать колтуны, и предотвращает спутывание шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb6/6tz23tisi8d56bims39ztnrhzw0cf74o/200_200_1/bdc80250a26c8af4aebd94182537a51f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "56,20 руб."
+                },
+                {
+                    "name": "Bio-Groom Argan Oil Spray Treatment",
+                    "description": "Спрей-кондиционер для собак, 355 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e5b/xo0e5z6d873rvbetbr89yavfe95yivwr/200_200_1/bd5ed81c69118b153d4e2189ff469c1b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "54,70 руб."
+                },
+                {
+                    "name": "Bio-Groom кондиционер \"гипоаллергенный\" для собак, 355 мл",
+                    "description": "Гипоаллергенный кондиционер.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d1/pedmhgq3dahacs7kvg24ovf8d26rttvi/200_200_1/c34690ba9d1de35087fc53788ec984da.png",
+                    "amount": "за 1 ед.",
+                    "cost": "47,70 руб."
+                },
+                {
+                    "name": "Жидкая зубная щетка Tropiclean Breath Oral Care, 473 мл",
+                    "description": "Жидкая зубная щетка для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bae/5qqy9zasit2k78wg66eyz9fmk8imuv5k/200_200_1/8e24938b7a00c54df183ff61830e5c97.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "Trixie Лосьон для глаз кошек и собак, 50 мл",
+                    "description": "Поможет содержать чистой кожу вокруг глаз животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a3/s4se150uhse6cebwu3bone3ac00qh5sa/200_200_1/af88e3d0d4899db2b81f44f496659aca.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,90 руб."
+                },
+                {
+                    "name": "Trixie Средство для ухода за глазами, 50 мл",
+                    "description": "Средство для мягкого ухода за глазами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/94c/i2f9hv6hrg006hngdl0rhv7cexyvjc6c/200_200_1/6e31f454f26d0263f1269d40c4247cb0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,70 руб."
+                },
+                {
+                    "name": "Bio-Groom пудра для ушей собак и кошек, 24 г",
+                    "description": "Средство для ухода за ушами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b26/z5982e7quszj76du6cootecas06iq0ai/200_200_1/32d20d6d319b75a06753e00ab2d2bcb0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "40,40 руб."
+                },
+                {
+                    "name": "Trixie Средство для ухода за ушами, 50 мл",
+                    "description": "Средство для ухода за ушами котов, собак и др. животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/55c/35qtbwg8p0i1xqk2hp4psf8qv6caf7fw/200_200_1/38b43d35a84183c83eac77c84477c78b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,30 руб."
+                },
+                {
+                    "name": "Крем \"Trixie\" для ухода за лапами, 50 мл",
+                    "description": "Крем для ухода за лапами собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/341/gvq64ju94xkxift1esh61oz710hmlbra/9dacb71719565f0468c4a9b3326f7abf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,20 руб."
+                },
+                {
+                    "name": "Mr.Fresh Салфетки антибактериальные влажные, 15 шт",
+                    "description": "Влажные салфетки подходят для разл. поверхностей и лап животных.",
+                    "image_url": "https://garfield.by/upload/iblock/ceb/dhu73k08o9umk5hg0tditkjd06uxuwms/f16725c8c42ef1253faaba20eb6b53c3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,70 руб."
+                },
+                {
+                    "name": "Bio-Groom шампунь \"протеин/ланолин\" для котов, 236 мл",
+                    "description": "Шампунь без слез для котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0bf/ijbzkqj8v2311z7azhbmrplw6bb0g0an/200_200_1/177a4798e7794a8db5785ae7059e88b1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "51,10 руб."
+                },
+                {
+                    "name": "CCS White Ice Chalk",
+                    "description": "Белая пудра для шоу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c7/9wzjsh24uk1ezffw96ah9j5f52407clk/200_200_1/f625d48310fc227cb1c4c4c24a0fbfc6.png",
+                    "amount": "227 г",
+                    "cost": "95,70  руб."
+                },
+                {
+                    "name": "K9 COMPETITION Aloe Vera Shampoo",
+                    "description": "Шампунь для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/e70/om4reuavwlcf23yb7u4zf6wwrlx57tvw/5424063a3bdacb11c5b5fa91d7df4690.jpg",
+                    "amount": "300 мл",
+                    "cost": "22,50  руб."
+                },
+                {
+                    "name": "8in1 PC Tearless Kitten",
+                    "description": "Шампунь для котят без слез, 295 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/965/2apbyoi53kzx76j7hgz09hwiy4svcn1x/200_200_1/5e0031d2080c4e22476584417931e64a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,90 руб."
+                },
+                {
+                    "name": "8in1 PC Waterless Shampoo",
+                    "description": "Шампунь-спрей без смывания, 236 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c0/wjmou26avuz95gr48zoq1q4tqxnxbk4f/200_200_1/f8912de6fae942452a6eb63e61e7f66b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Фармакс Айда Гулять Салфетки для интимной гигиены",
+                    "description": "Для очищения интимных мест собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/ed4/v1ospmjxsm6ufsad5bzjc5ir38eupvn3/5f3343766f9c13dc6ba26b3859f8e5f5.jpg",
+                    "amount": "40 шт",
+                    "cost": "20,60  руб."
+                },
+                {
+                    "name": "Trixie Towel 2",
+                    "description": "Полотенце для собак и кошек, 50-60 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c66/x1640hoiy6b2gqobrc8gq203ejvnkki5/200_200_1/0981af7db28a68a6789feeeb435b79e7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,00 руб."
+                },
+                {
+                    "name": "Trixie Towel 3",
+                    "description": "Полотенце для собак и кошек, 66-43 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8a0/q1m17779eiy1jwk6pk7m96d430t3pl05/200_200_1/02fbf023f6683d9ad42813a1346c639c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,30 руб."
+                },
+                {
+                    "name": "Trixie Universal Cosmetic Wipes Mini",
+                    "description": "Гигиенические салфетки для собак, кошек и грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/038/im3n9ujr5vioj0w275ykx4j1f5lz5sb0/20fb40a645983a1f270f3c7ad9e51319.jpg",
+                    "amount": "10 шт",
+                    "cost": "4,50  руб."
+                }
+            ]
+        }
+    }
+}

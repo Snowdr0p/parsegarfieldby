@@ -1,0 +1,1808 @@
+{
+    "Грызуны": {
+        "Лакомства": {
+            "url": "https://garfield.by/catalog/gryizunyi/lakomstva.html",
+            "products": [
+                {
+                    "name": "Little One Стартовый набор владельца хомячка",
+                    "description": "Удобный стартовый набор владельца хомячка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/091/f8nom307oecr0uw463hyjhrscgtogrqq/200_200_1/nuu53hyrrzy7mjmy4rurdfv7h8qf5j9n (1).jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,70 руб."
+                },
+                {
+                    "name": "DIB PROTEIN Мука из личинок мухи Черная львинка",
+                    "description": "Протеиновая мука для насекомоядных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b83/gzdzhwqz47hbzsylm8eq7l40fsjsw2dn/200_200_1/мука350гр.png",
+                    "amount": "150 г",
+                    "cost": "14,20  руб."
+                },
+                {
+                    "name": "DIB PROTEIN Личинки мухи Черная львинка",
+                    "description": "Лакомство для насекомоядных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b3/isxqj6si5w3lodxtbdswc0pq7fpcykj2/200_200_1/личинка 75 гр.png",
+                    "amount": "40 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Лесные роллы Зерновые с овощами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b2e/6abyrtz9s72cgf4iy02vj3stx92z7z13/200_200_1/роллы зерновые овощи.JPG",
+                    "amount": "50 г",
+                    "cost": "13,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Лесные роллы Зерновые с травами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d5e/4qavkiygym9qhsex50u7cyv1yqluch7q/200_200_1/роллы зерновые травы.JPG",
+                    "amount": "50 г",
+                    "cost": "13,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Лесные роллы Минеральные с овощами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d30/l060g39m65slli9l3wvf706x856kipg2/200_200_1/роллы минеральные овощи.JPG",
+                    "amount": "50 г",
+                    "cost": "14,30  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Лесные роллы Минеральные с ягодами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77d/1y3yo21snzh9ahtvfshp1jfpfynnirik/200_200_1/роллы минеральные ягоды.JPG",
+                    "amount": "50 г",
+                    "cost": "14,20  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Лесные роллы Минеральные с цветам",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/886/twj5wn0l77sp9hmpy13bu4r1owhfnssl/200_200_1/роллы минеральные цветы.JPG",
+                    "amount": "50 г",
+                    "cost": "14,60  руб."
+                },
+                {
+                    "name": "Little King Лакомство для грызунов Корзинка овощная",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60e/njno4ioo8pj309c40gmgs289xjf1cl7f/200_200_1/000363-1.jpg",
+                    "amount": "1 шт",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "Little King Лакомство для грызунов Корзинка фруктово-ореховая",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d8/916s79j572r010dj1la5qm869l4rkck3/200_200_1/000370-1.jpg",
+                    "amount": "1 шт",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "Little King Лакомство для грызунов Корзина зерновая",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4b/owx9uxz3qzyfzihvdoynsfnyrjc1ou9x/200_200_1/000356-1.jpg",
+                    "amount": "1 шт",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "Little King Лакомство для грызунов Шарик зерновой",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4a/tb2tpgt7nz1ykjtisxj8i5xal2w5hjio/200_200_1/000349-1.jpg",
+                    "amount": "1 шт",
+                    "cost": "1,30  руб."
+                },
+                {
+                    "name": "Фармакс Омега Neo для грызунов с биотином",
+                    "description": "Мультивитаминное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a7e/qvyi1j5kzhz2ru1g2zok4qkyai2cawi6/200_200_1/gb.jpg",
+                    "amount": "50 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Гаммарус",
+                    "description": "Лакомство для грызунов и улиток",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0cd/anhb8bfu78tliqolwtjx0v35msltmehz/200_200_1/банка гаммарус.jpg",
+                    "amount": "25 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Личинка черной львинки",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5eb/4lwf2ww47jgdg4668vrqk83dzcivoh2l/200_200_1/банка черная львинка.jpg",
+                    "amount": "40 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Креветка речная",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4aa/j205zieyknu2vcz49ctw32nfk0vd6gds/200_200_1/банка креветка.jpg",
+                    "amount": "40 г",
+                    "cost": "10,70  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Ягодное ассорти",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2b0/ze4abd0nd5b91lwxe5rhqhjsqkvov801/200_200_1/банка ягодное ассорти.jpg",
+                    "amount": "100 г",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Смесь кореньев",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f27/wl2phb5oan8nzb5vvussxeeq6h1dt5jk/200_200_1/корень смесь.jpg",
+                    "amount": "50 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Кэроб",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ad/eif046l88ro8h000bfwjwephtpe9vrt7/200_200_1/банка кэроб.jpg",
+                    "amount": "100 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Sanal Набор дропсы для грызунов",
+                    "description": "Натуральное питательное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9bb/v8dyknwa5ze33m655pfur39czyz7isou/200_200_1/38181c311c01829bdc24e4b6248bd7ac.jpg",
+                    "amount": "45 г х 3 шт",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Универсальная травка для домашних животных",
+                    "description": "Универсальная травка для домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/burgcg5cw22ttd285rmvwil6eftqyrzw/200_200_1/08d9cc84912c6478f950e6d781c5596e.jpg",
+                    "amount": "150 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Triol Original Лакомство для грызунов АССОРТИ",
+                    "description": "Лакомство на палочке",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/30d/kbxjw17iifqc0f3bb2iivw31acy1n8n6/200_200_1/d310cfefaaa96adbbe1c04146fd89153.jpg",
+                    "amount": "75 г х 3 шт",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Triol Original Лакомство для грызунов с овощами",
+                    "description": "Лакомство на палочке с овощами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/387/tuejxf2y1a0b9z3pmdlm0j7y4nvy284k/200_200_1/5edf68bfa47e084170757da37c5850f4.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Triol Original Лакомство для грызунов с фруктами",
+                    "description": "Лакомство на палочке с фруктами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ec/suvwtm75i547pmcl13ywdzx1tqptjj99/200_200_1/ca57746dd4af90e2d48c45b300bc3be9.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Фруктовое ассорти",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd6/s0qqpr5dgow3dj4iqcnj074f1a9puo3c/200_200_1/банка фруктовое ассорти.jpg",
+                    "amount": "130 г",
+                    "cost": "10,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Овощное ассорти",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fbc/5qartcww3ubmulf7iqsrfquqgflbtoe2/200_200_1/c0e815fe31e7323b25e456330dc5f0bb.jpg",
+                    "amount": "70 г",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Мучной червь",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b2/55hzljpbm8prqjd22gdwv7a0kuhab4ib/200_200_1/банка мучной червь.jpg",
+                    "amount": "40 г",
+                    "cost": "7,50  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Протеиновый коктейль",
+                    "description": "Белковое лакомство для грызунов и ежей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b13/xfofr3ylg2fipf0fb1pmirs3dr6isfyx/200_200_1/банка протеиновый коктейль.jpg",
+                    "amount": "30 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Шелкопряд",
+                    "description": "Белковое лакомство для грызунов и ежей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2c/yg81n30cjtvbr2i6gnmsu6vtriowg612/200_200_1/банка шелкопряд.jpg",
+                    "amount": "80 г",
+                    "cost": "10,30  руб."
+                },
+                {
+                    "name": "Lolo Pets Минеральный камень с яблоком для грызунов и кроликов",
+                    "description": "Натуральное лакомство для грызунов и кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82c/qyqa15chmh0wkpjbu5pypfkfsvr3hagz/200_200_1/96576fa424450d4025aeb9ee46ff24c9.jpg",
+                    "amount": "190 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с древесным углем",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e71/ig0na782vp4muvmflpv7qlh9rgr5x3ih/200_200_1/6f02f9f1d6cddd5848fae1c7b2b13910.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с йодом",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/37f/y5ahntsm1lpj8qm1v8ipvm6mxll3zdpz/200_200_1/19b0c81785273340e16324eb036f40f1.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с витаминами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be0/992sferbl5i5ezh07z6dibff9r1mtz7o/200_200_1/a60bb27acd80202f1c8ca0a837713441.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с тмином",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a11/nk4no8dmeixkmikbgijl5rd1kyb9fi3d/200_200_1/d836305f32f9f98fa3c456bee695b15f.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с гималайской солью",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/184/2kd8ussn2ih6usm3z3535iamoitw4x2f/200_200_1/6442e507155e5a0ca4ed9c9fe28899e8.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Хрустящие трубочки с тыквой",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1cc/3br3n0n4pcjtch92366iao6ptrp114q2/200_200_1/01d23562fdc0676bd0106af98da920b4.jpg",
+                    "amount": "50 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Хрустящие палочки с морковью",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/999/j6f9zsfpic9n8vtpgkpqsdewufiqv0qm/200_200_1/6db95474f4b99e97cd5326f700f416a9.jpg",
+                    "amount": "50 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Хрустящие трубочки с луговым сбором",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/87d/ut163i4tf83p9xkz0lwxz3dmyb2ths7u/200_200_1/a1250fc5ac60d2a20d23602c39f7fdbf.jpg",
+                    "amount": "50 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Хрустящие палочки со свеклой",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db6/is85u0c7jm72tr8znelmhlfx2dd713q0/200_200_1/5f6a4eff375b2b2b92a3ea8491aa7fec.jpg",
+                    "amount": "50 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Хрустящие палочки с кэробом",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83d/bl7eltq3z2fu6dm1u44tf49c7rju9rvp/200_200_1/75b7fc7fa0b6d003a762ab3749370db9.jpg",
+                    "amount": "50 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корень топинамбура",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/680/tamr5yb23puh23ekrzw1m2jdlqij0p5v/200_200_1/9bc461a9658a6c90634f47f573103625.jpg",
+                    "amount": "50 г",
+                    "cost": "6,70  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО  Корень одуванчика",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/53b/0cxetaupvvgwb8rhuek0lumyvt0ynrzx/200_200_1/d0401aa07ec27a9d22fe869581da9091.jpg",
+                    "amount": "30 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Гималайская соль для грызунов",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/866/jbmgav38mjl0m1almb4dfuebka4t71gf/200_200_1/616524716851cff8ac060fdc8aaf1ff5.jpg",
+                    "amount": "30 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Грибочек для грызунов с фруктами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b7/0cdis0q4llq9j9u7s1tcpv08vx5av3fm/200_200_1/b02e33ca196e8a6dc48a365b648ce6af.jpg",
+                    "amount": "40 г",
+                    "cost": "3,10  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Грибочек для грызунов с кэробом",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c5/s8zwqtrm6cljpbewr4oidmc7ui1x4ncr/200_200_1/099638974940f988abeebfea09d596c5.jpg",
+                    "amount": "40 г",
+                    "cost": "2,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Грибочек для грызунов с цветами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/819/3pwszf1cpetf1fzwqz3ryeb41lwsr1vw/200_200_1/0b0e05e0b9e0bcabc634173c999f2f0b.jpg",
+                    "amount": "40 г",
+                    "cost": "2,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Грибочек для грызунов с овощами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/025/j72vk13nz0kdtq80cmah60s2u7uid7rz/200_200_1/ad8d79b4b53744b3f48b9634d7c273de.jpg",
+                    "amount": "40 г",
+                    "cost": "2,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Плющенное зерно",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f2c/mq53lapzstuyqj6awlbeoxv4k2pxf8el/200_200_1/d15b51dc212cc30cd5c441e676f31c36.jpg",
+                    "amount": "150 г",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Воздушные зерна",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c50/hcxwmpxqhpfyqd04zdejv1r20ox4kklq/200_200_1/88cdd7ade0cce96fb8fffdc124205021.jpg",
+                    "amount": "40 г",
+                    "cost": "5,20  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Палочки для крупных грызунов с фруктами и орехами",
+                    "description": "Лакомства-палочки без сахара и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0f8/mgpi75ubh9f2zk55ksusj43xu91wd70x/200_200_1/1d658f1021e2cef4bb84233eea7736d1.jpg",
+                    "amount": "90 г",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Палочки для хомяков, мышей и крыс с ягодами и орехами",
+                    "description": "Лакомства-палочки без сахара и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/48a/ar4n9b9rmlizcvb3abnjgkhwljdyfgwu/200_200_1/2494174abd109f5f8a432f01c5800111.jpg",
+                    "amount": "90 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Палочки для мелких грызунов с овощами и орехами",
+                    "description": "Лакомства-палочки без сахара и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a24/ou117myahnvnsw0jugpbfq2wfn2ygtgq/200_200_1/abe0bb867f94fe17dd151cb0277f4876.jpg",
+                    "amount": "90 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Палочки для шиншилл и дегу с овощами",
+                    "description": "Лакомства-палочки без сахара и красителей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db0/066phafuevpnonsy6vgdk3r8iy07lr9z/200_200_1/ac33162cda6508a5f7e253024dc2d6f8.jpg",
+                    "amount": "90 г",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Пенек с кэробом",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/900/6fzv69k0bjev5k9ffol6q1cn1ivuih2d/200_200_1/52378c2bfe1a2e29d7550a9f9c2a0a87.jpg",
+                    "amount": "50-80 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Пенек с кунжутом",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/663/hst07crqkivbplgw1xd04g8ce4xpcn2x/200_200_1/6e63cf7338b8e0d79026ef46f468ad53.jpg",
+                    "amount": "50-80 г",
+                    "cost": "5,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Пенек с травами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/02a/sw9s1hy1m4nj57cxijwts5wc3h6sdrm3/200_200_1/6c862e191095c7aa78174606af8eb921.jpg",
+                    "amount": "50-80 г",
+                    "cost": "5,40  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Пенек с ягодами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b0c/0b0ubzvc7rd9x0wbyt0a2i37f7qwa7v2/200_200_1/e2e65ed349743c326dddfd89b638e0cd.jpg",
+                    "amount": "50-80 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Пенек с фруктами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f83/oznsvsa8jvcn42n5der22kz32hxhe7hq/200_200_1/8854d87933ad691a0971370ca961acba.jpg",
+                    "amount": "50-80 г",
+                    "cost": "5,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Пенек с овощами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/92b/wlfxm3ueyy93djskcgnhgfws3c4l8val/200_200_1/5e54c5a406f75b1d85ad5467d39258dd.jpg",
+                    "amount": "50-80 г",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Палочки орешника",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cad/dzbnqxo8wtwfu5w0j8ij7dipp84vbige/200_200_1/3751eb61c3059dfd556a700f168f8962.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,30 руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Палочки ивы",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d1e/xndxexkgwuh37wjphwu8zq6d7jbc2a30/200_200_1/cacd91482ca1fcc536e5ae998e6f49fb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,40 руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Просо красное для декоративных птиц и грызунов",
+                    "description": "Зерновой корм для птиц и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e56/vribxvwzameex5ygegzs4ij3pyxqqu2k/200_200_1/b09626cf285202f97df7593d4fc9379a.jpg",
+                    "amount": "500 г",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Мел для грызунов",
+                    "description": "Минеральное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2f4/l0z6jztzxxuh6hi6xfg38givg1g36s4x/200_200_1/82932229144fd249b1ce43fcc5d995de.jpg",
+                    "amount": "16 г",
+                    "cost": "1,10  руб."
+                },
+                {
+                    "name": "Природа Минерал Каротин для грызунов",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9c/ayjeynhoazwjdppv76p8te4sv7stq2qy/200_200_1/1bca0b8216d5e9142ec943e600a206b3.jpg",
+                    "amount": "18 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "Природа Минерал Зеленое яблоко для грызунов",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d5/1vpjpui0jye5ehymlo99322v07nrv994/200_200_1/d18162793796a7df00fee3949ce05b8d.jpg",
+                    "amount": "18 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "Природа Крейда Мелок с морскими ракушками для грызунов",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/053/sup85uuxlqb3magreq7gykvutrve1j3h/200_200_1/512476304c2bfe76506d879c2b836b8e.jpg",
+                    "amount": "18 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "Природа Колосок (луговые травы, травы и минералы, ореховый)",
+                    "description": "Лакомство премиум-класса для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ee2/otrbgp5osvi02ppgzx5be0r2y9webiqc/200_200_1/71866347056cd3683fcc365b972ad5ee.jpg",
+                    "amount": "30 г х 3 шт (упаковка)",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Природа Колосок (фруктовый, ореховый, кокос)",
+                    "description": "Лакомство премиум-класса для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e6/p6xptpxr3tciehwdo2xylk3iklyjy13u/200_200_1/348d50f3a2af75d7f2a168f0ede9eb65.jpg",
+                    "amount": "30 г х 3 шт (упаковка)",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Природа Колосок (мультивитамин, кокос, медовый)",
+                    "description": "Лакомство премиум-класса для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b5/94yd8hiac0yipr7f7mlh1lz4amrhfez9/200_200_1/d3b95d4782f893bd3b0a2764101b51d4.jpg",
+                    "amount": "30 г х 3 шт (упаковка)",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Little One Палочка из луговых трав, ассорти (85 г)",
+                    "description": "Лакомство для всех видов грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/053/51dx3wkbh7ekwvep2bmh0r55i484l6bw/200_200_1/5ea08d585fb71bf1f94592a06ae9c399.png",
+                    "amount": "Цветки календулы",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Little One Корзинка из луговых трав, ассорти (65 г)",
+                    "description": "Лакомство для всех видов грызунов и кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5db/yi7wen1xdgzr0c9r2ao64l3v234ez4w2/200_200_1/79913ab988e01d09e6b823e3f82bb084.png",
+                    "amount": "Пастернак",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Vitapol Minu Mix Палочки для грызунов",
+                    "description": "Лакомство для грызунов и кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ce/1kgs5rbute79v80tjqlrjqrb9zts6zd4/200_200_1/cc6b3f611ee5ecfc752519795b337349.jpg",
+                    "amount": "60 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "Рубин ЭКО Пророщенные злаки сухие (сено)",
+                    "description": "Для птиц и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/490/yejilrhly33roncexmkurqggbu1abdxi/200_200_1/b039d80d8dca068f0d9c3c0fad49a9c1.jpg",
+                    "amount": "250 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Lolo Pets Рожок для грызунов с орехами",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f1/g8zx0hnx4gdtos6uc2bn54mrq3hx7njh/200_200_1/f6ab2a783c14aed3b5df8f33ae1bc0b3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Lolo Pets Рожок для грызунов с овощами",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/730/jr602uk9r3r0bv2v9tkpy1fq5aioy6to/200_200_1/33ebcca1466a0c9c9ae24183662591ac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Fiory Палочки для кроликов и морских свинок с фруктами, 100 г",
+                    "description": "Лакомство для кроликов и морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be0/hd8cmk33twvv9e796qan79ckby7444ov/200_200_1/fbbef4a49775a34ecd0248bc754f4d47.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Fiory Снеки для грызунов с овощами и фруктами, 80 г",
+                    "description": "Лакомство для всех видов грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb2/ul23r5t5n1o2umgnhk7extvw7elilb5w/200_200_1/cd9342e99084ef99a61e1785b01bca20.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Fiory Снеки для грызунов с фруктами, 80 г",
+                    "description": "Лакомство для всех видов грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/668/p2xogwcdf6fai1901yih4powxs3zk0o6/200_200_1/309889270294c56a53f5da72613b6bce.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Минеральный камень натуральный XL, 190 г",
+                    "description": "Добавка к корму для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84b/0ptz1azze3ejhgt4qq21cccv9x8njnqx/200_200_1/77b9a9edf6a96c25ff4295edb5119325.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Little One Мучной червь, 70 г",
+                    "description": "Лакомство для всеядных грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f9e/0sj56xdv4yly1yrg386me6ma47erfrza/200_200_1/3f0c83e7bb286a1af75816efcb894bf2.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,50 руб."
+                },
+                {
+                    "name": "Little One Смесь насекомых, 75 г",
+                    "description": "Лакомство для всеядных грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cea/p8q6lbf6s1vtopc3feixpuk3hggukuxu/200_200_1/ec619b210c62c5fc4abca545473b44ff.png",
+                    "amount": "за 1 ед.",
+                    "cost": "9,70 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Economic для морской свинки, 90 г",
+                    "description": "Лакомство для морской свинки в виде палочки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fb/dh4niul334bxokwy3mgbzyxije2oe7nd/200_200_1/6396b3c6334ed7fc6e180c4f0d0db0d4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Vitapol Menu Морковные хлопья",
+                    "description": "Лакомство для грызунов, 40 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6e/k4nm5hojuut7zee4abzb3ciq21dp31n6/200_200_1/3f210a1356d55da3f95fca2a0d51ad92.png",
+                    "amount": "за 1 ед.",
+                    "cost": "3,80 руб."
+                },
+                {
+                    "name": "Vitapol Menu Свекольные хлопья",
+                    "description": "Лакомство для грызунов, 40 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/01d/fphuqaqw4g11pzbi96sbozn8mdj3mvde/200_200_1/b20ec44bc520b77eac05cbbe9b8497ba.png",
+                    "amount": "за 1 ед.",
+                    "cost": "3,80 руб."
+                },
+                {
+                    "name": "Vitapol Натуральный минеральный камень для грызунов XL",
+                    "description": "Натуральное лакомство для грызунов и кролика, 190 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b9b/qykva5qwt3solljwiblr8x4oym300mwt/200_200_1/bb0f3fe213b73851cce6bf4cc8c45db4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,50 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Expert Лакомство для шиншилл, 100 г",
+                    "description": "Лакомство для шиншилл, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/654/j132g7chp6gtzki92zd6v7970z0b8n3n/200_200_1/e6af0214206ac220ff6902abaec643cc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,50 руб."
+                },
+                {
+                    "name": "Lolo Pets Рожок для грызунов mix, 10 шт",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b5/tzafvv1okk46pwxf5yh4yyg6w1vbig0j/200_200_1/7f813e66b1431d1a43f69bd0e328c620.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,90 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers с фруктами и орехами",
+                    "description": "Лакомство для шиншилл, 90 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/329/mibgpl0aqww08dtzxw37l4calxx2r88j/200_200_1/6e41d9eb80fff095f035e2e384571962.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,90 руб."
+                },
+                {
+                    "name": "Little One Пицца с овощами",
+                    "description": "Приготовлена специально для декоративных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/625/h5022xx3zqwpjxvsg0ehxqqgwm77nr72/200_200_1/6c31a1c285966c59c793359294f9e1e8.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Little One Палочки для грызунов с луговыми травами 2х55 г",
+                    "description": "Лакомство для морских свинок, кроликов и шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b82/25ambpbes9pbpoipf9l2a0pyhk0880km/200_200_1/58bc4fd0c8fbbfa2447d4b1471b2668e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Little One Палочки для грызунов с овощами 2х60 г",
+                    "description": "Лакомство для морских свинок, кроликов и шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/18a/ove9mfrzzv9u9m1dpwhn9gq16z4u8n15/200_200_1/4a844633150df0ff9c7d1435215d6a49.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Little One Палочки для грызунов с фруктами 2х60 г",
+                    "description": "Лакомство для морских свинок, кроликов и шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8a7/jxvlth9iipylcoqk05rcwfz6afkxtc8o/200_200_1/688df806826e1144820fa9f72bcbc5a0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Little One Палочки для грызунов с травами и цветами 2х55 г",
+                    "description": "Лакомство для морских свинок, кроликов и шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/534/vgnpdbpayn7ak0vwkb5j0wevofrtnp2o/200_200_1/fcb43fa2cc8c9f38bbd18d649ecb3947.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Little One Палочки для грызунов с возд. рисом и орехами 2х55 г",
+                    "description": "Лакомство для хомяков, крыс, мышей и песчанок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/331/4rw8obpnf9pyuhph9j875sw2s0uekn07/200_200_1/a0969c422fe96ecd5b5fce3bf9b82530.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Little One Палочки для грызунов с ягодами 2х60 г",
+                    "description": "Лакомство для хомяков, крыс, мышей и песчанок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a4/sb33nwvk80sjq63rwh759lmrq61idsyd/200_200_1/7e62faa5b3eadaf4d4a8d3cc3381ae6a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Little One Палочки для грызунов с фруктами и орехами 2х60 г",
+                    "description": "Лакомство для хомяков, крыс, мышей и песчанок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/645/xa9qtli2pegaat8jaxz564x3b7xs6dpu/200_200_1/2dea4612bed6f9b02afd8af195c9529f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Vitapol Smakers с фруктами/орехами/розой для дегу, 90 г",
+                    "description": "Зерновое лакомство для дегу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/764/b6c3xshosxp1p3h16wuwv9vugzmaprv1/200_200_1/985276b4566d426a2b6a94b8e15f3730.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "Vitapol Smakers с сухофруктами и орехами для шиншилл, 90 г",
+                    "description": "Зерновое лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc7/c9r9mumhtqz0acxvkesojwnybggt64zi/200_200_1/fe033f98be1c4259bdbc911a48bfd64a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "Little One Лакомство Мини-кукуруза",
+                    "description": "Вкусная игрушка и прекрасное дополнение к основному корму.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c59/9w8fqhk8z1ca3tkzbinz4zuticnr08rj/200_200_1/5318c22012d4436002164399d6a4c32f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,90 руб."
+                },
+                {
+                    "name": "Lolo Pets Лолобургер овощной для грызунов",
+                    "description": "Лакомство для грызунов, 40 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bd4/9png6wxfiur9peyhohqg6f2y4x1zvq8i/200_200_1/4dfed3787ed89530b4f320abdfd226c6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Лолобургер ореховый для грызунов",
+                    "description": "Лакомство для грызунов, 40 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b1d/cm4ni859zirzjvceux6fkm979lhwwhh9/200_200_1/365c6353686187f22228cd6573b77db0.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Лолобургер mix для грызунов (упаковка)",
+                    "description": "Лакомство для грызунов, 12 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2dc/yefwuhy5nn5cch73t2xm051rnmkhjq1k/200_200_1/7b867a2a66c115345e894265a63c8fb2.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "51,20 руб."
+                },
+                {
+                    "name": "Crispy Sticks для кролика и мор. свинки (Морковь и петрушка)",
+                    "description": "Лакомство в виде палочек, 110 гр",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e7/gusnz3gi1ghhca8m0yvlcq8tqdjssvjy/200_200_1/5410340620601pack.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Crispy Sticks для кролика и мор. свинки (фрукты)",
+                    "description": "Лакомство в виде палочек, 110 гр",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e5e/ly7jhc5fn0vrgead6h9ie497j30agy79/200_200_1/5410340620595pack.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Little One Лакомство \"Воздушные зерна\", 100 гр.",
+                    "description": "Лакомство для декоративных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/267/bmky7jsgweifz3z3rd9kvvyz1eluimvu/200_200_1/afa221e6f8d1da177f1acee62aba70c4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,40 руб."
+                },
+                {
+                    "name": "Little One лакомство \"Колокольчик\"",
+                    "description": "Для всех видов грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/734/moormxv7wehucoigny852xv21lvz239b/200_200_1/bf187849a85f5c264530de95df81e8d3.png",
+                    "amount": "за 1 ед.",
+                    "cost": "9,20 руб."
+                },
+                {
+                    "name": "Little One лакомство \"Лукошко цветочное\"",
+                    "description": "Цветочное лакомство из садовой петрушки и цветков календулы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/68f/3mu627xepe8z9ggijg2ep5m43kzjz5us/200_200_1/940fb85f3ebb7ad0ff5a99408154d74b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "Little One Лакомство \"Сушеная морковь\" 200 гр.",
+                    "description": "Лакомство для декоративных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9d7/civk7sf8d5lwxm8fpacfxf1kn2w1d8uc/200_200_1/67389a05c5b3ebb831f763afa82ac187.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Little One Лакомство \"Фруктовая смесь\" 200 гр.",
+                    "description": "Лакомство для декоративных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/403/oh1nzvyft8pet7um0ha9ldwdji0y0ue3/200_200_1/11664a60f6c20f435760459ae4824036.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,50 руб."
+                },
+                {
+                    "name": "Little One Лакомство \"Овощная смесь\" 150 гр.",
+                    "description": "Лакомство для декоративных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e54/z07b0foyg1965mgwx98tqzsq58kof9q1/200_200_1/c3c72a98f71b37aface06edfbeb6e8fb.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,80 руб."
+                },
+                {
+                    "name": "Little One Лакомство \"Витамин С\" 180 гр.",
+                    "description": "Лакомство для декоративных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e54/7cm7u6qfneeitx2ohd45dx2xur8ofnri/200_200_1/c1a1b1df756e4fbc44ed1e6cdeba8c9b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "9,80 руб."
+                },
+                {
+                    "name": "Little One туннель \"Вкусная лазейка\", 5 см",
+                    "description": "Игрушка-лакомство, диаметр 5 см малый, для  грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/079/4flodmmv4c6kn7ayowu60v9b30jjiyk7/200_200_1/735c262292ab1ca8cbba9759b6b5bcd9.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "Little One туннель \"Вкусная лазейка\", 14 см",
+                    "description": "Игрушка-лакомство, диаметр 14 см, большой, для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/648/dq5opagtole0khp4p2bwt11fcpmxuh02/200_200_1/8111b2b27e167c99051d49473cfcf0bc.png",
+                    "amount": "за 1 ед.",
+                    "cost": "16,90 руб."
+                },
+                {
+                    "name": "Дропсы \"Санал\" для грызунов (Дикие ягоды), 45 г",
+                    "description": "Натуральное питательное лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/eec/y8wdrtsuigt1nv6rgg991ow52v32zjwl/30e222ebb0839808086c7340c5f2512d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,70 руб."
+                },
+                {
+                    "name": "Sanal Дропсы для грызунов (Зелень), 45 г",
+                    "description": "Натуральное питательное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1e9/wgx48wwwoaydwqu8m6bj9i0yzh8b8yz6/200_200_1/dd2503be66e1774463d413a4de6cf3c0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,70 руб."
+                },
+                {
+                    "name": "Sanal Дропсы для грызунов (Йогурт), 45 г",
+                    "description": "Натуральное питательное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4de/cla3fx0rw5o9b5i1nhbfwjd8z4o76aq4/200_200_1/a4f196821ecb7391064c1cb55ca4fec7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,70 руб."
+                },
+                {
+                    "name": "Sanal Дропсы для грызунов (Медовые), 45 г",
+                    "description": "Натуральное питательное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/49b/20suotpq8ef3l3b7owwregle34ih3cit/200_200_1/5b3d8198ac4c317c5d32ad9e4db7e3c0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,70 руб."
+                },
+                {
+                    "name": "Sanal Дропсы для грызунов (Морковные), 45 г",
+                    "description": "Натуральное питательное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/785/pxjw3skkzeollnji34fqkyalixm6aln9/200_200_1/038b90e997d5a9894b44b76406b7f8f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,70 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Орехи для грызунов и кроликов, 45 г",
+                    "description": "Лакомство в виде палочки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e1c/85gn17cr2bukxvdz63zvendkrod2bpmq/200_200_1/31298e47dc5e70b67ddf2031e018ad0b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Фрукты для грызунов и кроликов, 45 г",
+                    "description": "Лакомство в виде палочки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a88/uyrsf3p6pusm3p9klqejtrm5aey9x753/200_200_1/22ab852580ce25ebb2d170f7a86745c5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Яблоко для грызунов и кроликов, 45 г",
+                    "description": "Лакомство  в виде палочки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d7/ebkopwm55kslgw0v6weejkx51ow6m6wc/200_200_1/dc77e828627ca199b0af04e6ec090a05.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Мёд для грызунов и кроликов, 45 г",
+                    "description": "Лакомство в виде палочки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce4/9lx5uhhgysz3awr39luuc7i8x2f08zff/200_200_1/68e38547771ac9ec041b81581272fa6b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Weekend Style (Орехи), 45 г",
+                    "description": "Лакомство с орехами, для грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/6bd/rur0gotqfzvcqana8ki20wqzawjdefc3/1c863d8e041679858c3f269c88d36e79.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Weekend Style (Фрукты), 45 г",
+                    "description": "Лакомство с фруктами, для грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/2a3/5j4k5s29uas67i3ekngra8xn7qx1ouxn/2636119cee557cdadcc5313f14928e21.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Weekend Style (Яблоко), 45 г",
+                    "description": "Лакомство с яблоком, для грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/071/o9bq8ph46yn82ur3yrabe7qoaglfcr1v/a3258e44313ba317c53e0f279eb4bffe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers (Орехи), 90 г",
+                    "description": "Лакомство с орехами для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/964/n3740lvulfazyp070lgj98r4b2nhidbh/821a59a260e8d01b53b0dfeed0f3f3f3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers (Фрукты), 90 г",
+                    "description": "Лакомство с фруктами для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/4b1/h2hh3o4f6r854r8uvyq1bo63rpnp2v7v/28a0578da5aa9f6ae983e022c1c38114.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,80 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers (Овощи), 90 г",
+                    "description": "Лакомство с овощами для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/ed7/y45m0ypszq4w68bdnlhbgmfxs8lz3xe4/48cf3b06120c30ce25dc5578e709075f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,80 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers (Лесные ягоды,попкорн,орехи),135 г",
+                    "description": "С лесными ягодами, попкорном и орехами для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/c5c/rzy7qo740kejavy8rfw2m57yw449psd8/d0680b0388f50ba32db9fe0b07ab9322.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Хлопья (Морковь), 40 г",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/996/icg7i6ax6g0akfr8gk8l5iq9sgl2ubbl/200_200_1/afb167451f4f9b9ebc28ef740dbcb516.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "Crispy Sticks для хомяков и крыс (Поп-корн и мёд)",
+                    "description": "Лакомство в виде палочек, 100 гр.",
+                    "image_url": "https://garfield.by/upload/iblock/ffc/0l9sp808fvp2sxlob13b03mcer721adp/bd8e9c635a824683be36024eec7535eb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Crispy Sticks для кроликов и шиншилл (Лесные ягоды)",
+                    "description": "Лакомство в виде палочек, 110 гр.",
+                    "image_url": "https://garfield.by/upload/iblock/328/p5fy4zlwlou65x2p3v7na0envmroho8e/993803cc2efd8adc3ca7dda51d0995d9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Little One Лакомство \"Травяные подушечки\" 100 гр.",
+                    "description": "Лакомство для декоративных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e0/u5wml5z2p3oxdutmajhl6m7tbkmpdy7z/200_200_1/252b7d058003546f405b955e4387c1ea.png",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Little One Лакомство \"Ягодное ассорти\" 200 гр.",
+                    "description": "Лакомство для декоративных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/23a/r9xragq80noy3sz0wm68d3hdk8k1zko8/200_200_1/7a8841b8532ba0de258264fb98ee6e27.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "Little One бисквиты, 35 гр",
+                    "description": "Дополнительное питание для хомяков, крыс, мышей и песчанок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/967/2obgfxfqlkkzb2qcj0asw1el108k259n/200_200_1/7b12d4a15b4273b83a347c1694cb1b49.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                },
+                {
+                    "name": "Little One Лакомство \"Плющеный горох\" 230 гр.",
+                    "description": "Лакомство для декоративных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9d8/yazspq0z7701vl0q50jkuzfq6bwhx6fp/200_200_1/5a9d1b3bb0f094906ec106d4ca4c8c27.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Lolo Pets Дропсы для грызунов (Орех), 75 г",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/617/vtxxda2dpcymd0z3ru0uvo9z7d04kc2f/200_200_1/f5cd91112f01658f471a85687b46c38d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Vitapol Рожок с фруктами для грызунов и кролика",
+                    "description": "Лакомство для грызунов и кролика, 45 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/349/u1w3u0tw130ndwy8nxpyqna277yg0r29/200_200_1/14104d5b38c8a95ef71e72dc18fd89bd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,70 руб."
+                },
+                {
+                    "name": "Vitapol Рожок с овощами для грызунов и кролика",
+                    "description": "Лакомство для грызунов и кролика, 45 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/233/8l9dsmh2di5pty0oejut21kk2n0c0hm2/200_200_1/a7d8efe2db4cda7e633ec6d77acfede3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,70 руб."
+                },
+                {
+                    "name": "Vitapol Рожок с орехами для грызунов и кролика",
+                    "description": "Лакомство для грызунов и кролика, 45 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/53a/t0oc5ybaehxt35pdb2xfzuc15lu9r10b/200_200_1/bc48054827c3c03708682393ba7e415a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "1,70 руб."
+                },
+                {
+                    "name": "Little King Лакомство для грызунов Зерновые шарики",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1a/xv6ct89st32yiiqwio9jvxmggss20wh7/200_200_1/набор (зерновые шарики).jpg",
+                    "amount": "12 шт/уп",
+                    "cost": "10,50  руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с попкорном",
+                    "description": "Лакомство для грызунов и кроликов с добавлением попкорна",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/5t31xcf5ay0jm8hh751sm0ztltce73q5/200_200_1/963124b200ba5482bf2065b5eed4ff13.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Vitapol Лакомство для кроликов Smakers Premium",
+                    "description": "Лакомство премиум класса для кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f41/q29c4jc05k0jl2bndbdl3lc5l8rlxbqq/200_200_1/54781625268155ecf3a60ce1ecf0c0f9.jpg",
+                    "amount": "100 г (2 шт/уп)",
+                    "cost": "8,80  руб."
+                },
+                {
+                    "name": "Vitapol Smakers Premium для дегу",
+                    "description": "Полностью сбалансированная смесь для дегу",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d51/6m2ibfltbzguk4eqoattxm84y6vdzgtx/200_200_1/7cadbbb86b5ada77c7a87dcaabed5f0f.jpg",
+                    "amount": "100 г",
+                    "cost": "8,80  руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers минеральный для грызунов и кролика",
+                    "description": "Минеральная кормовая добавка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a40/ugwurhlu3p9ip7ysg0fbs63spkcbj65z/200_200_1/a98929dbeba7565e49187ee375b5564c.jpg",
+                    "amount": "135 г",
+                    "cost": "6,00  руб."
+                },
+                {
+                    "name": "Little King Лакомство (семена конопли, льна)",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/890/3e3qxpftxks68odyiz43yn0vgvgu6hzx/200_200_1/aa5217784866be118d19ed8ca7f4b988.PNG",
+                    "amount": "230 г",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Little King Лакомство (яблоко)",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9f9/ea6enxn3dhopve6mes6tl1medojbnxnf/200_200_1/c14efe570f001e0dc0c1624b1fb516e6.PNG",
+                    "amount": "100 г",
+                    "cost": "6,20  руб."
+                },
+                {
+                    "name": "Little King Лакомство (семена подсолнечника, тыквы)",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/396/xpf3x62drglwu9l86p7mzo1bcb6u5sdp/200_200_1/4d7143bae6e97dd3954633b07df4208c.PNG",
+                    "amount": "230 г",
+                    "cost": "5,20  руб."
+                },
+                {
+                    "name": "Little King Лакомство (травяные гранулы)",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d70/6214t6f3uu6tt8z3lnpeuyhprc8l6nwl/200_200_1/482c7babc83e88603747743c3a3995a6.PNG",
+                    "amount": "250 г",
+                    "cost": "3,30  руб."
+                },
+                {
+                    "name": "Little King Лакомство (плющеная пшеница, ячмень, морковь)",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3aa/8hg4ogo1pkro3mmrju01qpmp07e7wnqh/200_200_1/2a803b47203d8c821fe5b1b8d220fe3d.PNG",
+                    "amount": "180 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "Little King Лакомство (плющеный горох, кукуруза, морковь)",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df5/en2tcd2ofrrg1naqavni7ccuaoqv21nk/200_200_1/8c0e6e61ff2b286ab210f9db22110ad6.PNG",
+                    "amount": "230 г",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers рождественский для грызунов и кроликов",
+                    "description": "Дополнение к основному корму",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/35e/cl5fclyra2vsoc5qwid6vx0sii4lv3q7/200_200_1/d167f9b489d7a6a9cc75e0b0ef5fe518.jpg",
+                    "amount": "90 г",
+                    "cost": "8,00  руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с мятой",
+                    "description": "Натуральное минеральное лакомство",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e6/h5j107eb3hp5ksw3xaghx77i3zrmgxpc/200_200_1/02c30ca2bebcd1e46322ea4464375cad.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Vitapol Multi-MIx Лакомство для грызунов",
+                    "description": "Дропсы для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1da/53wxy7vnsgdprdx47jesozyahy4jgod9/200_200_1/cf4e9a6a9e0318d609fb61700d847cb9.jpg",
+                    "amount": "75 г",
+                    "cost": "4,90  руб."
+                },
+                {
+                    "name": "ВАКА Соляной камень с минералами и йодом д/грызунов",
+                    "description": "Полезное лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/208/tdiwix0p6q7z08yqvigwbr86wuot3wur/200_200_1/12d96ef27ed7e3a4eba858f2e180423e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,80 руб."
+                },
+                {
+                    "name": "ВАКА Соляной камень для хомяков и морских свинок",
+                    "description": "Полезное лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/585/5w5131yetv6eh5c06ifwj66u8m690mhg/200_200_1/d75cf3b91b312490cc5c404af9da3424.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,30 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Premium Лакомство для шиншилл, 100 г",
+                    "description": "Лакомство для шиншилл, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a0/10nzks2jvipkc8zykkuoacjuet2kfua6/200_200_1/f585310fb8de022f3653ae603a2b21c3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с фруктами для хомяка, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad1/nnkjwi7mg4bvsc06rq8vh0oxylq2p0zf/200_200_1/224aab10c3d032bce6ee0acf097b67b5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с овощами для хомяка, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/725/ffr9lfxjdedzena0vzif249bojmuqyup/200_200_1/5fb541cd6a773cc0a2a8c1f78fc18612.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с плодами рожкового дерева, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cdc/ryxg20uq8ha33snrtfft1eol33r5ukii/200_200_1/821c1c96f61cdd91e6065a341fb2bafb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с попкорном для хомяка, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0d/db03wwwlku1z2cr70q0ubhr3ly8mre7v/200_200_1/e237d75302b61581ad1c0ef543d8de68.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby Mix фрукты/овощи/рожк.дерево, 120 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/052/ehmy07y90cyxjspydezn978hleif6crc/200_200_1/3d1478c578db25658443bfe5e074c6b3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby Mix лесные ягоды/попкорн/орехи, 120 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/060/1tfv5i8ujyjrylwgyf7gkh4l152xsrd0/200_200_1/dcf482eaef8955b88840d0169b3debbf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с медом для хомяка, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/92a/xlu3dfbyja9wezl0zyaesbej25f0kgdo/200_200_1/cdd7fa0e253251a5defaa3b42bea2559.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с кокосом для хомяка, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/93e/f1aik3umozsgn12htvsvj61ddv0opu0v/200_200_1/48837a377f6bd191e715720cd400ebcd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с фруктами для кролика, 90 г",
+                    "description": "Лакомство для кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/220/rrnzs2sx66rbzly64655hnl9gevro0r5/200_200_1/91190749e29da64c01cde19bf4399eb9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с овощами для кролика, 90 г",
+                    "description": "Лакомство для кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d54/6lsuc9kush2wh5f2kwrzcuxbygpmd92d/200_200_1/cecb5b6f983d64bd993cde03d4fabd2a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с клубникой для хомяка, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d2/3qbb3djl7c1rxlg5rrricv5rjq4uxq77/200_200_1/b1109ef7d4389854182330a56d4c131c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,20 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с фруктами/орехами для хомяка, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4d2/bhkdrslv56jcjgmyk12ac6zkv8a5n2i4/200_200_1/bafcd55c6a7c8633a2b89096783593dc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с люцерной, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34f/x8erzoulx4fjm30u9yfbp0cjv1dk76p1/200_200_1/b955c38aca91bd76ff9e29cd3fa2cecc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,20 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с орехами, 90 г",
+                    "description": "Лакомство для кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/619/e33kqjgv9tzvbghw1c553d0ihfwlyj80/200_200_1/598c2ec686272f97b516559decf69623.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,20 руб."
+                },
+                {
+                    "name": "Power Vit Kolby с яблоком для морских свинок, 90 г",
+                    "description": "Лакомство для морской свинки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d84/ajtfb3fddn58vck61lqsp0e6640iwqiv/200_200_1/771b2dfb11dcb55dd4359ad113d86ea0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,60 руб."
+                },
+                {
+                    "name": "Power Vit Палочки Mix, 40 г",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/965/qgg8xzipjir7mod59pqx7epf1auxop3l/200_200_1/3de80f6e561c454cd8a4f32998b7150c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,50 руб."
+                },
+                {
+                    "name": "Альпийские луга \"7 трав\" Травка для грызунов, 50 г",
+                    "description": "Травка для грызунов из 7 видов растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/974/p9xqom9azldu2nk59u6e7x6iminry77f/200_200_1/d33b8c2825897ccf0b75278708958902.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,10 руб."
+                },
+                {
+                    "name": "Little One Лакомые ветви с лепестками и травами, 35 г",
+                    "description": "Лакомство для всех видов грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ac/h6ppq3azvaej8kyq5zsdx1glo4pss3o6/200_200_1/ea05b5a2469d3622fc8cce31b6948801.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Lolo Pets Дропсы для грызунов лесные ягоды (1*12), 75 г",
+                    "description": "Дополнительная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cdb/z5u2bm1g9g8bigguclhumgzu8n2zulb3/200_200_1/312e9be4de0fce9654f3a1ad13b11e6a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Fiory Бисквиты для грызунов с ягодами, 30 г",
+                    "description": "Лакомство для всех видов грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d19/uodbpd1jwikfwddbk72o9ihkwnfe3s0p/200_200_1/f16ba3e279a3c918d244b178a4832cd3.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Fiory Бисквиты для грызунов с морковью, 30 г",
+                    "description": "Лакомство для всех видов грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/12f/91f7tjkyayr883xna2y25093ogfw4bxw/200_200_1/812eeb6ff2d189e454350d076b4d5bbd.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Fiory Палочки для хомяков с фруктами, 100 г",
+                    "description": "Лакомство для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a82/w4l3iuklbuxxu4vgzfxp8wxqq0qur0l9/200_200_1/dfd338ade0b3ac4a419904dd213d6855.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Fiory Палочки для хомяков с медом, 100 г",
+                    "description": "Лакомство для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/08b/sp7b7uu6csedy8vhz3nkjpr3gw3jyzjh/200_200_1/e9ceadd99bd168c3cfb64bda47dfdde1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Fiory Палочки для шиншилл с морковью, 80 г",
+                    "description": "Лакомство для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/06a/6doyqfe7qqyb3o5e9sznbtywk4z10ax3/200_200_1/1e8b15e072dfc5618a61706934f4870b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Lolo Pets Рожок для грызунов с фруктами",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4d/rbqjvf8zecaj2r5jeb5pu1lqbc9nzvb1/200_200_1/bdd5222c1359f11111f37238d5e93236.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,90 руб."
+                },
+                {
+                    "name": "Lolo Pets Гороховые шарики, 40 г",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0e/8w8gdpakaxwnc2w4f96jr3waqs0jxk21/200_200_1/f1c063d8073c6d53971c8f63c8ccc80c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,20 руб."
+                },
+                {
+                    "name": "Onto Сверчок сушёный (лакомство), 20 г",
+                    "description": "Для насекомоядных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f21/e7dzukmpz4uq0uxt9kc24qts05fwq1mh/200_200_1/01f30aa6d9b5776a82e13675fb53fe20.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Economic для хомяка, 90 г",
+                    "description": "Лакомство для хомяка в виде палочки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81b/bpyolhhso6qmfq6c3ussgnu2fgqhs8gd/200_200_1/88b6d7250e49139530af0a6e6d88a6df.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Economic для кролика, 90 г",
+                    "description": "Лакомство для кролика в виде палочки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3be/y8k5mmajfli5miz8g1xn5st5dq7re67d/200_200_1/1e8ddeefbd442c0e0c539c73e4c1a2f9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Expert для крыс, 90 г",
+                    "description": "Лакомство для крыс в виде палочки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7cd/wdi3vuyhjoge3muleuket6xt8tttawid/200_200_1/c21682940427dd9bb19860fc8170be54.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,20 руб."
+                },
+                {
+                    "name": "Vitapol Smakers 3в1 для грызунов и кроликов, 135 г",
+                    "description": "Лакомство с овощами, плодами рожкового дерева и фруктами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a74/cj2m6n0gvd7m5iifr0ppqhvcezjqt35y/200_200_1/71fe9db3e95382bd24a243547a986bb2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Яблоко для грызунов и кроликов, 90 г",
+                    "description": "Лакомство в виде палочки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cb/di99nmzskrwvwwtkng63zl03m5iq6lp6/200_200_1/e48bada2926e9d41596ffd5c1f0f5a86.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,00 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Брокколи для грызунов и кроликов, 90 г",
+                    "description": "Лакомство в виде палочки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b2/1buqoq7iv0iqsvs1gkmfapf3pgz03pcn/200_200_1/c31996516768366944187b78e4c46360.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Vitapol Smakers осенний для грызунов и кроликов, 90 г",
+                    "description": "Лакомство в виде палочки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/973/j218keblw0w4cer5sqhte38bslk6week/200_200_1/807bbbe846dd9ec0b4cfb03ad9d17bfc.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Vitapol Smakers зимний для грызунов и кроликов, 90 г",
+                    "description": "Лакомство в виде палочки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a47/l251uk75w6ewkodythrggp29yw05v20p/200_200_1/420f9cdb3c7e04cde465c931df6831fe.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Дропсы для грызунов морковные (1*12), 75 г",
+                    "description": "Дополнительная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b0/bap21x9llgwnhbz7gxxkcinlj2kq1gqz/200_200_1/f794a2636a43b9238f4653935a6b9a01.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Lolo Pets Минеральный камень с овощами XL, 190 г",
+                    "description": "Минеральная кормовая смесь для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83c/fzcwsekg2c2j1aryf2ttrre43tjp2m61/200_200_1/009d57995916e794f6862a6cf4a220b6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с овощами",
+                    "description": "Натуральный минеральный камень",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c4/cc1dme4bkgyjnf54jyxnck9nhmno00bn/200_200_1/c4b15dabd34806fc736c23db60e1de0d.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Vitapol Натуральный минеральный камень с крекерами XL",
+                    "description": "Натуральное лакомство для грызунов и кроликов, 190 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/860/7rvwe4cp4a6x4pe4mvayuk2nw1ims9c2/200_200_1/c4a6bd0d339e094365a9778918b01466.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Vitapol Натуральный минеральный камень с одуванчиком XL",
+                    "description": "Натуральное лакомство для грызунов и кроликов, 190 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f41/j1hfot8d7903zdtplqog1lazd52m6gi3/200_200_1/8da6edaa6e8ea224eafa904743e7c97f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "Vitapol Herbal Трапеза для шиншилл, 150 г",
+                    "description": "Лакомство для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/897/q679sm572hf2xjdx1d3n3ecgpx951bs4/200_200_1/b1328da8a6e5f3b363dcc43d0167f00e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Vitapol Herbal Яблочный микс для грызунов и кроликов, 100 г",
+                    "description": "Лакомство для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/855/0u9c7ewelthyc51vgq83ug4e7a7t934i/200_200_1/cfc206ef4b4ecb24abb5808e349df8df.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Vitapol Herbal Цветущий луг для шиншилл, 30 г",
+                    "description": "Лакомство для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e48/43gwi9531ud2m166f070rpd48fnux1et/200_200_1/29495108fbb2ac0f9c522db5136175ea.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Конфеты \"Санал\" для грызунов (Лесные ягоды), 50 г",
+                    "description": "Натуральное питательное лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6eb/k97mkqvk63s4wzdkiza5iunqlk25dvfk/200_200_1/73b4dc90e7451cb968b34ee8135f1436.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers с плодами рожкового дерева, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d02/a3q6kgoqkzuw1uhz95d985d9a1j3kgqe/200_200_1/fddb990fd2d002331901374e9603fc68.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers с лесными ягодами, 90 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/63a/7q2zqmhc3tzve7j9ryi41aagmgakehpm/200_200_1/b82d6a5f11b9d7f39db0219308736b76.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,40 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers (фрукты, овощи, рожк. дерево), 135 г",
+                    "description": "Лакомство для хомяка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/036/lq01rfyl594rwhapcxxvy6x6p7sn572d/200_200_1/a569214311dc24c25597258d8d19ef29.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Lolo Pet Smakers с лепестками цветов, 90 г",
+                    "description": "Лакомство для грызунов и кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0c1/hzx6gse34uwdxnwtj2k4b0bk1daofslq/200_200_1/004b9663f9102b4d37c74ab06b8be371.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,00 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers с яблоком, 90 г",
+                    "description": "Лакомство для грызунов и кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/079/qa5qd6ew9rb97ytvwm14d4f2aoxha6nl/200_200_1/0758c1a432d2fa82b0928d558e025a5d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers медовый, 90 г",
+                    "description": "Лакомство для грызунов и кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/288/ljqs0xb1pke3gsk9ngj3mt1bbq6o6mca/200_200_1/7cfe3f304e46f08cf2fd48422f22cc3a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers с кокосом и лепестками роз",
+                    "description": "Лакомство для шиншилл, 90 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dcd/stns3pq5k6umrfxoudzxp1z4l5g2a1k1/200_200_1/f8c4f162f3a87fcc246c07bd099a5ce1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "Power Vit Минеральный камень с яблоком, 72 г",
+                    "description": "Минеральное лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/62f/bv118donintr00ra2k7czgejazuagk2k/200_200_1/59f4a8e1ea00b295738aba6b6889e343.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,10 руб."
+                },
+                {
+                    "name": "Little One Лакомые ветви с пастернаком и тыквой, 35 г",
+                    "description": "Лакомство для всех видов грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f97/sg8az91frz5a4wj3xfk8nmekgzn7eqnx/200_200_1/439eee523191600a4b43b38f0dcb3911.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Puffingers для морской свинки, 2 шт/уп 110 г",
+                    "description": "Лакомство для морской свинки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f2/nfhdyi3eoa4aniycodc19x8lg123g51e/200_200_1/7728f19e9db42cea695b19aa1bf42661.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,50 руб."
+                },
+                {
+                    "name": "Onto Чёрная львинка консервированная, 40 г",
+                    "description": "Консервированный кормовой мучной червь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/96b/7920orl3pgcjlrpm0r0x6lemvnk02qmq/200_200_1/92571e247dbdad792c793c1c7a40cfdc.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Палочки с кокосом и розой для шиншилл, 90 г",
+                    "description": "Зерновые палочки для шиншилл, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db9/9b56a8dqbow1dbdlvmutpyfvt9eulm8q/200_200_1/41cce6d85cfe17f33fd416e3d5f3eb04.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "Padovan Палочки овощные для кроликов и морских свинок, 100 г",
+                    "description": "Лакомство для крупных и средних грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/615/od5bg1rf95so7c57s56soxhexan9k3nx/200_200_1/2172fd9c4f1482d97b3a833e318b9ae7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,50 руб."
+                },
+                {
+                    "name": "Padovan Палочки сельские для кроликов и морских свинок, 100 г",
+                    "description": "Лакомство для крупных и средних грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9b5/jnvlbnwiwfgx8rfaqsza48ac8pbz1v0z/200_200_1/4282e8656bfd3ffe4070f8a0aefc552f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Дропсы для грызунов овощные (1*12), 75 г",
+                    "description": "Дополнительная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb4/xuxf86xr6a5bb9s9il5qlnv65of0v6c9/200_200_1/ea04ee07b66e58a0062d643196586c89.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Onto Зофобас консервированный, 40 г",
+                    "description": "Консервированный кормовой Зофобас.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/354/ns28l0k18swc48r0jo5im4kjk6134p3d/200_200_1/bfa2b8d42189ce731ffc50f73dd5614d.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Power Vit Минеральный камень с апельсином, 72 г",
+                    "description": "Минеральное лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b52/52ja116vgpip3fvygsy0vo2au60j7jjy/200_200_1/b956935ce51cc1664bbc910997e79f5f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Дропсы для грызунов йогуртовые (1*12), 75 г",
+                    "description": "Дополнительная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82b/kiwmf8i6tzg6r0lyqq5b2xwlnimujkbq/200_200_1/4bb16a94359cf9d9c685b3b2933a87cf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Little One Лакомые ветви с киви и яблоком, 35 г",
+                    "description": "Лакомство для всех видов грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/962/t0mrqsmo2zxynk75bjb1lt6fy3acuhs9/200_200_1/3ab1bb4bd1785813f62518ee5e175d6e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,20 руб."
+                },
+                {
+                    "name": "Lolo Pets Дропсы для грызунов медово-молочные (1*12), 75 г",
+                    "description": "Дополнительная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb2/5am7gsnleza1jvutsw8u6453vy77vbrv/200_200_1/9e6941a9efa833ddb4b6b4896fc57f2a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,40 руб."
+                },
+                {
+                    "name": "Onto Мучной червь консервированный, 40 г",
+                    "description": "Консервированный кормовой мучной червь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c7e/0lu0e26poioxixmgsyvggvxqxgxjqqrv/200_200_1/7e03a0be932e17ec745ceeb6ef166503.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Box Mix Палочки д/грызунов,12 шт.",
+                    "description": "Зерновое лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/052/jb19l4p52t82md53avmfsp6c1utdxilq/200_200_1/91a4a04b22a5e2737676ac09222e1e50.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,30 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Box PopCorn Палочки д/грызунов, 12 шт.",
+                    "description": "Зерновое лакомство с поп-корном для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/873/2h3hw8o4l4eomhofl7r4melyi55p8gqk/200_200_1/bbf686b333ecf95a9c79fc06dc3312d8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,20 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Box Fruits Палочки д/грызунов, 12 шт. в уп.",
+                    "description": "Зерновое лакомство с фруктами для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b7e/q6st6hfzztrcmjjjl2o7bkfv88i1xhmu/200_200_1/f5c14f4ba52c740748612981114b93f3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,20 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Шкатулка с зерн. палочками д/грызунов",
+                    "description": "Лакомство для грызунов, 7 штук.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cba/5vjxo6yby69j09285tqfelq43a7zg49a/200_200_1/6cbad7666bff45830a26d5b418e9086d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,20 руб."
+                },
+                {
+                    "name": "Vitapol Smakers со злаками для дегу, 90 г",
+                    "description": "Зерновое лакомство для дегу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/639/pos9hnbv5leejf7f9rwfnz8p5e263vzl/200_200_1/8e0c066d95a11f325f633057789f7ac7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень натуральный",
+                    "description": "Натуральное минеральное лакомство",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab3/mkl8v8u197rq91nozdc97nookjo0eebn/200_200_1/5ed1973e86ce90f32f39f2f8299255bd.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с апельсином",
+                    "description": "Натуральный минеральный камень",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c2/1m0fi7zk85u2371w0attm78cjv7xy5oc/200_200_1/7e0d133ca37e9ccba65f09edb1494abf.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с яблоком",
+                    "description": "Натуральный минеральный камень",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc1/lgi5mbz7vq5qnxjzkb112vj5i2tvddjx/200_200_1/0537add0bec0bc2a0d997c2a2ae90c2c.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Vitapol Vitburger Mini-Mix Лакомство для грызунов, 12 шт.",
+                    "description": "Витаминизированная добавка для грызунов, 40 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e2/v80teidtnzmt3ice90awwquf14uht7ex/200_200_1/c33daf0dcfecc0c9ba182d3a1a38aa1d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,00 руб."
+                },
+                {
+                    "name": "Vitapol Рожок Mix для грызунов, 12 шт.",
+                    "description": "Лакомство для грызунов и кролика.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c0e/q6tbsfmj6v8kmnwo96jpv7uj1h5nftlu/200_200_1/db34527de910875ed0bb0f1a911df6cc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,70 руб."
+                },
+                {
+                    "name": "Lolo Pets Лолобургер фруктовый для грызунов",
+                    "description": "Лакомство для грызунов, 40 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/712/ryzywby1g23q5g0w7llkjos66ac1sch9/200_200_1/04d40a86607750ba48f57c9d15ec945d.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Палочки MIX для грызунов, 60 г",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7f1/wafmobyd64d9ra56v6xhlcgq90qwjir1/200_200_1/7684cc1a2500414ec42fbd3ae0a7ebb9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "Crispy Sticks для хомяков и крыс (рис и овощи)",
+                    "description": "Лакомство в виде палочек, 110 гр",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/772/i49z7u9ubd3z2965q81paidzezf2hugq/200_200_1/5410340620687pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Crispy Sticks для хомяков и песчанок (Мёд)",
+                    "description": "Лакомство в виде палочек, 110 гр",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/813/wr4mzyik1lnhi3nkxy7g8f7747vpf6d9/200_200_1/5410340620694pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,00 руб."
+                },
+                {
+                    "name": "Crispy Sticks для кролика и морской свинки (Целебные травы)",
+                    "description": "Лакомство в виде палочек, 110 гр",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d72/0du73lsowt8738niinmt0jxxlki4u1ic/200_200_1/5410340620618pack (1).jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,20 руб."
+                },
+                {
+                    "name": "Little One лакомство \"Кедровая шишка\"",
+                    "description": "Кедровая шишка с орешками.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c4/0q2ljr2yhw82d0twacdrf4caaz1zezx9/200_200_1/06fe5d58f6841d0d56475f557999291f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,80 руб."
+                },
+                {
+                    "name": "Little One лакомство \"Ветви орешника\"",
+                    "description": "Ветви орешника, 7-8 палочек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/45b/bm0l4gqg2wr6w43me2wufbzedzj2vfu7/200_200_1/4452da4c750537f7c39e3ef7705ae067.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,50 руб."
+                },
+                {
+                    "name": "Little One Корни одуванчика",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/174/yas3pf1ydnr73kuzs32wc8zkza8724k7/200_200_1/7510e2d82dcdd5f70ae2cd4d035899ae.png",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Sanal Дропсы для грызунов (Вишня), 50 г",
+                    "description": "Натуральное питательное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d2/pixb2pq7iie8gpth2b0zsx4tb6h00e4e/200_200_1/76c44f12f42a11a0363d0a4efc1bd58b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,40 руб."
+                },
+                {
+                    "name": "Sanal Дропсы для грызунов (Про-витамины), 45 г",
+                    "description": "Натуральное питательное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e5/jg4ejn8jjl4p3c0jtyvxf7ubv08jxzvy/200_200_1/a7dacfd1d2967daf590c7d65e73859d3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "Sanal Дропсы для грызунов (Печенье), 45 г",
+                    "description": "Натуральное питательное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c1/g3ss1erd7wmtxbj38px7y3a699n1eqf2/200_200_1/93b416176cf5cbe9d0b9bdc699d08da3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,90 руб."
+                },
+                {
+                    "name": "Vitapol Smakers Овощи для грызунов и кроликов, 45 г",
+                    "description": "Лакомство в виде палочки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b5e/gdrt8ggin8tmvesglgedlibkq10mfck8/200_200_1/3544ee99c3bd78f693732f5dbd99a37c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Weekend Style (Мед), 45 г",
+                    "description": "Лакомство с медом, для грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/a29/6p5qvxf9sh4g3c8h6aleuuphwoqx9h1q/4287d89c66b74b48e3fc9d091e474132.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers (Йогурт, одуванчик), 90 г",
+                    "description": "Лакомство с йогуртом и одуванчиком для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/ee1/lu8jhtnp0djaakhyeua5lcqofth6chae/5690b5a3270ed897d311f0d5d5349b53.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Premium для кроликов, 100 г",
+                    "description": "Лакомство обогащенное витаминами и минералами.",
+                    "image_url": "https://garfield.by/upload/iblock/70e/0qhldaxdjzqtu4f4t3p272svgnrqqa25/3b4ed18705daaf4e39976b8f52fbe5b0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Smarkers Premium Лакомство для морских свинок",
+                    "description": "Лакомство для морских свинок.",
+                    "image_url": "https://garfield.by/upload/iblock/904/liebnti3rghr6abi3lx3fe5h92ubadzd/1321ec951e740e18fc0e1f4cc5c39462.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Premium Лакомство для шиншилл",
+                    "description": "Лакомство для шиншилл, 100 г.",
+                    "image_url": "https://garfield.by/upload/iblock/166/t8h05ykkz5f3mcuikpos5f4x6m0cwx8i/a8c1297634b47652864b43a1a9da9418.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,00 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Лакомство для дегу (Фрукты, орехи)",
+                    "description": "Лакомство для дегу, с фруктами и орехами, 90 г.",
+                    "image_url": "https://garfield.by/upload/iblock/425/j8l2vgymn795moxhhj0x2h2ragsn8ixs/e42344d3237518f3992cc9affd5e4284.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Smakers Лакомство для дегу (Злаки)",
+                    "description": "Лакомство co злаками, для дегу, 90 г.",
+                    "image_url": "https://garfield.by/upload/iblock/a9a/5y1eqe576ved6odlgviinfw0qt7ib9az/e336b2b98ed007b464f233a09c92c376.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Хлопья (Свекла), 40 г",
+                    "description": "Лакомство для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fc/ax2bcz9qp3qf2logtljr4mxxej5jlb6o/200_200_1/7f15bc4192c1f77f8e0be5234ebe51a8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "Crispy Sticks для морских свинок и шиншилл (Цитрусы)",
+                    "description": "Лакомство в виде палочек, 110 гр.",
+                    "image_url": "https://garfield.by/upload/iblock/f67/dt79xry8uzhisx0ahqhw3gqtqvz3qtgo/144f7a2bdf3a869459ae1327496b8b54.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,20 руб."
+                },
+                {
+                    "name": "Crispy Sticks для кроликов и шиншилл (Рис и анисовое семя)",
+                    "description": "Лакомство в виде палочек, 110 гр",
+                    "image_url": "https://garfield.by/upload/iblock/4d5/ebeehjeqsi6bdyq6ukaje3k4kcwhlq8e/f542276e1e92617e88e9b8c69c4715a9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,80 руб."
+                },
+                {
+                    "name": "Little One Лакомство \"Кэроб\", 200 гр.",
+                    "description": "Лакомство для декоративных животных, плоды рожкового дерева.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/208/aju1cb30pl81ywxr2nii8ti3kvwsnk9f/200_200_1/63048f6de7c4e318409765c10811f1da.png",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Little One овощной дуэт",
+                    "description": "Для всех видов грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/iblock/351/vrvfmauswbp5izdzd589o1anx9gdz64c/5a9b59ccba14878b7121c4db7ccefbbe.png",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Little One \"Ветви смородины\"",
+                    "description": "Лакомство для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/059/ldrv4p7m0shdertms9w4l80vh8sozo16/200_200_1/a874bc5279a00dfd307b88e9cadaa9a6.png",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                }
+            ]
+        }
+    }
+}

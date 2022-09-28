@@ -1,0 +1,345 @@
+{
+    "Грызуны": {
+        "Витамины и добавки": {
+            "url": "https://garfield.by/catalog/gryizunyi/vitaminy-i-dobavki.html",
+            "products": [
+                {
+                    "name": "БОСПА ЭКО Универсальная травка для домашних животных",
+                    "description": "Универсальная травка для домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/burgcg5cw22ttd285rmvwil6eftqyrzw/200_200_1/08d9cc84912c6478f950e6d781c5596e.jpg",
+                    "amount": "150 г",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Lolo Pets Минеральный камень с яблоком для грызунов и кроликов",
+                    "description": "Натуральное лакомство для грызунов и кроликов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82c/qyqa15chmh0wkpjbu5pypfkfsvr3hagz/200_200_1/96576fa424450d4025aeb9ee46ff24c9.jpg",
+                    "amount": "190 г",
+                    "cost": "7,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с древесным углем",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e71/ig0na782vp4muvmflpv7qlh9rgr5x3ih/200_200_1/6f02f9f1d6cddd5848fae1c7b2b13910.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с йодом",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/37f/y5ahntsm1lpj8qm1v8ipvm6mxll3zdpz/200_200_1/19b0c81785273340e16324eb036f40f1.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с витаминами",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be0/992sferbl5i5ezh07z6dibff9r1mtz7o/200_200_1/a60bb27acd80202f1c8ca0a837713441.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с тмином",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a11/nk4no8dmeixkmikbgijl5rd1kyb9fi3d/200_200_1/d836305f32f9f98fa3c456bee695b15f.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Минеральный камень для грызунов с гималайской солью",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/184/2kd8ussn2ih6usm3z3535iamoitw4x2f/200_200_1/6442e507155e5a0ca4ed9c9fe28899e8.jpg",
+                    "amount": "40 г",
+                    "cost": "1,80  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корень топинамбура",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/680/tamr5yb23puh23ekrzw1m2jdlqij0p5v/200_200_1/9bc461a9658a6c90634f47f573103625.jpg",
+                    "amount": "50 г",
+                    "cost": "6,70  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО  Корень одуванчика",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/53b/0cxetaupvvgwb8rhuek0lumyvt0ynrzx/200_200_1/d0401aa07ec27a9d22fe869581da9091.jpg",
+                    "amount": "30 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Гималайская соль для грызунов",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/866/jbmgav38mjl0m1almb4dfuebka4t71gf/200_200_1/616524716851cff8ac060fdc8aaf1ff5.jpg",
+                    "amount": "30 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Dr.Hvostoff Соляной камень для грызунов",
+                    "description": "Добавка для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f4/t3fowdj51va1io9tu7lonv3s2m2c85ia/200_200_1/e04735cd19a3114ad6a867bb0df1a53b.jpg",
+                    "amount": "32 г",
+                    "cost": "1,20  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Мел для грызунов",
+                    "description": "Минеральное лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2f4/l0z6jztzxxuh6hi6xfg38givg1g36s4x/200_200_1/82932229144fd249b1ce43fcc5d995de.jpg",
+                    "amount": "16 г",
+                    "cost": "1,10  руб."
+                },
+                {
+                    "name": "Природа Минерал Каротин для грызунов",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9c/ayjeynhoazwjdppv76p8te4sv7stq2qy/200_200_1/1bca0b8216d5e9142ec943e600a206b3.jpg",
+                    "amount": "18 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "Природа Минерал Зеленое яблоко для грызунов",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d5/1vpjpui0jye5ehymlo99322v07nrv994/200_200_1/d18162793796a7df00fee3949ce05b8d.jpg",
+                    "amount": "18 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "Природа Крейда Мелок с морскими ракушками для грызунов",
+                    "description": "Лакомство для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/053/sup85uuxlqb3magreq7gykvutrve1j3h/200_200_1/512476304c2bfe76506d879c2b836b8e.jpg",
+                    "amount": "18 г",
+                    "cost": "1,90  руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Сыр)",
+                    "description": "Способствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a2/quo1bkcnv11lwyl0nulijac7fanjtu3e/200_200_1/8ca527b1fae29c77f4c37d582ff5a73c.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Лосось)",
+                    "description": "Способствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9fe/wodn63lblyifoatrphloz6xfam8h9wah/200_200_1/ba673713dca1301cf0668dad9dca7df9.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Cliny Паста для вывода шерсти (Курица)",
+                    "description": "Cпособствует выведению комков шерсти из желудка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/157/3s2dnvbascop2dfsdpefx4xwstsh9rmk/200_200_1/4426da20066dfa471b46b73db3ac9549.jpg",
+                    "amount": "30 мл",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Веда Фитомины для кроликов, 50 г",
+                    "description": "Функциональный корм для повышения иммунитета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e5e/wlssqpwa75ol8g6rhuhpm5lok9rfr3bf/200_200_1/fe1fbc86f4ed33230d1c443f77e33e96.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Lolo Pets Минеральный камень натуральный XL, 190 г",
+                    "description": "Добавка к корму для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84b/0ptz1azze3ejhgt4qq21cccv9x8njnqx/200_200_1/77b9a9edf6a96c25ff4295edb5119325.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Шустрик Поливитамины, 20 мл",
+                    "description": "Водорастворимый мультивитаминный комплекс.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9d7/kg15vl5havyur4167qzapwgcx91md2n2/200_200_1/5bf7aaae5b8a6d2fc28c4e7bfb299588.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,30 руб."
+                },
+                {
+                    "name": "Веда Фитомины для морских свинок и хомяков, 50 г",
+                    "description": "Функциональный корм для повышения иммунитета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ed/tl5k0asmh80ybpoin5ffl3mfrmxcpq2g/200_200_1/f8e8a711a4b8160ba608f11e32474c0c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Веда Фитомины для мышей и крыс, 50 г",
+                    "description": "Функциональный корм для повышения иммунитета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0a5/3sww4g501dgs53on7al30dby0h2e5z6x/200_200_1/4329d13305e09c491f33875269f42463.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Irbis Сorn \"Овощная тарелка\" для грызунов, 15 таб.",
+                    "description": "Мультивитаминный комплекс для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8e9/605850xp7x9lsqp20lx4av4j95k4m414/200_200_1/4e19bee34cf4eee8cb3a03ac4687f6a7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Irbis Сorn \"Фруктовая корзина\" для грызунов, 15 таб.",
+                    "description": "Мультивитаминный комплекс для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/08b/rpv960uwwg6ozlegknpnh0rtknkpvxb2/200_200_1/47f49deb508c9e4a58c89cb9f62d44a8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Irbis Сorn \"Аскорбинка\" для морских свинок, 15 таб.",
+                    "description": "Мультивитаминный комплекс для морских свинок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b8/cn06o3n1cmoe5epy1g7o989zrsf3oh8q/200_200_1/b082f5a7a521daef36a92ae9e9ec0488.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Irbis Сorn \"Аппетитный фундук\" для хомяков, 15 таб.",
+                    "description": "Мультивитаминный комплекс для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/220/0zdnoxgd6182mygpbnlxyirjtvvjnykl/200_200_1/3ef7832b70c5b977a7f2e2b984f08034.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Мел для грызунов, 40 г",
+                    "description": "Минеральная добавка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc5/x4kram4dl3ur7vyi97xo191x039unwkh/200_200_1/0a0af8892f05792ffb1f877249656d69.jpg",
+                    "amount": "Крекеры",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с мятой",
+                    "description": "Натуральное минеральное лакомство",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e6/h5j107eb3hp5ksw3xaghx77i3zrmgxpc/200_200_1/02c30ca2bebcd1e46322ea4464375cad.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Део, 60 таб.",
+                    "description": "Таблетки против неприятных запахов у собак, кошек и хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c2e/xrwlfbw2r13iivdnxgr3ws2ij11uy45h/200_200_1/ab71a1684df736c468b5d64cea74c90b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,80 руб."
+                },
+                {
+                    "name": "Fiory Био-камень для хомяков \"Big-Block\" с селеном, 55 г",
+                    "description": "Минеральный камень для хомяков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c69/bpkd09y8fislvvcuv6asb501dle2a8u1/200_200_1/00909d535d9d2f9d11c199ac3f9d6ae5.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "Fiory Био-камень для кроликов \"Big-Block\" с селеном, 100 г",
+                    "description": "Минеральный камень для кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ba3/2ewwozz3fnd02pdzgul7e4c32n88bdpf/200_200_1/90384e7abb333ecf057b0a06b1f45c67.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,60 руб."
+                },
+                {
+                    "name": "Fiory Био-камень для грызунов \"Кукуруза\", 90 г",
+                    "description": "Минеральный камень с солью для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab1/ibqhjutp8jjzu3mgpnp2lb1e5nck0tff/200_200_1/f4b611c10be234d2d1a82f6a3fb0d54a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Fiory Био-камень для грызунов \"Морковь\", 65 г",
+                    "description": "Минеральный камень с солью для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8dc/ninpup02jscgea4zkbzfm5adxlbjwd5o/200_200_1/ef06e9c2ff7f6ab75aeb6aaa9dc2d308.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Vitapol \"Smakers\" натуральный для грызунов и кролика (2 шт.)",
+                    "description": "Минеральные палочки для грызунов и кроликов, 135 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/625/pf6jsq1vl8a539bg36uya0uukr40mdqm/200_200_1/7fb9e361aa63a93e0c2303278ab6d87b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,90 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Омега, 250 мл",
+                    "description": "Лососевое масло для собак, кошек и хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/21a/m8q3x3b7zhy2xeg7tqg1qf68yel6b3vh/200_200_1/301de56270999247048b9aab504a0397.png",
+                    "amount": "за 1 ед.",
+                    "cost": "25,80 руб."
+                },
+                {
+                    "name": "Lolo Pets Минеральный камень с овощами XL, 190 г",
+                    "description": "Минеральная кормовая смесь для грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83c/fzcwsekg2c2j1aryf2ttrre43tjp2m61/200_200_1/009d57995916e794f6862a6cf4a220b6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с овощами",
+                    "description": "Натуральный минеральный камень",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c4/cc1dme4bkgyjnf54jyxnck9nhmno00bn/200_200_1/c4b15dabd34806fc736c23db60e1de0d.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Padovan Минеральная добавка Rody для грызунов, 50 г",
+                    "description": "Минеральный блок для укрепления костей грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b29/n4ltequ48da08kc9fvftgjlvhqnl3w41/200_200_1/ac807ecd94dffb94898597da140d4adb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,20 руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Trink + Fit для грызунов, 50 мл",
+                    "description": "Витамины для здоровья шерсти и укрепления костей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f09/jl793c7246iaiceq61g0qdshzr935mm1/200_200_1/3f97f09660c0a21b0d6b170b3e297097.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,40 руб."
+                },
+                {
+                    "name": "Lolo Pets Дропсы для грызунов йогуртовые (1*12), 75 г",
+                    "description": "Дополнительная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82b/kiwmf8i6tzg6r0lyqq5b2xwlnimujkbq/200_200_1/4bb16a94359cf9d9c685b3b2933a87cf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Bea Vit Total, 50 мл",
+                    "description": "Кормовая добавка для собак,кошек, птиц и грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e03/mfa36e8fz19ryxlggi60t38fnw5v4m9n/200_200_1/bb7e1fb2fb864f1357eb83f91dbe0422.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень натуральный",
+                    "description": "Натуральное минеральное лакомство",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab3/mkl8v8u197rq91nozdc97nookjo0eebn/200_200_1/5ed1973e86ce90f32f39f2f8299255bd.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с апельсином",
+                    "description": "Натуральный минеральный камень",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c2/1m0fi7zk85u2371w0attm78cjv7xy5oc/200_200_1/7e0d133ca37e9ccba65f09edb1494abf.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Vitapol Минеральный камень с яблоком",
+                    "description": "Натуральный минеральный камень",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc1/lgi5mbz7vq5qnxjzkb112vj5i2tvddjx/200_200_1/0537add0bec0bc2a0d997c2a2ae90c2c.jpg",
+                    "amount": "40 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Algolith, 250 г",
+                    "description": "Минеральная смесь для активизации пигмента.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/32d/p7drcci2saj1wuf43kq40zq7wcpm0gc6/200_200_1/676ce34fd11c330b1340dee16a5f71f5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,90 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Vitamin Cal, 250 г",
+                    "description": "Сбалансированная пищевая добавка к корму.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a6b/yh57f9fztv7wa2y32ph5pgd3entw3z9t/200_200_1/ff1ebf996e109e080228c38471292b4a.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "23,60 руб."
+                },
+                {
+                    "name": "Beaphar Комплекс витаминов группы В, 50 мл",
+                    "description": "Витамины для здоровья шерсти (оперения) и нервной системы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f52/1wkka6gtysg5ri22cmzddeslbdc55lf5/200_200_1/21d6869b729a67620b6eea43c76c21eb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,90 руб."
+                }
+            ]
+        }
+    }
+}

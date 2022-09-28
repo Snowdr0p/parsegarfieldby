@@ -1,0 +1,65 @@
+{
+    "Птицы": {
+        "Живые обитатели": {
+            "url": "https://garfield.by/catalog/birds/zhivye-obitateli.html",
+            "products": [
+                {
+                    "name": "Волнистый попугай",
+                    "description": "Волнистый попугай - самый популярный среди пернатых питомцев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ecf/wzspzzev0okjd9kpnt2o7cavjjcwu6yt/200_200_1/5f9c6f027ad6048476597d3f88044a53.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "80,00 руб."
+                },
+                {
+                    "name": "Попугай Корелла (Нимфа)",
+                    "description": "Попугай Корелла - говорящий попугай среднего размера",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/781/zex8r9zzt77wu2vvk7ihg7fgva53njyi/200_200_1/3e0a32f9e7f350341beb78e18f83a72d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "340,00 руб."
+                },
+                {
+                    "name": "Амадина Гульда",
+                    "description": "Семейство вьюрковых ткачиков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb1/v7shh06am9fxaignjr08p81xu9cfpco8/200_200_1/Screenshot_3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "250,00 руб."
+                },
+                {
+                    "name": "Какарик",
+                    "description": "Тропическая птица семейства попугаевых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a9/ppmi7dk4ggc9ah1lks2g0fb3sr8r317e/200_200_1/1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "260,00 руб."
+                },
+                {
+                    "name": "Амадина Зебровая",
+                    "description": "Семейство вьюрковых ткачиков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1f3/i6w3j21juymblqe8qibi17akdou471r2/200_200_1/9fd55a6dc7e4498f06cc96f49dd323ca.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,00 руб."
+                },
+                {
+                    "name": "Попугай неразлучник розовощекий",
+                    "description": "Неразлучник розовощекий - один из самых популярных видов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df6/lfp3qeezljya1428h8q6coa3231lg29q/200_200_1/b4fd7f063a5acfd290af63184da7a3d1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "130,00 руб."
+                },
+                {
+                    "name": "Попугай красная розелла",
+                    "description": "Птица семейства попугаевых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/346/rfk15jhpo82ltwk3k0i6ww942mk7u22m/200_200_1/e8297af9afe67755b910ab0537f8fa6b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "440,00 руб."
+                },
+                {
+                    "name": "Неразлучник Фишера",
+                    "description": "Один из самых маленьких видов неразлучников",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cde/ckglhy1sy3smo9e3n6irpnt15ndt3z51/200_200_1/32d46c7ce0a77a1b8d3ad398fbb312c8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "130,00 руб."
+                }
+            ]
+        }
+    }
+}

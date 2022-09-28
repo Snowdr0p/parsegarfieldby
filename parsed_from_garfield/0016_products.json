@@ -1,0 +1,1696 @@
+{
+    "Кошки": {
+        "Профессиональный груминг": {
+            "url": "https://garfield.by/catalog/cats/professionalnyy-gruming.html",
+            "products": [
+                {
+                    "name": "\"Le Salon\" Двухсторонняя щетка 2 в 1",
+                    "description": "С одной стороны у неё расческа, с другой щетка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/670/tcm8cjku2k4yfauuvzkjta384flzu0ln/200_200_1/f597b3d3449ae4c61d56c08a7abc2247.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,70 руб."
+                },
+                {
+                    "name": "Hello Pet расческа алюминиевая с круглой синей ручкой",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/497/y6bfbkn7xi1o8e20nb0eir74hk1dcxyh/200_200_1/2788b7c61418e449f9c1ea726cc82157.jpg",
+                    "amount": "30 см 15/85",
+                    "cost": "55,50  руб."
+                },
+                {
+                    "name": "Hello Pet расческа алюминиевая с овальной синей ручкой 20/80",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/iblock/376/21dmy0iaq7ounb2249pqdl2yqqgm6h34/c131f50fb036266de43a970959dbef74.jpg",
+                    "amount": "25 см",
+                    "cost": "47,50  руб."
+                },
+                {
+                    "name": "DeLIGHT Когтерез-ножницы малый длинные ручки с упором",
+                    "description": "Когтерез для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c90/rnqu74z5efl1acmzlpm7my58664j1vcy/200_200_1/item_88448.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,60 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа со спицей разнозубая (зубья 18-22 мм)",
+                    "description": "Расческа для создания фигурных проборов и распределения локонов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ba/w682hnbfwx0rzbn7wx1l9xzrelaiq6ng/200_200_1/e00e6afc3c01f8e9ff4ebed2eec33fae.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "39,90 руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа со спицей",
+                    "description": "Расческа для создания фигурных проборов и распределения локонов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/54a/9piaefnbldinid9jun6ma3bqqhaa05we/200_200_1/c1b6de621456ed51422d786430ce1212.jpg",
+                    "amount": "37 зубьев",
+                    "cost": "33,30  руб."
+                },
+                {
+                    "name": "DeLIGHT Расческа алюминиевая с матовой овальной ручкой",
+                    "description": "Ультралегкая расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b3b/tagwhwynoabn4e9nd7e056ki5jajqx88/200_200_1/04a16556be16b9fceb9471eaaf86e263.jpg",
+                    "amount": "10,5 см",
+                    "cost": "69,70  руб."
+                },
+                {
+                    "name": "Wahl Нож Ultimate Competition 2352-516 #40F 1/10 0,6 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6a5/84w22dd0b15r3l7nvk7hfjfpwmsn0nax/200_200_1/5a4c6e12b9811715cbec7479b5c9f853.png",
+                    "amount": "за 1 ед.",
+                    "cost": "178,10 руб."
+                },
+                {
+                    "name": "Wahl Нож Ultimate Competition 2352-116 #40F 0,6 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b9a/fxpm54nmsm9vg667uk1joffmm8bdjoqw/200_200_1/fea7634d47a7c98c5dc20d79d39ef13a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "144,10 руб."
+                },
+                {
+                    "name": "CAMON Сумка для груминга кошек",
+                    "description": "Идеальный аксессуар для удержания вашего питомца",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a20/gf5cu100vo3fwjcb4auofq71y2mg4evo/200_200_1/386285ead839923f2a05476f0e0e9d6f.jpg",
+                    "amount": "Розовая",
+                    "cost": "60,70  руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Пуходерка пластик мягкий корд",
+                    "description": "Пуходерка для животных с частыми металлическими щетинами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ecb/uyqjk9yg5aa106wprq1vr0axfoxhymsr/200_200_1/f18bb2b7269acd9a04b99f0c2972dc79.jpg",
+                    "amount": "M",
+                    "cost": "24,50  руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Когтерез-секатор со стопором",
+                    "description": "Когтерез из нержавеющей стали для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd0/fyj6hezu4w9pu9h418slm7j5p5rzi3gz/200_200_1/7b7fa4fd5edb5b6bb5772e3f3e176e2e.jpg",
+                    "amount": "S",
+                    "cost": "25,80  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка металл. длиннозубый корд",
+                    "description": "Пуходерка с частой металлической щетиной для пушистых животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/482/h2x0rrdsm71zrq9a8da0tza9ssj5oz5i/200_200_1/58310ba2552f5ad9db96ff0d6f33d885.jpg",
+                    "amount": "XL",
+                    "cost": "35,80  руб."
+                },
+                {
+                    "name": "Фартук Wahl \"Лапки\"",
+                    "description": "Качественный фартук для грумера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/44c/kk2u9yx48fywq48f7gzs97yhdl8tj0q5/200_200_1/f215a46b0321351d200934eda2eebfdf.jpg",
+                    "amount": "розовые",
+                    "cost": "107,80  руб."
+                },
+                {
+                    "name": "Triol Пуходерка \"Премиум\" (блистер)",
+                    "description": "Пуходерка с металлической щетиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47f/pr97p0wra3a202wxka0mq9gu7dyn5l9i/200_200_1/53e3c917799e1d34a9d54d5dc25ce4a4.jpg",
+                    "amount": "S",
+                    "cost": "23,70  руб."
+                },
+                {
+                    "name": "Triol Расческа-триммер \"Премиум\" (блистер)",
+                    "description": "Триммер для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84b/70g6nx4ko7o9zntz1b8q990wct00qqii/200_200_1/94423f0c103c2de647890e460160f2d5.jpg",
+                    "amount": "S",
+                    "cost": "72,80  руб."
+                },
+                {
+                    "name": "Triol Расческа-гребень \"Премиум\"",
+                    "description": "Гребень с частыми зубцами, 67х75 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/945/ewc0rh3hm3ttc1lj9snstat5hashqa9k/200_200_1/f2b5ea83951436c2bf97814612b9ad03.jpg",
+                    "amount": "Блистер",
+                    "cost": "21,40  руб."
+                },
+                {
+                    "name": "Triol Расческа комбинированная \"Премиум\"",
+                    "description": "Расческа для ухода за шерстью, 46х204 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/571/wio6hiw865olroxif5hbdmbpsvx3er1v/200_200_1/3a840871870a30242db8c6c1730d05fe.jpg",
+                    "amount": "Блистер",
+                    "cost": "22,90  руб."
+                },
+                {
+                    "name": "Triol Когтерез-ножницы \"Премиум\"",
+                    "description": "Когтерез для животных, 64х98 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/060/3c8ve6moq7kjopl4j1wl2qfo1grshtye/200_200_1/29e74fa7773d8588cc4976dba20be1a8.jpg",
+                    "amount": "Блистер",
+                    "cost": "20,30  руб."
+                },
+                {
+                    "name": "Triol Когтерез \"Премиум\"",
+                    "description": "Боковой когтерез из металла",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c9/w480srr1236u1q4fcsbcspldppjc0foj/200_200_1/06b1c4954b5b2d739c7680f13de34d22.jpg",
+                    "amount": "S",
+                    "cost": "27,60  руб."
+                },
+                {
+                    "name": "Щетка для бережного расчесывания \"TRIXIE\", 19 см",
+                    "description": "Мягкие пластиковые щетинки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f3/1ldsasxjg0d23qvbtjth52zwq53ptv7s/200_200_1/17ea8f0cfa9094dcbb3f324b6833219d.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Codos Сменный блок для триммера-гриндера СР-5200",
+                    "description": "Точильный камень с алмазным напылением.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d6/nv5z2w6og4val6cymwlkjcr6icmh9tqa/200_200_1/7ca468332865b20b62c06b849cecdcb3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,60 руб."
+                },
+                {
+                    "name": "Codos Нож  СР-5800, 5880",
+                    "description": "Высота стрижки: 0,8 мм, ширина ножа: 32 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3e/4jc59stkk55u5ey57srj8lrqny24a1pt/200_200_1/e32b21e254b1cf1226bb1576c10c3522.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,80 руб."
+                },
+                {
+                    "name": "Codos Нож СР-9500, 9100",
+                    "description": "Высота стрижки: 1 мм, ширина ножа: 45 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c0f/jmic9tl9d19ujpoh5ignw3th0q1atafr/200_200_1/4fe19e5a88cc991d7d1183b864209055.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "54,40 руб."
+                },
+                {
+                    "name": "Codos Нож 9 мм",
+                    "description": "Нож сменный для машинок Codos СР-9180, 9600, 9200, 9580, 9700.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/419/cs3lz4hsk12eoaqz7ptj5j4xppw5b9c5/200_200_1/e66692a9a1a9099e4b2c3ebaa0b4d207.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "105,50 руб."
+                },
+                {
+                    "name": "Codos Штатив напольный одномоторных фенов мобильный",
+                    "description": "Удерживает компрессор на разной высоте (95-130 см).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d73/12dfukic2o2jh971vo5y0vrbrm72kcaz/200_200_1/1b80d982b81d6370ac1979a94c2eed13.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "303,60 руб."
+                },
+                {
+                    "name": "Codos Ножницы прямые 20 см FH-8",
+                    "description": "Ножницы из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f91/4i1r4s266uw7mja7dy7ea1m7ixihwiet/200_200_1/90b0a16e624575f6e1481582d3c7a5b3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "159,40 руб."
+                },
+                {
+                    "name": "\"Le salon\" Щетка со щетиной",
+                    "description": "Маленькая щетка со щетиной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b55/z8tose5vo0pmbule08xtt5fa9uq4zj5x/200_200_1/db214123be7750ff1967c0ff5187e87b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,00 руб."
+                },
+                {
+                    "name": "FURminator Undercoat Cat M/L Long Hair",
+                    "description": "Фурминатор для кошек (от 5 кг) с длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ebb/qhni3ry048pq1pvnfy23nrm3p2snz7s9/200_200_1/f85fc6c7189375ff50753c8d19a75ef7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "97,50 руб."
+                },
+                {
+                    "name": "FURminator Undercoat Cat M/L Short Hair",
+                    "description": "Фурминатор для кошек (от 5 кг) с короткой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/022/d4ehdvk2ydck1wqnq9fcfhhgpnrzhjon/200_200_1/cf52d6e99b06eba52db2d6fd3cd4dd70.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "97,50 руб."
+                },
+                {
+                    "name": "DeLIGHT Расчёска алюм. 25 см с плоской синей ручкой",
+                    "description": "Расческа для животных с густой, пушистой или длинной шерстью, зуб. 3,6 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bed/m7e6u93adib20q76e3rynfwn5oybbgd9/200_200_1/91333d7ce9911b615d87b5b9491b36ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "51,90 руб."
+                },
+                {
+                    "name": "DeLIGHT Расчёска алюм. 30 см с круглой синей ручкой",
+                    "description": "Расческа для животных с густой, пушистой или длинной шерстью, зуб. 3,6 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b79/uxedsmgi93ap7hnpxp38blagiy2cssrt/200_200_1/37f07520217f8f3d2c5fcb3d0095c95b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "68,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Колтунорез боковой \"мини\" 8 лезвий загнутый (синяя ручка)",
+                    "description": "Для кошек и мелких собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bf9/ao43x5qzyn8xqrp30jhso7bccufpe47t/200_200_1/6e686cbbed4982150c390db4bdc005ba.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,30 руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Расческа с \"кольцами\" двухсторонняя",
+                    "description": "Расческа для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43c/f9n4bmxz2uqa54zya8vq93v8n54pregr/200_200_1/b740a358e2e1f69d9086fc999f4b5fcc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,90 руб."
+                },
+                {
+                    "name": "Ferplast Триммер для шерсти GRO 5775 Premium",
+                    "description": "Для коротко- и среднешерстных собак и кошек весом более 20 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/68a/77yghyiforru6oks11x3r4nhaxue3heh/200_200_1/48bbc91d605255a518f368d554c8458d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "104,00 руб."
+                },
+                {
+                    "name": "Ferplast Триммер для шерсти GRO 5776 Premium",
+                    "description": "Для средне- и длинношерстных собак и кошек весом более 20 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eae/ak1gnboodsfb8ooqwkdsfc5eismt0qlt/200_200_1/28cf643468e75bde5be76122f995557c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "101,40 руб."
+                },
+                {
+                    "name": "DeLIGHT Ножницы для стрижки, 19,5 см",
+                    "description": "Ножницы со смещенными кольцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ec/oacdf5xfjk1yi9w3v08m2105x52idxuk/200_200_1/490f6b8aac3254dc6c3636775583adaa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,50 руб."
+                },
+                {
+                    "name": "DeLIGHT Ножницы для морды с закругл. концами, 15 см",
+                    "description": "Ножницы из нержавеющей стали с микронасечками.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/75a/uzax1wnz2xjt3qhbjsxkgmgcxm0p53n3/200_200_1/b8f79e97b5e63759fd9d69430e9efe0c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Ножницы для стрижки, 15 см",
+                    "description": "Ножницы из нержавеющей стали с микронасечками.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd1/hbwswu5h9rh996jqhtp7q0k89pdvahnz/200_200_1/a925793ccbdb9600e115a8b5f2baa521.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,70 руб."
+                },
+                {
+                    "name": "Ножницы для тримминга \"Le salon\"",
+                    "description": "Ножницы для стрижки головы и мордочки животных, 15х9.5х1 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b40/vjkmb11a6c1vc44ta4xtplblll4lf7u5/200_200_1/421fa123034e773daefa664218e25511.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,40 руб."
+                },
+                {
+                    "name": "Ножницы большие для тримминга \"Le salon\"",
+                    "description": "Ножницы для стрижки головы и мордочки животных, 20.5х9.5х1.5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/93f/7lu28dt52wl7xr0r7d3sa302crypocwa/200_200_1/6ec1f6693cfeefe281645a6dccad2bbd.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,50 руб."
+                },
+                {
+                    "name": "DeLIGHT Колтунорез боковой \"мини\" 8 лезвий прямой",
+                    "description": "Для кошек и мелких собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f2/sv3tredikwkrao5g8jza3wfnj0k7h61s/200_200_1/e692584b15039915f1c7bcde73e94a92.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,80 руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка овальная односторонняя проф. (боковая)",
+                    "description": "Избавляет от спутавшейся шерсти, удаляет выпавшую шерсть.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/105/t31z3ylbswfk7srbp5dfb84lxoqqe5ll/200_200_1/1bdd400954e03db6ac282b4da6f12f53.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "71,60 руб."
+                },
+                {
+                    "name": "\"Le salon\" Расческа-антистатик",
+                    "description": "Для среднешерстных и длинношерстых пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4c/pkxl9uem7xnvjfhro93vo884janj6222/200_200_1/3f786d6449c5290dad629d9b2bd5544e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,40 руб."
+                },
+                {
+                    "name": "Codos Кронштейн настенный",
+                    "description": "Кронштейн для одномоторных фенов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/95e/bbiebn1fezm8iwedestxqo2de2mcvo9o/200_200_1/8ad5151185d3c0ca81f4fdae43cdc2c1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "167,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Ножницы 17,5 см (7\") (полотно 6,5 см)",
+                    "description": "Для стрижки кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/34c/xt7jj2plaln9z8nbu4pf29fjm42ljh1p/200_200_1/285bdfcf358b00ec1f9703ebd3e95a2d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "32,10 руб."
+                },
+                {
+                    "name": "Triol Когтерез боковой \"Стандарт\", 75*160 мм",
+                    "description": "Когтерез боковой для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b8a/bnivuj6gq1kh2g7g9ucjrh4lftoe8si9/200_200_1/80d4c86aa1657edf2fb106b4bcca5227.jpg",
+                    "amount": "Блистер",
+                    "cost": "19,30  руб."
+                },
+                {
+                    "name": "Triol Когтерез Стандарт, 40*130 мм",
+                    "description": "Когтерез боковой для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b0/wc3uaumga9gjuk5yzck5zkr4gc53j9ag/200_200_1/f6a6729ee3e4b0d8ea766db24a8e639f.jpg",
+                    "amount": "Блистер",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Триммер \"TRIXIE\", грубый, 19 см",
+                    "description": "Триммер для стрижки шерсти на спине и животе.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/671/v1qonb22w116kpayuvu1v46rj012k7pb/200_200_1/472b8e8462289e2bb5225f8a788a66cf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,20 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-грабли, 13 длинных зубьев",
+                    "description": "Для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/734/xvwp5k8r69xiqbr9clavoaoue4bl83ik/200_200_1/fdb5bf54c7cd0342cac34784dec87543.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-грабли, 13 коротких зубьев",
+                    "description": "Расческа для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/929/63v6utg243ryjhlt7vzuch3eyjld12qj/200_200_1/d8eed728e445ccdb1c8b5f307a2e5dbb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-грабли, 20 коротких зубьев",
+                    "description": "Расческа для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f67/1ooui7rf577l67u7pjosgcgmm4oydndg/200_200_1/9d66fe762c1540f8d026c3db6a90e990.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,50 руб."
+                },
+                {
+                    "name": "Hello Pet расческа с вращающимися зубьями (24 зуба)",
+                    "description": "Для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84a/xi6jpuvc3ado8d5h8f40x3rt2otlepll/200_200_1/71c9515d1346223d2b9c6cf7dd4847e0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "Hello Pet расческа с вращающимися длинными зубьями (24 зуба)",
+                    "description": "Для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b20/d6wevberh1jhsn0e4g6jclhsey3ig9kk/200_200_1/e345e525223a25f231342e51504a105e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,00 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-антистатик (тефлон) 24 зуба",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/iblock/10c/78spfxkrco3f4pik1rqjolimbkb505v8/34fff6a565980d0a961523ece691fdb3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "Hello Pet расческа металлическая редкая 24 зуба",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/iblock/b21/8yosqnjfds4g1b5owmb4f1s1s5ajrpoy/0b012adf84d94260c8dc7f0a170cd8c6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа двухсекционная",
+                    "description": "Для кошек и собак с плавающими зубьями",
+                    "image_url": "https://garfield.by/upload/iblock/616/28d06rww0omu6d1z92zt23x73od3q3zz/d0711d4d28190ec2684f4b0833ec1f75.jpg",
+                    "amount": "20 плав. зубьев",
+                    "cost": "27,50  руб."
+                },
+                {
+                    "name": "Moser Animal clipper \"REX\"",
+                    "description": "Cетевая машинка для стрижки животных. 15 Вт.",
+                    "image_url": "https://garfield.by/upload/iblock/df3/fo1410bialuvd2wreu0d33ofra6s9y1r/c681731381207d19117bfb6c31be0ec8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "454,30 руб."
+                },
+                {
+                    "name": "Пульверизатор Wahl нового поколения, черный",
+                    "description": "Распыляет воду облаком.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb7/2cgga9gf30z7891t9u00335y5f3bbjij/200_200_1/7c134d0aa53e67475585b98f1c674d7c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "53,20 руб."
+                },
+                {
+                    "name": "Пульверизатор Wahl черный",
+                    "description": "Пульверизатор для увлажнения шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d2c/7f50st7pzqw4hlugxakzqc6bn2g1uvnm/200_200_1/b8f117e9cacad3f1ff02c7fa74b745d6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Пульверизатор Moser красный",
+                    "description": "Пульверизатор для увлажнения шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fe/467qdgp82te72b5868psxffg51z39ovq/200_200_1/a7ea88afd35a09cfca4c0657a0a6fda3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Moser Animal clipper \"REX Adjustable\"",
+                    "description": "Cетевая машинка для стрижки животных. 15 Вт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dae/jlz33vstkf4f33y423w6qm4x4b2rno3b/200_200_1/eb704e9c5440b857d518eab17cfd9ae6.png",
+                    "amount": "за 1 ед.",
+                    "cost": "349,20 руб."
+                },
+                {
+                    "name": "Moser Animal clipper \"REX Mini\"",
+                    "description": "Машинка-триммер для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/91a/oezfwnq5tqca3qqbts3c1jdqjglyxikm/200_200_1/34697efe0450953e08f5cdd142b24da6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "160,30 руб."
+                },
+                {
+                    "name": "Сумка Wahl для грумеров черная",
+                    "description": "Сумка для принадлежностей грумера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/920/wbeqjuts303q00zdw9iuk2xehssuqh7a/200_200_1/008b15ed2d91de3f0dec5ebbbdf37b93.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "77,00 руб."
+                },
+                {
+                    "name": "Hello Pet Когтерез-гильотина черный с цвет. покрытием ПВХ",
+                    "description": "Для стрижки когтей из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f79/7jfowf47maroclc2r3bqrjrtjoh7ek6a/200_200_1/f053725da36d98a09542b4d310559ae9.jpg",
+                    "amount": "Большое отверстие",
+                    "cost": "15,00  руб."
+                },
+                {
+                    "name": "Hello Pet Пилка \"мини\"для когтей (Б) /12/",
+                    "description": "Подходит для собак и котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e73/vtpxk7yukhc6ump5318cqv2qkruxh5r1/200_200_1/80cae08bbb44e34b59d47ebf9f90c946.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,00 руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Пуходерка металлическая длиннозубый корд",
+                    "description": "Пуходерка для пушистых животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af9/az39esymelmemoootuzmh4qa15wl5303/200_200_1/1dc509bf93d87027f47e31bfa5f7f8e0.jpg",
+                    "amount": "XL",
+                    "cost": "56,20  руб."
+                },
+                {
+                    "name": "Wahl Нож Ultimate Competition 2350-516 #50F 1/20 0,4 мм",
+                    "description": "Нож из высокоуглеродистой легированной стали для машинок Moser/Wahl",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/155/dyecgyggk1pkou70ytk9otejghiom4l3/200_200_1/b7dc7ae46da65914ac76640d6e06d67c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "178,10 руб."
+                },
+                {
+                    "name": "Moser Триммер Prima 1586-0064",
+                    "description": "Профессиональный триммер с комбинированным питанием",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f16/ev1y8pmdea814aecln3y5zsr39pfs9il/200_200_1/9f87d3e66a4d4004fa7e10a541c1c943.png",
+                    "amount": "за 1 ед.",
+                    "cost": "285,10 руб."
+                },
+                {
+                    "name": "Moser Триммер Rex Mini 1411-0063",
+                    "description": "Профессиональный тихий триммер для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d41/spikhubpx4xrt08xwboezjndx96a9r76/200_200_1/fc4a1d1c2fd02c58ca27055c2a01f27e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "214,10 руб."
+                },
+                {
+                    "name": "Moser Машинка для стрижки Max45 1245-0077",
+                    "description": "Профессиональная машинка для стрижки животных с любым типом шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b06/yacnunuxprdroac3czwjloukuotp0c43/200_200_1/bcecf8d9d92c52427682ec4f4259434c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "794,70 руб."
+                },
+                {
+                    "name": "Moser Машинка для стрижки Rex 1230-0079",
+                    "description": "Машинка для стрижки собак мелких и средних пород, котов и других животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/507/jlrepae98e4m00xsgbcyoexhp703e18g/200_200_1/fdc5ffc04d0a279706fc355a3119e74f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "454,30 руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходёрка проф. мягкий корд с длинным зубом",
+                    "description": "Пуходёрка для повседневного ухода за шерстью кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/181/kmv96nvtr52y07ba8n01u4os9pw6np8f/200_200_1/7ec16681d1da9df535ab0d8e17d1ab11.jpg",
+                    "amount": "L",
+                    "cost": "80,90  руб."
+                },
+                {
+                    "name": "DeLIGHT Расчёска-грабли двухрядные",
+                    "description": "Расческа-грабли для повседневного расчесывания кошек и собак с любым типом шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/813/lygn3wwzrbt61115iuofl936r1r9qsa9/200_200_1/c7c074c33264970dc67dccfed59bfb3b.jpg",
+                    "amount": "25 зубьев",
+                    "cost": "39,20  руб."
+                },
+                {
+                    "name": "YUUP! Колтунорез капелька",
+                    "description": "Инструмент для обрезания колтунов и спутанной шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/458/gd25evq9ql15p1jhu6osklg1r3h2806v/200_200_1/f159fa596954f9847088f69855bde198.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "63,70 руб."
+                },
+                {
+                    "name": "DeLIGHT ROSE Пуходерка пластик с каплей",
+                    "description": "Пуходерка для животных, мягкий корд",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/867/ktuk2ns7q8yak25oj0ez9wuse6ottnp0/200_200_1/c78ae91232f698b11a42fb8f6515f2ff.jpg",
+                    "amount": "S",
+                    "cost": "28,40  руб."
+                },
+                {
+                    "name": "DeLIGHT Щетка односторонняя (зуб 3 см)",
+                    "description": "Профессиональная щетка для просушки шерсти животного",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/049/prpxxoy5unmd3l77zwvmtrw9r6pc1mbh/200_200_1/bc4c59abfe1c67c5e2f54d6bf7337bb2.jpg",
+                    "amount": "S",
+                    "cost": "110,30  руб."
+                },
+                {
+                    "name": "DeLIGHT Пуходерка металл. длиннозубый супержесткий корд",
+                    "description": "Пуходерка с частой металлической щетиной для кавказских овчарок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/626/6klk8av00tp81olm4bczo2f0r1h7anro/200_200_1/541f99d53c6d9c1ade00c8836a511620.jpg",
+                    "amount": "XXL",
+                    "cost": "69,60  руб."
+                },
+                {
+                    "name": "Ferplast Пуходерка для животных GRO Premium",
+                    "description": "Пуходерка для средне- и длинношерстных собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/313/ee1e5uoihyxfjicqi7uw57uidld2lolp/200_200_1/2b29df18355f533fd101eae68eb34954.jpg",
+                    "amount": "XS",
+                    "cost": "55,10  руб."
+                },
+                {
+                    "name": "Ferplast Расческа для животных GRO Premium",
+                    "description": "Двусторонняя щетка для коротко-, средне - и длинношерстных собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/241/oys70w9hu28a3ibvr2qbunghfsmt1i3w/200_200_1/dbb8fe67e8ba1536e8d113f6f7f4f995.jpg",
+                    "amount": "21,8 x 5,7 x 5,5 см",
+                    "cost": "38,90  руб."
+                },
+                {
+                    "name": "Wahl KM2",
+                    "description": "Сетевая машинка для стрижки животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e34/vutmouz4rk4wm0o8g2v6cjkvyixcao3r/200_200_1/abb3f638594eb413993ffa5792e4e9e5.png",
+                    "amount": "1247-0477",
+                    "cost": "568,60  руб."
+                },
+                {
+                    "name": "Wahl KM5",
+                    "description": "Сетевая машинка для стрижки животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0a7/7huz9xhtni20lqjrn28etdplbyk4fq5q/200_200_1/6a59461da056d7153c019a19c9289864.png",
+                    "amount": "1260-0470",
+                    "cost": "1004,10  руб."
+                },
+                {
+                    "name": "Фен Wahl 4340 Super Dry",
+                    "description": "Профессиональный фен с турмалином, цвета на выбор.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b8/2ppg54w9fs50iky517b0v30l60hr3szq/200_200_1/f56869bf6a2723793aa0680cf5514cd4.jpg",
+                    "amount": "Черный",
+                    "cost": "145,60  руб."
+                },
+                {
+                    "name": "COMFY Расческа \"Ives\"",
+                    "description": "Расческа для распутывания колтунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af6/bpz9xwsrlqaxobmxouty38byhlj8geh1/200_200_1/6e9ae4f591940a94435f7ec5ff83e2e9.JPG",
+                    "amount": "Размер S",
+                    "cost": "15,70  руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-антистатик без ручки (тефлон)",
+                    "description": "Для кошек и собак, расческа из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad6/02o8lzsondfdzuvsypq070i9br5ia18m/200_200_1/15d04821c59ac7ff695d283df3942452.jpg",
+                    "amount": "15 см 39/23",
+                    "cost": "20,90  руб."
+                },
+                {
+                    "name": "Hello Pet Щетка резиновая на руку (с каплей)",
+                    "description": "С Металлическими зубьями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d52/uv5ux1m3treqa9tsga1thn9mqjuuv91h/200_200_1/9d4e45cfcba982241ea068e46c614134.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,30 руб."
+                },
+                {
+                    "name": "Ножницы \"Hello Pet\" 15 см (6\"), для стрижки морды",
+                    "description": "С закруглёнными концами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ebf/s9jpfbuz7oqaex9dndrghnaf4ey8v0nh/200_200_1/379ca805c6c5a78682774813f8713bf2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "DeLIGHT Тримминг красный 20 зубьев",
+                    "description": "Тримминг для жесткошерстных пород с редкой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6f/5ymts65w3flkmhtxuzfpmiedwjhl4ruj/200_200_1/766ccae93f20ddedd7973015fbbf0218.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,90 руб."
+                },
+                {
+                    "name": "Codos Точильный камень для гриндера СР-3300, 3200",
+                    "description": "Предназначен для обработки когтей животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/766/sy1n4l0xq8fr8rd1hltsvy6fs6quopxm/200_200_1/6bb2640259335115a8dfea9005c97c5d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,60 руб."
+                },
+                {
+                    "name": "Codos Нож СР-3800, 3880",
+                    "description": "Высота стрижки: 0,8 мм, ширина ножа: 40 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/102/1okib2av9d9f3hhk2ejkbu8iadn582gl/200_200_1/3d90621a6e9cdb951a1e6e6b9d5bdde8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "41,50 руб."
+                },
+                {
+                    "name": "Codos Нож СР-5000, 5100, 5200",
+                    "description": "Высота стрижки: 0,2 мм, ширина ножа: 25 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/62f/rpsskpw9csvjf06c028kyxfn5q5sw3uc/200_200_1/48bdde152b35a6dbffdbc3751d125379.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,80 руб."
+                },
+                {
+                    "name": "Codos Нож СР-6800, 5500, 3000",
+                    "description": "Высота стрижки: 0,8 мм, ширина ножа: 40 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df9/96z03nldfnpqsy1mdx8yt2or3fqadbyj/200_200_1/463d3b2569368e28dad32e85294462d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "41,50 руб."
+                },
+                {
+                    "name": "Codos Нож СР-8000, 8100, 8200, 8600, 7800, 5300",
+                    "description": "Высота стрижки: 0,8 мм, ширина ножа: 40 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/962/fggffona1hy8mx8zx9hzy18ujivxclhy/200_200_1/1c326e2ab8098a515b5beb2da71fade6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "41,50 руб."
+                },
+                {
+                    "name": "Codos Нож СР-9580, 9600, 9700, 9180, 9200",
+                    "description": "4 уровня длины стрижки: 1,0 мм, 1,3 мм, 1,6 мм, 1,9 мм; ширина ножа: 45 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/79d/v6nrxpz9y3ajidmp5mqbi49nue6dic2p/200_200_1/68cc2a788275783b08a99f4745218476.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "57,30 руб."
+                },
+                {
+                    "name": "Codos Нож 6 мм",
+                    "description": "Нож сменный для машинок Codos СР-9180, 9600, 9200, 9580, 9700.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9f4/zt5s06ytkeoa6lwlo1r1u7a8kwt2zvys/200_200_1/676c298ba0903458d80bc662fc667de1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "84,60 руб."
+                },
+                {
+                    "name": "Codos Нож 12 мм",
+                    "description": "Нож сменный для машинок Codos СР-9180, 9600, 9200, 9580, 9700.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ebf/vqpzf1g0ntihy71x3ch3jke0ux3wr4c2/200_200_1/9f007a611767800dcf9261e6cc87f915.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "125,20 руб."
+                },
+                {
+                    "name": "Codos Масло универсальное (бутылочка), 20 мл",
+                    "description": "Масло высокой очистки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d18/zgh6bnktshxgaawfynxkb4162dtn0fvs/200_200_1/d029f9f91de2e6519259d22688734267.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Codos Фен-компрессор одномоторный СР-240",
+                    "description": "3 температурных режима, 2 термостата; 2400 Вт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff8/c7ew6qzhn35o4c6tcdl8q0kp18lxwdne/200_200_1/ddc5dbfac20f87154e4f0b499c556c30.png",
+                    "amount": "за 1 ед.",
+                    "cost": "500,50 руб."
+                },
+                {
+                    "name": "Codos Фен-компрессор двухмоторный СР-320",
+                    "description": "Регулировка скорости воздушного потока 4 уровня; 3200 Вт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f51/bvfd81t4qvwvrdcyf3eolfcoxfwdlc2q/200_200_1/5b89577925539954752ccd56e23919fe.png",
+                    "amount": "за 1 ед.",
+                    "cost": "748,20 руб."
+                },
+                {
+                    "name": "Codos Ножницы филировочные 18 см CT-7, синие",
+                    "description": "Ножницы из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/297/95nai00hs1ussl9yl4p409dxt3kit1eo/200_200_1/19f70fab3ef510f436f5532115b6c6e4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "143,60 руб."
+                },
+                {
+                    "name": "Codos Ножницы филировочные 18 см CT-7, черные",
+                    "description": "Ножницы из высокопрочной нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e26/w8b875mwmjnvv9ko9ikjcrciwha6qdup/200_200_1/03306e1ca08b835d19f961db429f09a2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "159,40 руб."
+                },
+                {
+                    "name": "Codos Ножницы прямые 18 см FH-7",
+                    "description": "Ножницы из японской нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8e6/cl1h1b11g55r1qc4amrspwnov35rk4pb/200_200_1/dc0a9f160dac81fb8c56a34841d493eb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "143,60 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5872 с вращающимися зубцами",
+                    "description": "Грабли для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d68/rmfzu4d3bkxk85q32osfnuo69j7oe9ja/200_200_1/a11ed0d70250ea769f7e90164b2be1ab.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,80 руб."
+                },
+                {
+                    "name": "Artero Филировочный нож, черный",
+                    "description": "Филировочный нож-бритва со сменными лезвиями.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/94f/2m3fbiix9023pv4uuny4h440fufcz6nt/200_200_1/d23322c463a24cc5c1408fd80921deeb.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "59,10 руб."
+                },
+                {
+                    "name": "Artero Расческа хромированная со спицей",
+                    "description": "Расческа с сверхтонкими зубчиками.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9f1/t9xf22lv90v71fv1uvdcmk9w3oixvwpj/200_200_1/2d864e4922668da8bc035421c8fa6a46.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "57,20 руб."
+                },
+                {
+                    "name": "Artero Расческа с короткими зубчиками",
+                    "description": "Хромированная расческа для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/815/kkxl7h5vf50omqu5l7dor1bta4o9m2tf/200_200_1/381e31001e0b9e8d11a03a4ae1a91f9e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,60 руб."
+                },
+                {
+                    "name": "Artero Расческа хромированная с длинными зубчиками",
+                    "description": "Для пород с длинной и густой шерстью.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce3/iguuoaw9oxdtg2au65k902f2j5a60ty7/200_200_1/b2a88981b56f9d5ab08c1fec78875c02.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,30 руб."
+                },
+                {
+                    "name": "Artero Расческа для мордочки, 42 зубчика",
+                    "description": "Для длинношерстных пород собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/71c/jw9eaimwnharurynlm193a94q80amis1/200_200_1/450dcbd34fd228231dea95ab4aa0cd1d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,70 руб."
+                },
+                {
+                    "name": "Artero Расческа силиконовая Artero Comb Silicon",
+                    "description": "Профессиональная расческа со спицей для животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e2/anga8gs3cppuy23kvqaze8s3g0vh3vcs/200_200_1/e997ca234be75df053dd142a6e0effa4.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Artero Лосьон для ухода за ножами, 500 мл",
+                    "description": "Средство для дезинфекции ножей машинок для стрижки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5ac/upqeub0pd6bdmalgh48r1uzog7k9pu1x/200_200_1/750f3f429f0de369ac22c1d032165fe0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,50 руб."
+                },
+                {
+                    "name": "Artero Спрей-масло Oil-fresh для ножевых блоков, 300 мл",
+                    "description": "Спрей-масло для смазки и охлаждения ножей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/25c/k3o46kbr4l3cnofe938a93dnr1o84lmy/200_200_1/4f3bfb43a14e239aedf96a2fc04677f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,90 руб."
+                },
+                {
+                    "name": "\"Le salon\" Самоочищающаяся пуходерка",
+                    "description": "Самоочищающаяся пуходерка для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0bb/mnw16q8k9vx7vmbv57nei913hmivs93s/200_200_1/51444b81033d2a70bc7ea1d67d94668c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,50 руб."
+                },
+                {
+                    "name": "\"Le salon\" Массажная резиновая щетка",
+                    "description": "Щетка для короткошерстных и гладкошерстных пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/353/d0jmqbeny6ttxlctcyiap81nd4zp7dj1/200_200_1/ff368e980b5d4aa6e40ffbcc33b9c109.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,70 руб."
+                },
+                {
+                    "name": "\"Le salon\" Пуходерка",
+                    "description": "Пуходерка для всех пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fee/4vnph4j77vdt7kpwxarum5prlcrj5dax/200_200_1/f14a664f111f4cd45bc523ad872a759c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,50 руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" филировочные двусторонние, 18 см",
+                    "description": "Ножницы для всех типов шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c5/c2psrs8jo2mhcq4uf7uijbdcio10vw1o/200_200_1/546eb2c4ea1cc6f56ae97333e67d9125.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,10 руб."
+                },
+                {
+                    "name": "TRIXIE Профессиональные ножницы, 20 см",
+                    "description": "Ножницы из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c68/i7anny3xhflrj9ns9f851s1bi31yr92e/200_200_1/4224976ed28c6a4dc749f9c3307cc72f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "74,20 руб."
+                },
+                {
+                    "name": "TRIXIE Профессиональные филировочные ножницы, 18 см",
+                    "description": "Ножницы из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ce/4i7ulvvfe9a9bp8u57gdnk74hjg641rz/200_200_1/83ebc222e58c255f871cd32cc494e25d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "74,20 руб."
+                },
+                {
+                    "name": "Насадка Wahl с железными зубцами #2 6 мм",
+                    "description": "Сменная насадка для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/426/0264723ps5rtd8e9d56uo4tnjn9ktdsc/200_200_1/08d90b6dffad9be5822a9c4ba85ef094.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,40 руб."
+                },
+                {
+                    "name": "Ножницы \"Hello Pet\" 17,5 см (7\") для филировки односторонние",
+                    "description": "Для кошек и собак, из нержавеющей стали.Полотно 6 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/965/84c17bvqn6ojm39gmpfusfmz3jsu65de/200_200_1/f71cf18be2c1399cbe0f1e0b7a31d385.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,40 руб."
+                },
+                {
+                    "name": "Ножницы \"Hello Pet\" 19 см (7,5\"), изогнутые",
+                    "description": "Для кошек и собак, из нержавеющей стали.Полотно 8,5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/517/a54w4ds0ccdcbrah28t1j7vo0rr9lqb3/200_200_1/e7ec04063ec6bfff49ea06fdcf33a673.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "35,00 руб."
+                },
+                {
+                    "name": "Аллюминевая расческа \"Hello Pet\" с острой ручкой, 22 мм",
+                    "description": "Предназначена для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a13/ms2bk9oz6vcyjp4ycd02dco36tnh013e/200_200_1/68f9b23b0855f5f7ff677906c12cabbd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "59,20 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа 34 плавающих зуба",
+                    "description": "Расческа для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b8f/82t20oietucneeph1s1ghr9zi5ph4f60/200_200_1/b572fa91689c0995e577c4de3333e956.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,30 руб."
+                },
+                {
+                    "name": "Фен Wahl 4314 Turbo Booster Ergolight",
+                    "description": "Профессиональный фен с турмалином.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd8/34fvaapxkhqw2a141rd54l2jr9yil5k4/200_200_1/e6ec7d1c6d9a6f8a19b6670579c141ae.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "266,00 руб."
+                },
+                {
+                    "name": "Сумка Wahl для инструмента \"Лапки\"",
+                    "description": "Удобная сумка для принадлежностей грумера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/714/jp9rpbpv3hu8p0fka4nx4xhnei6rxc70/200_200_1/8b79d4502622e34a816322df7da8de25.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "77,00 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl \"Coarse\", 0,7-3 мм",
+                    "description": "Сменный нож с регулировкой высоты среза.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/33d/656r6aqkqjrmf71qx6abr6lk10ior093/200_200_1/af292458e53a314d2eccaa3548ebf316.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "119,00 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl \"Diamond\", 0,7-3 мм",
+                    "description": "Сменный нож с регулировкой высоты среза.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/018/yqo2qamvdo0dg2fzs84j7lyv6af0spo2/200_200_1/fb9f66278216c9d7eafe8688ed4ca45b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "138,60 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №3F, 10 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/090/3vqwvcd19f44obbyv6tbr3ldhjjioe3w/200_200_1/98f71d6cbd089dd1acadb9e545c757e3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "193,20 руб."
+                },
+                {
+                    "name": "Ножевой блок филировочный Wahl Ultimate Blade №4, 8 мм",
+                    "description": "Сменный блок с увеличенным шагом для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/570/nyxdifd4331ve5rj2m6bak6f02fip9uc/200_200_1/dd22ca4337ec500f694e9e92931df827.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "156,80 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №4F, 8 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42e/84u9jyoxua80a02bhukcd3as90y56brq/200_200_1/c75c9b09e4a3ab0d778041cd01af3c77.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "180,40 руб."
+                },
+                {
+                    "name": "Ножевой блок филировочный Wahl Ultimate Blade №5, 6 мм",
+                    "description": "Сменный нож с увеличенным шагом для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/348/1rmg1io0h0qb42h5f63dcgfh3nb3nemr/200_200_1/0bad13ac2101bbd7d96d3024e5ee13ba.gif",
+                    "amount": "за 1 ед.",
+                    "cost": "156,80 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №5F, 6 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a1/5qge2dfqglmf352l5arc37xdn1jobq34/200_200_1/154b53bb2acf410b44169a41d0a0ea7d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "180,40 руб."
+                },
+                {
+                    "name": "Ножевой блок филировочный Wahl Ultimate Blade №7, 4 мм",
+                    "description": "Сменный нож с увеличенным шагом для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82b/2a5glb8fgsgqn8xs7a8ym35efuiygbw5/200_200_1/88da50932785e6782b8a73d99829cbe9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "121,10 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №8,5, 2,8 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1cc/a69fl82nzqujtsfbz2g1kveftzhzwziy/200_200_1/7a97154529e9399d107600b5ecfeb55b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "116,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №9, 2 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3a9/hhq42gfubi0g1i2ziqpphgtzkbw6kpia/200_200_1/37aeaeef21ba391ed018ccc8816d4ee5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "116,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №10, 1,8 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/44d/4he76gd31fuhh52206zaoido6pamvzdu/200_200_1/89954921016f8bbbd8cc2df365b8759b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "132,10 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №15, 1,5 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0de/u7yt9ows77vkee2j50fgoy4qz2fgvtp2/200_200_1/bfa743b4df56318e9aae77d1b274db14.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "116,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №30, 0,8 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/389/1dbx32qdtrvsyq22kzkqr6xbnvlilzm0/200_200_1/5ff8214697da8bb5128769df8d5dc842.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "116,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №40, 0,6 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fe0/2u0lvudo1zu1h6tbc2d3h411ntvuqxze/200_200_1/1b4782d57ab8796d1bad7b52e04cdf9c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "116,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №50, 0,4 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc5/i1wn4unfqdn585pjuxtxg19vn1p5sq5k/200_200_1/4974fc778e672839bb535cc9d5e732ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "116,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl #3F, 10 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/879/m9bn2ofb39klwgdrbid1oizxc22xss82/200_200_1/62e8d10fec3fea01e862f2d9c46ccfbb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "151,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №4, 8 мм с увеличенным шагом",
+                    "description": "Сменный филировочный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/091/lonznccuy4fhqd70ufjptytl00776aud/200_200_1/18bdc4dc7bf18863f722bf24c1b1cff3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "140,00 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №4F, 8 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a36/pazgoxqnfer14n6xz6aqoa6cj07316vm/200_200_1/a1d9cc0e1e99928a730fe5a551b5324f.gif",
+                    "amount": "за 1 ед.",
+                    "cost": "161,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №5, 6 мм с увеличенным шагом",
+                    "description": "Сменный филировочный нож для машинок Mosr/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f13/jt53avv49iw1py9zx2bt2u5ilb8kfukt/200_200_1/46493db8b7299eb79e61dc69c817dc5f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "140,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №5F, 6 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e8/jq3t7ixhlhjlj3ddsruwoj8ryx8sfx2k/200_200_1/81785377b5e2a16b566e0c1adebfa7aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "140,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №7, 4 мм с увеличенным шагом",
+                    "description": "Сменный филировочный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d20/krmuf8ajaco074qdchfgx3g1ns3dteiz/200_200_1/46ce5096a4d0ac677fc89bad2e7e4784.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "140,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №7F, 4 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/464/pg7qzwtvtgu5ojke6coz2vmbgkb55cgb/200_200_1/79dfa5b7a6dd5eea8b4e717621f3358e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "140,20 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №8,5, 2,8 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce3/taf75d6ur9taiz2i8t4octq3gryddyhs/200_200_1/726bed1ed3797bc1a0619b84d21542f2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "100,10 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №9, 2 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ea/t842fnngm1pvy1msk1luapv9aoymmjry/200_200_1/570e628e04b2d353930a6e34f3ee15bd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "100,10 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №10, 1,8 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd9/e42of8wjykgfepeptprl4cnqza17494q/200_200_1/a6ed092d45dd8302e72241d17f766dd7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "98,00 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №15, 1,5 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/777/2b5z0yx45ieza9dtnk2s392h58vp3d27/200_200_1/62c7584d9c7c7b69d453e9aa7ac27f01.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "98,00 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №30, 0,8 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/632/kpcch1fouxxs0w8w75j2m6nnn725mh1u/200_200_1/0fe82b69ee01e9b654dd1d29be330aa3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "112,30 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №40, 0,6 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43f/o4j46qk2efw2xe5t7lejgvmz9jngelzo/200_200_1/3e879c9ccf16afd845bccf55107d1fe6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "98,00 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl №50, 4 мм",
+                    "description": "Сменный нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/68d/gpjr8dng9pwfkgt4q1aua5qj2pc72k1r/200_200_1/e734c82a4283053c1284b06defa84337.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "98,00 руб."
+                },
+                {
+                    "name": "Ножевой блок Moser №4F, 9 мм",
+                    "description": "Сменный ноже к машинкам Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cf8/q7yc3cgz12r59ua9q4zr3ym84zdxqdx8/200_200_1/fb04be3f93c0921be784de685848843a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "215,80 руб."
+                },
+                {
+                    "name": "Ножевой блок для машинки Moser, 7 мм",
+                    "description": "Сменный нож к машинкам Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fef/4y8g8bmromxs01cq5l865k57uakz1ls2/200_200_1/5bda03593f8b329632a21585311e6fc2.png",
+                    "amount": "за 1 ед.",
+                    "cost": "249,50 руб."
+                },
+                {
+                    "name": "Ножевой блок Moser №7F, 5 мм",
+                    "description": "Сменный нож с крупными зубцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cd/axhnumx6ob5q1977vya10e34ft5pwr6a/200_200_1/6ff35d602b9299360f34c39b3b14fb8e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "154,60 руб."
+                },
+                {
+                    "name": "DeLIGHT Скребница двухсторонняя большая",
+                    "description": "Эффективно удаляет старую выпавшую шерсть и лишнюю воду",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ecb/914ooj2ni9rqdmn28c7o2ethj5scgj2t/200_200_1/51cb1dbaee4f2bac554c9116c27c31aa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "32,80 руб."
+                },
+                {
+                    "name": "Codos Гриндер для собак и кошек CP-3200",
+                    "description": "Электрическая пилка для когтей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/928/iy3h2s3txnute7hqs51dqwn6avix9l0q/200_200_1/4619b3e5a63c5730d1995945f98a9020.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "132,60 руб."
+                },
+                {
+                    "name": "Codos Триммер-гриндер для стрижки CP-5200",
+                    "description": "Блок триммера заменяется на блок гриндера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/100/u9s10wem9ku8wzhmnxo99ty56zmxrxjp/200_200_1/2e1143b2bf76a2d6cca994fb47fa6e8e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "99,10 руб."
+                },
+                {
+                    "name": "Codos Триммер для стрижки СР-5100",
+                    "description": "Машинка для стрижки любых типов волос и шерсти, 5 Вт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/006/kkenxchodgkr9v0hst880w2jk5a21nc5/200_200_1/1b683e6798fa643390cf09c976f56e78.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "132,60 руб."
+                },
+                {
+                    "name": "Ножевой блок Wahl Ultimate Blade №7F, 4 мм",
+                    "description": "Сменный титановый нож для машинок Moser/Wahl.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/202/ibfpl3sv1pas80kax7osilcfvihorpzo/200_200_1/361e99d8afc60f3181445a276de40f51.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "140,20 руб."
+                },
+                {
+                    "name": "Codos Машинка для стрижки CP-3880",
+                    "description": "Машинка роторного типа, питание от аккумулятора и от сети 220V.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f3/4i75omvfo8vlopxkmh8jfx4zftnzw12w/200_200_1/87afa46241ff3762ac25b18a3bf1d849.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "142,20 руб."
+                },
+                {
+                    "name": "Codos Машинка для стрижки CP-6800",
+                    "description": "Машинка с 2 скоростями работы: вторая скорость на 15% выше.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d64/81p7ienv6ek4r7rq4zsalbu5qfflkymt/200_200_1/3a963001ad021b4a978c79cd7ce4041d.png",
+                    "amount": "за 1 ед.",
+                    "cost": "164,60 руб."
+                },
+                {
+                    "name": "Codos Машинка для стрижки CP-8100",
+                    "description": "Работает от аккумулятора и от сети (длина кабеля 2,5 метра).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb1/fqnuq3icgd92mwsz301jzonval6ydnkw/200_200_1/6b11e0bf609c8c4fa9d918efbde60fac.png",
+                    "amount": "за 1 ед.",
+                    "cost": "194,10 руб."
+                },
+                {
+                    "name": "Codos Машинка для стрижки CP-8200",
+                    "description": "Водостойкая машинка роторного типа.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fb/qs2j7ooekf5123qkuuv9goyjzgrnxv8e/200_200_1/915fa008864a20e4f7c9f3bdba4a0e17.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "177,80 руб."
+                },
+                {
+                    "name": "Codos Машинка для стрижки CP-9200",
+                    "description": "Машинка роторного типа с низким уровнем шума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/526/cc500pqzu3xfe5tr4o01lmmyctckirro/200_200_1/d5a1931a57dace904fc4aef0ff58223e.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "194,10 руб."
+                },
+                {
+                    "name": "Codos Машинка для стрижки CP-9180",
+                    "description": "Машинка роторного типа с низким уровнем шума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8f1/ipe18zp0xbiuibj907pg03s4m9cu2sk5/200_200_1/45726d8fbbd3aacdefa53c14c4aca469.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "281,50 руб."
+                },
+                {
+                    "name": "Codos Машинка для стрижки CP-9700",
+                    "description": "С системой интеллектуального управления скоростью вращения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b8/t1ucrbjd7nzkg37ugn1yo41yorr39d3q/200_200_1/a9cae9782df0ec5a332e82a8c12f1172.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "334,40 руб."
+                },
+                {
+                    "name": "Codos Машинка для стрижки CP-9600",
+                    "description": "Легкая и мощная машинка с регулируемым ножом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/887/h67qepfvzzfeggjc5svlod683qvw3g6j/200_200_1/d1d1aaea4659102acddade13ce65885b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "287,60 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5862 с прореженными зубчиками короткая",
+                    "description": "Расческа для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42d/ukidmb4mu8bwforsjfbdfpndp8p2w34e/200_200_1/9b8808e582a6cf397f83e5f8f29d64fd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,10 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-грабли 25 зубьев, двухрядная",
+                    "description": "Подходит для собак и котов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6b/oap7l2mm8kpac2cco7xfgpwwpbt5la6d/200_200_1/23759a8e37ce4712655adc1b72cc9657.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "13,50 руб."
+                },
+                {
+                    "name": "Beeztees Щетка для вычесывания во время линьки",
+                    "description": "Регулируемая щетка для короткой и средней шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9f7/uopocy0gqbw7gtxw1sx3d9m1fvlsclu5/200_200_1/0d23e2390157a3e0a4f511da2c2c3850.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "48,90 руб."
+                },
+                {
+                    "name": "Hello Pet Ножницы филировочные 16,5 см (7\") односторонние",
+                    "description": "Длина 16,5 см, полотно 6 см, 30 зубьев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b61/07yhx7fwc6xuh51tbuwvxxzg5rcy0fnj/200_200_1/040c7bb7aa23fe845c698b91d98afdec.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "37,70 руб."
+                },
+                {
+                    "name": "Hello Pet Щетка массажная малая метал. зуб для кошек",
+                    "description": "Для повседневного ухода за шерстью кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6f/50c8lznjd1708xapw2if0zbhvvhupcu7/200_200_1/1f0d839b6f3b33f003f7db5b61c627d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,00 руб."
+                },
+                {
+                    "name": "Ferplast Сменное лезвие для грумера GRO 5777",
+                    "description": "Для собак и кошек с короткой и средней шерстью.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a93/oxfoo5o41rzkctjo30ojwdker4lcii4m/200_200_1/c9572ab0122b44432e3ed5585e4c583d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "59,80 руб."
+                },
+                {
+                    "name": "Ferplast Грумер для шерсти GRO 5772 Premium",
+                    "description": "Для средне- и длинношерстных собак и кошек весом до 8 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ef/qhmrup1jqws1csrsbnpztidn160032bc/200_200_1/27ff671d3c6ad1bcc0f9eb283e1483a0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "87,80 руб."
+                },
+                {
+                    "name": "Ferplast Грумер для шерсти GRO 5771 Premium",
+                    "description": "Для коротко- и среднешерстных собак и кошек весом до 8 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/678/pimdefzcamwwlpvsaw62puc29x6yqy2l/200_200_1/5f830fb5fe25db1729bd34e3e484a30c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "90,10 руб."
+                },
+                {
+                    "name": "Ferplast Грумер для шерсти GRO 5773 Premium",
+                    "description": "Для коротко- и среднешерстных собак и кошек весом от 8 до 20 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e2/4qkngyl6gzvr3iw63au7pratw564b30a/200_200_1/bc92578efb752715829a1169128aa3d7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "93,50 руб."
+                },
+                {
+                    "name": "Ferplast Грумер для шерсти GRO 5774 Premium",
+                    "description": "Для средне- и длинношерстных собак и кошек весом от 8 до 20 кг.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aba/t6lw217tgea03w76vn3pw0lb2jstdkb7/200_200_1/544745534f582078895aa393caada7db.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "91,20 руб."
+                },
+                {
+                    "name": "Ferplast Щетка для животных GRO 5759 Premium",
+                    "description": "Щетка для собак, кошек и кроликов, 20,7 x 5,7 x 4,5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5db/2lqu5v0wx9jgu33r42mopd3xvsvmm9s1/200_200_1/85ffbc3189d0cb6605a107129990daf3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,40 руб."
+                },
+                {
+                    "name": "Ferplast Щетка для животных GRO 5760 Premium",
+                    "description": "Щетка для собак и кошек, 22,5 x 6,8 x 5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bdd/qb9x2hoxww7hrukk61w3vbw1evkkgiru/200_200_1/6be74f2fcc01b62b6c963347dd49c4d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "39,50 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для животных GRO 5755 Premium",
+                    "description": "Двусторонняя расческа кошек и собак, 21,5 x 5,7 x 3 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cc8/u4n221kyja9oqaw07ej35xz75s9nni4q/200_200_1/6391d50cb885034a1258958f1ba6eed6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,10 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для животных GRO 5757 Premium",
+                    "description": "Расческа для подшерстка с вращающимися зубьями, 21 x 5,7 x 2,4 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d0d/c5j5o314a2zk2opm7920ayi6n1ylmmhq/200_200_1/b2326021824a56ec794630fca741cb64.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "38,20 руб."
+                },
+                {
+                    "name": "Ferplast Расческа для животных GRO 5765 Premium",
+                    "description": "Двусторонняя щетка для собак и кошек, 18,5 x 11 x 5,2 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/333/f0olwg7gcmdnr29oyvkwaojs1bvct1kj/200_200_1/923e2684d537142a488f227e0878b379.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,40 руб."
+                },
+                {
+                    "name": "DeLIGHT Щетка одностор. на дерев. основании, чёрная",
+                    "description": "Деревянная ручка из бука, жёсткий корд (зуб. 2,2 см)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a2/9n38pmfymjyopgrbxlg3bgy2zglphf9q/200_200_1/a4191899a790e67c655ac17be214e629.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,90 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5860 с прореженными зубчиками длинная",
+                    "description": "Расческа для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/318/z77b9qo65gse9v379nzd6aa0zj5zyyot/200_200_1/42043f70e5d0a57fbb7d990714b5762e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,40 руб."
+                },
+                {
+                    "name": "Beeztees Расчёска с вращающимися зубцами средняя, 21 см",
+                    "description": "Расческа для ухода за шерстью животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/319/qe6zu2njlmc82f688ja0khp1x6i4x2q1/200_200_1/3842b898f51a1d4a39babfb3e42ca884.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,40 руб."
+                },
+                {
+                    "name": "Beeztees Колтунорез грубый, 19 см",
+                    "description": "Колтунорез для длинношерстных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ca/03hpf3s4s68m9egnwch5ad3zm0dox8zl/200_200_1/df2b4c5bb0b4a6995c943caf5a7eff26.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,70 руб."
+                },
+                {
+                    "name": "Beeztees Расческа-скребница двойная, 15 см",
+                    "description": "Гребень для животных с густым подшерстком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d0f/ln2l4ka65f36m1il96jl1u4fatnfdtte/200_200_1/ac24393de7703abb8656b28780eac76e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,20 руб."
+                },
+                {
+                    "name": "Beeztees Пуходерка самоочищающаяся большая, 17 см",
+                    "description": "Пуходерка для животных со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0f/4hai0znvzwnx1hhv8ps5wcjykrfj1a0i/200_200_1/53166a3210295bbacf4da85369a65eb5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "44,90 руб."
+                },
+                {
+                    "name": "Ferplast Ножницы для шерсти GRO 5784 Premium",
+                    "description": "Филировочные ножницы для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/79e/aw1panjv0z01loan3e2e8eh95c2ijfuw/200_200_1/cfda01f64aecdff1164a57600da20250.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "57,40 руб."
+                },
+                {
+                    "name": "Hello Pet Пилка для когтей",
+                    "description": "Для полировки, стачивания и чистки когтей у животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/160/8uy5dxh6vcwjls4g12te3a3avnpc7n3n/200_200_1/d6321b304c8f1cf65412b8627680173e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "Алюминиевая расческа \"Hello Pet\"с острой ручкой, 18 мм",
+                    "description": "Предназначена для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d89/pcc1fdaevqbltpoxncpw0rxk54gz4cwp/200_200_1/f1d9480f79363cb59aeb9601dfb65c04.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "57,00 руб."
+                },
+                {
+                    "name": "DeLIGHT Ножницы для стрижки изогнутые, 19,5 см",
+                    "description": "Ножницы со смещенными кольцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e5/qz6j1dj921zy8qqb1snpxt31l51rm637/200_200_1/64bf2e7efc645425045abec2500d04db.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "49,00 руб."
+                },
+                {
+                    "name": "DeLIGHT ножницы для морды с закругл. концами, 15,5 см",
+                    "description": "Ножницы из стали со смещенными кольцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dda/nk8yj8oyc0kv6is00wma8py4tszv1v74/200_200_1/aba73cd130ff57267890d287f0c0c191.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "41,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Ножницы филировочные односторонние, 17,5 см",
+                    "description": "Ножницы со смещенными кольцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60d/scc2jdhxj34hpivj6jvniozq0gkq3ppr/200_200_1/be8937155aed0ddb45bdc1ae1bb3f217.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,90 руб."
+                },
+                {
+                    "name": "DeLIGHT Ножницы для стрижки изогнутые, 19 см",
+                    "description": "Ножницы из нержавеющей стали с микронасечками.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a5c/wtjj8o0ttq9j61prx2p5lmx5omv87132/200_200_1/b325420ab332ae49eeb586a5cf06c0fb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "51,80 руб."
+                },
+                {
+                    "name": "Moser Animal clipper \"Prima\"",
+                    "description": "Триммер для собак и кошек, беспроводной.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d75/awu8ah8swuwws095oju7uk13pngc0ley/200_200_1/e433c0cae27954fb044ff7c08db5f958.png",
+                    "amount": "за 1 ед.",
+                    "cost": "323,70 руб."
+                },
+                {
+                    "name": "Wahl \"Bravura\"",
+                    "description": "Машинка для стрижки животных, беспроводная.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce4/h1motdsbt1aqiyne88pxdf1yejztj6dv/200_200_1/0bedb5311d18b93c5756a7c6931cfbac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "614,80 руб."
+                },
+                {
+                    "name": "Wahl KM Cordless",
+                    "description": "Машинка для грумеров аккумуляторно-сетевая роторная.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ba3/5aoj8xwwpf4oq0qydhp8wvhe9d3zz7ci/200_200_1/ec011ea88173cbdb2bacc2781c1c15d4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,00 руб."
+                },
+                {
+                    "name": "Сумка Wahl для инструмента \"Лапки\", красный",
+                    "description": "Удобная сумка для принадлежностей грумера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/08f/pyr7cs653ja64w5ydchm4t9hgusid6ug/200_200_1/49721e2b1109a88ecc5cec8f8defc3fd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "98,20 руб."
+                },
+                {
+                    "name": "Ножницы HELLO PET прямые, 8\"",
+                    "description": "В комплекте с чехлом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ab/l4l659fu0p39m4dk5movsvdog9ltuogl/200_200_1/98b1005b870ae9725f5978c0f575ac9e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "295,00 руб."
+                },
+                {
+                    "name": "Ножницы HELLO PET, прямые 6,5\"",
+                    "description": "В комплекте с чехлом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c2/pt0rkbos7uvvk71ff7yatg4v5k28782o/200_200_1/3ea0c9dabe43bcc8165c77e1a94e909b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "226,10 руб."
+                },
+                {
+                    "name": "Ножницы HELLO PET изогнутые 7,5\"",
+                    "description": "В комплекте с чехлом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d22/h9dhoi8gbwwbecggku15c0lxzu6o0lvt/200_200_1/90f82793cb236966b5d6ac734fb4f1cb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "226,10 руб."
+                },
+                {
+                    "name": "Ножницы HELLO PET изогнутые, 7\"",
+                    "description": "В комплекте с чехлом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/820/93f2vytt99g1i5y48w0f37sjremdvsd9/200_200_1/34f4b2eeab833bb3536b08f10c846dd3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "205,00 руб."
+                },
+                {
+                    "name": "Резиновая щетка круглая \"Le salon\"",
+                    "description": "Резиновая щетка для короткошерстных пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/539/hajh6k9n1n53h14oe8abwcvuwht3tb8k/200_200_1/93fdf37723111e7a086e27f001aa6f7d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,30 руб."
+                },
+                {
+                    "name": "Ножницы HELLO PET прямые, 7\"",
+                    "description": "В комплекте с чехлом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b2/e32dibr4bj6wp450y8xz6kzb63h4ex7d/200_200_1/c947296b7583e21eb31629287eba829f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "250,00 руб."
+                },
+                {
+                    "name": "Ножницы HELLO PET изогнутые 6,5\"",
+                    "description": "В комплекте с чехлом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/27a/et6y1f7y5zzo2hrh4la9me4iygt677zy/200_200_1/7fa35a4b272626086f9bd0d30a9caaf6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "182,00 руб."
+                },
+                {
+                    "name": "Ножницы HELLO PET филировочные, 6\"",
+                    "description": "В комплекте с чехлом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/04b/e6gi9w0xklnq2s63xxle45magi760jfb/200_200_1/ddc076b6180419f5fd8b9ed9b3374237.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "226,10 руб."
+                },
+                {
+                    "name": "Ножницы HELLO PET филировочные, 7\"",
+                    "description": "В комплекте с чехлом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60d/q48r2mk52m2i9ho84rtbids39k1715ox/200_200_1/e6c2f3deebf2d8564f9ed72bf537966d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "287,00 руб."
+                },
+                {
+                    "name": "Ножницы HELLO PET изогнутые с упорами 6\"",
+                    "description": "В комплекте с чехлом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/785/s414fakiu7jcoyh2mk6vcovvadklx87r/200_200_1/5e53983035e373d935e1d018b1b5c94b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "182,00 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5856 с частыми зубцами",
+                    "description": "Расческа для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65d/qci7b3h4ratqagzbjtryt0cbslpo1hnf/200_200_1/b175fd2cf1afe85728880686ef0579b9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,70 руб."
+                },
+                {
+                    "name": "Codos Гриндер для собак и кошек CP-3300",
+                    "description": "Электрическая пилка для когтей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/14f/g0ui77p2tpe5ukasd6se40ybjq213q5z/200_200_1/bfaeb873568130d97b813106951ef1ed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "119,60 руб."
+                },
+                {
+                    "name": "Hello Pet Расческа-антистатик (тефлон) 58 зубцов",
+                    "description": "Для кошек и собак удаляет старую шерсть, грязь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e51/oufq66fjwfi2caazbt2zunq1j5rxm2vm/200_200_1/f31ab28935fe11401e3388f6e0921366.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,80 руб."
+                },
+                {
+                    "name": "Wahl \"PocketPro\"",
+                    "description": "Триммер для животных, роторный.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f7a/snbi9xjif61bhixwkbh34w963i1to1v6/200_200_1/ab4eba98e2ef8e60c56badb281b84fed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "56,00 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5878 с вращающимися зубцами разной длины",
+                    "description": "Расческа для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/401/l5b3acdbdqj66vmx8326ijgqnw8l1bts/200_200_1/8d1ad82cdee560988144851ec66e9e60.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,20 руб."
+                },
+                {
+                    "name": "Набор из 8 насадок Moser Max 45/50 и Wahl KM2/5/10",
+                    "description": "Насадки нового образца с железными зубцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/efd/988y77pem91rw0j3newssxrnvpys8auk/200_200_1/eb3e2588a744e6fe98c809b7da594723.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "152,50 руб."
+                },
+                {
+                    "name": "Ножевой блок Moser №50F, 1/20 мм",
+                    "description": "Сменный нож с мелкими зубцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/68e/2zdwrgj378r6r68ugdpsl1cfjj5aq9gd/200_200_1/e864adeac53ddbc4412227af155bb390.png",
+                    "amount": "за 1 ед.",
+                    "cost": "117,80 руб."
+                },
+                {
+                    "name": "Ножевой блок Moser №40F, 1/10 мм",
+                    "description": "Сменный нож с мелкими зубцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/95a/c8er3ss19wi218nwornrb43gq9537on4/200_200_1/b6e49008f79d8aa33d9ed482ec748d5f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "143,30 руб."
+                },
+                {
+                    "name": "Ножевой блок Moser №30F, 1 мм",
+                    "description": "Сменный нож с мелкими зубцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8bf/h30x29kouwhoj2024xyfr8ehcsi5r5xp/200_200_1/89eff92a0e0f259af99f26811273b25b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "149,40 руб."
+                },
+                {
+                    "name": "Ножевой блок Moser №10F, 2 мм",
+                    "description": "Сменный нож с мелкими зубцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ca0/ad0ouls555mglmoaop23py3lmaxmpc6h/200_200_1/2f71fb03cbacc51f0183a36ccd69ff9a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "122,40 руб."
+                },
+                {
+                    "name": "Ножевой блок Moser №8,5F, 3 мм",
+                    "description": "Сменный нож с крупными зубцами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b0/6nbgc8r2eethfmuhlnvht7xxs4p3km4p/200_200_1/447218298aa5ed6afe32a37b91d8e88d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "122,40 руб."
+                },
+                {
+                    "name": "Wahl \"KM10\"",
+                    "description": "Сетевая машинка для стрижки животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a6/wsred8ll72fcwuj67jeo4189ase65nwb/200_200_1/239e888339bcc04d4bbdaaceb2de44df.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,00 руб."
+                },
+                {
+                    "name": "Wahl \"Bravura Lithium\"",
+                    "description": "Сетевая машинка для стрижки животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0db/3gm2oq7m12pfe3bvrq9mrnbay4fn1v9h/200_200_1/8c397d6b000840640ed7a0c3ee6c9739.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "564,20 руб."
+                },
+                {
+                    "name": "Wahl \"SuperTrim\"",
+                    "description": "Профессиональный аккумуляторный триммер для животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f9e/jukv47ieppe37gyqh0z19y3omm2qcs8x/200_200_1/564adee92838cf48ab34079cfb71788d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "317,80 руб."
+                },
+                {
+                    "name": "Wahl \"Mini ARCO\"",
+                    "description": "Профессиональная машинка-триммер для животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/19b/xljvttbfb65pgik3up54rnb1rubp6suu/200_200_1/e034b84f90880473832800e91db630c9.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "273,00 руб."
+                },
+                {
+                    "name": "Пластинка для ножей Wahl моделей 1245, 1250",
+                    "description": "Подставка для сменных ножевых блоков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b78/4s9nsiene2v25why79aa5tv8hwf50i7y/200_200_1/cc41bbd5eedca66ce3fdbb75cff14d59.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Ножевой блок \"Star Blade\" Для машинки Moser \"REX\"",
+                    "description": "Нож с крупными зубцами.",
+                    "image_url": "https://garfield.by/upload/iblock/cb4/wzs85j95sir8vnqg1lhg097gsdee3k1n/21eddbbcfbf8a0994338e9181710f348.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "123,40 руб."
+                },
+                {
+                    "name": "Moser Animal clipper \"1400\"",
+                    "description": "Cетевая машинка для стрижки животных. 10 Вт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3f/m04bxbixy0sac2tghkt71qnfnq4y2s9d/200_200_1/2652e44916c10952eae08115ec2ebe58.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "189,30 руб."
+                },
+                {
+                    "name": "Ferplast Расческа GRO 5874 2-ух рядная с вращающимися зубцами",
+                    "description": "Грабли для собак и кошек со средней и длинной шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e79/98hlwzp758bz6kgaqxxcr6xoznqjwpm8/200_200_1/c119574bb74f1088e679d473de52eaf1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,90 руб."
+                },
+                {
+                    "name": "DeLIGHT Пилка для когтей",
+                    "description": "Для обработки когтей у животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bb2/xp83ak4h2bi9r1evcraqbqxj0pxqbmko/200_200_1/fdba5b4c113afa10fb62cffb0b993153.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,90 руб."
+                },
+                {
+                    "name": "Коробка Wahl для хранения ножевых блоков",
+                    "description": "Для ножевых блоков машиной для стрижки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4bb/reg9ep1lykxdncwqm0tuhp2l1m2ztxjh/200_200_1/81e16759321605ea45a0e1ec758aeadf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "58,80 руб."
+                },
+                {
+                    "name": "Triol Когтерез-гильотина \"Стандарт\", 75*140 мм",
+                    "description": "Когтерез-гильотина для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d82/j5sghfjjpjcgihbl8cd7nxqjmyn2qe1y/200_200_1/690c7ddbce1763aaadc174b6af00a7c7.jpg",
+                    "amount": "Блистер",
+                    "cost": "13,20  руб."
+                },
+                {
+                    "name": "FURminator Undercoat Cat S Short Hair",
+                    "description": "Фурминатор для кошек (до 5 кг) с короткой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/662/dn7na3ud18nk2qb4ou7yvvp810dat3r5/200_200_1/13fc31c58ea5efe04023bd9d47fafb18.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "90,70 руб."
+                },
+                {
+                    "name": "TRIXIE Ножницы, 18 см",
+                    "description": "Ножницы для кошек, собак и мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad8/fnwocebobmfh1h10u2tp11sluz6q3htm/200_200_1/aebf99a839da95d611d210a7226aa4df.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,70 руб."
+                },
+                {
+                    "name": "Ножницы \"TRIXIE\" филировочные односторонние, 18 см",
+                    "description": "Ножницы для всех типов шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/afc/8ve1yg0ykzko9r2mm2yi4yxs8eo4voob/200_200_1/b6fae4c58fd9ff849f8bd204f7ffb709.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,70 руб."
+                },
+                {
+                    "name": "Триммер  \"TRIXIE\", тонкий, 19см",
+                    "description": "Триммер для стрижки шерсти на голове и ушах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7f8/m956gm0qmgqgosf36ykcprbysf8q4qp1/200_200_1/b7cd8bff24d870d0605d8da806d089e4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,20 руб."
+                },
+                {
+                    "name": "Щетка-пуходерка \"TRIXIE\" , пластик, 9х16 см",
+                    "description": "Подходит как для верхнего слоя шерсти, так и для подшерстка.",
+                    "image_url": "https://garfield.by/upload/iblock/e12/rlffjjhtj0f59h5qr0fvwi3bl03t6ob6/3f89f93b0356880d84bd544708a959b9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,80 руб."
+                },
+                {
+                    "name": "Triol 183AB Расческа-тримминг Стандарт",
+                    "description": "Расческа-тримминг, 45х195 мм., блистер.",
+                    "image_url": "https://garfield.by/upload/iblock/d62/lerg3yvwwhlm515l2kgc6t3fffydj6h3/3b031970fd1ec7cc685fdbae4c96d534.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Catit Набор для груминга короткошерстных кошек",
+                    "description": "Качественный уход за шерстью , 5 предметов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/493/qtcspn3udnocj3oa18kafqcqx8zxv5j4/200_200_1/750d3936b4e4564e1695e2aa7ec13a4a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "168,50 руб."
+                },
+                {
+                    "name": "Catit Набор для груминга длинношерстных кошек",
+                    "description": "Качественный уход за шерстью, 5 предметов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/764/326d9af7jj713knw6t1apxu4altm5k35/200_200_1/26a4ef5ecd717cc42584c1dcc194a8ee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "193,80 руб."
+                }
+            ]
+        }
+    }
+}

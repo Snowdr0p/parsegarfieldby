@@ -1,0 +1,716 @@
+{
+    "Собаки": {
+        "Дрессура, коррекция поведения": {
+            "url": "https://garfield.by/catalog/dogs/dressura.html",
+            "products": [
+                {
+                    "name": "STOP-спрей \"Не гадит,не метит\", 120 мл",
+                    "description": "Отучение от меток в неположенных местах",
+                    "image_url": "https://garfield.by/upload/iblock/2c6/ettimqtn9jd0lch27b8n3ldawms7aqy1/d30f5d05711196fb6ca4a7e4df83716d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Joy pet спрей для приучения собак к туалету, 100 мл",
+                    "description": "Быстрое приучение щенков и собак к туалету",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b3/lzn0p8e627kw0g2vt1viwhschbpkicei/200_200_1/f8d033952fc29787052ebdf0b834ca4f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,10 руб."
+                },
+                {
+                    "name": "Комплексный «Антигрызин» для собак, 100 мл",
+                    "description": "Безопасное отучение от порчи мебели и других предметов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4d/x5991yjn4cah6kdxtfsnuqnm6a2mb31t/200_200_1/b973ef6f69a6300297168b1b3627f108.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "39,50 руб."
+                },
+                {
+                    "name": "Защитный Пластырь \"АнтиГрызин\"",
+                    "description": "Безопасен в случае поедания. Гипоаллергенен",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/850/n3np3ivacvokr4h5jpcyccfk0sbs6ryt/200_200_1/c405ef88126af6226a72592b5fb66e7e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Комплексный «Антипакостин» для собак и кошек, 240 мл",
+                    "description": "Имеет приятный, едва уловимый, нежный аромат лимона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/29c/58owuasjme2xt1aflyia54fgzhp1df1l/200_200_1/b1765d3aad46cc32c3377321c2541061.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "59,40 руб."
+                },
+                {
+                    "name": "Beaphar Диффузор No stress Dog",
+                    "description": "Диффузор-антистресс для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8a3/71cqtjqms78xndq2hbg8ap6x65ifcq9s/200_200_1/a54c3c2c7b9d730df414e7c8e4918dca.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "44,80 руб."
+                },
+                {
+                    "name": "Beaphar Сменный баллон No Stress Refill Dog, 30 мл",
+                    "description": "Сменный баллон к успокаивающему диффузору для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d5/tjfrd6dn0ps1q6wwb75ytbzubs3i104g/200_200_1/5b3953bae7da3765aaea0475cc18a612.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,60 руб."
+                },
+                {
+                    "name": "Beaphar No stress Collar Dog",
+                    "description": "Успокаивающий ошейник для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f51/6rc5k96p1o3e3lfay8mf6o48hfqobxo4/200_200_1/55d9f10771287b951fa5868f19b2fb40.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,40 руб."
+                },
+                {
+                    "name": "Mr. Fresh Expert Отучение гадить для собак, 200 мл",
+                    "description": "Спрей для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/37f/m5otp742cpzewpvyik2biu0dfm9v9r1m/200_200_1/a676cfe2821823a227ba7dc5e13bb1d3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,30 руб."
+                },
+                {
+                    "name": "Gamma Сумка для лакомств и аксессуаров Профи",
+                    "description": "Аксессуар для прогулок с питомцем, обхват бёдер 95-127 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/98c/fx7cgdqltnney8r7bzmtnskvf781kaqp/200_200_1/a52cd1ec-55e8-11e9-af37-0050569459e9.jpg",
+                    "amount": "480х35х130 мм",
+                    "cost": "25,10  руб."
+                },
+                {
+                    "name": "Антигадин в виде гранул для уличного применения",
+                    "description": "Геолитовые гранулы для отпугивания кошек и собак от растений",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fe/7wojs2bdgetlwpn4etdsrqbz2jjkhl1a/200_200_1/fb9656_b25eaa212b874bdc965a921611fb9b74_mv2-855x1290.jpg",
+                    "amount": "450 г",
+                    "cost": "46,30  руб."
+                },
+                {
+                    "name": "Антигадин / Антипакостин",
+                    "description": "Средство для отучения питомца от привычки гадить или пакостить",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/440/ir3cf5meb1zzawueb5gyq8fcqr13rvhs/200_200_1/4f45ec_8025ebf61fd044878729b8a283e08351_mv2-855x1290.jpg",
+                    "amount": "200 мл",
+                    "cost": "43,30  руб."
+                },
+                {
+                    "name": "Triol Сумка для лакомств Мышка",
+                    "description": "Силиконовая сумочка для лакомств",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/31a/tc5fjlvr37ec7489a8x28xuxcohxajur/200_200_1/89f74e0b58174a06a0247089a33d2a99da7efc75.jpg",
+                    "amount": "105 х 85 мм",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "Triol Сумка для лакомств Фитнес, зеленая",
+                    "description": "Силиконовая сумочка для лакомств",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aeb/xguuebw32y5ta03pdax1evjrp9lvcipa/200_200_1/d537ed14ea5993357287de5aa8a5160d06860431.jpg",
+                    "amount": "130 х 105 мм",
+                    "cost": "20,90  руб."
+                },
+                {
+                    "name": "Triol Сумка для лакомств Фитнес, голубая",
+                    "description": "Силиконовая сумочка для лакомств",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a7d/61zrtbz1dixsswbkjq9l12vmjzuiqoqu/200_200_1/b9994b7c71a3915efc247d14da96d517ab72bc43.jpg",
+                    "amount": "130 х 105 мм",
+                    "cost": "20,90  руб."
+                },
+                {
+                    "name": "Triol Сумка для лакомств Лягушка",
+                    "description": "Силиконовая сумочка для лакомств",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cea/kpvxkt6z5ng3mzywsq063ul2dye02y01/200_200_1/f34500db7ef34c96aa71fa836fe84665b84ea1e7.jpg",
+                    "amount": "105 х 85 мм",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "Triol Сумка Олимпик с креплением на пояс для лакомств",
+                    "description": "Сумка с карманами и креплением на пояс, серия OUTDOOR",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/442/tqfdrb6ivdh0dkljl1bw9nkwlgejxb2d/200_200_1/4671790bd428f3f6fe5fe1ab87039b51795685d5.jpg",
+                    "amount": "38 x 17 см",
+                    "cost": "76,60  руб."
+                },
+                {
+                    "name": "Triol Сумка Стрит с креплением на пояс для лакомств",
+                    "description": "Сумка с карманами и креплением на пояс, серия OUTDOOR",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/510/geekq925bqp3tj59fn9l5rno3bhau9ae/200_200_1/e3110f7e1084d2bfa952ddab9f4c0e28b919e1d6.jpg",
+                    "amount": "43 x 11 см",
+                    "cost": "59,50  руб."
+                },
+                {
+                    "name": "Triol Сумка для лакомств Стрит",
+                    "description": "Сумка для лакомств, серия OUTDOOR",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad8/af78m6iucwop550lz8sqkrzaqhsyzdfi/200_200_1/57ced4727c2d69b27be0a0c9dfa7a18448a6a8c9.jpg",
+                    "amount": "8 x 8 x 13 см",
+                    "cost": "27,10  руб."
+                },
+                {
+                    "name": "Gamma Универсальное средство для приучения к туалету Хорошие манеры",
+                    "description": "Спрей для привлечения внимания собаки или кошек к определенному месту",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/943/1fc1d1n9vzvxeyos3f2jjbwrmiwtj039/200_200_1/2622f49cad64bef95e60ec4156e1b0b0.jpg",
+                    "amount": "250 мл",
+                    "cost": "10,90  руб."
+                },
+                {
+                    "name": "Gamma Универсальное средство для защиты мест, не предназначенных для туалета Хорошие манеры",
+                    "description": "Спрей зоогигиенический для отучения собак и кошек от меток",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4d7/kb2xprxhw1p7rcin7xl4c1cba0as81ib/200_200_1/b9cf91cc1cfa089b60e336e1cfb8cfe1.jpg",
+                    "amount": "250 мл",
+                    "cost": "12,20  руб."
+                },
+                {
+                    "name": "Beaphar Успокаивающий диффузор CaniComfort",
+                    "description": "Одного сменного блока хватает на 30 дней",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af9/jw61drubsookc5brhmcghbj4ah0s5jo1/200_200_1/409037f9f19cd42f9ebe3b09fa9f82e8.jpg",
+                    "amount": "48 мл",
+                    "cost": "70,50  руб."
+                },
+                {
+                    "name": "Beaphar Успокаивающий спрей CaniComfort",
+                    "description": "Для использования во время поездок, стрессовых ситуаций.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d1c/xu0bdjfli902yjlng6raoy54bh67c33q/200_200_1/a3fbced252b462864537805c22823062.png",
+                    "amount": "30 мл",
+                    "cost": "48,00  руб."
+                },
+                {
+                    "name": "Жилет \"Trixie\" светоотражающий",
+                    "description": "Жилет со светоотражающими элементами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83b/swd35uumypxsqray9mnsc72a61ezk1ns/200_200_1/482d769650e1b75f28d20c62298e4696.jpg",
+                    "amount": "M",
+                    "cost": "19,80  руб."
+                },
+                {
+                    "name": "Triol Сумка для лакомств",
+                    "description": "Сумка для лакомств, 145х120х120 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e5/qwzwy269nqibf7d80vyp64il7ukga25l/200_200_1/cdebb030e760c18537d1236653eb8ff3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,60 руб."
+                },
+                {
+                    "name": "Mr. Fresh Приучение к месту для собак, 200 мл",
+                    "description": "Спрей для приучения собаки к туалету",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8fd/gabnmhomz8yogh78dkz7o1xympnoi57e/200_200_1/0d239c44ba6d6bd3604e9462c0f956bd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Защитный пластырь «АнтиГадин»",
+                    "description": "Безопасен в случае поедания. Гипоаллергенен",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aea/igl5haul617xaepm0m69un76vrobpe0u/200_200_1/e38a28961a2bb1e7d2fbeb74b910cffc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Защитный пластырь «АнтиЦарапин»",
+                    "description": "Безопасен в случае поедания. Гипоаллергенен",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1dc/tqrkykxb4lvoyx1p1jjrcos84l2zmbvt/200_200_1/8b881205827e1ba83b8cdbed3702ca10.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,10 руб."
+                },
+                {
+                    "name": "Joy pet Средство для отучения собак лаять, 100 мл",
+                    "description": "Приучает собаку к спокойному поведению при раздражителях.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/37f/3hjtvvemzxfzby5fwzcrpimiml1fdkba/200_200_1/e8992144d61ca25c2ede19f9e03764b3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "53,70 руб."
+                },
+                {
+                    "name": "Mr. Fresh Защита от погрызов для собак, 200 мл",
+                    "description": "Защитит мебель и предметы обихода от зубов собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ae/qe5xjdbf9glo34sl13vadmbedpat7mb7/200_200_1/3562a86af3c837b8d572fe8e628def02.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,80 руб."
+                },
+                {
+                    "name": "Beaphar Капли No Stress Spot On dog",
+                    "description": "Успокаивающие капли для собак, 3 пипетки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/752/owctq53zj4zt3i9iby7dnkrafopqtdzs/200_200_1/e244d66528c7182d52cc1daf7fe36073.png",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Beaphar Капли для приучения к туалету Puppy Trainer, 50 мл",
+                    "description": "Капли для приучения щенков к туалету.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f18/zvm6noulcuvihohqvufwo5a0qzfiaymr/200_200_1/4fab71caff7fe19ff5c82ec72f5ddab2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,50 руб."
+                },
+                {
+                    "name": "Beaphar Спрей-антигрызин Anti Knabbel, 100 мл",
+                    "description": "Спрей для собак от погрызов предметов быта.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e3/sqwn2kkpm7sies181e7b0ym6koefg5st/200_200_1/7895de0def0ad5a2a173ba33833b8474.png",
+                    "amount": "за 1 ед.",
+                    "cost": "29,70 руб."
+                },
+                {
+                    "name": "Beaphar Гель Stop It Exterier Crystals, 480 г",
+                    "description": "Отпугивающий гель для кошек и собак вне дома",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f34/tl6o1arcx421ab1c3xzblfl812eh7o34/200_200_1/95edcdacb7ee9cc285cf92e30cce530f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,80 руб."
+                },
+                {
+                    "name": "Beaphar Спрей Stop It Exterier Crystals, 400 мл",
+                    "description": "Отпугивающий спрей для кошек и собак вне дома",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b19/v1n8o3z8taiuylgok3g489do3hj38thj/200_200_1/c3b447bbd677b9949a7a6da1a8a295b4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "42,10 руб."
+                },
+                {
+                    "name": "\"ЭКО ZOOЛЕКАРЬ\" Спрей отучение гадить и метить",
+                    "description": "Для кошек и собак, 200 мл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f65/xmtz23e7lyo2gm3rn83b1a7b5w2v18zi/200_200_1/d3bf758050b55fef46bcc15bd65c0333.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "\"ЭКО ZOOЛЕКАРЬ\" Спрей приучение к туалету и лотку",
+                    "description": "Для кошек и собак, 200 мл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ded/wf38684dy1auasawhxcc0wpc25nj15za/200_200_1/16ade5f37eced0246a3513d50f0cab2b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Спрей отпугивающий  Amstrel \"ТАБУ\", 100 мл",
+                    "description": "Корректирует поведение, для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c47/tmwpj8a70e741vl4szll8fl60z8yljef/200_200_1/4232fb2579f956c03a6660b1e5e5d38c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,70 руб."
+                },
+                {
+                    "name": "Beaphar Спрей Stop It Dog, 100 мл",
+                    "description": "Спрей для отпугивания собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/980/mbdm3q08xnk4bl2tpj7e0j7l90fwg0no/200_200_1/6c1a38bda4e50a8783800fb9fa2a4fa0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,30 руб."
+                },
+                {
+                    "name": "Doglike Наколенники \"Хэндлер\"",
+                    "description": "Для профессиональной экипировки кинологов и заводчиков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/14c/nb0c5jy3qijkkx42b646qapptuhwxi5d/200_200_1/1a0262200f14dc4c49f99a0e7fcf97a1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "CEVA Адаптил",
+                    "description": "Успокоительное средство для собак.",
+                    "image_url": "https://garfield.by/upload/iblock/fc9/ncv980qdgs002y8e9qlp4vmp0nqzg3eb/5ec4e683b2a10240f0065573ca7fa17f.jpg",
+                    "amount": "спрей 60 мл",
+                    "cost": "113,40  руб."
+                },
+                {
+                    "name": "Спрей Doctor VIC отпугивающий для собак",
+                    "description": "Средство для коррекции поведения собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a30/ym79eqy3mifld9gkw4ua0yjyjop84vw7/200_200_1/33bd1e4ef17410e4ecf4fa18580267c3.png",
+                    "amount": "100 мл",
+                    "cost": "9,50  руб."
+                },
+                {
+                    "name": "Certech Антигадин для собак",
+                    "description": "Спрей для отучения собак от меток и разгрызания предметов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df6/8cgd43y4zvb2a2xyow1hf6h5sbif4tf0/200_200_1/Akyszek-PIES.jpg",
+                    "amount": "400 мл",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "CAMON Сумка поясная для лакомств",
+                    "description": "Для дрессировки во время прогулки с питомцем",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ca/8hg3swg93ib3y6701n8drtyc7hbxzwlo/200_200_1/e2b8d74a4acfdf1545361c9bd4c49ca6.jpg",
+                    "amount": "12 x 6 x 14 см",
+                    "cost": "30,70  руб."
+                },
+                {
+                    "name": "Kinologprofi Стек-плетка, спил кожи",
+                    "description": "Стек-плетка из спила кожи",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/421/2hm21qb3rcb179erhkyz9wssjpd780p1/200_200_1/2f22208b9af26b35f4d5d2d39c19e3fe.jpg",
+                    "amount": "58 см",
+                    "cost": "54,00  руб."
+                },
+                {
+                    "name": "Beeztees Сумка для лакомств",
+                    "description": "Аксессуар из прочного водоотталкивающего нейлона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db0/hi6maoxfsqgqf0i6tbpl63obzojlm27s/200_200_1/6bc3a28ab651d5b22629f8c1554c1044.jpg",
+                    "amount": "7х6 см",
+                    "cost": "10,80  руб."
+                },
+                {
+                    "name": "Ferplast DOG TREATS BAG Сумочка для лакомства",
+                    "description": "Подходит для печенья или сухого корма",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ae1/k6fmgg34okclmylfvzr969rjywtadqaq/200_200_1/40a39367f59097a49e084f073eb04dd1.jpg",
+                    "amount": "S",
+                    "cost": "34,30  руб."
+                },
+                {
+                    "name": "Beeztees Жилет светоотражающий для собак жёлтый",
+                    "description": "Светоотражающий жилет для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/668/rp0ooli3h2jiihhbhjz52pw4vpwu2pna/200_200_1/d07b98caa0a002228cb9b0314d0a48dd.jpg",
+                    "amount": "M",
+                    "cost": "26,70  руб."
+                },
+                {
+                    "name": "Trixie Слалом для аджилити (12 шт.)",
+                    "description": "12 столбиков с несколькими вариантами расстановки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/495/kmj9tulls8yy4eqi9hidlj7bhugvfmbu/200_200_1/68dee6094573562bd69f6779687957ea.jpg",
+                    "amount": "115 х 3 см",
+                    "cost": "216,70  руб."
+                },
+                {
+                    "name": "Trixie Барьер для аджилити",
+                    "description": "Барьер с регулировкой высоты перекладины.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a08/wx983hk8btffx9mi6zyc6k3121ku4ksh/200_200_1/1e24f162f4307e00520c96a477896868.jpg",
+                    "amount": "123х115х3 см",
+                    "cost": "88,60  руб."
+                },
+                {
+                    "name": "Trixie Барьер-шина для аджилити",
+                    "description": "Барьер для активных тренировок с собакой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bca/qt45v0qup31rrinosjw4r0b08gzzq26n/200_200_1/9656f2963c42ed379d917d18278eb34e.jpg",
+                    "amount": "123х115х3 см",
+                    "cost": "106,30  руб."
+                },
+                {
+                    "name": "ДиАнКари Свисток ультразвуковой",
+                    "description": "Свисток для тренировки собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9c7/q4jl765xafl64ubht6otngye1ey2zyxp/200_200_1/8b18738e93020eef06e60930cbd4b5db.jpg",
+                    "amount": "5,3 x 0,8 см",
+                    "cost": "11,70  руб."
+                },
+                {
+                    "name": "Свисток ультразвуковой с регулировкой частоты",
+                    "description": "Ультразвуковой свисток для обучения собаки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/064/noihxpv36e9p5h8pqnzowg88r807sih8/200_200_1/69d470d0fb0c1dcdcc656e6af7c4f65c.jpg",
+                    "amount": "5 см",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "БиоВакс Спрей для собак \"Грызть? Да!\", 180 мл",
+                    "description": "Приучающий спрей для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd9/z183jgobdv09ftwlz3pxcwj3irbaqagd/200_200_1/314764042e4d89fc8d592e888022cff7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "БиоВакс Спрей-лосьон для собак \"Освежать? Да!\", 180 мл",
+                    "description": "Освежающий спрей для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9d/7ikpah8y929av16qq3ve7aukdvh8vnon/200_200_1/b7bd70e4ee780fa9484c4b10ccfa11e9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Спрей Animal Play \"Приучение к туалету\" для собак и кошек, 200 мл",
+                    "description": "Спрей коррекции поведения на природных ферментах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/508/45yxuzwa5zgiz7no8kz0m5zmd2avuvgq/200_200_1/e5f5c44c2acc40a72b62ca5eb728d802.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,40 руб."
+                },
+                {
+                    "name": "Trixie Учебные Диски, ø 4,5 см",
+                    "description": "Для воспитания собаки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/16d/udfd1mek10ovdzrisccvrnf7bgyh1fsk/200_200_1/a2a0f1f23aca7b5755cfba6da85790c9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "StarMark Игрушка \"Pro-Trainig Clicker\"",
+                    "description": "Кнопочный кликер.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7d8/fa7vc0dtvkgvt2hrkimfztxh2zxephpa/200_200_1/c13d08602a8c43f142a935b1b2095082.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,70 руб."
+                },
+                {
+                    "name": "StarMark Игрушка \"Pro-Trainig Clicker Deluxe\"",
+                    "description": "Кнопочный кликер с браслетом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/574/r7xcpi2x2kpywpsteilhqsr5xi5zig2o/200_200_1/e1e82a7f5e299b8f1893e881c6323371.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,80 руб."
+                },
+                {
+                    "name": "SENTRY Ошейник Calming Collar для собак",
+                    "description": "Успокаивающий ошейник с феромонами",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2da/4xixhb9n32hgfhaik1e8rs4y6vxpqf10/200_200_1/2e6cf1dc7dfca4f0de46b5ea4b698b63.jpg",
+                    "amount": "1 шт/уп",
+                    "cost": "61,10  руб."
+                },
+                {
+                    "name": "CLP Мешочек для лакомств на пояс с липучкой",
+                    "description": "Удобный, компактный мешочек для лакомств черного цвета.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57b/tynvx1nkrbcmdz58byt9ggvpjo2jva0e/200_200_1/771e5b8515dc2b46d82f9845b9a9a575.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,80 руб."
+                },
+                {
+                    "name": "Le Artis Спрей Аккуратист, 200 мл",
+                    "description": "Средство для отпугивания домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/88b/2ezpgq1loffelmt1qdw90uwitgvrly1s/200_200_1/4f076b76a003cb10234d43621df0bd30.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "Le Artis Спрей Умница, 200 мл",
+                    "description": "Средство, защищающее от грызения",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3af/cmys5lnyko2but7zm2shb5387ehgd1ok/200_200_1/a3fa30500681cad135657bb3804ffa6d.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "TitBit Сумка для лакомств на пояс универсальная",
+                    "description": "Для дрессировки во время прогулки с питомцем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ab/3fhsuyeu58sxwlj9yvynfvzvj5gwq6si/200_200_1/57ef5939f82575b200ae39859167d45a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "73,20 руб."
+                },
+                {
+                    "name": "Sanilove Средство для защиты мест не для туалета, 500 мл",
+                    "description": "Для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/735/kk2sxoa5z82qcefaac2d84i867bqpcda/200_200_1/0ffa7f6b1d6d2d2a66bb4566b08be10c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "18,10 руб."
+                },
+                {
+                    "name": "Trixie Soft Clicker",
+                    "description": "Кликер для дрессировки собак, кошек, кроликов, птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/19a/bru6k7xaseb8re9b21n6oqsyeih2l0au/200_200_1/34eccf9e99623ffa0c2ea4f9b4c929e7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Trixie Clicker Basic",
+                    "description": "Кликер для дрессировки собак, кошек, кроликов, птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/70b/rmulaehzhbnkwp1vc95pehpl9l702lfb/200_200_1/31f1e958260d23ec78b57c0534105104.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Trixie Кликер для дрессировки",
+                    "description": "Кликер для дрессировки собак, кошек, кроликов, птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cbe/11au8uk4xk3kgbt7hai3xgxx5wzh3gx3/200_200_1/c79b729a820bf5d68f0d3459784b5352.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,20 руб."
+                },
+                {
+                    "name": "Свисток \"Trixie\"",
+                    "description": "Пластиковый свисток Trixie.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/88b/32o6a632otk9fr6b08xw9rgfy1w6cui7/200_200_1/113f82f445066ec97dc4015bda6e1225.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Sanilove Средство для приучения животных к лотку, 125 мл",
+                    "description": "Подходит для всех поверхностей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/210/5v58xxt68w67pg7nc1gsxjna125pzo9v/200_200_1/8bcc0f86dbd0f89568f2d8b99870f8de.png",
+                    "amount": "за 1 ед.",
+                    "cost": "15,40 руб."
+                },
+                {
+                    "name": "Свисток высокочастотный \"Trixie\"",
+                    "description": "Металлический свисток, 5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/485/od9o5g4mthbjnv20kf4tay6mgn9uq80t/200_200_1/b7ac9f66b7cfc4fd3373fbad27cec793.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "DeLIGHT Кликер",
+                    "description": "Предназначен для дрессировки животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb7/po2xyfijy3xemnvy0v5ljohglf1l21jb/200_200_1/6865f0688270e3e6ac98281c1aa06f97.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,20 руб."
+                },
+                {
+                    "name": "Beaphar Успокаивающий ошейник CaniComfort для щенков",
+                    "description": "Успокаивающий ошейник для щенков, 45 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/23f/p66ifndr27u1r2qludvgsp29y1p1mq6h/200_200_1/c3d476c87e2e1d4b67a7a407706d8376.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "55,60 руб."
+                },
+                {
+                    "name": "Beaphar Успокаивающий ошейник CaniComfort для собак",
+                    "description": "Успокаивающий ошейник для собак, 65 см",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/17e/82ga9vvoro6kdjdpbkqrw2sfj1ipdga9/200_200_1/ee7bf049966e22779eb2fc1ec539d06d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "55,90 руб."
+                },
+                {
+                    "name": "Антистрессовый массажер для собак",
+                    "description": "Удобный массажер для всех частей тела собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b9f/o2whvql1sloi9yszud79h0ddpz632lg3/200_200_1/2bf0c0a849ecbbc642c01ae2df3b7b28.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,00 руб."
+                },
+                {
+                    "name": "\"ЭКО ZOOЛЕКАРЬ\" Спрей защита от царапанья и погрызов",
+                    "description": "Для кошек и собак, 200 мл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e58/3jm3n00snimbx9bwyrkg9ja4bwbeq7k5/200_200_1/ae1686e96f60e7446dbee57cec99ceda.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "БиоВакс Спрей \"Поглотитель запахов\", 180 мл",
+                    "description": "Спрей-эмульсия для домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65c/5w7lgupalae7jy8rtm7xe5lzybbe1rz0/200_200_1/5866b113ba60b3e8a3fd19f1a15b55cf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "БиоВакс Спрей для собак \"Мое место? Да!\", 180 мл",
+                    "description": "Приучающий спрей-лосьон для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d25/xnlro50rz79h2zlv0x1xmsq097p30oiq/200_200_1/d22ca26a242ce29d255a8444b89b9434.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "БиоВакс Эмульсия \"Грызть? Нет!\", 180 мл",
+                    "description": "Отучающий спрей-эмульсия для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9db/fz39jk55dnz5t3zg48mm3jlpri8s4a5n/200_200_1/9e7ddf2cb103c48d0dfc94d74589d457.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "БиоВакс Спрей \"Грызть? Нет!\", 180 мл",
+                    "description": "Отучающий спрей для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/05b/03barstkilk8johxae7g98qk2kjomnv0/200_200_1/9a9ebbb2ca2e601202e6d9d8690a9154.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "БиоВакс Спрей для собак \"Гадить? Нет!\", 180 мл",
+                    "description": "Отучающий спрей для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/036/3y2vgqj018axxg9umv26fuakitrdawkw/200_200_1/6f169c5d6fcf9da5b878abba6b6c7cad.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "ДиАнКари Свисток ультразвуковой, 8 см",
+                    "description": "Свисток для дрессировки собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d0/31z0ev8xqmrmtj7duegjka1ev3ypq6dt/200_200_1/d7408efc2dd01a1defe3020b62d4603b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Beaphar Спрей No love, 150 мл",
+                    "description": "Спрей для собак, защита от кобелей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b0/v5okm2pmp9hh987md67d3npi2531khm2/200_200_1/2eea25ebf392da9347ac1bf518ae6955.png",
+                    "amount": "за 1 ед.",
+                    "cost": "29,00 руб."
+                },
+                {
+                    "name": "Beaphar No Stress Tablets, 20 таб.",
+                    "description": "Успокоительное для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bef/ry28gynh07j1eite858aopvl5nrhd1qk/200_200_1/37fd2aba05f54ea279db5b6cb2dbbf6c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,00 руб."
+                },
+                {
+                    "name": "Спрей Mr.Bruno \"Приучает к месту\", 200 мл",
+                    "description": "Спрей коррекции поведения для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/913/dxorao2n1874v6pa3dv3ckcio6sevjoz/200_200_1/09d8120e21f983cfaa9e7a094d0db0d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Спрей Mr.Bruno \"Отучает грызть\", 200 мл",
+                    "description": "Убережет обувь и интерьер.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c05/b1s3bbm262emu5licench9yy5xcpv715/200_200_1/166c2666f7724470d5402a36f0733d35.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Ультразвуковой свисток MP BERGAMO",
+                    "description": "Свисток для подзыва собак, 4x2x0,7 см",
+                    "image_url": "https://garfield.by/upload/iblock/252/uq4y8kw2lj71b3ukl6n15f2267hlmtou/5ee15ad55705473d7e78f81bae2ea6c4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Tropiclean Stay Away Антигрызин, 236 мл",
+                    "description": "Спрей отучает питомца грызть предметы домашнего обихода.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/649/4yzzuk1iq0xtt7kblyiknrmf495z1me3/200_200_1/5a317bc24050274b26d0fc7c3796739a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "24,20 руб."
+                },
+                {
+                    "name": "Trixie Agility Basic Tunnel",
+                    "description": "Тоннель для аджилити базовый.",
+                    "image_url": "https://garfield.by/upload/iblock/f4c/4psack60lw0hhgi4x9aj3e0ceks9ohrd/6141b9b0b68062568e0f15715ac177f2.jpg",
+                    "amount": "40 см / 2 м",
+                    "cost": "106,30  руб."
+                },
+                {
+                    "name": "Agility Sack Tunnel",
+                    "description": "Тоннель-мешок для аджилити, 60 см/5 м.",
+                    "image_url": "https://garfield.by/upload/iblock/541/rvoajdn07zan7rbhf5qmezqujhnh87g6/64815374b52868c5b57475ba99d83401.jpg",
+                    "amount": "60 см / 5 м",
+                    "cost": "198,50  руб."
+                },
+                {
+                    "name": "Trixie Agility Dogwalk",
+                    "description": "Бум для аджилити, 456x64x30 см, 80 кг.",
+                    "image_url": "https://garfield.by/upload/iblock/87f/g714rg9ez2lm1ov8d2xr7yul3f1u87to/70ad87f9563733fa9c1d6ff2730373c0.jpg",
+                    "amount": "456x64x30 см",
+                    "cost": "1227,20  руб."
+                },
+                {
+                    "name": "Trixie Agility Seesaw",
+                    "description": "Качели для аджилити, 300x54x34 см.",
+                    "image_url": "https://garfield.by/upload/iblock/8fa/vp6990v76unifg6rytrnvi1kbt9ph018/a3ae07e6d0db8273b825e90397e5ddc7.jpg",
+                    "amount": "300x54x34 см",
+                    "cost": "706,30  руб."
+                },
+                {
+                    "name": "Trixie Набор сумок для лакомств",
+                    "description": "Необходимый аксессуар во время дрессировки собаки.",
+                    "image_url": "https://garfield.by/upload/iblock/1c4/ij0cdcd5ct53tf9n78y03pzodhf80xgo/6942753249c8ce86d784fe75f0583f2d.jpg",
+                    "amount": "1 шт",
+                    "cost": "11,10  руб."
+                },
+                {
+                    "name": "Trixie Goody Bag",
+                    "description": "Вместительная сумка для лакомств.",
+                    "image_url": "https://garfield.by/upload/iblock/ce5/0zehkznu7n0jceu5rtd08o7bcoqdy90u/2c31c519459504482473d9a1a2116497.jpg",
+                    "amount": "11x16 см",
+                    "cost": "38,10  руб."
+                },
+                {
+                    "name": "Trixie Baggy 2 in 1",
+                    "description": "Сумка для лакомств с контейнером для гигиенических пакетов.",
+                    "image_url": "https://garfield.by/upload/iblock/ac0/2sqjnemzhhdbifl6mx0f4p2vifj1r9ye/0c3de17d7390e2bf8ee41418dde30da4.jpg",
+                    "amount": "10x13 см",
+                    "cost": "30,50  руб."
+                },
+                {
+                    "name": "Trixie Baggy",
+                    "description": "Сумка для лакомств на плечевом ремне.",
+                    "image_url": "https://garfield.by/upload/iblock/bbc/yqyzsray86hndn4w97l2kolwresz9bg1/e71aedd4da77c93805205604ef2caae2.jpg",
+                    "amount": "10x15 см",
+                    "cost": "16,60  руб."
+                },
+                {
+                    "name": "Trixie Dog Activity Baggy",
+                    "description": "Сумка-переноска для лакомств.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/33e/nzmc5zsoctisbfo044mkynoi896fyrgy/200_200_1/f2e2ccc99697263a96beb5ddd4f08341.jpg",
+                    "amount": "8х10 см",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Trixie Baggy Belt",
+                    "description": "Сумка на пояс для игрушек и лакомств.",
+                    "image_url": "https://garfield.by/upload/iblock/d61/yshmzkoazs16dwjzf58kjpd5g3j6dpzt/f9d30193b77d355b45e2575d8b0adf17.jpg",
+                    "amount": "ремень: 62 - 125 см",
+                    "cost": "33,40  руб."
+                },
+                {
+                    "name": "Trixie Multi Belt",
+                    "description": "Рюкзак на пояс для лакомств.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f10/sqwnsse2r30m9kr185nddjkiyx2pqakq/200_200_1/32b76ba6aa724098dfe83dca0e8a97fd.jpg",
+                    "amount": "ремень: 57 - 138 см",
+                    "cost": "57,20  руб."
+                },
+                {
+                    "name": "Trixie Кликер Soft",
+                    "description": "Дрессировка с применением звукового сигнала.",
+                    "image_url": "https://garfield.by/upload/iblock/c75/3y6wh3cgyql9nmv0pug4x510uekowqbl/7378851f5dad7c6d72af59a6b4f81a9e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,00 руб."
+                },
+                {
+                    "name": "Trixie Кликер с телескопической антенной",
+                    "description": "С креплением на поясной ремень.",
+                    "image_url": "https://garfield.by/upload/iblock/d7e/tn0km3hy32363qmzvxcay358zdcfotz9/d8d00b2abd9c31d34e80baa32de73147.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,60 руб."
+                }
+            ]
+        }
+    }
+}

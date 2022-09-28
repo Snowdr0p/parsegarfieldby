@@ -1,0 +1,436 @@
+{
+    "Грызуны": {
+        "Наполнители, сено": {
+            "url": "https://garfield.by/catalog/gryizunyi/napolniteli.html",
+            "products": [
+                {
+                    "name": "Cat's Best Universal (Клубника)",
+                    "description": "Древесный, универсальный наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/579/bghdz3p6f7q6fpnftwz1onatpugzvmg6/200_200_1/21238ce4f204932a05f7fb1df1f7cc83.jpg",
+                    "amount": "10 л (5,5 кг)",
+                    "cost": "21,70  руб."
+                },
+                {
+                    "name": "Cat's Best Universal",
+                    "description": "Древесный, универсальный наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77d/nwx8no7o0qpwlstac0wbof0e9zc7p046/200_200_1/415302559e0f1d6d0ef6a7cdd0e7911d.png",
+                    "amount": "7 л (4 кг)",
+                    "cost": "17,50  руб."
+                },
+                {
+                    "name": "Bunny подстилка древесная",
+                    "description": "Опилки древесные для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/59b/m0l9m5bnd2q32fb15bssxup4ixw0r2dl/200_200_1/81cd5470a633a0caf4168db52bf97941.jpg",
+                    "amount": "12 л",
+                    "cost": "2,50  руб."
+                },
+                {
+                    "name": "Природа Песок для шиншилл",
+                    "description": "Наполнитель для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84b/um22npu51rlhrt07exb6zkpo8c0q1ypv/200_200_1/12df0bc7db1706848ae336a1430d2ccb.jpg",
+                    "amount": "1 кг",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Цеосан Наполнитель кукурузный для грызунов",
+                    "description": "Наполнитель для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aed/lma78yj4rz7pri0f4b74ys108d5i5zwe/200_200_1/Без названия.jpg",
+                    "amount": "2,5 л",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Цеосан Песок для купания шиншилл",
+                    "description": "Песок на основе мягкого цеолитсодержащего минерала.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/558/kq26e8c7cko6y14hnhs2t15zz92m73nd/200_200_1/50bfd9dbb93acdeefc1e01b8c1fd40a8.jpg",
+                    "amount": "1,5 л",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Little One песок для купания шиншилл",
+                    "description": "Песок для купания.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e8e/ew83jgi4nl0n1grcj6eje3xrzsa018vb/200_200_1/2418c4b047e568c15c302eae0ae5d574.jpg",
+                    "amount": "1 кг",
+                    "cost": "19,10  руб."
+                },
+                {
+                    "name": "Наполнитель ХВОСТУН древесный для грызунов",
+                    "description": "Экологически чистый и абсолютно безопасный.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d4c/55w86humafh1c516ropy9m8eznqid0kg/200_200_1/d7b5aa9c16ac8e5e7abc128dfc01f0e5.jpg",
+                    "amount": "2 кг",
+                    "cost": "5,20  руб."
+                },
+                {
+                    "name": "Рубин ЭКО Пророщенные злаки сухие (сено)",
+                    "description": "Для птиц и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/490/yejilrhly33roncexmkurqggbu1abdxi/200_200_1/b039d80d8dca068f0d9c3c0fad49a9c1.jpg",
+                    "amount": "250 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Versele-Laga Песок для шиншилл",
+                    "description": "Песок для шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/281/6ejqt7trfow0gqatdwgrvglmd5xim2s0/200_200_1/b0e93e84ede39fd4198a1835c1fd0fb2.jpg",
+                    "amount": "1,3 кг",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Кошкина Полянка Лянок",
+                    "description": "Впитывающий гранулированный, гипоаллергенный",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/14e/pih148pcdfiiqvfg85vhr8r28oqggovp/200_200_1/e18b4933415b57595a8fc1942018b442.jpg",
+                    "amount": "5 л",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Dr.Hvostoff Песок для купания шиншилл",
+                    "description": "Песок для купания шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b89/khm7k8l5ih8xvuuriotgzooqfou3ew7x/200_200_1/168c24174b67cdacb30107c440452806.jpg",
+                    "amount": "1 кг",
+                    "cost": "2,40  руб."
+                },
+                {
+                    "name": "Pucek Пыль для шиншилл",
+                    "description": "Пыль для купания шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dca/wyg89fxbjxw40nn6iv9c5kvzok27xpj8/200_200_1/640b5461062901cdb4e2781f656a49d2.jpg",
+                    "amount": "2 л",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Бонифаций Сено, 500 г",
+                    "description": "Сено луговое для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aef/ome187lhrlyvjyroxcycn1ilcwn0adi7/200_200_1/af9f9d147193e9e2cfe650a9521e9393.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "Bunny Сено луговое с ромашкой 500 г",
+                    "description": "Сено для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/551/48zl97tcixq5f8rnt6yo8sb10ion7mxv/200_200_1/4a2e9731ec1f0d4e19ff0ace71e5cd6c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,70 руб."
+                },
+                {
+                    "name": "Бонифаций Опилки квадратные стружка, 800 г",
+                    "description": "Стружка для грызунов и попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6a/8n6n4jwn4qcwehil539t12g9o59rmgzi/200_200_1/6e8d484276ff864cd22874e26d25f020.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,30 руб."
+                },
+                {
+                    "name": "Рубин ЭКО Опилки древесные",
+                    "description": "Подстилка для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4b/9tdpk1e6a2yul427jalcrq1umbouzz3f/200_200_1/2142664bf90e0e6caf77703eb0004862.jpeg",
+                    "amount": "5 л",
+                    "cost": "2,70  руб."
+                },
+                {
+                    "name": "Bunny Сено луговое 500 г",
+                    "description": "Сено для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3cd/l3jk6hmjs06kpb3xecjbrh4ni1ne24k4/200_200_1/3802b1b62cf767d21f6099cfc6ba8c25.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,50 руб."
+                },
+                {
+                    "name": "Полянка Premium Наполнитель для грызунов Лянок",
+                    "description": "Гипоаллергенный впитывающий наполнитель на основе льна",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fdc/2ndf6yvnr03h4sujndgnuznfyxq8gd0s/200_200_1/b12e2c42e04c9fb16b0df6ea9d202f17.jpg",
+                    "amount": "3 л",
+                    "cost": "3,40  руб."
+                },
+                {
+                    "name": "Bunny Сено луговое с календулой 500 г",
+                    "description": "Сено для грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ef/6g3umx4wz3p7orgf2dojw0ry8v7opl2d/200_200_1/a54bb0c1ff13d8c828ec48a5e06f3aae.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,70 руб."
+                },
+                {
+                    "name": "Опилки для грызунов CHIPSI STRAWBERRY 15 л (1 кг)",
+                    "description": "Подстилочный материал с натуральным, клубничным ароматом",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/64c/bdphut3ip5kaxxphsoni9p952p2w8ogq/200_200_1/strawberry-10cfa7fb-6e4e3d30@410w.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "Полянка Premium Сено луговое",
+                    "description": "Луговое сено для кроликов и грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/19f/mlna04wi0aj7tq3t76hjhxl8ex5jmivj/1f27fb589d4c12484dfacb80a7898252.jpg",
+                    "amount": "14 л",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "LOVE SAND Опилки древесные",
+                    "description": "Натуральные древесные опилки",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3fe/k2zigcf17xkuc6mwf6yo0wxfjo8kxx97/200_200_1/f7ae70fcb8debff19f56022c8c5a0cba.jpg",
+                    "amount": "2,5 кг",
+                    "cost": "6,50  руб."
+                },
+                {
+                    "name": "Ferplast Гнездо из ваты для хомяков",
+                    "description": "Гнездо для хомяков из натурального хлопка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/72a/t0u9643ea3fvj8u6o1k0t8l8v3kfumem/200_200_1/f907a51712fc417b5b69de17173ce15d.jpg",
+                    "amount": "12,5x2,5x23 см",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Песок Padovan для купания шиншилл",
+                    "description": "﻿Позволяет тщательно очистить шерсть шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/160/uob1t5vqcl7bdo7ifptmkndb0zf3hkno/200_200_1/74353ce2560ee13e9006d7c7846ae1e8.jpg",
+                    "amount": "2 л",
+                    "cost": "49,30  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat Ultra (Морской бриз)",
+                    "description": "Наполнитель кукурузный комкующийся",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b5b/z9yp4detrzyxbmoxpi5z0we0tdvi1wv1/200_200_1/05e0cbd6f36306eadede5b38c3dee9ae.JPG",
+                    "amount": "7 л",
+                    "cost": "26,40  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat Ultra (Натуральный)",
+                    "description": "Наполнитель кукурузный комкующийся",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0f5/ncqc8e8c4m4a6wmnb5mc20opbs08iubq/200_200_1/027c7313df166c169c4bce34fd711131.JPG",
+                    "amount": "7 л",
+                    "cost": "25,30  руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat Ultra (Свежая трава)",
+                    "description": "Наполнитель кукурузный комкующийся",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c47/v8c18ekem8ravfqt125gk0qskwju2cri/200_200_1/c1fc1917103878547010ac6efce99aed.JPG",
+                    "amount": "7 л",
+                    "cost": "26,40  руб."
+                },
+                {
+                    "name": "Vitapol Песок для шиншилл",
+                    "description": "Песок для купания шиншилл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d0/4ckacwlgejd8gacipdh3rz6h5urz7eqz/200_200_1/86ad91585cafac114569bb968f58e864.jpg",
+                    "amount": "1,5 кг",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "\"Хвостун\" Сено",
+                    "description": "Натуральное сено для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/386/2ezy052rqfeduk6bspnjhmvwt1kme4ii/200_200_1/fa3cea777dee0c0739f862b6a8938ebc.jpg",
+                    "amount": "400 г",
+                    "cost": "2,70  руб."
+                },
+                {
+                    "name": "Vitapol Сено",
+                    "description": "Луговое сено для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/54a/t8zxnuw8rusqe0lv7tevybwr0bsh3xaa/200_200_1/1149c20de1c9fa2a10900d7a8c14967c.jpg",
+                    "amount": "250 г",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "Подстилочный материал \"TRIXIE\" для хомяков, 20 г",
+                    "description": "Подстилка для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82f/ar3c4vnc5zn2h2cu4u4e0z2mf2bab19u/200_200_1/f29403461c286fa9467b939c4f1ccc0e.jpg",
+                    "amount": "Белый",
+                    "cost": "3,10  руб."
+                },
+                {
+                    "name": "Dr.Hvostoff Сено луговое 0,5 кг (10 л), брикет",
+                    "description": "Сено для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b70/7q98nj0mmuhq1ux1or82tgxl2ndhf9mo/200_200_1/9714bd74eb50c7437cccb7cbc5a736a9.jpg",
+                    "amount": "Натуральное",
+                    "cost": "2,50  руб."
+                },
+                {
+                    "name": "Песок для Шиншилл ВАКА \"Чистюля\"",
+                    "description": "Очищает шерстку, придаст ей блеск и пушистость.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d53/y92iz9ueckh414wewzthrn3p0e6ilwhp/200_200_1/9eed8913d510064ae4b317416694014e.jpg",
+                    "amount": "1,6 л",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Power Vit Песок для шиншилл",
+                    "description": "Песок для шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a96/1rkj3yszpqnkbksbjpso1dmpzkw549q0/200_200_1/ec2102267fef2d25b35367d09ada4d71.jpg",
+                    "amount": "1,5 кг",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Versele-Laga Woodchips древесная подстилка (стружка)",
+                    "description": "Прессованные опилки для для птиц и грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c72/3sxerh37t1f7hz233zqu1zo31nhk215y/200_200_1/1ec91ceab32a7c2dc7fe6b90ba2dbffd.jpg",
+                    "amount": "1 кг",
+                    "cost": "7,10  руб."
+                },
+                {
+                    "name": "Наполнитель CareFresh Pure White",
+                    "description": "Впитывающий бумажный наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a6/ggsfmnvepg761i63fftt64pms6v2k29z/200_200_1/e1840b2798e598f29167759cbc490df2.JPG",
+                    "amount": "10 л",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Наполнитель CareFresh Confetti",
+                    "description": "Впитывающий бумажный наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ddf/kyx2kygm6fu84t5t92em3i4l83kqwjws/200_200_1/b93b10aa0accdb5da152f3b53c75aa31.jpg",
+                    "amount": "10 л",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Наполнитель CareFresh Blue",
+                    "description": "Впитывающий бумажный наполнитель, 10 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fc7/pmew1ttcln1q81my21c7o7th68ixifk5/200_200_1/03dec458130742808501a36edfa4a92a.jpg",
+                    "amount": "10 л",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Наполнитель CareFresh Pink",
+                    "description": "Впитывающий бумажный наполнитель, 10 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/56f/ts5wvg9f6jp5lbfdj2kdhssoz45stztm/200_200_1/3f5ebbd36c93adc53a24873861b16ea2.jpg",
+                    "amount": "10 л",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Наполнитель для грызунов в виде пластины \"Toyota silica gel\"",
+                    "description": "В упаковке 1 лист размером 45 х 56 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/636/9wwzfigzvaudewbo13l9y1bbmzzt555w/200_200_1/b0aa5522169a8c324f8a6c5a71c64975.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,40 руб."
+                },
+                {
+                    "name": "Наполнитель для грызунов в виде гранул \"Toyota silica gel\"",
+                    "description": "Рассчитан на 30 дней использования.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/543/itp5092z28q7ich9b1g5eo7j3f5ac743/200_200_1/83250ef1216790a773d44b98cd326fa5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,80 руб."
+                },
+                {
+                    "name": "Panama Pet Гнездо с кольцевидным сеном, 26 см",
+                    "description": "Сено для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cbd/5e5h35zk58v2fvf6iymelof7e75knhv9/200_200_1/5e5c08bf3501954a25ae3e6399cfa4ff.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,10 руб."
+                },
+                {
+                    "name": "Power Vit Опилки Natural Litter, 1100 г",
+                    "description": "Натуральные опилки для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/966/gl12bb1rgihihfyjnv85cl9ddxsivj4j/200_200_1/cedb181bb91406859efd9b4be4962337.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,70 руб."
+                },
+                {
+                    "name": "Опилки \"ХВОСТУН\", 800 г",
+                    "description": "Опилки хвойные для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3a/k5fy6rbcf92wdwpeoodyutx2trietvjh/200_200_1/aab70c199164858b0fd12b7c33d17271.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,70 руб."
+                },
+                {
+                    "name": "Padovan Наполнитель древесный для грызунов с лимоном, 1 кг",
+                    "description": "Гигиенический наполнитель с запахом лимона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/80b/mk40vzyoovrvyg7j2dzljaowlizar7sc/200_200_1/eed8859b30a3a8b5d9d875f8924a7191.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,70 руб."
+                },
+                {
+                    "name": "Fiory Сено прессованное для грызунов, 30 л",
+                    "description": "Гигиеническая подстилка для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e52/wsqc69wvmmn9wstwszazuajykfafpk5a/200_200_1/ec7773ffa1f29582024f2088d5ee7ce9.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "Padovan Сено Луговые травы для грызунов, 1 кг",
+                    "description": "Сено для кроликов, морских свинок и шиншилл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c5/f008dal8tdw4if34ilimw1lybydw2whb/200_200_1/906939a8cb1df822ab888b80f7a0cfb7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,10 руб."
+                },
+                {
+                    "name": "Padovan Наполнитель древесный для грызунов с яблоком, 1 кг",
+                    "description": "Гигиенический наполнитель с запахом зеленого яблока",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5be/nvzki3viaxf51dksz9fpn3l01gu6em4u/200_200_1/322fe35af0a1979350fa8a42c8228581.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,70 руб."
+                },
+                {
+                    "name": "Pussy Rabbit Подстилка для грызунов и птиц (Стружка)",
+                    "description": "Экологически чистый натуральный впитывающий наполнитель.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/80b/01dje5lmdwu39tuhu3ud2a6wza66oh7m/200_200_1/4ef04387a4fc7fc7f2ff4bfe6c30e029.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,40 руб."
+                },
+                {
+                    "name": "Pussy Rabbit Подстилка д/грызунов и птиц (Гранулы)",
+                    "description": "Из опилок натуральный древесины.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f6/ih7qu7vyqb8nxdera9d7d743npg10enb/200_200_1/0f083cc8ed1d492abd58d3b97c45c65c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,40 руб."
+                },
+                {
+                    "name": "Pussy Rabbit Подстилка д/грызунов и птиц (Сено)",
+                    "description": "Из опилок натуральной древесины.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/12d/dq78is6p1lsll5xj41r2431b715lx9f9/200_200_1/84aaa12c6e58f690ea646793373c9381.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,40 руб."
+                },
+                {
+                    "name": "Vitapol Опилки натуральные, 1100 г",
+                    "description": "Натуральные древесные опилки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ecf/spb7nv77u3xil29uad1fwxo8fy334h96/200_200_1/e32b09c281f01e75ba3e41bf34e23b7f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Опилки для грызунов CHIPSI CLASSIC 15 л (1 кг)",
+                    "description": "Классическая подстилка для мелких домашних животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b13/5zs0sn4l11qr32gz2yuyjasntitvpwaw/200_200_1/95db793ec269d87021bc76e257fd6b20.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Наполнитель Asan Petit, 4,5 л",
+                    "description": "Целлюлозный наполнитель для грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/d5b/48fr7dit3oca8sl3y3yqq6f11gerrk4u/a7f651b644fdb819c239be9ade10e2e1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,60 руб."
+                },
+                {
+                    "name": "Super Benek Corn Cat кукурузный Golden",
+                    "description": "Комкующийся гранулированный с улучшенной формулой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/58d/hqq415r7m1nrg6nuqxafevqblu6tnnca/200_200_1/013dcc5c0eac41416b4771a2e1307c5b.jpg",
+                    "amount": "7 л",
+                    "cost": "25,30  руб."
+                },
+                {
+                    "name": "Lolo Pets Песок для шиншилл",
+                    "description": "Песок для шиншилл.",
+                    "image_url": "https://garfield.by/upload/iblock/5d6/pnfk78d7ixkdz4dnwhevks8xneiq12lr/a47d51fdee67fb4323d4fdb830e38b6d.jpg",
+                    "amount": "1,5 кг",
+                    "cost": "8,00  руб."
+                },
+                {
+                    "name": "LoLo Pets Сено луговое",
+                    "description": "Луговое сено для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f33/w9xn0bv6u5dhdmkteouefu1ngh78497n/200_200_1/d39f26c0cf25d75602e8fe3a10281ce6.jpg",
+                    "amount": "300 г",
+                    "cost": "3,20  руб."
+                },
+                {
+                    "name": "LoLo Pets Подстилка из опилок",
+                    "description": "Натуральная подстилка из опилок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bd7/jc4q9weq5qq68ex5nga22nu6oiisjm8e/200_200_1/c37cd3d8f28168b31d474b8a751e5fc8.jpg",
+                    "amount": "1,1 кг",
+                    "cost": "6,80  руб."
+                },
+                {
+                    "name": "Полянка Premium Древесная стружка",
+                    "description": "Древесная стружка для кроликов и грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/122/f5vnqclzj5gtdox78lwnogi45fy1obkw/79f5aa70c6cda8318d4a6f91deb1446a.jpg",
+                    "amount": "19 л",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Кошкина Полянка \"Звездный Песок\"",
+                    "description": "Наполнитель с вкраплением голубых гранул.",
+                    "image_url": "https://garfield.by/upload/iblock/5d5/ux0q9q0v8lh2q4xh5s6bntovdv8kz9h7/cd42822c58569aad901e8fed6bbc72f0.jpg",
+                    "amount": "3,8 л",
+                    "cost": "21,90  руб."
+                }
+            ]
+        }
+    }
+}

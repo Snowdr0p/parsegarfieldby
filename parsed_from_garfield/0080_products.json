@@ -1,0 +1,1199 @@
+{
+    "Рыбки": {
+        "Корма, кормушки": {
+            "url": "https://garfield.by/catalog/akvariumistika/korma.html",
+            "products": [
+                {
+                    "name": "DIB PROTEIN Мука из личинок мухи Черная львинка",
+                    "description": "Протеиновая мука для насекомоядных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b83/gzdzhwqz47hbzsylm8eq7l40fsjsw2dn/200_200_1/мука350гр.png",
+                    "amount": "150 г",
+                    "cost": "14,20  руб."
+                },
+                {
+                    "name": "DIB PROTEIN Личинки мухи Черная львинка",
+                    "description": "Лакомство для насекомоядных животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b3/isxqj6si5w3lodxtbdswc0pq7fpcykj2/200_200_1/личинка 75 гр.png",
+                    "amount": "40 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Tetra Guppy Colour Mini Flakes",
+                    "description": "Полноценный корм для гуппи и других живородящих карпозубых",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de2/k62flf00corce31wgshbn3mu1pwskka8/200_200_1/csm_T514074_9651_2d84d70234.jpg",
+                    "amount": "100 мл",
+                    "cost": "14,90  руб."
+                },
+                {
+                    "name": "Tropical Garlic Granules Breeder Line",
+                    "description": "Корм с чесноком для аквариумных рыбок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e09/jj29idb1muznqir9ij1q208j8eahsilz/200_200_1/1596488607759633_636263.jpg",
+                    "amount": "5,5 кг",
+                    "cost": "428,10  руб."
+                },
+                {
+                    "name": "Tropical Basic Mini Granules Breeder Line",
+                    "description": "Основной корм для всех видов тропических рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/388/vg1ghhqad6mq25jkl4dx2r78maq9yc7c/200_200_1/1596487802945533_247944.jpg",
+                    "amount": "6,3 кг",
+                    "cost": "410,10  руб."
+                },
+                {
+                    "name": "Tropical Goldfish Flakes Breeder Line",
+                    "description": "Полноценный основной корм в виде хлопьев для золотых рыбок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8f3/r32rfh626cnm5mk1y9rq2amvi6xun59l/200_200_1/1596106677812246_43694.jpg",
+                    "amount": "1 кг",
+                    "cost": "68,60  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корм для улиток",
+                    "description": "Корм для сухопутных улиток",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/842/0y35fax2upck50oi1f6vekhw0qveqxxq/200_200_1/банка корм для улиток.jpg",
+                    "amount": "165 г",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Гаммарус",
+                    "description": "Лакомство для грызунов и улиток",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0cd/anhb8bfu78tliqolwtjx0v35msltmehz/200_200_1/банка гаммарус.jpg",
+                    "amount": "25 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "БОСПА ЭКО Корм для черепах",
+                    "description": "Корм в виде палочек для пресноводных черепах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/466/rulro7ue68gtvscr6r0xtkmusawze3q8/200_200_1/банка корм для черепах.jpg",
+                    "amount": "70 г",
+                    "cost": "18,60  руб."
+                },
+                {
+                    "name": "Exo Terra Поилка-камень Water Dishes",
+                    "description": "Поилка для террариума из пищевой смолы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d58/9svrorr05zxp09vbdzcrbp2qbb408u71/200_200_1/56fd3903c4ca3d91bf1b0225d23907bb.jpg",
+                    "amount": "S",
+                    "cost": "20,20  руб."
+                },
+                {
+                    "name": "Exo Terra Водопад с помпой Natural Waterfall",
+                    "description": "Стимулирует естественное питьевое поведение ящериц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dbd/jyyq9st6z1akij0ro8et8v7dgcicnf5z/200_200_1/6af700461980ec9308bcf59e2a1ac3d9.jpg",
+                    "amount": "16x20x17 см",
+                    "cost": "168,90  руб."
+                },
+                {
+                    "name": "Exo Terra Водопад Tiki",
+                    "description": "Декорация в стиле гавайских / полинезийских тики",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/36c/d4ibf8w3aspcq376xegty36d115m08ys/200_200_1/83fcfc607a1db22aa2579e6373db3323.jpg",
+                    "amount": "31х32х38 см",
+                    "cost": "294,40  руб."
+                },
+                {
+                    "name": "Exo Terra Кормушка-поилка Aztek",
+                    "description": "Кормушка-поилка для оформления террариумов в стиле Ацтек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3e1/39j4lcqrucgk2fd8ygdt33jepbn7mx26/200_200_1/333a449e28f480bf83d0e8242e130734.jpg",
+                    "amount": "15 мл",
+                    "cost": "24,70  руб."
+                },
+                {
+                    "name": "Repti-Zoo Поилка террариумная 09ERB",
+                    "description": "Поилка из пищевой нетоксичной полиэфирной смолы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b9/q5hfhos3javhf3ix2i2symjuotwaw1d6/200_200_1/5bd4cc7103da21ce4f96b6e3c2dbc303.jpg",
+                    "amount": "110х77х30 мм",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Repti-Zoo Кормушка террариумная 10ERBS",
+                    "description": "Кормушка из пищевой нетоксичной полиэфирной смолы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5eb/6o5i1hsudkd4tfzwdn4bwoq5sdkqrcic/200_200_1/2e999efae5abc7fcf405b3f45dd660cf.jpg",
+                    "amount": "140х105х30 мм",
+                    "cost": "40,20  руб."
+                },
+                {
+                    "name": "Aquareef Корм для рыб Дафния",
+                    "description": "Корм для мелких и средних видов декоративных рыбок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0bf/025appbz1hhk7v8d4y0srw2oa2l805ic/200_200_1/36642cbaa96267ff52df42020dccf6fe.jpg",
+                    "amount": "14 г",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Aquareef Корм для рыб Гаммарус крупный",
+                    "description": "Полноценный корм для аквариумных рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/594/o04dyciqn292oxgx9rlp1txy11sffwm1/200_200_1/70aacc0c02683b93bb16e5affcd3a285.jpg",
+                    "amount": "13 г",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "Tetra Cichlid Mini Granules",
+                    "description": "Основной корм для маленьких и карликовых цихлид",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fa5/m3k8sjdk9lbd6znp2s9py17gsy3eeini/200_200_1/936cdfddc0b9fc4efb87c336cd802860.png",
+                    "amount": "250 мл",
+                    "cost": "27,80  руб."
+                },
+                {
+                    "name": "Tetra ReptoDelica Shrimps",
+                    "description": "Дополнительный корм для черепах (креветки)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d4/jgm4va4k2sansdb9ku1urut6xwrul693/200_200_1/23318a12f3c8169cf4f51d96f6305aaa.png",
+                    "amount": "250 мл",
+                    "cost": "19,90  руб."
+                },
+                {
+                    "name": "Tetra Crusta Menu",
+                    "description": "Основной корм для креветок и раков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/64e/pyudqejkf2bvarm8y73rdfxrts8atam8/200_200_1/61db18c4e0cdd16f3b7e36070ab0a83c.jpg",
+                    "amount": "100 мл",
+                    "cost": "23,70  руб."
+                },
+                {
+                    "name": "Tetra Корм Cichlid XL Sticks",
+                    "description": "Основной корм в виде палочек для больших цихлид",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b5a/ejuibipi3bubjkhphwf3z3wtgypyr00i/200_200_1/52cf5843fc2ffc1ece352b508f995fed.png",
+                    "amount": "1 л",
+                    "cost": "64,20  руб."
+                },
+                {
+                    "name": "Tetra Корм Micro Menu",
+                    "description": "Корм для рыб небольшого размера, которые кормятся в различных слоях воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/30f/090w2dfu21tmmpctam4t9qtqvxp512rx/200_200_1/381e4455d6b60348475fa55f39eb21db.png",
+                    "amount": "100 мл",
+                    "cost": "17,00  руб."
+                },
+                {
+                    "name": "Tetra Корм Micro Granules",
+                    "description": "Корм в гранулах для декоративных рыб небольшого размера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/54d/x778qj454lw685wdnzr3iol8mp7fiuct/200_200_1/4e9cb1ce750074ec1862a08067e69193.png",
+                    "amount": "100 мл",
+                    "cost": "14,00  руб."
+                },
+                {
+                    "name": "Tetra Корм Cichlid Algae Pellets",
+                    "description": "Полноценный растительный корм для всех видов рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/38b/a13n3vuxurqoddl2nptwweoonxahl7bf/200_200_1/40f1d062ad32c5a77593c55ca29e9874.png",
+                    "amount": "500 мл",
+                    "cost": "45,70  руб."
+                },
+                {
+                    "name": "Sera Корм-лакомство для всех рыб \"O-Nip\"",
+                    "description": "Корм-лакомство в таблетках для донных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/276/pzgp49nkeanu9zidqckglcmlksex7yfd/200_200_1/10d3dbb474199eae9439225917f8d119.png",
+                    "amount": "66 г (24 таб.)",
+                    "cost": "10,90  руб."
+                },
+                {
+                    "name": "Sera Корм таблетки для всех рыб \"Spirulina Tabs\"",
+                    "description": "Растительный корм с высоким содержанием спирулины.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f5d/70s2ztka1rx1131qjjgxkqmlusyzno8b/200_200_1/5fcc20074911d20cb432f80606f59027.png",
+                    "amount": "14 г (24 таб.)",
+                    "cost": "13,10  руб."
+                },
+                {
+                    "name": "Tetra Корм Pleco Veggie Wafers",
+                    "description": "Корм с цукини для кольчужных травоядных сомов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9a8/se580whp5zg8f9pph69y4wqba1gzlalg/200_200_1/1e19da92a9f36a64c252ddc5d34ef293.png",
+                    "amount": "15 г",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "Tetra Корм Guppy",
+                    "description": "Сбалансированный корм для всех видов гуппи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b88/n03snhksy3o1yru5ntfqx35zl3df9nh9/200_200_1/1abbed66a8003fbbb290e1025f4c5110.png",
+                    "amount": "12 г",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Repti-Zoo Кормушка-поилка для рептилий",
+                    "description": "Кормушка из полиэфирной смолы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/260/b28buhzmkmh0w3r9p08e8k5bmd5hwdqa/200_200_1/e769d2e147fc5e9ce43307a77ef723b5.jpg",
+                    "amount": "92х68х23 мм",
+                    "cost": "16,60  руб."
+                },
+                {
+                    "name": "Sera Корм палочки для водных черепах  \"Raffy Mineral\"",
+                    "description": "Дополнительный корм для черепах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/352/togkjjtvn4rgw2ggw0l24e73d9phd9oc/200_200_1/e1c76a5f54573830f820d6fa3f748c19.png",
+                    "amount": "250 мл",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для выращивания мелких рыб \"ImmunPro Mini Nature\"",
+                    "description": "Медленно тонущий корм для выращивания рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/80b/vwygfflowm69i2jn9u4nufylw5fw8hwb/200_200_1/c7105ac5727fa028fb3639b3b19c445b.png",
+                    "amount": "100 мл",
+                    "cost": "15,40  руб."
+                },
+                {
+                    "name": "Sera Корм хлопья для всех рыб \"Vipan Nature\"",
+                    "description": "Натуральный основной корм для декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/541/h66es5qyon4m93j9fyywmtd2kgw0crk4/200_200_1/6270744c2ba17169829bba4ccf5591ec.png",
+                    "amount": "22 г (100 мл)",
+                    "cost": "12,40  руб."
+                },
+                {
+                    "name": "Tetra Корм Gammarus",
+                    "description": "Сушеный корм для рыб и водных черепах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/921/45my8zqrp23xgba406ujkb1u7fvkeyee/200_200_1/85501a3d1b035d230b7ca0b945b6bdde.png",
+                    "amount": "100 мл",
+                    "cost": "7,30  руб."
+                },
+                {
+                    "name": "Tetra Корм Crusta Sticks",
+                    "description": "Корм для креветок и раков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1ee/26c43liy7quzhzwk9d45n7jxdj7nreh5/200_200_1/8e8d3116a2ed2e038c6043a886581e6a.png",
+                    "amount": "100 мл",
+                    "cost": "22,00  руб."
+                },
+                {
+                    "name": "Tetra Корм Micro Crisps",
+                    "description": "Корм в виде чипсов для небольших декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ea/4sm67so02lgywzkfe3xyzq2bc77dzfv2/200_200_1/991de0937a51f45568f00bf7ec931240.png",
+                    "amount": "100 мл",
+                    "cost": "15,60  руб."
+                },
+                {
+                    "name": "Tetra Корм Micro Pellets",
+                    "description": "Пеллетный корм для мелких декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/13f/5s0r5sh36ai6kq1nt6tff06eh6txz138/200_200_1/fa71b1636bb982d2ce29ec8038b10210.png",
+                    "amount": "100 мл",
+                    "cost": "15,60  руб."
+                },
+                {
+                    "name": "Tetra Корм Pleco Tablets",
+                    "description": "Таблетированный корм для донных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cc/e754cv0ygkzekulm3iblr3lugrg5l5l3/200_200_1/74c336e72b1286858448079f22009ea0.png",
+                    "amount": "120 таб.",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Tetra Корм Pleco Spirulina Wafers",
+                    "description": "Растительный корм премиум-класса для питающихся на дне рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0d/spawt8ag1ib0kmq7y4hnlm0jazh7dqzf/200_200_1/d6a7a30926790b4a8f2c023b577c8783.png",
+                    "amount": "15 г",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "Tetra Корм Cichlid Colour Mini",
+                    "description": "Полноценный корм для всех видов небольших цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad4/ljbkpcap9wdnmrefy3745ki0mjjrqlxg/200_200_1/a187726acd7490cb8d925ae8940f8c0e.jpg",
+                    "amount": "10 л",
+                    "cost": "315,30  руб."
+                },
+                {
+                    "name": "Tetra Корм TetraPhyll для травоядных рыб",
+                    "description": "Полнорационный корм для всех видов тропических рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/79c/mljvbjcoforl1pm16hlyplb402aot3yj/200_200_1/57d1f251f8a296aeaac3bfca0619fa23.png",
+                    "amount": "12 г",
+                    "cost": "4,00  руб."
+                },
+                {
+                    "name": "Sera Корм палочки для водных черепах \"Raffy P\"",
+                    "description": "Основной корм для водяных черепах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/75a/nfqm5zdtohi10roojaawpjdcw6qlg5ba/200_200_1/38cde227a42399e7e02982f75d9fa12b.jpg",
+                    "amount": "22 г (100 мл)",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Sera Корм-деликатес для водных черепах \"Raffy I\"",
+                    "description": "Кормовая смесь для рептилий и амфибий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c28/d4z5s9u23s5ncfgz39qokiik984hvsxd/200_200_1/1d21bac2d8051e3e235b9e126bf3b561.jpg",
+                    "amount": "12 г",
+                    "cost": "10,90  руб."
+                },
+                {
+                    "name": "Sera Корм таблетки для сомов \"Vipachips\"",
+                    "description": "Корм в виде чипсов для придонных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2fd/5kvz03x6e7bi5c8ysp02amjv7ku2n9wb/200_200_1/dcbd190752776676702dfcf8fd958037.jpg",
+                    "amount": "15 г",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для гуппи \"Guppy Gran\"",
+                    "description": "Специальный корм для гуппи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/334/0r7umrikmo57r3g2diytui1l3qaemjmd/200_200_1/d6bbcadae747c09e121e0e812d7e12fa.jpg",
+                    "amount": "10 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Sera Корм для петушков \"bettagran\"",
+                    "description": "Корм в гранулах усиливающий яркость окраса рыб петушков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ca/55tug4hfztwr5kh27xs3c19whyepl5m7/200_200_1/3ac6fe66835eca9164c9164f79517308.png",
+                    "amount": "10 г",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Sera Витаминный препарат \"Fishtamin\", 15 мл",
+                    "description": "Эмульсия из 12 ценных витаминов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/939/okxf2gl6tpcstv1hv3rux3k0qp70zcm9/200_200_1/3338ba35b6d6e402cdad63402055047d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,20 руб."
+                },
+                {
+                    "name": "Sera Корм таблетки для всех рыб \"Holiday\", 2 таб.",
+                    "description": "Корм выходного дня, 4,8 г.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/46a/1b51ix3t4k7wfp0hexset5bi7juflpys/200_200_1/8c9b3152ad684870dcb76bb082faea1c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,90 руб."
+                },
+                {
+                    "name": "Sera Корм для мальков  \"Micron\", 25 г",
+                    "description": "Микротонкий корм для разведения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d16/1zas53b13os4spk4k1ve83c75o9qe10p/200_200_1/30e4370602953af2ffd5be8ae39b0678.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,30 руб."
+                },
+                {
+                    "name": "Sera Корм хлопья для мальков \"Vipan baby\", 30 г",
+                    "description": "Микрохлопья для маленьких рыбок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/772/opsmvomon3jayt4d9u0s3bnxsp6gan4f/200_200_1/c6af895c9d8ed65058a8f8262413b6ca.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "Sera Корм Discus Color Blue для окраса дискусов",
+                    "description": "Корм для окраса голубых дискусов, гранулы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab9/ic1r77v70si7jix8mgzjn2p6dw9na2m6/200_200_1/e9763d90015e1821c6acb981a246269a.png",
+                    "amount": "100 мл срок до 11.2022 г",
+                    "cost": "15,00  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для креветок \"Shrimps Natural\", 55 г",
+                    "description": "Для всех видов креветок, обитающих в пресной и морской воде/",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d20/nji1kx7gj5f5yemm7mwr2pwwmsynsqfs/200_200_1/3a6bf5a69fff807369fc56b5f7238f39.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,70 руб."
+                },
+                {
+                    "name": "Sera Корм хлопья для золотых рыбок \"Goldy\"",
+                    "description": "Корм для золотых рыбок и других холодноводных видов рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2c7/2aae7wr0nprbih0qbi5gqntrvm0ocyqy/200_200_1/a7dfbe467b798c380fd3ddad365b4c29.jpg",
+                    "amount": "12 г",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Sera Корм хлопья для усиления окраса у всех рыб \"San\"",
+                    "description": "Премиум-хлопья усиливающие окрас.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c19/y0cb39lg3kmpyt8cwyxezhlizboxs552/200_200_1/4d9d420193940c959b4ceed3bedd2958.jpg",
+                    "amount": "10 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Sera Корм хлопья для всех рыб \"Flora\"",
+                    "description": "Растительные хлопья со спирулиной для растительноядн. рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1e8/yf92gpx8209ncvzmxsyb1wptqmdqy7ep/200_200_1/f9be8dc22b16130b47e1d24c44444b39.jpg",
+                    "amount": "22 г (100 мл)",
+                    "cost": "13,40  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для всех рыб \"Vipagran\"",
+                    "description": "Для рыб, кормящихся в средних слоях воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e4b/1prs1j69308tspa9kj8y3e6kg5v3cisp/200_200_1/c84057af5cbc3c8d51420750f0c9a835.jpg",
+                    "amount": "12 г",
+                    "cost": "2,90  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для всех растительноядных рыб \"Granugreen\"",
+                    "description": "Гранулированный корм для цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/08d/rnkevptr9y4r862gghgl3jo0f9kqk5ys/200_200_1/1ddd8bfdd75f2bc516e94cf7ea9abd93.jpg",
+                    "amount": "20 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для дискусов \"Discus Granules\"",
+                    "description": "Для всех видов дискусов и других привередливых декоративных рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b4/04ht2yu7xpkpl8d92zx6bctfe0r7ayli/200_200_1/8d8aaf77e4a404d6513ecfe0ea1fbdc0.jpg",
+                    "amount": "12 г",
+                    "cost": "2,90  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для мелких цихлид \"Granured\"",
+                    "description": "Гранулированный корм для цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/329/q0v8cda2aho7m8413niz9cym3h0oks57/200_200_1/972b8b3351b17136eebd32c7df756df6.jpg",
+                    "amount": "20 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для золотых рыбок \"Goldy Gran Nature\"",
+                    "description": "Гранулированный корм для золотых рыбок и других хладнокровных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/774/9id4ymfv2beajtd8591s3oczhsj4khf1/200_200_1/bfae3ecce7d62e2816a2f4ddaab0ed75.png",
+                    "amount": "18 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Eheim Кормушка автоматическая",
+                    "description": "Объем отсека для корма составляет 100 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/690/75223uh64uic9jdtjcevvenpoh9yizx3/200_200_1/feeb71e8a176c89f501bedbbc17a91e2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "280,10 руб."
+                },
+                {
+                    "name": "Eheim Кормушка автоматическая TWIN",
+                    "description": "Объем отсека для корма составляет 160 мл.",
+                    "image_url": "https://garfield.by/upload/iblock/0e9/q03ckdecz20lvjmnj3fopyycs5br08bl/fea5a0ed5674447ac2d9463bf5efe0a1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "370,10 руб."
+                },
+                {
+                    "name": "Tetra Корм TetraMin Baby, 66 мл",
+                    "description": "Корм для мальков до 1 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fb/rf4n7tkbc47dz2csmyevbu6pzm57p3xc/200_200_1/923e7f0e47f7d065de87ca258af5bae6.png",
+                    "amount": "за 1 ед.",
+                    "cost": "17,90 руб."
+                },
+                {
+                    "name": "Tetra Корм TetraMin",
+                    "description": "Основной корм в виде хлопьев для всех тропических рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1cd/j1657g3n99e89jn3u5onhyu8d47ucb6o/200_200_1/96a870d07e8f2b902be6bed263f91fbf.png",
+                    "amount": "12 г",
+                    "cost": "3,80  руб."
+                },
+                {
+                    "name": "Tetra Корм TetraMin XL Flakes",
+                    "description": "Основной корм для крупных пресноводных декоративных рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/50b/1vt90frw9a1n8kd1uf7q95htyup0l9lt/200_200_1/c4ce6a44d592b3b8b9b276ab5edee61d.png",
+                    "amount": "1 л",
+                    "cost": "57,40  руб."
+                },
+                {
+                    "name": "Tetra Корм TetraMin Granules",
+                    "description": "Гранулированный корм для всех видов декор. рыбок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77c/m8frvc0ixt9c8mb5k64dx745beq5wtzh/200_200_1/9b373d587289523ff8b7f0b249f241de.jpg",
+                    "amount": "15 г",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Tetra Корм TetraMin Mini Granules, 100 мл",
+                    "description": "Основной корм в гранулах для небольших декор.рыбок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f92/ymr1vj7ye8fy03g7zipd5b3l01e9s570/200_200_1/8c9e3c40eda60e04cfec4d7b849e4f58.png",
+                    "amount": "за 1 ед.",
+                    "cost": "14,00 руб."
+                },
+                {
+                    "name": "Tetra Корм TetraMin Crisps",
+                    "description": "Основной корм в виде чипсов для декоративных рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c77/1a19rd4h9o6ffvdkjduu2t703y1ofny7/200_200_1/Screenshot_5.jpg",
+                    "amount": "12 г",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Tetra Корм TetraPro Energy",
+                    "description": "Высококачественный корм в виде чипсов (здоровье и энергия).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de1/0tqtyyw194lhq7yfk9totbrj5lt6sfww/200_200_1/85a29e54e371d4b22dc7052d296392e0.png",
+                    "amount": "12 г",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "Tetra Корм TetraPro Colour",
+                    "description": "Корм в виде чипсов для усиления и насыщенности окраса.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/12f/wj9ih5zivu285j0s63xcguwdycq0soad/200_200_1/c8a1bc32c3213024d497e34a2412d4c5.jpg",
+                    "amount": "12 г",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Tetra Корм TetraPro Algae",
+                    "description": "Корм в виде чипсов (дополнительная защита организма).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f6a/8fuce77soi8k3o1hbeuf76bdq9poto21/200_200_1/75562664e49fb4744a68ae3cd48440ea.png",
+                    "amount": "12 г",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "Tetra Корм Betta Granules",
+                    "description": "Основной корм для бойцовых рыб и др. видов лабиринтовых.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f74/omne7g8f4g5o21ef36letpsfza4dzf05/200_200_1/5f28cee2a18bb7a12bf7287912315fe5.jpg",
+                    "amount": "5 г",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Tetra Корм TetraRubin Granule",
+                    "description": "Корм в виде хлопьев для усиления окраса декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/85f/ms56u0avn2zsz0e5vauhg8p8swfioeyf/200_200_1/75dcfabd367b0cf6afba835dcab84254.png",
+                    "amount": "15 г",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Tetra Корм TetraRubin",
+                    "description": "Корм в виде хлопьев для усиления окраса декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/028/igr72k7an0hp16ldb9a2n30h52d9lblg/200_200_1/4fc229b06b290b05339ac926b917406b.png",
+                    "amount": "12 г",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Tetra Корм Cichlid XL Flakes",
+                    "description": "Хлопья для цихлид и других крупных декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f26/7pk347oluhl4cnn5yfp7n7eiawkjc91l/200_200_1/d5933242befc23c8f6ec2850de04f208.png",
+                    "amount": "10 л",
+                    "cost": "254,30  руб."
+                },
+                {
+                    "name": "Tetra Корм Cichlid Sticks",
+                    "description": "Палочки для всех видов цихловых и др. крупных декор. рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/30e/13fo1zzg01skxz53y12frofoj0wu30vi/200_200_1/5a8a6ef279b90fdfd023a7e142250b3c.png",
+                    "amount": "10 л",
+                    "cost": "243,70  руб."
+                },
+                {
+                    "name": "Tetra Корм Wafer Mix",
+                    "description": "Для травоядных, хищных и донных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/381/tusk66qthcaiagbrh4dmc2pgcbw2r7hg/200_200_1/4af4d71fee7838929f5f1cbf2373fc15.jpg",
+                    "amount": "15 г",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Tetra Корм Discus",
+                    "description": "Основной гранулированный корм для дискусов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/868/xzqnsno31uxl16tfzr86kew4jgdx5pmg/200_200_1/5da6cfa715a40416d1175eaef9cdff2b.jpg",
+                    "amount": "15 г",
+                    "cost": "3,30  руб."
+                },
+                {
+                    "name": "Tetra Корм Menu, 100 мл",
+                    "description": "4 различных вида корма в виде хлопьев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eae/x0cv1pxayedzy2hkbhhk9wqspxe4yqmi/200_200_1/0de968fc55b7d41945a3230e71e563a4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Tetra Корм Selection, 100 мл",
+                    "description": "4 полноценных корма в отдельных ячейках.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ddc/o41zbjc77fgeezzef4agl7djm01gh3yk/200_200_1/0fed3d4d7ddd43cb2093ada3778d4c4a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "17,90 руб."
+                },
+                {
+                    "name": "Tetra Корм Goldfish",
+                    "description": "Хлопья для всех золотых рыбок и холодноводных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aa4/ep6denx4dyx8czp9b1kwtmm22f9epyjh/200_200_1/1638167ba2f0bc4588b03fec24acd682.png",
+                    "amount": "12 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Tetra Корм Goldfish Granules, 100 мл",
+                    "description": "Гранулы для золотых рыбок и др. холодноводных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e9/h6fe28x881liolv2vpdy3shwf2suq82x/200_200_1/97d2c8daab81c0ba8a0f55a4235cc5b6.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "Tetra Корм ReptoMin Junior",
+                    "description": "Корм в виде палочек для молодых водных черепах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/944/ffnibihvnfv73nn457mo2ep1t6g80o6l/200_200_1/42fbb718feb4f2187d215a8763d068f2.png",
+                    "amount": "100 мл",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Tetra Корм ReptoMin Sticks",
+                    "description": "Основной корм в виде палочек для водных черепах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ed/gwxzdt9cubda3oft4kdx8sap4y09k651/200_200_1/16be3492de800570e539f8f032f4bb6d.jpg",
+                    "amount": "100 мл",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Tetra Корм Cichlid Granules, 500 мл",
+                    "description": "Смесь для средних и больших цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5da/w4jeb79nc5reiu4oszdy7h661hs3d472/200_200_1/a683e1f348653cec16b709b2ba7630be.png",
+                    "amount": "за 1 ед.",
+                    "cost": "46,70 руб."
+                },
+                {
+                    "name": "Tetra Корм Cichlid Colour",
+                    "description": "Полноценный корм для любых видов цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/516/2h8s7b48ikzcsf1922f7ckgkas1a1c2p/200_200_1/899213e6d6523941cb837da35a25f5c0.png",
+                    "amount": "500 мл",
+                    "cost": "45,20  руб."
+                },
+                {
+                    "name": "Tetra Корм Red Parrot",
+                    "description": "Основной корм для красных попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/480/id9pcalz4hbs2tdgzvzitcspfhu4s5mm/200_200_1/65b26e3620e2539cc87af2d1ad6bef19.png",
+                    "amount": "250 мл",
+                    "cost": "18,60  руб."
+                },
+                {
+                    "name": "Tetra Корм Tablets TabiMin",
+                    "description": "Основной корм для всех видов донных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/233/b1vj8y16xj1gfwe3pacwqoedm3gt6me3/200_200_1/0f4c1dfd77d695f0169011826b9c91e1.png",
+                    "amount": "120 таб.",
+                    "cost": "15,80  руб."
+                },
+                {
+                    "name": "Tetra Goldfish Gold Japan, 250 мл",
+                    "description": "Для золотых и др. холодноводных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1c/hjqmegsu6jhqwqkghi94v3h313y1qphp/200_200_1/71f26266cec6cc49316bf66a0716d462.png",
+                    "amount": "за 1 ед.",
+                    "cost": "21,40 руб."
+                },
+                {
+                    "name": "Tetra Корм Sachet Goldfish Colour, 12 гр",
+                    "description": "Корм для золотых и др. холодноводных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/abb/g6lkajjlajpp9wgszgk8lzvsrd7to691/200_200_1/07196a2cab9517c8972832dbcc93de41.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Tetra Корм Cory ShrimpWafers, 100 мл",
+                    "description": "Корм для травоядных, хищных и донных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/866/651whxx87bkz0wa7qcgoeg5bsp3m7v2h/200_200_1/c1c69b0710801ee55b0031104d2df837.png",
+                    "amount": "за 1 ед.",
+                    "cost": "15,80 руб."
+                },
+                {
+                    "name": "Tetra Корм Betta LarvaSticks 5 гр",
+                    "description": "Для бойцовых др.видов лабиринтовых рыб, палочки.",
+                    "image_url": "https://garfield.by/upload/iblock/df2/9mlm33duw1h54j4ymozx3lt3qdgqdo42/cfdaa9cff89a39a9fe46fb1afceec575.png",
+                    "amount": "за 1 ед.",
+                    "cost": "5,90 руб."
+                },
+                {
+                    "name": "Tetra Корм TetraMin XL Granules 10 л",
+                    "description": "Основной корм для всех видов тропических рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ca2/g0a65hsz37om3ce2xkhrbpoik1g5ba9w/200_200_1/8696582f2655eb1842365e768bfdd6f5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "346,10 руб."
+                },
+                {
+                    "name": "Tetra Лакомство FreshDelica Krill, 48 г",
+                    "description": "В форме желе с крилем для декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fc4/9umjqsvy9tmfme75g5otl80vqspey3ju/200_200_1/60c41889251f4a386d6fd52a20e6b542.png",
+                    "amount": "за 1 ед.",
+                    "cost": "17,80 руб."
+                },
+                {
+                    "name": "Barrom Коретра сублимированная",
+                    "description": "Сухой натуральный корм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aec/vhq154h4qo8c6nip8lsyau5fxegmcs04/200_200_1/856281457a947c0742347136f5726020.jpg",
+                    "amount": "75 мл",
+                    "cost": "6,40  руб."
+                },
+                {
+                    "name": "Barrom Гаммарус",
+                    "description": "100% натуральный гаммарус",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/64a/i4ss9cxjpcb0k4z54iplhq204kog3wnr/200_200_1/8ace27d3e37cf81d64485b5e676126ee.jpg",
+                    "amount": "100 мл",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Sera Автоматическая кормушка XS-Feeder",
+                    "description": "Автоматическая кормушка на батарейках",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b9a/thr7ugtstcsc08mo1rwfxe2zom1q3ccv/200_200_1/csm_22611-04001942536363d010bqx0101_c5ec3caff2.png",
+                    "amount": "Черный",
+                    "cost": "128,80  руб."
+                },
+                {
+                    "name": "Tropical Mini Wafers Mix Breeder Line",
+                    "description": "Многокомпонентный корм для донных рыб и ракообразных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47e/hu214xje9ades3ajg2pw803me4n96rv6/200_200_1/159648966118248_771985.jpg",
+                    "amount": "1 кг",
+                    "cost": "60,30  руб."
+                },
+                {
+                    "name": "Tropical Algae Wafers Breeder Line",
+                    "description": "Многокомпонентный корм для растительноядных рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c94/q8t0zxaihp13jlmkf19xkjdro6v1gw7q/200_200_1/1596489225685441_4549.jpg",
+                    "amount": "1 кг",
+                    "cost": "67,30  руб."
+                },
+                {
+                    "name": "Tropical Discus Granules Breeder Line",
+                    "description": "Многокомпонентный корм для дискусов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a37/h9a62ze7rieg6ayn3mnw0z6y3ia11nb5/200_200_1/1596488437755381_749569.jpg",
+                    "amount": "1 кг",
+                    "cost": "74,10  руб."
+                },
+                {
+                    "name": "Tropical Spirulina Granules Breeder Line",
+                    "description": "Универсальный корм растительноядных и плотоядных цихлид",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7dd/7j0ojl3sxii8ehi90ip3wypz5e910qmx/200_200_1/1596487570921139_346968.jpg",
+                    "amount": "1 кг",
+                    "cost": "74,10  руб."
+                },
+                {
+                    "name": "Tropical Cichlid Sticks Breeder Line",
+                    "description": "Универсальный корм для цихлид",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/53e/9ugq983m0i824je5nxvj6jwdk4jx973g/200_200_1/1596171191291946_747329.jpg",
+                    "amount": "1 кг",
+                    "cost": "60,30  руб."
+                },
+                {
+                    "name": "Tropical Cichlid Granules Breeder Line",
+                    "description": "Универсальный корм растительноядных и плотоядных цихлид",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/869/nkrfd0t6mgz3mf2k2hcquukvd50z294r/200_200_1/1596168411331046_917864.jpg",
+                    "amount": "1 кг",
+                    "cost": "60,30  руб."
+                },
+                {
+                    "name": "Tropical Goldfish Pellet Breeder Line",
+                    "description": "Полноценный основной корм в виде гранул",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b65/wany466lfeakn2k3xskohohph68ks4mt/200_200_1/1596110818237068_120608.jpg",
+                    "amount": "1 кг",
+                    "cost": "46,50  руб."
+                },
+                {
+                    "name": "Tropical Spirulina Flakes Breeder Line",
+                    "description": "Корм в виде хлопьев с высоким содержанием растительных ингредиентов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2bf/5n5xzbmsmhykxgd1sm05bwqh37pg3rtc/200_200_1/1596109995811230_540688.jpg",
+                    "amount": "1 кг",
+                    "cost": "137,80  руб."
+                },
+                {
+                    "name": "Tropical Basic Flakes Breeder Line",
+                    "description": "Полноценный основной корм в виде хлопьев для всех аквариумных рыбок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/897/azzfewqm0u3qbaxla0s73sb1ebl99tkq/200_200_1/1596105117327267_99987.jpg",
+                    "amount": "1 кг",
+                    "cost": "84,30  руб."
+                },
+                {
+                    "name": "Tetra Marine XL Flakes",
+                    "description": "Основной корм для средних и крупных морских рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f13/6ps6tveflv1y739fxxulzteypdw25ezf/200_200_1/csm_T510321_9651_c3c5fba010.jpg",
+                    "amount": "500 мл",
+                    "cost": "44,20  руб."
+                },
+                {
+                    "name": "Exo Terra Черепашья скала Turtle-Cliff",
+                    "description": "Водопад, зона для купания и фильтр в одном",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/233/u628mg83pwaahk7af9rsiurffae368e6/200_200_1/c54422567ca75550d2445c8c8fb0436a.jpg",
+                    "amount": "22x16x19.5 см",
+                    "cost": "354,70  руб.Под заказ"
+                },
+                {
+                    "name": "Exo Terra Водопад-поилка Aztek",
+                    "description": "Поилка для террариума в тематике мезоамериканских ацтеков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/46c/3e2o98rjtizjwtrexdxvxi44fgblw5v9/200_200_1/7b34e760e34095e760393a08622e4b83.jpg",
+                    "amount": "400 мл",
+                    "cost": "245,70  руб.Под заказ"
+                },
+                {
+                    "name": "Tetra TetraMin XL Crisps",
+                    "description": "Основной корм для всех крупных декоративных рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/736/jlltboc7p07hd9smctedt7km87rjajo7/200_200_1/f38009ccdd23b6210a6e0fe221c459fa.png",
+                    "amount": "500 мл",
+                    "cost": "38,10  руб."
+                },
+                {
+                    "name": "Tetra ReptoDelica Grasshopper",
+                    "description": "Дополнительный корм для черепах (кузнечики)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77f/x211oyt0ao8mr0yh9u3c5qwcq69oxrhk/200_200_1/dbc29203c2befec5d86690bd55ea2481.jpg",
+                    "amount": "250 мл",
+                    "cost": "25,80  руб."
+                },
+                {
+                    "name": "TetraPRO Multi-Crisps Menu",
+                    "description": "Основной корм для всех декоративных рыб в виде чипсов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dfa/0ywhzvqn6aixafn3l5fhjubov0lqu9xg/200_200_1/3d733d70ff570d7aadea04ada601c041.png",
+                    "amount": "250 мл",
+                    "cost": "31,20  руб."
+                },
+                {
+                    "name": "Tetra Корм ReptoMin Baby",
+                    "description": "Питательный корм для маленьких водных черепашек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/db7/x2forgxahqgkczi02slyr5r8ii7zkl1b/200_200_1/9e8e97888165c72e12155319688c35bf.png",
+                    "amount": "100 мл",
+                    "cost": "7,30  руб."
+                },
+                {
+                    "name": "Barrom Дафния",
+                    "description": "Высушенные летом на солнце ветвистоусые рачки daphnia sp.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/849/f0dskv03ox3vs4vxelq3dd7f68ynqgy5/200_200_1/1fb72578f4d0f781c2aa4dcbc58d54b6.jpg",
+                    "amount": "100 мл",
+                    "cost": "4,00  руб."
+                },
+                {
+                    "name": "Barrom Гаммарус измельченный",
+                    "description": "100% натуральный гаммарус",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7fd/fsw23dkohd310nrm3kucwbrptwepmsb4/200_200_1/4497860.jpg",
+                    "amount": "100 мл",
+                    "cost": "3,30  руб."
+                },
+                {
+                    "name": "Sera Корм для растительноядных рептилий \"Reptil Profess. Herbivor\"",
+                    "description": "Корм для растительноядных рептилий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1dc/y50hky6c4ejd26d5ty05vlzc8n4gr2fc/200_200_1/ec425f112f06d0468d3dc28e1b31414a.jpg",
+                    "amount": "20 г",
+                    "cost": "3,10  руб."
+                },
+                {
+                    "name": "Sera Корм для водных черепах \"Reptil Profess. Carnivor\"",
+                    "description": "Комплексный корм для плотоядных рептилий",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/570/nthgmuvs3hck2l8mjchio7z0cnqtjifd/200_200_1/8d15720075fd6e2598c87bc8e82ce23c.jpg",
+                    "amount": "20 г",
+                    "cost": "3,60  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для выращивания всех видов рыб \"ImmunPro\"",
+                    "description": "Медленно тонущий корм для выращивания рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/48d/txchww1qp6d1be7f3whgppekeqek8o7i/200_200_1/0d9bc9d0da6d5f3d8b472bd8363a231b.png",
+                    "amount": "100 мл",
+                    "cost": "15,40  руб."
+                },
+                {
+                    "name": "Sera Корм таблетки для сомиков \"Viformo Nature\"",
+                    "description": "Таблетированный корм для сомов и гольцов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/434/kl16xyvwmmpwkne5bdhzl92w9vpgu8oh/200_200_1/02f51c395ade86a0d93e74da07c75437.png",
+                    "amount": "50 мл",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Sera Корм таблетки Wels-Chips Nature/Catfish Chips",
+                    "description": "Основной корм для сомиков и донных рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7eb/edslnxi65l6aqereu1ldndqcj6eqs8xs/200_200_1/724ef674aa8f660cd081993272097c9f.png",
+                    "amount": "15 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Sera Корм хлопья для золотых рыбок \"Goldy Nature\"",
+                    "description": "Натуральные хлопья для мелких золотых рыбок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/67b/xwy31pg8ukp3o87d350c0waa1hot5pbc/200_200_1/ea91260e968eff0f1b92b4d27a55fdb8.png",
+                    "amount": "100 мл",
+                    "cost": "10,90  руб."
+                },
+                {
+                    "name": "Sera Корм хлопья для усиления окраса \"San Nature\"",
+                    "description": "Для всех видов рыб. Не содержит красителей и консервантов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ab6/ygc2tqzjfazh6a1c6wsgiw15196ys8hp/200_200_1/7c04be9a3832565bd87b1280f73b5b8a.png",
+                    "amount": "100 мл",
+                    "cost": "17,00  руб."
+                },
+                {
+                    "name": "Tetra Корм Tablets TabiMini XL",
+                    "description": "Полноценный корм для крупных донных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aaa/2ipsxpmlgjfm1swcnemtdpwnz74up8uz/200_200_1/f958996bff2f3d207d7d3ffd2600d50f.png",
+                    "amount": "133 таб.",
+                    "cost": "61,60  руб."
+                },
+                {
+                    "name": "Sera Корм гранулы для мальков \"Vipagran Baby\"",
+                    "description": "Мягкие микрогранулы для маленьких рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bed/bmrawii9ugsmd89g7p9cp23kdxl91ukl/200_200_1/42d6d7952b67134cc68d7a71f0e23c1f.jpg",
+                    "amount": "24 г",
+                    "cost": "14,10  руб."
+                },
+                {
+                    "name": "Sera Корм палочки для растительноядных рептилий \"Raffy Vital\"",
+                    "description": "Растительный корм для сухопутных черепах и рептилий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/23c/jffns9mzfixhh440jhepk6v3xchjrch4/200_200_1/44e42e5e6876c7c61736e61adb0a62c1.jpg",
+                    "amount": "47 г",
+                    "cost": "15,80  руб."
+                },
+                {
+                    "name": "Sera Корм для цихлид \"Cichlid Green\" XL",
+                    "description": "Корм со спирулиной для крупных цихлид, гранулы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a64/jcak1fjcmbb23fqq06gkj8ruf40iyfbr/200_200_1/1d6eb778dce7a439f40b4726b96e3b4c.png",
+                    "amount": "1 л",
+                    "cost": "73,10  руб."
+                },
+                {
+                    "name": "Sera Корм для услиления окраса цихлид \"Cichlid Red\" XL",
+                    "description": "Для крупных плотоядных цихлид, гранулы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f80/yyncy1qhuos3143jbdxrwzr445zwdg4q/200_200_1/5e445bc4b6bc25e37b3c8009c7eea3bf.jpg",
+                    "amount": "1 л",
+                    "cost": "87,30  руб."
+                },
+                {
+                    "name": "Sera Гранулят Red Parrot",
+                    "description": "Специальный гранулят для цихлид-попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/629/ux1cmogy5htpwzikl923d1jwwoodfjyx/200_200_1/583786155b1e198144472d82f86c82f6.jpg",
+                    "amount": "20 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "Sera Корм для золотых рыбок \"Goldy Color Spirulina Nature\"",
+                    "description": "Корм для усиления яркости окраса в виде гранул.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dd6/97922w491fbv67g14oewqp28ay9a7y8k/200_200_1/35aa06217aad0c888807eb7c0512a292.png",
+                    "amount": "39 г",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Tetra Корм Cichlid Algae Mini",
+                    "description": "Полноценный корм д/всех видов небольших цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d42/q7rfw7cgmfugjk6qcxp27t6gkc2falg3/200_200_1/2c9d0366c7907b538b68c37cb59eccf6.jpg",
+                    "amount": "500 мл",
+                    "cost": "45,70  руб."
+                },
+                {
+                    "name": "Tetra Автоматическая кормушка myFeeder 20 MK",
+                    "description": "Автоматическая кормушка для рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/90a/b1vfjbq5c0ah2or6l45g8qzm250q0pjg/200_200_1/6777dbe01bec822cb8d5c4866379aaf6.jpg",
+                    "amount": "Белая",
+                    "cost": "171,90  руб."
+                },
+                {
+                    "name": "Sera Корм для всех рыб \"Granulate Menu\", 32 г",
+                    "description": "Универсальный корм для рыб в гранулах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b02/m63v2i3undb7ewg4nc0juprfs699t955/200_200_1/1f24e4723730a62ad37ba0c3c314cbf3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,10 руб."
+                },
+                {
+                    "name": "Versele Laga Reptilix Tortoise, 1 кг",
+                    "description": "Полнорационный корм для сухопутных черепах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e18/a0rhfwixm09s5xe3rrzdjyj7dcg4nwj2/200_200_1/3c21b4c4f19f9cec50be76da9f845177.png",
+                    "amount": "за 1 ед.",
+                    "cost": "47,10 руб."
+                },
+                {
+                    "name": "Hagen Кормушка с присоской",
+                    "description": "Кормушка для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ed9/x9rzifaujbrzg7h8bd9jk3vg17tdw21f/200_200_1/a31b37609e6b9fe2f9f26f48ef1ea2cf.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,80 руб."
+                },
+                {
+                    "name": "Onto Сверчок консервированный, 40 г",
+                    "description": "Консервированный домовый кормовой сверчок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b8f/iqcgmq30ftfnv2jcii1374ezst6x9dfo/200_200_1/02c3151dec62e973aa875e30aca9c4ba.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Onto Сверчок сушёный (лакомство), 20 г",
+                    "description": "Для насекомоядных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f21/e7dzukmpz4uq0uxt9kc24qts05fwq1mh/200_200_1/01f30aa6d9b5776a82e13675fb53fe20.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,50 руб."
+                },
+                {
+                    "name": "Sera Набор для культивирования науплиусов артемии",
+                    "description": "Набор для выращивания корма для малька - артемии.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/baa/t2uqlm9a0f9ca1ni5lws0b3fvw2c0xd4/200_200_1/74f1f8b718badb83e7168449c77b71d1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "35,00 руб."
+                },
+                {
+                    "name": "Laguna Кормушка 500DC автоматическая, 135 мл",
+                    "description": "Автоматическая кормушка для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d8a/yx2j2r37xwzuoan475of03a9yy5ioyvs/200_200_1/10b3436974454b7b6610bc221f2717d8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "115,40 руб."
+                },
+                {
+                    "name": "Onto Чёрная львинка консервированная, 40 г",
+                    "description": "Консервированный кормовой мучной червь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/96b/7920orl3pgcjlrpm0r0x6lemvnk02qmq/200_200_1/92571e247dbdad792c793c1c7a40cfdc.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Sera Корм для окраса дискусов \"Discus Color Red\", 100 мл",
+                    "description": "Корм для окраса красных дискусов, гранулы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dc2/bs7d8gaadveijm50s039nj2qcw0jlarz/200_200_1/0555c463e67e944df33b79d7edf52944.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "16,50 руб."
+                },
+                {
+                    "name": "Sera Корм-лакомство хлопья для всех рыб \"GVG-Mix\", 100 мл",
+                    "description": "Хлопья с лакомством для пресноводных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0bd/duj7mluos70w1h81kvt2m3pdgo8914bj/200_200_1/5087fe84a25fd72fb866992e1151af3d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,90 руб."
+                },
+                {
+                    "name": "Sera Корм хлопья для всех рыб \"Flake Menu\", 32 г",
+                    "description": "Набор хлопьевидных кормов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5df/4q4k1073e2vj01wwuke0lu8qy8mbmeql/200_200_1/1767dae339b1a5ec1e15e225002acfed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,40 руб."
+                },
+                {
+                    "name": "Sera Корм для всех ракообразных \"Crabs Natural\", 100 мл",
+                    "description": "Корм для ракообразных в виде таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e85/831g8ifaqnfl6nhqdpb3c6ekpwqtw2ps/200_200_1/f271ad91ff0728f4e4d5d550ba5ea940.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,60 руб."
+                },
+                {
+                    "name": "Sera Корм гранулы \"Marin Granules\", 100 мл",
+                    "description": "Корм для всех видов морских рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/943/7qqx2pjd8h58fyvn2g73xysafp1u7y1w/200_200_1/17e3730df9249ff0ebba15121437e4c4.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "18,70 руб."
+                },
+                {
+                    "name": "Tetra Лакомство FreshDelica Daphnia, 48 г",
+                    "description": "В форме желе с креветками для декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4db/bsnfvrrxijcmrhjhdiw3ipkybeat04bw/200_200_1/e093bedba40e4e8d3b73b38d60c2cc91.png",
+                    "amount": "за 1 ед.",
+                    "cost": "18,60 руб."
+                },
+                {
+                    "name": "Tetra Лакомство FreshDelica Bloodworms, 48 г",
+                    "description": "В форме желе с мотылем для декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b98/j0ka6xry128akgqheenxqsb907hjut6g/200_200_1/5f36a58e1c8ba5a80ee00ff364e2623c.png",
+                    "amount": "за 1 ед.",
+                    "cost": "17,80 руб."
+                },
+                {
+                    "name": "Tetra Лакомство FreshDelica Brine Shrimps, 48 г",
+                    "description": "В форме желе с креветками для декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7f9/vjjw0ygvdm0xij5apd2ggmy7fruczazw/200_200_1/72a44895f994926fdd922a2334d33038.png",
+                    "amount": "за 1 ед.",
+                    "cost": "18,60 руб."
+                },
+                {
+                    "name": "Onto Зофобас консервированный, 40 г",
+                    "description": "Консервированный кормовой Зофобас.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/354/ns28l0k18swc48r0jo5im4kjk6134p3d/200_200_1/bfa2b8d42189ce731ffc50f73dd5614d.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Trixie Кольцо для кормления рыб",
+                    "description": "Кольцо для кормления с гибким держателем, 7х7 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/949/n1pbu46yygj31uawhch4p4b5ebes3r9w/200_200_1/b19f0ca13ccf9221d01d4348abb25ae9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Trixie Кольцо с ситечком для кормления рыб",
+                    "description": "Кольцо для кормления с ситечком, 7х7 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9ac/ci677dlz222lqeo8m88ph7d1itcw0jyt/200_200_1/0adb3197149f91e6cbecd0a6077c3bfb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,20 руб."
+                },
+                {
+                    "name": "Trixie Кормушка для рыб",
+                    "description": "Кормушка решетчатая с кольцом и присосками, 7 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/598/7dx20thvigyi4zkthz012xl5w118uh3q/200_200_1/df2f7701dd0e593632d4272799b823b0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,50 руб."
+                },
+                {
+                    "name": "Tetra Набор myFeeder (черная) + Tetra Pro Energy, 3g",
+                    "description": "Автокормушка (черная) + высококачественный корм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1f0/bm331ekkppb1dk5gkne8yss7js2xntvx/200_200_1/8c12206aae745071d1f855282110273a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "172,10 руб."
+                },
+                {
+                    "name": "Onto Мучной червь консервированный, 40 г",
+                    "description": "Консервированный кормовой мучной червь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c7e/0lu0e26poioxixmgsyvggvxqxgxjqqrv/200_200_1/7e03a0be932e17ec745ceeb6ef166503.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,10 руб."
+                },
+                {
+                    "name": "Trixie Автоматическая кормушка",
+                    "description": "Автоматическая кормушка на батарейках.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/516/k02x83utlv24478uz2d9hblzf6jst4kb/200_200_1/edacaec0fd85d5391f50b3e4941cafde.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "109,00 руб."
+                },
+                {
+                    "name": "Sera Корм хлопья для всех рыб \"Vipan\"",
+                    "description": "Хлопьевидный корм для декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c5/gf6fz9kg6baqhy5xkpaba80iak4jl66k/200_200_1/151731a5203e8f802e667f5eec3a49ab.jpg",
+                    "amount": "12 г",
+                    "cost": "3,10  руб."
+                },
+                {
+                    "name": "Sera Корм хлопья крупные для крупных рыб \"Vipan Nature Large Flakes\"",
+                    "description": "Корм в форме крупных хлопьев для декоративных рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d44/d9bmcula8wxdcl5gxac7078c50z3et8l/200_200_1/57eab755f00d71c73b2ffcc9a7732166.png",
+                    "amount": "2 кг (10 000 мл)",
+                    "cost": "224,40  руб."
+                },
+                {
+                    "name": "Sera грануар Кормовые палочки 2,4 кг (10 л)",
+                    "description": "Кормовые палочки большого размера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e3f/h06fu8afrup068k6cspbwyfpo3t7ro9j/200_200_1/458fc4865f61342e0a006c0b718242e7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "210,00 руб."
+                },
+                {
+                    "name": "Sera Корм палочки для цихлид \"Cichlids Sticks\"",
+                    "description": "Корм для средних и крупных цихлид, а также других рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/316/7dnhpxx7mv53vobp234zs4mdgu5loc9d/200_200_1/dbf8a7fb69d849af20c934894ad7e881.jpg",
+                    "amount": "2 кг (10 000 мл)",
+                    "cost": "219,60  руб."
+                },
+                {
+                    "name": "Sera Pond Color Sticks",
+                    "description": "Корм для усиления цвета прудовых рыб.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e7d/xmn5r53t5llbqmekhrqvk58seyichr5n/200_200_1/e7937edc7ade8f377fa87dc58391eae9.jpg",
+                    "amount": "170 г",
+                    "cost": "17,80  руб."
+                },
+                {
+                    "name": "Tetra Корм Holiday, 30 гр",
+                    "description": "Корм для всех видов декор. рыб на время отпуска (до 14 дней).",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/730/bm7o2bpvnknh31nad37hkuzlpkcqwk9a/200_200_1/722133ae37315263a0b19780a4b53ded.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,40 руб."
+                },
+                {
+                    "name": "Tetra Корм FunTips Tablets, 20 табл",
+                    "description": "Корм для рыб в таблетках, приклеивается к стеклу аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ee2/us2o5ar5j86qxlchj0vdy1sok1teynff/200_200_1/564bf3a29af165dcba520949863f2c2e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Tetra Корм Goldfish Pro, 100 мл",
+                    "description": "Корм в виде чипсов для всех золотых рыбок и др. холодноводных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82d/1y6i3bdtoy2oouaf14aii2j72jxhrumr/200_200_1/627444697be00dd7abbcada47f2abce8.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,00 руб."
+                },
+                {
+                    "name": "Тetra Корм Tortoise, 250 мл",
+                    "description": "Корм для сухопутных черепах, игуан и др. рептилий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/303/ps7s1ykrn34fhzrglxkwtebnj8qcxpge/200_200_1/aa70b369f9726f2a11a19aa4599fc301.png",
+                    "amount": "за 1 ед.",
+                    "cost": "18,90 руб."
+                },
+                {
+                    "name": "Tetra Корм ReptoCal, 100 мл",
+                    "description": "Полноценный минеральный корм-порошок для всех рептилий.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c9e/p3xu0606nuylua4x34qqf66m0ycft3l6/200_200_1/d4ec1aaf882dfe9859d035bd7e751722.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Tetra FR 6 Feeding Ring",
+                    "description": "Кормушка-кольцо для рыб.",
+                    "image_url": "https://garfield.by/upload/iblock/34b/w4741qfhp3dq5ozygqhginn37ehjwk8o/e5c8a1f1d4548d6c5542ed87cabb1cc1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,20 руб."
+                },
+                {
+                    "name": "Tetra Корм TetraMin Junior, 100 мл",
+                    "description": "Основной корм для мальков более 1 см в длину.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd6/p17n7bf9fqo54kuxh9ny2op63jg04h7r/200_200_1/a895be38ab188b37fa0a780218838dc0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Tetra Корм Malawi Flakes, 250 мл",
+                    "description": "Основной корм в виде хлопьев для малавийских цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a1/sq81r7es9lzol0t0cmpu1sakhs684da4/200_200_1/f4fcc33033eb190bb0ba06793186680f.png",
+                    "amount": "за 1 ед.",
+                    "cost": "17,50 руб."
+                },
+                {
+                    "name": "Tetra Корм Malawi Granules, 250 мл",
+                    "description": "Основной корм в виде гранул для малавийских цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d0/ac82nhjg3z00vdc3bdg4ctsd2uoklqnc/200_200_1/82f8213dec182d8c1de9643a447b69b5.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Tetra Корм Cichlid Algae, 500 мл",
+                    "description": "Полноценный корм для любых видов цихлид.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6c5/t1n3gdz0tulukn83g1yfy9axq5b6imv2/200_200_1/0f0bdee4eeef25dbe21a2f3e3744433b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "35,10 руб."
+                },
+                {
+                    "name": "Sera Автоматическая кормушка \"feed A plus\"",
+                    "description": "Возможно до 6 автоматических кормлений в день.",
+                    "image_url": "https://garfield.by/upload/iblock/58c/zjclymv717j41ul5aavo77mwbn8ryrmv/126f3f044777e69a5a826e1d95163ad0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "134,10 руб."
+                },
+                {
+                    "name": "Repti-Zoo Поилка капельная 01DF, 800 мл",
+                    "description": "Для поддержания влажности в террариуме.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e9/byc8fw6k49la2d13pd68io2q20qau2e7/200_200_1/ab359a2602bc1164df8ae7a60df21039.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "132,50 руб."
+                }
+            ]
+        }
+    }
+}

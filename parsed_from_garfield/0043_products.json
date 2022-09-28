@@ -1,0 +1,44 @@
+{
+    "Птицы": {
+        "Дезинфекторы, маски": {
+            "url": "https://garfield.by/catalog/birds/dezinfektory.html",
+            "products": [
+                {
+                    "name": "Amstrel Спрей для рук антибактериальный 3 в 1",
+                    "description": "Антибактериальный спрей для обработки рук",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ec9/52ltcind6q4p7v6rxspaiog2b48yzm6u/200_200_1/39f67916338781f6582a7d186e4f0e36.jpg",
+                    "amount": "100 мл",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Amstrel Гель для рук антибактериальный 3 в 1",
+                    "description": "Антибактериальный гель для обработки рук",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de0/fl8kya66nqee5o8eeacvw1cug4phnavw/200_200_1/ead5d1ca6d546c9021ac2f6b5e58e370.jpg",
+                    "amount": "100 мл",
+                    "cost": "5,60  руб."
+                },
+                {
+                    "name": "Маска одноразовая трехслойная синяя",
+                    "description": "Защитная маска с фиксатором для носа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e5d/o6dm5mhm28fn11fsr0e0ht1zupaud9my/200_200_1/f54a31b92c655f0be50db11c93e88ffa.jpg",
+                    "amount": "10 шт/уп",
+                    "cost": "4,00  руб."
+                },
+                {
+                    "name": "Doctor VIC Средство дезинфицирующее",
+                    "description": "Жидкость для обработки рук и кожных покровов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0c/7r68gf1lvmey3wizqeea4rtoiy8nk6zx/200_200_1/6e8a18694c6d848a63adcef8b4ef406c.jpg",
+                    "amount": "1 л",
+                    "cost": "20,30  руб."
+                },
+                {
+                    "name": "Мыло Doctor VIC жидкое антибактериальное с пантенолом",
+                    "description": "Антибактериальное мыло широкого спектра действия.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/119/23k18026n6k778ivvg4ga333r5n1ti0h/200_200_1/25052d279b0ce395841a3b1181221935.jpg",
+                    "amount": "500 мл",
+                    "cost": "9,40  руб."
+                }
+            ]
+        }
+    }
+}

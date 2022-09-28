@@ -1,0 +1,1080 @@
+{
+    "Собаки": {
+        "Витамины и добавки": {
+            "url": "https://garfield.by/catalog/dogs/vitaminy-i-dobavki.html",
+            "products": [
+                {
+                    "name": "8in1 Excel Brewer's Yeast",
+                    "description": "Комплексная добавка на основе пивных дрожжей и чеснока.",
+                    "image_url": "https://garfield.by/upload/iblock/337/s5c1ega56siphg9n1m2e56qffc0ryosn/88289b6437867fdf57196885f86aedd8.png",
+                    "amount": "140 табл.",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Canina Welpenkalk tabletten",
+                    "description": "Минеральная добавка для щенков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fa/6u1gae2n68p0x9yt0e680rs16jm36yiq/200_200_1/8f353ce395f9bc908e768d0e8dcc7cce.jpg",
+                    "amount": "150 г",
+                    "cost": "40,80  руб."
+                },
+                {
+                    "name": "Canina Petvital GAG Tabletten",
+                    "description": "Способствует увеличению выносливости, повышает работоспособность.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/71a/ishau2vu9tvoziv903gf3if2dq7yu0gr/200_200_1/e297bf91b463325ff3004b6711d246f9.jpg",
+                    "amount": "90 г",
+                    "cost": "77,50  руб."
+                },
+                {
+                    "name": "Canina V25 Vitamintabletten",
+                    "description": "Для восполнения дефицита витаминов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/505/2m28pe1m9zhrdlhwvzqcbpe3p8v8m91x/200_200_1/d3ae2058a199577957e96e5ddd598625.jpg",
+                    "amount": "100 г",
+                    "cost": "40,00  руб."
+                },
+                {
+                    "name": "Canina Caniletten tabletten",
+                    "description": "Для восполнения дефицита пит. веществ",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/499/izu24rs0a7lynn05r0mupg4cexh3leba/200_200_1/a8b88c0139dfc6a794e855245f053410.jpg",
+                    "amount": "300 г",
+                    "cost": "50,10  руб."
+                },
+                {
+                    "name": "ТИТБИТ Мясокостная мука - банка пластиковая",
+                    "description": "Мясокостная мука",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bdd/afnb8kj4ehqecxc3za0yodekfaddu3zm/200_200_1/0e786a8334757573c646b628b88747af.jpg",
+                    "amount": "120 г",
+                    "cost": "6,50  руб."
+                },
+                {
+                    "name": "Happy Dog Arthro Forte",
+                    "description": "Для укрепления сухожилий, суставов и связок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a36/25ktrxp2huenzkopw7nk4kon4w6og48t/200_200_1/1.JPG",
+                    "amount": "200 г",
+                    "cost": "48,10  руб."
+                },
+                {
+                    "name": "Vetdietolog Adult Balance",
+                    "description": "Дополнительный корм для взрослых собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e9/ib2lekj1n0yzzmebp7acwgl8q5xhojq4/200_200_1/Vetditolog-Adult-Balance-600-1 (1).jpg",
+                    "amount": "250 г",
+                    "cost": "45,10  руб."
+                },
+                {
+                    "name": "Neoterica UT ImmunoComplex с Q10 для мелких собак",
+                    "description": "Добавка для поддержания иммунитета и нормализации обмена веществ",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fda/244mk1unwirmccl85awutnc68dizc30x/200_200_1/u206-3.jpg",
+                    "amount": "100 таб",
+                    "cost": "25,10  руб."
+                },
+                {
+                    "name": "Вит-Актив Здоровье шерсти собак",
+                    "description": "Витаминно-минеральный комплекс для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c8b/l5o8221twmhyx1hbqi7h1nj0ju5ass58/200_200_1/4d18d083f2297d460b178dbefea56390.jpg",
+                    "amount": "120 табл.",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "Вит-Актив для щенков",
+                    "description": "Витаминно-минеральный комплекс для щенков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/596/8rq6thcvmwost6adwbqs4a7pkr1uhzpu/200_200_1/484aa4bc84d2d2077559e6be2858f418.jpg",
+                    "amount": "120 табл.",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "Вит-Актив Формула здоровья собак",
+                    "description": "Витаминно-минеральный комплекс для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e8/5zvnr4jriqf9wctknsedm4aihn0wqrte/200_200_1/67e3e97a43782d879ae9e4702e74c541.jpg",
+                    "amount": "120 табл.",
+                    "cost": "27,40  руб."
+                },
+                {
+                    "name": "Irbis Rubia Добавка при мочекам. болезни для кошек/собак",
+                    "description": "Является источником метионина и био-активных веществ.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b2/li2enlommcsw8bs9w4vu2g0we4snikcp/200_200_1/3ac195e952896280b94ffff34cc6a956.jpg",
+                    "amount": "30 мл",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "Фармавит Актив для собак \"Красота и здоровье шерсти\"",
+                    "description": "Витаминно-минеральный комплекс с фруктовыми энзимами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/523/wi242n06am2paeequfo7mp8i03ln9hnh/200_200_1/3f032793df5ab7d0e246cd401bb9c733.jpg",
+                    "amount": "120 таб",
+                    "cost": "22,10  руб."
+                },
+                {
+                    "name": "Фармавит Актив для собак средних и крупных пород",
+                    "description": "Витаминно-минеральный комплекс с фруктовыми энзимами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/148/ol9hyih1hzeu1kgta673behxykf6iokx/200_200_1/503b37e4b45432a56fb2ee45fc6c9627.jpg",
+                    "amount": "120 таб",
+                    "cost": "22,10  руб."
+                },
+                {
+                    "name": "Фармавит Актив для собак мелких пород и щенков",
+                    "description": "Витаминно-минеральный комплекс с фруктовыми энзимами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/26e/b9sx3vgodcdou52obemu3vcwbihjpfif/200_200_1/d263287dd8f3cd02f6c473d11c123344.jpg",
+                    "amount": "90 таб",
+                    "cost": "19,10  руб."
+                },
+                {
+                    "name": "Pro Plan Veterinary Diets FortiFlora Canine",
+                    "description": "Добавка для здоровья кишечника у собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/820/3g11im0vrz8bxi9y02kyr2kx7doqsu07/200_200_1/a15b11f3f4ca816e793fccf30bf9388d.jpg",
+                    "amount": "1 пакетик",
+                    "cost": "2,90  руб."
+                },
+                {
+                    "name": "Polidex Super Wool plus",
+                    "description": "Улучшение шерсти, защита от сухости кожи и перхоти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b5e/n0csxae1c8uzlhan6p22k11cmomunb7y/200_200_1/43b5976f139914f7d745f536afd013b8.PNG",
+                    "amount": "150 табл.",
+                    "cost": "45,10  руб."
+                },
+                {
+                    "name": "Polidex Recovit",
+                    "description": "Восстановление после заболеваний и травм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4b/lhr006egydx5d53b8gwce96smlgscxln/200_200_1/accf95fe56b6c937ebf0b749c86cd0fe.PNG",
+                    "amount": "150 табл.",
+                    "cost": "36,70  руб."
+                },
+                {
+                    "name": "Polidex Protevit Plus",
+                    "description": "Регулирует белковый обмен, стимулирует рост мышц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57b/962gm5yfggfvsbmyq9eh85evs5s54sqj/200_200_1/ba4dce1f77d713cafaa9a0959a8972dc.PNG",
+                    "amount": "150 табл.",
+                    "cost": "44,30  руб."
+                },
+                {
+                    "name": "Polidex Polivit-Ca plus",
+                    "description": "Для внутриутробного и дальнейшего роста и формирования скелета щенков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d4c/oxmlicalxkpfxw980bh82gi60eaxtzxy/200_200_1/f909e0e3953da318c4bbd21e45f81f1c.PNG",
+                    "amount": "150 табл.",
+                    "cost": "44,30  руб."
+                },
+                {
+                    "name": "Polidex Multivitum Plus",
+                    "description": "Сбалансированная прикормка для профилактики авитаминозов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0f/xvmwz8cmvd0oj60e123ob5t4gp3udciy/200_200_1/c4950c847c6a02fbfc17c1cd0733453f.PNG",
+                    "amount": "150 табл.",
+                    "cost": "44,70  руб."
+                },
+                {
+                    "name": "Polidex Immunity Up",
+                    "description": "Укрепляет иммунитет, нормализует обмен веществ.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/345/e0wopd2tqsfcqwf4tbvajvpyr9wj3wo9/200_200_1/f5b06848ff8b41c3eb07f9b98ce1240f.PNG",
+                    "amount": "150 табл.",
+                    "cost": "46,10  руб."
+                },
+                {
+                    "name": "Polidex Glucogextron plus",
+                    "description": "Улучшает образование внутрисуставной жидкости.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/58d/goj4r3gefqghh7wc4228twj2fftbysxm/200_200_1/e78cbe0c0e8a84540340f62c426b399a.PNG",
+                    "amount": "150 табл.",
+                    "cost": "77,50  руб."
+                },
+                {
+                    "name": "Polidex Gelabon Plus",
+                    "description": "Для профилактики заболеваний хрящевых поверхностей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/290/k0ns8z98rriwywk4ony5y1kl8m9jfiy5/200_200_1/4d0ddd6eba30dc97c6eed895b45ac8bb.PNG",
+                    "amount": "150 табл.",
+                    "cost": "35,80  руб."
+                },
+                {
+                    "name": "Pchelodar Нефродог для собак, 25 таб.",
+                    "description": "Комплексная профилактика МКБ",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d60/qgozv1mo6yt50ix3c6pd68ug86v5fw8w/200_200_1/1bd098708ee2335615d67d7aa91e3c44.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "19,40 руб."
+                },
+                {
+                    "name": "True Love Драже Козье молоко+SE (селен)",
+                    "description": "Натуральное лакомство для собак мини-пород из козьего молока",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/44e/67ioiomtucbg9ym2x4in8rph0pmpjtut/200_200_1/922662e283321fad70365ac18b69aa06.png",
+                    "amount": "140 г",
+                    "cost": "33,10  руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Витамины для щенков, беременных и кормящих сук",
+                    "description": "Мультивитаминное лакомство, 120 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/215/zsrz4l0x65smtwp2enwa07kduf2uxz8e/200_200_1/06e974acaa703f6cec8f886876259470.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Витамины для собак \"Здоровый иммунитет\"",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/979/e4kr30am9c5xrpq5o470h6ycss4yb2fo/200_200_1/b96ff32a7c24555ee975f555904b70ba.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Витамины для собак \"Здоровье и сила\"",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1a2/z7xb345fl273d6zhehln879541g6jowd/200_200_1/e22708e47dcb23eb08153f89dd4a08e1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "ЭКО ZOOЛЕКАРЬ Витамины для собак \"Здоровье кожи и шерсти\"",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/603/dyq9k3j7246doh7aj8vj3r1he0j0ss8b/200_200_1/1b7a08d14329435dc2c96256f98be00b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Trixie Набор для вскармливания",
+                    "description": "Набор для вскармливания щенков и котят.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/22b/tnrva5bnrzjc3spokovv0sb22ihc8mbu/200_200_1/92ef002e139ef45607d5de0453ecf733.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,80 руб."
+                },
+                {
+                    "name": "8in1 Excel Glucosamine+MSM",
+                    "description": "Добавка с глюкозамином, витамин С и МСМ",
+                    "image_url": "https://garfield.by/upload/iblock/1e1/w1vyyyszklnf88xbq1jwfcr1ylbe0145/76bfea4c8460014c707f28f899d21ace.png",
+                    "amount": "55 таб",
+                    "cost": "49,20  руб."
+                },
+                {
+                    "name": "8in1 Excel Deter Coprophagia",
+                    "description": "Добавка против поедания фекалий, 100 таб.",
+                    "image_url": "https://garfield.by/upload/iblock/4e6/eb7dy42zvsdxcggujew0dm28uno29lxl/8f0f4a4989ecd8626034053df736310c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,80 руб."
+                },
+                {
+                    "name": "8in1 Excel Brewer's Yeast for large breed, 80 табл",
+                    "description": "Пивные дрожжи для собак крупных пород.",
+                    "image_url": "https://garfield.by/upload/iblock/5b3/kmiiekj8h3jhd5gtomfdqh36e1sq7cx3/6938e50e72b36ee0bef768101ff72483.png",
+                    "amount": "за 1 ед.",
+                    "cost": "25,50 руб."
+                },
+                {
+                    "name": "8in1 Excel Multi Vitamin Puppy, 100 табл",
+                    "description": "Комплексная витаминно-минеральная добавка для щенков.",
+                    "image_url": "https://garfield.by/upload/iblock/0d8/8er062a2wqhtmcz66325rer9n2w4xfd2/58b78b108675a070c3de640e885fb302.png",
+                    "amount": "за 1 ед.",
+                    "cost": "25,00 руб."
+                },
+                {
+                    "name": "8in1 Excel Multi Vitamin Adult, 70 табл.",
+                    "description": "Мультивитамины для взрослых собак.",
+                    "image_url": "https://garfield.by/upload/iblock/e3f/ecn2ftyylyk1404yzg1qz0637weqh3cx/394954f273df2020e2d2658abb0fd33b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,50 руб."
+                },
+                {
+                    "name": "8in1 Excel Multi Vitamin Senior, 70 табл.",
+                    "description": "Мультивитамины для пожилых собак.",
+                    "image_url": "https://garfield.by/upload/iblock/312/6tybyruoupmc2121ig81rn6lfty276yw/11799322ba07ba55f9fc59fd2a3dd904.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,50 руб."
+                },
+                {
+                    "name": "8in1 Excel Multi Vitamin Small Breed, 70 табл.",
+                    "description": "Мультивитамины для собак мелких пород.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8a6/91wb5mji2qawha88ky8kr07me0re8ir3/200_200_1/05992f9f007af3e318453b7a58f76120.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,50 руб."
+                },
+                {
+                    "name": "8in1 Excel Calcium",
+                    "description": "Добавка для щенков и взрослых собак с кальцием и фосфором",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/821/7lkg5nterf48q57ne303t23yybi8w2vg/200_200_1/c39f230c276e12ee28d41df118c03c70.png",
+                    "amount": "155 таб",
+                    "cost": "20,90  руб."
+                },
+                {
+                    "name": "8in1 Excel Glucosamine",
+                    "description": "Кормовая добавка для гибкости суставов.",
+                    "image_url": "https://garfield.by/upload/iblock/b29/1dibr0ordxfb9wy9j6gh18wwkuzo3udz/611b077e4104b6b07d92b15b2624998f.jpg",
+                    "amount": "55 таб",
+                    "cost": "44,00  руб."
+                },
+                {
+                    "name": "Sanal Лакомство для собак биотин",
+                    "description": "Витаминизированная добавка, улучшающая структуру шерсти и кожного покрова собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b58/q3kqcyxwgrn6hyf0g5j1rnftkkeycmkv/200_200_1/246002.jpeg",
+                    "amount": "100 г",
+                    "cost": "17,60  руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Doggy's Junior, 150 таб/уп",
+                    "description": "Кормовая добавка для щенков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad1/gp3zcmx39n3lumsi7mokbkqsr7ulyhya/200_200_1/cdcc14df96768b084eaeaf9e2f24db4b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,40 руб."
+                },
+                {
+                    "name": "Trixie Набор для кормления щенков и котят",
+                    "description": "Набор для кормления щенков и котят.",
+                    "image_url": "https://garfield.by/upload/iblock/a29/eosvz9fo7vc94imzmm8dp6cv2wx07t9c/12c814341d2097c33018430eb8c1f9d6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "GIGI Активет",
+                    "description": "Хондропротектор для собак мелких пород.",
+                    "image_url": "https://garfield.by/upload/iblock/a5d/dus790xbcb935s5s60ngfis4x7t9kuoq/6c650bc6bcbe85bc874f23e72a5726e3.jpg",
+                    "amount": "90 таб",
+                    "cost": "53,30  руб."
+                },
+                {
+                    "name": "GIGI Активет20",
+                    "description": "Хондропротектор для собак крупных пород.",
+                    "image_url": "https://garfield.by/upload/iblock/da5/g306gun24lru2kwn2c6122e079gyo13o/17acb6c1496ddd9d36cc425ca840b6d6.jpg",
+                    "amount": "100 таб",
+                    "cost": "112,60  руб."
+                },
+                {
+                    "name": "GIGI да-ба Релакс Плюс",
+                    "description": "Укрепление нервной системы собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/2b2/tz3v2gl5oosbm1x3ez2fele6m1yvy8hb/cc3b3c0a4267558d7612a463620dd71f.jpg",
+                    "amount": "30 таб",
+                    "cost": "23,60  руб."
+                },
+                {
+                    "name": "GIGI Хепаветин",
+                    "description": "Профилактика и лечение заболеваний печени у собак.",
+                    "image_url": "https://garfield.by/upload/iblock/046/xifkywjws4jjerwtoonzc9v160gujxxr/1f676ae35dc42c52496f9650737ab918.png",
+                    "amount": "30 таб",
+                    "cost": "17,90  руб."
+                },
+                {
+                    "name": "Веда Кот Баюн",
+                    "description": "Для коррекции поведения кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/815/ryg6to0dsq7zjxjrwui9ry1ukgs6kn71/200_200_1/dc1b8550b1f61742b289c1b5eebdd895.jpg",
+                    "amount": "50 таб",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Веда Кот Баюн (настой)",
+                    "description": "Для коррекции поведения кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a64/xl1db1tzyn5moik1hbun8kdk8i7fxz44/200_200_1/d01fb790dcc658d0a704c54285595e25.jpg",
+                    "amount": "3 фл. х 10 мл",
+                    "cost": "9,80  руб."
+                },
+                {
+                    "name": "Веда Биоритм для крупных собак",
+                    "description": "Дополнительный функциональный корм для крупных собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d22/6pigztnjw1eyfmw0rkociseqek5pv29k/200_200_1/24be02828d02a7b4ca4240204abd1d76.jpg",
+                    "amount": "48 таб",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Веда Биоритм для мелких собак",
+                    "description": "Дополнительный функциональный корм для мелких собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b0/drv2w3b2pjfcokdmeszp5ya3ic83q2ab/200_200_1/eccfa8977627a3c5a30aecee898849d6.jpg",
+                    "amount": "48 таб",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Веда Биоритм для средних  собак",
+                    "description": "Дополнительный функциональный корм для средних собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be0/7mzes40qmnus3ds6o1hkvpse5xr6qd88/200_200_1/5c81e2deddeea080689e47cfb0881cad.jpg",
+                    "amount": "48 таб",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Веда Биоритм для щенков",
+                    "description": "Дополнительный функциональный корм для щенков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6a2/lfsgz2z9pipws1g3n2u281qj8h2ym041/200_200_1/c7fdba8d46f5cdebda59c5244a30a632.jpg",
+                    "amount": "48 таб",
+                    "cost": "9,20  руб."
+                },
+                {
+                    "name": "Веда Фитомины ГематоДог",
+                    "description": "Для ускорения роста и развития щенков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cbc/13aznboq4spwze6vek1bcixried3v32u/200_200_1/d21fadee3fa2071c7ac795a5769f9fd5.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Веда Фитомины для зубов и костей собак",
+                    "description": "Фитокомплекс для зубов и костей собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/26e/3x6iiequmknmcohf2fhh0komx8g30qqx/200_200_1/40cd8c16b6406fed0c02ebfd9fc1b810.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Веда Фитомины антиаллергические для собак",
+                    "description": "Противоаллергический фитокомплекс для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cbe/v25a3otesuam5i510ecoodj7gfx0h19g/200_200_1/56ed3d42bfce8b9d47167fa10de6b31c.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Веда Фитомины для шерсти собак",
+                    "description": "Фитокомплекс для шерсти собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc2/q4k4lnxbnbmjoa0gb2oqqm3s0nf4v1q1/200_200_1/511794202658c8184217e7a10116ed4b.jpg",
+                    "amount": "100 таб",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Агроветзащита Виттри-1",
+                    "description": "Для профилактики и лечения гиповитаминозов.",
+                    "image_url": "https://garfield.by/upload/iblock/9be/85si9dfxch44kctcu1uvakwmkyj2r8k9/be9651d462f892f2686bf1788641ee2d.jpg",
+                    "amount": "20 мл",
+                    "cost": "17,60  руб."
+                },
+                {
+                    "name": "Агроветзащита Косточка иммуновит",
+                    "description": "Минерально-витаминная кормовая добавка для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/363/z2p9rxljvdz5u4uty3uur3grnwxzh2j3/200_200_1/adc46a4c97787998798290fd1418dd27.JPG",
+                    "amount": "100 таб",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Агроветзащита Косточка с морской капустой",
+                    "description": "Минерально-витаминная кормовая добавка для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/591/a8y7qteymukdoqt8x14vvo6oiulpzxte/200_200_1/be100ddeda070a1a0107f169e5713e30.JPG",
+                    "amount": "100 таб",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Агроветзащита Косточка с янтарной кислотой",
+                    "description": "Минерально-витаминная кормовая добавка для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3be/bmlbwnlasjms2eeo29l6hg5q3kre8zb9/200_200_1/bf9cdb403712cb677ab833de913a7c53.JPG",
+                    "amount": "100 таб",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Агроветзащита Радостин для щенков",
+                    "description": "Витаминно-минеральный комплекс для щенков.",
+                    "image_url": "https://garfield.by/upload/iblock/4f0/ajmog1gqe0wffaskjkif2p9vd0760ers/ef952adf53635f60ba0d2bdac2fbda95.jpg",
+                    "amount": "90 таб",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Фармавит NEO для собак",
+                    "description": "Кормовая добавка для собак",
+                    "image_url": "https://garfield.by/upload/iblock/f0b/406i3bykxzw21bume48w2gbo31ssis7w/7b6742d6ec76e9081555f53e3ffb355b.jpg",
+                    "amount": "90 таб",
+                    "cost": "13,50  руб."
+                },
+                {
+                    "name": "Canina Canhydrox GAG tabletten",
+                    "description": "Хондропротектор для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5df/ouvanf8xpe2vavffflul7csl4mj927yo/200_200_1/63675d7e02e0fbf15e76c68851cd6ce5.jpg",
+                    "amount": "100 г",
+                    "cost": "69,40  руб."
+                },
+                {
+                    "name": "Canina Dog Immun Protect (порошок)",
+                    "description": "Для щенков и щенных сук, старых, больных или рабочих собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b17/4miz79n237zz2xg8agj1mial0agfgz5u/200_200_1/557d51744ce1252e3670bc85de077b20.jpg",
+                    "amount": "150 г",
+                    "cost": "82,20  руб."
+                },
+                {
+                    "name": "Canina Biotin Forte Tabletten",
+                    "description": "Для восстановления здоровья кожи и шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/83f/xgkp3pv0ars8lyol91fj6q20z23ofsso/200_200_1/b97311e0cf90acae9ab7c6a11a14436f.jpg",
+                    "amount": "100 г",
+                    "cost": "46,10  руб."
+                },
+                {
+                    "name": "Canina Petvital Derm-Caps",
+                    "description": "Для восстановления здоровья кожи и шерсти.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fad/silr61b67d8hk4f3im0y7cdfv30i8sjq/200_200_1/04b3d4e0a6ae6ce7d891850b126b4bb6.png",
+                    "amount": "40 г",
+                    "cost": "42,10  руб."
+                },
+                {
+                    "name": "Canina Seealgen Tabletten",
+                    "description": "Для улучшения пигментации.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/85f/woe0i7sseua03apwz8jzhr1bb146jfsi/200_200_1/ab0ffb55fe0c2910a0e737494a8c9f2e.jpg",
+                    "amount": "225 г",
+                    "cost": "44,70  руб."
+                },
+                {
+                    "name": "Canina Hefe Tabletten",
+                    "description": "Для повышения аппетита c пивными дрожжами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0be/nt8b548d6md6yy374f1w7di4jwxrdhq9/200_200_1/a39a55cbc1a12b54806341f5310a466b.jpg",
+                    "amount": "250 г",
+                    "cost": "35,90  руб."
+                },
+                {
+                    "name": "Canina Canivita (мультивитаминный сироп)",
+                    "description": "Витаминная эмульсия для собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c2/1ery0mjo01u80qh4n2yy3zrmitptsea2/200_200_1/d9d0ba5f4a0a1ac1b05b85dbab0cbf60.jpg",
+                    "amount": "100 мл",
+                    "cost": "32,20  руб."
+                },
+                {
+                    "name": "Canina Herz-Vital",
+                    "description": "Для стабилизации функции сердца.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b3a/y3vtmd4cmudzamv1ou5dyni2f3mh5j0d/200_200_1/c753a104ea18492e042f9047832dafbc.png",
+                    "amount": "100 мл",
+                    "cost": "63,10  руб."
+                },
+                {
+                    "name": "Canina Petvital Arthro-Tabletten",
+                    "description": "Для укрепления суставов и связок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7fd/3ikceq8cs8ir2jttuf0txkntpy228rxc/200_200_1/daa970d797451f53a96d377e56077094.jpg",
+                    "amount": "60 г",
+                    "cost": "52,90  руб."
+                },
+                {
+                    "name": "Canina терапия Баха №2",
+                    "description": "Смесь \"Страх\".",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/950/c048udc5ma3vzrl6idbgjzeom09y4dym/200_200_1/9826923aa7068a07aa3f49079a2eceee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,40 руб."
+                },
+                {
+                    "name": "Canina терапия Баха №3",
+                    "description": "Смесь \"Агрессия\".",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/229/tr8cg1o41y3jgeq1rhoj0g6bbrev05dn/200_200_1/cf69f3cebd2d775737ee86cf364a96bc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,30 руб."
+                },
+                {
+                    "name": "Angel's Eyes",
+                    "description": "От подтеков под глазами",
+                    "image_url": "https://garfield.by/upload/iblock/9ce/b808v2424fk4if6vvjq70h5z7txq7qid/85c151a046e45962692890f909b245c8.jpg",
+                    "amount": "45 г",
+                    "cost": "91,50  руб."
+                },
+                {
+                    "name": "Bitch Pills",
+                    "description": "Витамины для самок.",
+                    "image_url": "https://garfield.by/upload/iblock/6e3/unhfxezjp9rw3wfpy44z9xij3q8vpnk7/2c4b3815ec2d7b775e53122f0ebd7016.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "39,10 руб."
+                },
+                {
+                    "name": "Nutri Stat",
+                    "description": "Для стимулирования аппетита.",
+                    "image_url": "https://garfield.by/upload/iblock/c8d/9qgoh7rltf3nfp35ej3wpcl7z2728cob/ed7d68b20d83e468cedde4e12e01a2cc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,30 руб."
+                },
+                {
+                    "name": "Neoterica UT Неокапрол для щенков и собак",
+                    "description": "Добавка для отучения от поедания и снижения запаха фекалий щенков и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9e6/ptd7666kh90wfytg6ny9ll7qslzg4cft/200_200_1/u311_unitabs_neokaprol_800.jpg",
+                    "amount": "100 таб",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "Neoterica UT МамаCare c B9 для щенков и кормящих собак",
+                    "description": "Добавка в период беременности и лактации собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0b/dyczlu1g929m32ne30lfjqlgb5bp69g3/200_200_1/u208-3.jpg",
+                    "amount": "100 таб",
+                    "cost": "37,80  руб."
+                },
+                {
+                    "name": "Neoterica UT BrewersComplex с Q10 для мелких собак",
+                    "description": "Добавка при сухости, неэластичности и шелушении кожи, избыточной линьке",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4c/8xkhdb71nrolb2a2y02wo8ycanme5uhc/200_200_1/u203-3.jpg",
+                    "amount": "100 таб",
+                    "cost": "14,20  руб."
+                },
+                {
+                    "name": "Neoterica UT ArthroActive с Q10 для собак",
+                    "description": "Добавка для поддержания функции суставов и хрящей у собак крупных пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/82e/yme2rsd27v6vhfvpjlqb2fcv4x72rlcf/200_200_1/u201-3.jpg",
+                    "amount": "100 таб",
+                    "cost": "42,30  руб."
+                },
+                {
+                    "name": "VetExpert ArthroVet HA Complex (Артровет Комплекс)",
+                    "description": "Для собак и кошек с нарушениями функций суставов и суставных хрящей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81e/l2cpi5umg1k0ui0txwbzax7nm0y93en4/200_200_1/50a0fbc986824f6fc5d6951213266f8c.jpg",
+                    "amount": "60 капсул",
+                    "cost": "93,80  руб."
+                },
+                {
+                    "name": "CAMON Бутылочка для кормления",
+                    "description": "Подходит для щенков, котят и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5f6/n1wemf7f8j26us6cbun1ke6unsyhzdju/200_200_1/99457c897c981973a832c3e7f6f51615.JPG",
+                    "amount": "57 мл",
+                    "cost": "6,20  руб."
+                },
+                {
+                    "name": "CAMON Комплект для кормления",
+                    "description": "Подходит для щенков, котят и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff7/1hb4miw3ulc46yych19u3r7agsr0oyb5/200_200_1/eabf206044280227e5655c27fcafe7ed.JPG",
+                    "amount": "57 мл",
+                    "cost": "15,50  руб."
+                },
+                {
+                    "name": "Dr. Seidel Snacks Лакомство для собак для спокойного путешествия",
+                    "description": "Рекомендуется до и во время путешествия",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8bd/lqzge6ab1a3vriepn4gggtmsdn054qly/200_200_1/a75e22adbc6fd5426908b260f0d2ea47.png",
+                    "amount": "90 г",
+                    "cost": "7,50  руб."
+                },
+                {
+                    "name": "Beaphar Fresh Breath Tablets",
+                    "description": "Таблетки для собак и кошек против запаха из пасти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ead/m6nyqnuuruztrq7ih7p8t0b11cf1ven9/200_200_1/95ef1e7d695d698c993eb4812bfa41d9.jpg",
+                    "amount": "40 табл.",
+                    "cost": "32,80  руб."
+                },
+                {
+                    "name": "VetExpert VetoSkin",
+                    "description": "Для собак и кошек с дерматологическими нарушениями",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e9/2nll1njlu38n1xqncm06swof8tbitzyx/200_200_1/117ed39a1706dbd6a111dbcf3bfae8d1.jpg",
+                    "amount": "60 капсул",
+                    "cost": "73,20  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Таблетки для щенков крупных пород",
+                    "description": "Витаминная добавка для щенков и беременных сук крупных пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a6b/4tlml0swk6ul7lya8ouipqixu861nmvb/200_200_1/b7b81f8493c65b3ef03996e281b35ba6.png",
+                    "amount": "60 табл.",
+                    "cost": "21,20  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Таблетки для щенков",
+                    "description": "Витаминная добавка для щенков мелких и средних пород",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc4/ivmj4bfzz4n248fq5tchiiys9od55p53/200_200_1/5b82c7aa5f393440b29f032c6d6c4369.png",
+                    "amount": "120 табл.",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Таблетки Здоровая кожа и красивая шерсть",
+                    "description": "Для собак с сухой, шелушащейся кожей и тусклой шерстью",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0ed/300ewxc71bh4pszuw8njp7cgafg8nhiy/200_200_1/13decdf76c6a88e49c32d0a1c32ab000.png",
+                    "amount": "60 табл.",
+                    "cost": "19,60  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Таблетки для пожилых собак",
+                    "description": "Препарат для пожилых собак (старше 7 лет)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8f6/jerp7vg2uz125215sar7bdw72b6k5xh2/200_200_1/aa564a5d5b0bc0648cb27000891cf686.png",
+                    "amount": "60 табл.",
+                    "cost": "30,90  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Таблетки для взрослых собак",
+                    "description": "Витаминная добавка для поддержания иммунитета",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b3/mi7op21r2m9teks6qmusc6shpbqsfk2a/200_200_1/7ee7b02535e976c6e1ab67d423da5258.png",
+                    "amount": "60 табл.",
+                    "cost": "19,60  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Порошок с HMB для активных собак",
+                    "description": "Для собак с высокой физической активностью, охотничьих и служебных собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/568/v7eexkvcrrl4oevep9fuaol9i3zqbd1i/200_200_1/6807e183c8811b72d061739cb59d66db.png",
+                    "amount": "400 г",
+                    "cost": "28,60  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Порошок для щенков крупных пород",
+                    "description": "Витаминная добавка для щенков крупных пород и беременных сук",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de5/ytt7wtkyv4yyt4eenk35w5m6nh4w9z2f/200_200_1/9d947767a18d2c8152d7ec6fb41d2b1c.png",
+                    "amount": "400 г",
+                    "cost": "22,80  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Порошок для щенков",
+                    "description": "Витаминная добавка для щенков и беременных сук",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/464/ewfrxg1vr35hbcj0w4afm019ip7taxlt/200_200_1/ddfe87014e033f28af59a2d9179a9da7.png",
+                    "amount": "400 г",
+                    "cost": "22,80  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Порошок Здоровая кожа и красивая шерсть",
+                    "description": "Для собак со склонностями к высыханию и шелушению кожи",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cf/qmoyq3ey02cf4iri7hju7ghkg6twxvod/200_200_1/8161a980e02c8055f5c554adf1eaa73b.png",
+                    "amount": "400 г",
+                    "cost": "21,20  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Порошок для пожилых собак",
+                    "description": "Витаминная добавка для пожилых собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac9/619y3u1rwhghhjcqeuxv29jhzym3r0kr/200_200_1/82b1196dee5ac232a4386ae82161ab86.png",
+                    "amount": "400 г",
+                    "cost": "29,70  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Порошок для взрослых собак",
+                    "description": "Витаминная добавка для поддержания здоровья",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/00d/sfuckhqwuc80vlfs5ybxe4ggq902vbbm/200_200_1/bfb27715f3b7e6108762ca21d6cc5be9.png",
+                    "amount": "400 г",
+                    "cost": "21,20  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Капсулы Омега 6",
+                    "description": "Капсулы для здоровья кожи и шерсти у собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fb/zp5711rxrojtu4e3qso3bafkero8u82m/200_200_1/0eb0c0002562e2499247f925188eb855.png",
+                    "amount": "60 капс.",
+                    "cost": "44,10  руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Артро",
+                    "description": "Таблетки для здоровья суставов у собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c5d/7o6gh1kmraktb4hqnj8j4982uho6lyv3/200_200_1/26226117d6ec1a8e9c9f8f2ab41e0677.png",
+                    "amount": "60 табл.",
+                    "cost": "58,20  руб."
+                },
+                {
+                    "name": "Бобик-Снобик Мясная добавка для собак, утиная",
+                    "description": "Мясная добавка для улучшения вкусовых качеств питания.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dbb/r9hsmag9ag6gvwyrql37gc83ne9r1cqt/200_200_1/cbb8b9ef886f6a6d923fc708804627d9.jpg",
+                    "amount": "50 г",
+                    "cost": "6,20  руб."
+                },
+                {
+                    "name": "Бобик-Снобик Мясная добавка для собак, куриная",
+                    "description": "Мясная добавка для улучшения вкусовых качеств питания.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76c/4sni3n78h348qe243kvx5pjzcgxhnpem/200_200_1/29b897a4c1a9ff15e66845d88871ce3d.jpg",
+                    "amount": "50 г",
+                    "cost": "6,60  руб."
+                },
+                {
+                    "name": "Бобик-Снобик Мясная добавка для собак, говяжья",
+                    "description": "Мясная добавка для улучшения вкусовых качеств питания",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fa7/l8ef319qaftbb4k72komdjv8r1qgl13s/200_200_1/cf02c7143b7bf78ad3cbb10a1a16f6d3.jpg",
+                    "amount": "50 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "Beaphar Puppy Milk Молочная смесь",
+                    "description": "Основное или дополнительное кормление для щенков и их мам.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cfd/06vtgsexdijqbjbk7fnn2jxf5qz7k9th/200_200_1/0e80cb1c987c38b3308522678841c189.png",
+                    "amount": "500 г",
+                    "cost": "70,40  руб."
+                },
+                {
+                    "name": "Beaphar Lactol Puppy Milk Молочная смесь для щенков",
+                    "description": "Полноценное кормление для щенков при отсутствии матери",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0f/21ejjnm2v7pe7m5ck57tok32rb7jmw65/200_200_1/1257fd8267c62f2137acf4d4cfa56615.png",
+                    "amount": "250 г",
+                    "cost": "47,30  руб."
+                },
+                {
+                    "name": "Canina Petvital Energy-Gel",
+                    "description": "Для быстрого возмещения дефицита питательных веществ.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ce8/sla9a0c5ysockc708uh393owo11rq70x/200_200_1/580f53d1ea13417b6192264199bd640a.jpg",
+                    "amount": "100 мл",
+                    "cost": "32,50  руб."
+                },
+                {
+                    "name": "Amstrel Лакомство для собак \"Голландский сыр\", 45 г",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1cd/vomb3y6288jp8dfpd684k0vz8t8oeue6/200_200_1/45490f742b967fb5090cecaabcff6b18.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Amstrel Лакомство для собак \"Морская форель\", 45 г",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/939/t5oddr36f1tbzrucm1rbfu1quf4yfg9u/200_200_1/778888517aa530dbe2a5670a342c9df1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Amstrel Лакомство для собак \"Сочная баранина\", 45 г",
+                    "description": "Мультивитаминное лакомство, 90 таблеток.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/55e/xdmhe5yi1efore49kbd4ax4l1qxau6zz/200_200_1/353169662cfd5620c1cbba28f0416fe4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Омега Артро, 250 мл",
+                    "description": "Препарат для здоровья суставов у собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ecf/uss20wes4a6jhej6aztsshh7daejle9v/200_200_1/1290360b3d0609392a1fd8d28f132b5e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "62,30 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Део, 60 таб.",
+                    "description": "Таблетки против неприятных запахов у собак, кошек и хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c2e/xrwlfbw2r13iivdnxgr3ws2ij11uy45h/200_200_1/ab71a1684df736c468b5d64cea74c90b.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,80 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Масло Омега 3 с лецитином, 250 мл",
+                    "description": "Укрепляет натуральный иммунитет организма",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac1/pvfb1xzdegxwhu00sx0q4flachs74jnp/200_200_1/91213cd9e7a4c4f4c3cf33f68200b7a7.png",
+                    "amount": "за 1 ед.",
+                    "cost": "27,10 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Масло Омега Комплекс, 250 мл",
+                    "description": "Для здоровья кожи и шерсти у кошек, собак и хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bf4/2e3odljbbn3jpjb5vvl8rba3l53oethz/200_200_1/ec922874f49f2142e12a3f39491165e1.png",
+                    "amount": "за 1 ед.",
+                    "cost": "27,60 руб."
+                },
+                {
+                    "name": "Beaphar Irish Cal, 150 таб.",
+                    "description": "Кормовая добавка для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc6/ur8sakdizfqqdjf38etr8yoeftzprssc/200_200_1/2a1ea705804871927de5a9cea5e92f79.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,60 руб."
+                },
+                {
+                    "name": "Beaphar Salvikal, 250 г",
+                    "description": "Кормовая добавка для кошек и собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/65d/6t2bjbrl2qubbgrx7wo3nl6fyxsq32pc/200_200_1/0adf9e6611d0f443884fb2554d9fbcda.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Beaphar Паста для собак Crunchy Joghurt Paste, 100 г",
+                    "description": "Йогуртовая витаминная паста для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9be/t13sbmy1eo3x1zichz6fat97m5qely7e/200_200_1/c436bf760f1a801587c0cfbacb8c9eb0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,40 руб."
+                },
+                {
+                    "name": "Beaphar VIYO Reinforces Dog Adult пребиотический напиток 7x30 мл",
+                    "description": "Вкусный напиток с пребиотиками, для собак от 1-7 лет.",
+                    "image_url": "https://garfield.by/upload/iblock/691/wxk4v4w90reazfomhcpk6ihupiucrsxh/c5fa1b5eca0d85ed5be65dbe085d4709.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,50 руб."
+                },
+                {
+                    "name": "Dr. Seidel Флавитол Омега, 250 мл",
+                    "description": "Лососевое масло для собак, кошек и хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/21a/m8q3x3b7zhy2xeg7tqg1qf68yel6b3vh/200_200_1/301de56270999247048b9aab504a0397.png",
+                    "amount": "за 1 ед.",
+                    "cost": "25,80 руб."
+                },
+                {
+                    "name": "GimDog Multi-Vitamin Paste, 50 г",
+                    "description": "Мультивитаминная паста для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a0/4xt0rxoz3dr0dup8rvgi50rol2qkwdc1/200_200_1/27bc0da6ae05ee21fec1708e98a82d5c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,60 руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Bea Vit Total, 50 мл",
+                    "description": "Кормовая добавка для собак,кошек, птиц и грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e03/mfa36e8fz19ryxlggi60t38fnw5v4m9n/200_200_1/bb7e1fb2fb864f1357eb83f91dbe0422.png",
+                    "amount": "за 1 ед.",
+                    "cost": "23,20 руб."
+                },
+                {
+                    "name": "Beaphar Спрей No love, 150 мл",
+                    "description": "Спрей для собак, защита от кобелей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b0/v5okm2pmp9hh987md67d3npi2531khm2/200_200_1/2eea25ebf392da9347ac1bf518ae6955.png",
+                    "amount": "за 1 ед.",
+                    "cost": "29,00 руб."
+                },
+                {
+                    "name": "Beaphar Мультивитаминная паста Duo Active Dog, 100 г",
+                    "description": "Пищевая добавка. Сделана в виде двухцветной пасты.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ad/z8gvdccscm0f5lehe8vtr91980999jvd/200_200_1/96d58a767ae9837677aa4e77f8697a75.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,60 руб."
+                },
+                {
+                    "name": "Beaphar Salmon Oil 430 мл",
+                    "description": "Масло лосося, пищевая добавка для собак и кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b5/c54641hbe7ane4on96kxc3bfgzrwwr31/200_200_1/f98562439b0ed4885477342b1831bbde.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,50 руб."
+                },
+                {
+                    "name": "Gimdog Vitality Paste, 50 г",
+                    "description": "Витаминная паста для собак, улучшает здоровье сердца.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e2/g9y6k88cpcfrb2sy9tbr8qi3fs5fzf6m/200_200_1/3e51e2b9235d5ab399fb9c5cf7fa8b3f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,60 руб."
+                },
+                {
+                    "name": "Canina dog stop tabletten (60 табл.)",
+                    "description": "Таблетки для течных сук, 60 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/1e0/84zjhaf4phvtla7qdv2fbdbgiiusru30/fa4be1f1c2b32ac7a99ad225f9ab248a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,90 руб."
+                },
+                {
+                    "name": "Canina dog stop sprey, 100 мл",
+                    "description": "Спрей для течных сук.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/264/skxm21k8nwipmtzijitvza9p5u60a0qu/200_200_1/1170f93e12fd5b51cbb4907b32c49cf1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "37,40 руб."
+                },
+                {
+                    "name": "8in1 Excel Mobile Flex+, порошок 150 г",
+                    "description": "Для улучшения состояния суставов и поддержки подвижности.",
+                    "image_url": "https://garfield.by/upload/iblock/e81/ju7n06xvs6m9gk9ebmx7sxd31l4nry6s/084a041dabd4cafe09537692ccb02526.png",
+                    "amount": "за 1 ед.",
+                    "cost": "32,70 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Algolith, 250 г",
+                    "description": "Минеральная смесь для активизации пигмента.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/32d/p7drcci2saj1wuf43kq40zq7wcpm0gc6/200_200_1/676ce34fd11c330b1340dee16a5f71f5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,90 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Junior Cal, 200 г",
+                    "description": "Минеральная смесь для щенков и котят.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/afc/ml5wi8tjxl1533c7yzxysn2ojib6gxg2/200_200_1/9604a9dc4b4cf00026b51eb6542ca4d6.png",
+                    "amount": "за 1 ед.",
+                    "cost": "22,70 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Irish Cal, 250 г",
+                    "description": "Для щенков, беременных и кормящих собак и кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/211/egx1zm3x650wq00gg5unk74swwp2pc1g/200_200_1/d8568c0492170b01d74b4f2e9feefec6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,20 руб."
+                },
+                {
+                    "name": "Beaphar Минеральная смесь Vitamin Cal, 250 г",
+                    "description": "Сбалансированная пищевая добавка к корму.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a6b/yh57f9fztv7wa2y32ph5pgd3entw3z9t/200_200_1/ff1ebf996e109e080228c38471292b4a.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "23,60 руб."
+                },
+                {
+                    "name": "Beaphar Комплекс витаминов группы В, 50 мл",
+                    "description": "Витамины для здоровья шерсти (оперения) и нервной системы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f52/1wkka6gtysg5ri22cmzddeslbdc55lf5/200_200_1/21d6869b729a67620b6eea43c76c21eb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "23,90 руб."
+                },
+                {
+                    "name": "Beaphar Жидкие витамины Laveta Super, 50 мл",
+                    "description": "Витамины для улучшения состояния шерсти собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ce/mgzwqc631p17cy3ts7vfco7r0512aktk/200_200_1/7c8374e007121ab3ef8c2dc210a78c03.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,30 руб."
+                },
+                {
+                    "name": "Beaphar Пивные дрожжи Brewers Yeast Tablets, 250 таб",
+                    "description": "Пивные дрожжи с чесноком.",
+                    "image_url": "https://garfield.by/upload/iblock/78a/9uglimrhuqj25swzk61zmnr303e54389/d767c1003a09264afe2be3d2ad39d240.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "38,80 руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка для собак Top 10",
+                    "description": "Кормовая добавка с L-карнитином.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/13d/sv1c2a925vhr47a6lyjwjfps6r4ndon6/200_200_1/8201a6548032b3388c594e92615e131e.jpg",
+                    "amount": "180 табл.",
+                    "cost": "28,20  руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Doggy's + Biotin, 75 таб/уп",
+                    "description": "Витаминизированное лакомство с биотином.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/449/xudthzm5z1t6g9tmn2klbyi1rbnju894/200_200_1/5c63cbfe6254fcc746c6df2a388e61ac.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "11,40 руб."
+                },
+                {
+                    "name": "Beaphar Лакомство Doggy`s Mix, 180 таб/уп",
+                    "description": "Лакомство с таурином, биотином и протеином.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7e9/icd68w0o9onuh2m3df5wr5pa6an2ulkn/200_200_1/fc184505a74526a2f8ca1a9c54568852.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,90 руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Senior Doggy's",
+                    "description": "Кормовая добавка для собак старше 7 лет",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e03/h61ttuobhy7ekny3ul463hsxwupboxca/200_200_1/67020c0f07f5ddb5b54fb0267383a668.png",
+                    "amount": "75 таб/уп",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Beaphar Кормовая добавка Doggy's Lever, 75 таб/уп",
+                    "description": "Кормовая добавка для собак со вкусом печени.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c68/d9svtr3rpo6gqts31a2iug2uj4gk3kle/200_200_1/e0057d2894c7adc53e21535eb6dfb00d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,00 руб."
+                },
+                {
+                    "name": "Масло трески Cod Oil",
+                    "description": "Очищенное масло трески для собак.",
+                    "image_url": "https://garfield.by/upload/iblock/53d/nj3uy4ibu534podwrgh44z889i2p3q14/800502d70664aba082d588b37dbad53d.jpg",
+                    "amount": "1 л",
+                    "cost": "71,50  руб."
+                },
+                {
+                    "name": "Royal Canin Babydog Milk",
+                    "description": "Заменитель молока для щенков до 2 месяцев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2f9/uoqrmrll5at5yhtrsb90i6kioy49cjdi/200_200_1/2d5977ecb2852df8c9b2a0006928a44a.jpg",
+                    "amount": "400 г",
+                    "cost": "51,40  руб."
+                },
+                {
+                    "name": "Canina Welpenmilch 450 г",
+                    "description": "Сучье молоко для щенков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ee5/r9ocdesiwm7m6lokretpi78rqx5d4us6/200_200_1/5d18736f9a1a263886aacfdd0393a7eb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "53,90 руб."
+                },
+                {
+                    "name": "Canina PETVITAL® Darm-Gel (бифидогель для собак)",
+                    "description": "Для стабилизации кишечной микрофлоры",
+                    "image_url": "https://garfield.by/upload/iblock/b27/usfgt90dke3uiq3eohp5spq20dfrq32w/fd21dfcd8ed8199073e5273ef7e02e54.jpg",
+                    "amount": "30 мл",
+                    "cost": "45,30  руб."
+                },
+                {
+                    "name": "Canina Cat-Mineral Tabletten (минеральные таблетки для кошек)",
+                    "description": "Для укрепления костей и мышц",
+                    "image_url": "https://garfield.by/upload/iblock/5bf/5s4rxx41xpwa3te4k5n5jx88d0yfq5fe/13628367943978db1ea68dbb5724aefb.jpg",
+                    "amount": "75 г",
+                    "cost": "24,20  руб."
+                },
+                {
+                    "name": "Bosch Puppy Milk (сухое молоко)",
+                    "description": "Заменитель сучьего молока для щенков.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/618/ffmdi6wh7r0lrd87iph46nrbr4emlnma/200_200_1/937fc7978ab980c344314e400d25fa66.png",
+                    "amount": "2 кг",
+                    "cost": "98,10  руб."
+                },
+                {
+                    "name": "Сироп STRIDE Plus для суставов",
+                    "description": "Предотвращает поражение тканей суставов",
+                    "image_url": "https://garfield.by/upload/iblock/6b0/3ty807v61delw3kp40bybx8wmcoytdo3/54bf49cda389c584dfc422d0b51042d4.jpg",
+                    "amount": "200 мл",
+                    "cost": "132,30  руб."
+                },
+                {
+                    "name": "Масло лосося Salmon Oil",
+                    "description": "Масло лосося для собак.",
+                    "image_url": "https://garfield.by/upload/iblock/651/wsl4k6qnpju199kstpzbbph4lgfkpv3d/06754b4946e6beb0b7bca5c272137be7.jpg",
+                    "amount": "250 мл",
+                    "cost": "25,00  руб."
+                },
+                {
+                    "name": "Масло Omega 3 Oil",
+                    "description": "Масло из различных видов рыб для собак.",
+                    "image_url": "https://garfield.by/upload/iblock/807/g805mzql2ibgntvkzpmqmda65hpuvkbn/47d8436e6367864849a4e6125d1e4ab2.jpg",
+                    "amount": "0,5 л",
+                    "cost": "47,50  руб."
+                },
+                {
+                    "name": "GIGI Имунофил",
+                    "description": "Снижение запаха во время течки у собак и кошек.",
+                    "image_url": "https://garfield.by/upload/iblock/927/3kjncevcjir03p43or7ybuiamw321vrq/0da4a2932bdcd65213f1d2fca9e01d82.jpg",
+                    "amount": "12 капсул",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "GIGI Медро ПЕТ",
+                    "description": "Для прерывания половой охоты у кошек и собак.",
+                    "image_url": "https://garfield.by/upload/iblock/fc2/uhitevmoayxxoznn2wmeqoc0wtm5umzs/a9dd207ee48ae4b302b5a235e157b10d.jpg",
+                    "amount": "10 таб",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Агроветзащита Косточка витамин",
+                    "description": "Минерально-витаминная кормовая добавка для собак.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/57c/jmsmck2zorujv600ihtnewjm0qc6c2wj/200_200_1/4da3afec5043e4b62a352fb3bb11d714.JPG",
+                    "amount": "100 таб",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Агроветзащита Радостин для собак до 6 лет",
+                    "description": "Витаминно-минеральный комплекс для собак",
+                    "image_url": "https://garfield.by/upload/iblock/db3/mllz6u87oc2gap8w925hfbn2zlm5tulr/9990ae348f50b6b9083671244ea7c954.jpg",
+                    "amount": "90 шт",
+                    "cost": "17,10  руб."
+                }
+            ]
+        }
+    }
+}

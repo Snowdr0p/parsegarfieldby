@@ -1,0 +1,79 @@
+{
+    "Птицы": {
+        "Купалки": {
+            "url": "https://garfield.by/catalog/birds/kupalki.html",
+            "products": [
+                {
+                    "name": "FAUNA Ванночка для птиц белая",
+                    "description": "Пластиковая ванночка для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d2d/a4etzicmbv07p2tqhdt7k9w1je1s1y2n/200_200_1/ac4a50a50d32d047b3f3081c67a96372.jpg",
+                    "amount": "",
+                    "cost": "14,20  руб."
+                },
+                {
+                    "name": "Triol BR48K Купалка для птиц, 12,5х10,5х11 см",
+                    "description": "Большая закрытая купалка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/703/n8xfcpn4ra84n3t144jp0ce4r2jh6hfm/200_200_1/1a87201a1f4c43a63845fe46241386a3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,30 руб."
+                },
+                {
+                    "name": "Купалка \"Trixie\" для птиц, 14х14х15 см",
+                    "description": "Купалка для птиц, закрытая",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2cf/73jgkx2o9j4fwrb2oa49d2nm0pkj4r0k/200_200_1/originals_PHO_PRO_CLIP_PHO_PRO_CLIP_5401-10_rSALL_lAWK_xV1.jpg",
+                    "amount": "",
+                    "cost": "14,10  руб."
+                },
+                {
+                    "name": "Trixie Купалка полукруг",
+                    "description": "Пластиковая купалка для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1c9/77fchns0d95b59hitgs0jx17fe4dzfwj/200_200_1/182181_PHO_PRO_CLIP_54032-1.jpg",
+                    "amount": "15x16x17 см",
+                    "cost": "27,70  руб."
+                },
+                {
+                    "name": "FAUNA Ванночка для птиц Miami",
+                    "description": "Пластмассовая ванночка для купания различных видов птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/464/bmdpdlw8nnkng9parwhrmcw59zu1vbmr/200_200_1/f69e2a3bc3a7c25e3a4237209406ec1a.jpeg",
+                    "amount": "16x12x13 см",
+                    "cost": "11,70  руб."
+                },
+                {
+                    "name": "Купалка \"Trixie\" большая, (пластик) 19х18х22см, чёрная",
+                    "description": "Купалка для птиц, пластик.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/99b/gpevel2gg9j4rjqngzwi2ielubznxhh2/200_200_1/e29d9234b153992da6d026af6cf3acd7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "44,70 руб."
+                },
+                {
+                    "name": "ВАКА Купалка для птиц",
+                    "description": "Купалка из нетоксичного пластика для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/18f/m92mr5ykjlaji9kiwvosfrt7337blaa1/200_200_1/3939e35b6e98ae5d98c5a2a3b6909817.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "For Friends Купалка для птиц, 11,6х11х11 см",
+                    "description": "Купалка для мелких птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ef/xvl8y56hftsxieigccvelm3d56vc3ohz/200_200_1/2345487e3c40e1737c850aa794881773.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,60 руб."
+                },
+                {
+                    "name": "Купалка \"Trixie\" для птиц, 14х8 см",
+                    "description": "Пластиковая купалка",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b16/1yubqri5qunx9wvk84tkifrb04dhuzqm/200_200_1/208ab2b6bf3daaebf38e3f867dfdbd53.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,70 руб."
+                },
+                {
+                    "name": "Купалка \"Trixie\" для птиц закрытая, 16х17х19 см",
+                    "description": "Купалка для птиц, закрытая.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/119/9u80faxy9wl76ecx0y5lys4g81rr60ke/200_200_1/c949858117c1f59f47935f210e99f549.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,90 руб."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,751 @@
+{
+    "Кошки": {
+        "Поводки и ошейники": {
+            "url": "https://garfield.by/catalog/cats/povodki-i-osheyniki.html",
+            "products": [
+                {
+                    "name": "Fida Поводок-рулетка Mars, лента белая",
+                    "description": "Ременной поводок для кошек и собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d8/k5fs1cf2zrzodbubyzuteuufm4ynn548/200_200_1/FIDA-MARS-5-50.jpg",
+                    "amount": "S, 5 м",
+                    "cost": "49,20  руб."
+                },
+                {
+                    "name": "Поводок-рулетка Flexi Mini Compact Cat XS лента 3 м",
+                    "description": "Поводок-рулетка для кошек весом до 12 кг, лента 3 м",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/385/86um9159resshasolgq3vo29kjql0a3w/200_200_1/MCP.210.S CAT.jpg",
+                    "amount": "",
+                    "cost": "43,80  руб."
+                },
+                {
+                    "name": "Trixie Ошейник Glitter для кошек",
+                    "description": "Нейлоновый ошейник с колокольчиком для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1f5/45o4a2766sy8jwv1ul1ubxwrcn15dbnn/200_200_1/a8e743b3894ea0ea25b6a16fea10ea1c.jpg",
+                    "amount": "19-32 см/1,5 см",
+                    "cost": "12,10  руб."
+                },
+                {
+                    "name": "Beeztees Ошейник для котят с колокольчиком",
+                    "description": "Нейлоновый ошейник для котят, 16-23 см х 8 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c5/tmuoyoi2weyw346v9s3fv683w6wxrlmt/200_200_1/5d4da1b63b42da6b1c68908d55130648.jpg",
+                    "amount": "",
+                    "cost": "8,30  руб."
+                },
+                {
+                    "name": "Rogz Шлейка+поводок Sparklecat Dark Red",
+                    "description": "Светоотражающая шлейка с поводком для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/78b/81e6bkxirfdt8inuiy01xbfy6b8f71fy/200_200_1/0471e885b1eacb727bafffb208e38bf5.jpg",
+                    "amount": "19,8-30 см/1,8 м",
+                    "cost": "63,30  руб."
+                },
+                {
+                    "name": "Triol HL02 Комплект шлейка-жилетка и поводок (синий)",
+                    "description": "Шлейка-жилетка + поводок, нейлон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/af3/qwam4arj6qw1ssees6mtwprie1v1snh6/200_200_1/6d720d6c2e4342dbcb1f40d883dc69b5.jpg",
+                    "amount": "S",
+                    "cost": "48,70  руб."
+                },
+                {
+                    "name": "Triol Комплект шлейка и поводок для собак",
+                    "description": "Нейлоновая шлейка и поводок для собак",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3cc/97bgus4gth3bhqchlbidefacj8k1e3ly/200_200_1/c71b9821788e57f12d301b62d68c66e5.jpg",
+                    "amount": "10*200-400мм; 10*1200мм",
+                    "cost": "15,20  руб."
+                },
+                {
+                    "name": "Triol LD09S Ошейник светодиодный салатовый",
+                    "description": "Светодиодный ошейник, 20 х 230-310 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/663/jnnpssg409etnmqlxv08gdd2abf6f6z4/200_200_1/b36f382f1e08fff95d2232e20221ef0a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,60 руб."
+                },
+                {
+                    "name": "Triol LD08M Ошейник светодиодный оранжевый",
+                    "description": "Светодиодный ошейник, 25 х 310-410 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/88e/kmmw3y5v8vakrp7y2cmiw1on9k97mjwe/200_200_1/abf048ea31c6843c37657d13033afe59.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,80 руб."
+                },
+                {
+                    "name": "Triol LD06S Ошейник светодиодный красный",
+                    "description": "Светодиодный ошейник,20 х 230-310 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/952/950zhesm0j0kzrkfz9jh6d0hawfvti5r/200_200_1/d6ea4cbe1189f061a06ec5cbf0bfd707.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,50 руб."
+                },
+                {
+                    "name": "Поводок-рулетка \"Flexi\" \"New classic\" САТ 3 м (XS) Трос",
+                    "description": "Для котов до 8 кг, тросовый поводок",
+                    "image_url": "https://garfield.by/upload/iblock/2ac/20lbgk3gf37ken3mtfrx91kfs2h3kfxx/d8bb3301cab2990886fdd05315e57a24.jpg",
+                    "amount": "Розовый",
+                    "cost": "30,40  руб."
+                },
+                {
+                    "name": "Ошейник-Чокер для стильного модника (черный в клетку)",
+                    "description": "Регулируемый чокер на кнопках.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f8e/io447pstq6wmwdn93jj70qoh8dlldvuz/200_200_1/dc6ee1cf516a2a36925668bf170b2868.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "22,10 руб."
+                },
+                {
+                    "name": "Triol HL03S Комплект коричневый (350мм/15х1200мм)",
+                    "description": "Шлейка-жилетка + поводок, нейлон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3d5/ab32rn63ho547za8067c5x61jvf8k3rv/200_200_1/7b7ec3e00c8ffaddc036eea98a95b155.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "48,70 руб."
+                },
+                {
+                    "name": "\"Гамма\" Шлейка и поводок, 40х30х8,5 см / 1х150 см",
+                    "description": "Комплект для кошек, капрон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b4/jxoq115s8mk4fkpb9k03pc6b7uqz2aek/200_200_1/54704b6a350270bc3bdf8b38d914830f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,40 руб."
+                },
+                {
+                    "name": "Triol LD04L Ошейник светодиодный неоновый желтый",
+                    "description": "Светодиодный неоновый ошейник, 25 х 410-510 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/373/l1l7g5osstpe2y6a0q4eeb3hon87pxov/200_200_1/72627611cfde9c4cd4bac5418038e25b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,40 руб."
+                },
+                {
+                    "name": "Поводок-рулетка \"Flexi\" \"Design\" (XS) 3 м",
+                    "description": "Для собак и котов весом до 8 кг., трос - 3 м",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ed/l9wtkc9gij16v9g0chm18iug9dlln8x4/200_200_1/4328f492f392f1651cc4db8ea33bd396.jpg",
+                    "amount": "Розовый",
+                    "cost": "33,30  руб."
+                },
+                {
+                    "name": "Trixie Шлейка с поводком для котят Junior, 19-31 см/1,2 м",
+                    "description": "Набор из нейлона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9dd/xlysh9qszw5juxzy72g6n80pd1n9km0j/200_200_1/244537_PHO_PRO_CLIP_4182-21.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,80 руб."
+                },
+                {
+                    "name": "Trixie Шлейка с поводком для котят Junior, 21-33 см/1,2 м",
+                    "description": "Набор из нейлона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3f4/y0l0udliqk2i2j06bc9q5j9mcxuxa15t/200_200_1/243823_PHO_PRO_CLIP_4181-19.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,30 руб."
+                },
+                {
+                    "name": "Trixie Шлейка с поводком для кошек, 22-42 см/1,25 м",
+                    "description": "Набор из нейлона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/811/bsrhfua9k8lp6dtffpkpg7dh33jsqs2g/200_200_1/262476_PHO_PRO_CLIP_4185-15.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,70 руб."
+                },
+                {
+                    "name": "Trixie Шлейка с поводком для кошек",
+                    "description": "Набор из нейлона (шлея 27–45 см + поводок 1,2м/10 мм)",
+                    "image_url": "https://garfield.by/upload/iblock/3e7/6sokt0ljy24be72akwx4djw41z80x2yn/09870f946233c126e5be8995ecabe363.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,50 руб."
+                },
+                {
+                    "name": "Trixie Шлейка с поводком для котят светоотражающая",
+                    "description": "Набор из нейлона (шлея 27-45 см + поводок 1,3 м/10 мм)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/469/mo100x88f8mv5r0izdk2jj7fc3s01frc/200_200_1/281049_PHO_PRO_CLIP_4183-12.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,40 руб."
+                },
+                {
+                    "name": "Trixie Шлейка с поводком светоотражающая для кошек",
+                    "description": "Набор из нейлона (шлея 22-42 см + поводок 1,2 м/10 мм)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6b/x2qnrc0befth43qulzdo5viokibd22za/200_200_1/c31841821c373284595ce4c0ab0f41c4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,70 руб."
+                },
+                {
+                    "name": "Набор Trixie Шлейка с поводком для котят Junior, 21-33 см,8 мм/1,2 м",
+                    "description": "Набор из нейлона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd7/qna0qdge18kjtwp4y54qu5dt2eqvj8cq/200_200_1/243819_PHO_PRO_CLIP_4144-19.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,10 руб."
+                },
+                {
+                    "name": "Trixie Шлейка с поводком для кошек One Touch",
+                    "description": "Набор из нейлона (шлея 26-37 см/10 мм + поводок 1,2 м)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac2/72qzry892dpmja7i39337l39rrovmsb1/200_200_1/282234_PHO_PRO_41891-4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,90 руб."
+                },
+                {
+                    "name": "Trixie Ошейник для котят Junior с рисунком и колокольчиком",
+                    "description": "Регулируемый ошейник из нейлона для котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/23f/e372m262vq1nob3tvgim2s1d3i2d3wlf/200_200_1/252335_PHO_PRO_CLIP_4178-14.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,60 руб."
+                },
+                {
+                    "name": "Trixie Ошейник для котят Junior с рисунком и колокольчиком регулируемый",
+                    "description": "Регулируемый ошейник из нейлона для кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d0a/ukzw9jso86xcgkfp1hg27zetjy5kbrnm/200_200_1/252339_PHO_PRO_CLIP_4179-14.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,00 руб."
+                },
+                {
+                    "name": "Trixie Ошейник светоотражающий для котят Junior",
+                    "description": "Регулируемый ошейник из нейлона для маленьких кошек и котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8df/funznzhlu0b2x6z2dskm3wxvpxpeysof/200_200_1/184238_PHO_PRO_CLIP_41685-2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Trixie Ошейник светоотражающий для котят Junior колокольчиком",
+                    "description": "Регулируемый ошейник из нейлона для котят",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/842/m7l9r015vr6udkoc7ypo4aqqhs4dc5nz/200_200_1/241201_PHO_PRO_CLIP_41686-14.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Trixie Ошейник светоотражающий для кошек бархат стразы",
+                    "description": "Регулируемый ошейник со стразами и колокольчиком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3e/nd57tbtnxl2egvhktwwaufjwqbg0vmv8/200_200_1/266218_PHO_PRO_CLIP_4148-14.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,30 руб."
+                },
+                {
+                    "name": "Trixie Ошейник эластичный для кошек",
+                    "description": "Регулируемый ошейник с колокольчиком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/73c/7r8n1s6wv4jhuoma2pvgqhgmh4hkjmee/200_200_1/184240_PHO_PRO_CLIP_4154-10.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "Trixie Ошейник для кошек с колокольчиком",
+                    "description": "Регулируемый ошейник из нейлона для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/163/3g4426ygp6n9ycocrrrj96mnn0j2n5x1/200_200_1/184348_PHO_PRO_CLIP_4202-14.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Trixie Ошейник с адресником для кошек",
+                    "description": "Регулируемый ошейник из нейлона для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/357/s9267jsf90ypmdu9k8zhvnpui4cdgdgo/200_200_1/266205_PHO_PRO_CLIP_4180-21.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,20 руб."
+                },
+                {
+                    "name": "Trixie Ошейник светоотражающий для кошек",
+                    "description": "Регулируемый ошейник с колокольчиком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/739/zv3iuacdibtjlhpaxzc5943nn728ndpn/200_200_1/260866_PHO_PRO_CLIP_4145-12.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "Trixie Брелок-маячок, металл",
+                    "description": "Для собак и кошек диаметр 1 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e24/38lpruxlycxkr037cew4e7pnfpujy1ld/200_200_1/fa16febcc394177914db3e8e53fd9ff4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Trixie Брелок-маячок металл/хром",
+                    "description": "Для собак и кошек диаметр 1 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/85a/22vxboj7z49vcldk31az4y1zb2sdn5k2/200_200_1/fec8224d85eb4d8704a8c5976e6b6663.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Triol Брелок светодиодный LD01",
+                    "description": "Пластиковый светодиодный брелок,55 х 35 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/76d/7vv26zcs0qr0z8m9szftkn6pylj7vgu0/200_200_1/2f334083303d1b830c9204e10a5c16ee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,50 руб."
+                },
+                {
+                    "name": "Triol Брелок светодиодный LD02",
+                    "description": "Металлический светодиодный брелок,60 х 11 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1aa/t2dv3ezq4z8t37fv7kqijklh1x0go6k2/200_200_1/bbdd2e9a5adbdc191f5221583eebf21d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,50 руб."
+                },
+                {
+                    "name": "Triol Ошейник для кошек Нежность",
+                    "description": "Регулируемый ошейник из нейлона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2df/6fbviy8ui5qghq3xc1r51xn1g4u9rdmi/200_200_1/ccee616ddc85737ded1e08e33f8b90dc86578941.jpg",
+                    "amount": "1 х 21-33 см",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Triol Ошейник для кошек Косточки",
+                    "description": "Регулируемый ошейник из нейлона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b2e/lev90qd0a2r2g7glofcmlqkqkp9hemsx/200_200_1/d974489b18e9f66fff415d8228243acf515550cf.jpg",
+                    "amount": "1 х 21-33 см",
+                    "cost": "10,20  руб."
+                },
+                {
+                    "name": "Trixie Ошейник для кошек светоотражающий с колокольчиком и пряжкой",
+                    "description": "Регулируемый ошейник с колокольчиком и пряжкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d4/45p5xve0apykqe4unpg0gu5whdfphafu/200_200_1/260863_PHO_PRO_CLIP_4207-8.jpg",
+                    "amount": "1 шт/уп",
+                    "cost": "14,30  руб."
+                },
+                {
+                    "name": "Ошейник в дворянском стиле с рюшечками",
+                    "description": "Безопасный элегантный ошейник с системой защиты от удушения",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d3/gkbat7b2qe51yg1nascjtrvsfotdhxpm/200_200_1/P18-21.NM_BK.jpg",
+                    "amount": "",
+                    "cost": "16,20  руб."
+                },
+                {
+                    "name": "Trixie Шлейка с поводком XXL для кошек",
+                    "description": "Набор из нейлона (шлея 34-57 см + поводок 1,2м/13 мм)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cd5/tsuy77nkqngi265q0xye5s0iixj2jzfn/200_200_1/266223_PHO_PRO_CLIP_41960-15 (1).jpg",
+                    "amount": "34-57см/1,2 м/13 мм",
+                    "cost": "24,90  руб."
+                },
+                {
+                    "name": "Trixie Шлейка мягкая с поводком для кошек",
+                    "description": "Набор для прогулки (шлея 24-42 см + поводок 1,2 м)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a52/owo2blo3dyik6nnzy6q11m11j9blpnll/200_200_1/7177fc27c2070d444bd84f8f91a37656.jpg",
+                    "amount": "24-42 см/1,2 м",
+                    "cost": "55,10  руб."
+                },
+                {
+                    "name": "Trixie Шлейка мягкая XXL с поводком для кошек",
+                    "description": "Набор для прогулки (шлея 36-54 см + поводок 1,2 м)",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ee3/cnpgzll979zhqj6y1iojkuq7gczq8qfg/200_200_1/af7fa590f9a2c4bac1d635dbd041c37c.jpg",
+                    "amount": "36-54 см/1,2 м",
+                    "cost": "75,10  руб."
+                },
+                {
+                    "name": "CAMON Шлея с поводком для котят, рыбы и звездочки",
+                    "description": "Для выгула котят и мелких кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/105/mkhr0sdtebs0dhb3u4rc0bf5yvtdg7ly/200_200_1/31d95569068e286c9b7525b193966acc.jpg",
+                    "amount": "10 мм х 120 см",
+                    "cost": "34,80  руб."
+                },
+                {
+                    "name": "CAMON Шлея с поводком для котят",
+                    "description": "Для выгула котят и мелких кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b87/qjv74myci3jo8e3vb0dt8n6y11t5oov3/200_200_1/f7369f6ca17f2b2aa9a71fa8934834b8.jpg",
+                    "amount": "8 мм х 120 см",
+                    "cost": "20,80  руб."
+                },
+                {
+                    "name": "CAMON Ошейник с колокольчиком для кошек",
+                    "description": "Регулируемый ошейник для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0d/l557qaijslmmc750gdfz8y1v9x8v7h0j/200_200_1/e359a3bede44e0a2429c1a8fa0bd7f9e.jpg",
+                    "amount": "19 см х 10 мм",
+                    "cost": "7,30  руб."
+                },
+                {
+                    "name": "CAMON Ошейник светоотражающий для кошек",
+                    "description": "Нейлоновый ошейник для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a07/yqe4hhgo0c00q8odq6itc4fw5xo1s2g4/200_200_1/94da168e3af72ceb95143909dbb80b67.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,60 руб."
+                },
+                {
+                    "name": "Beeztees Ошейник Хула, 20-30 см х 10 мм",
+                    "description": "Ошейник из нейлона для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/05b/f2escypc1kv4lzp9ox24qrqxng6pfk2v/200_200_1/786299e42e2c2fbd1d3cba13678bc6a3.jpg",
+                    "amount": "",
+                    "cost": "18,20  руб."
+                },
+                {
+                    "name": "Beeztees Ошейник для кошек Orbio, бежевый",
+                    "description": "Нейлоновый ошейник для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/43e/3f2atpyewx8b1tc4ubz7rpd40qjxvd9u/200_200_1/321d10bc21a87e5fdd2081e2cd0eaa17.jpg",
+                    "amount": "20-30 см х 10 мм",
+                    "cost": "18,50  руб."
+                },
+                {
+                    "name": "Beeztees Ошейник для кошек Virante, 20-30 см х 10 мм",
+                    "description": "Нейлоновый ошейник для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d03/p8p4a3roddn87w7envgbbob2scz11g6q/200_200_1/99139e10c60f1376d3d20c2bdc265e9a.jpg",
+                    "amount": "",
+                    "cost": "17,70  руб."
+                },
+                {
+                    "name": "Beeztees Ошейник для кошек Uni",
+                    "description": "Нейлоновый ошейник для кошек, 20-30 см х 10 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/158/3mwuspwd0aaqt6lyqji4kuktgqjnujn6/200_200_1/08c49b34b8599e303eb729ff6304718b.jpg",
+                    "amount": "",
+                    "cost": "16,90  руб."
+                },
+                {
+                    "name": "Beeztees Ошейник бархатный для кошек",
+                    "description": "Ошейник для кошек, 20-30 см х 10 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/05e/k7yua39060opsmj4i7a3j2canjbv20ww/200_200_1/50066de1bd5b6aa00f2e9f378f18cdbf.jpg",
+                    "amount": "",
+                    "cost": "17,40  руб."
+                },
+                {
+                    "name": "Beeztees Шлейка для кошек, 130 см х 10 мм",
+                    "description": "Нейлоновая шлейка для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b00/323cwkp88dvkc6ir1az7bour0xsy1u90/200_200_1/cfe133830f9ed0834b04453eb1d9148f.jpg",
+                    "amount": "",
+                    "cost": "29,90  руб."
+                },
+                {
+                    "name": "Beeztees Ошейник для кошек 4EVER",
+                    "description": "Двусторонний ошейник для кошек, 20-30 см х 10 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e33/wxyrigi5rmvob3227395yzle1flz6f9q/200_200_1/b5cb4a0c48454f67123e97db58271c2a.jpg",
+                    "amount": "",
+                    "cost": "17,20  руб."
+                },
+                {
+                    "name": "Beeztees Ошейник для кошек светоотражающий Winston",
+                    "description": "Нейлоновый ошейник для кошек, 21-32 см х 10 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/90d/8dh8ohfhxq4rsx9ft3oq7rozkj7oni6t/200_200_1/77fba8de203249959c3948359f3dd824.jpg",
+                    "amount": "",
+                    "cost": "14,30  руб."
+                },
+                {
+                    "name": "Beeztees Ошейник для кошек Камуфляж",
+                    "description": "Нейлоновый ошейник для кошек, 21-32 см х 10 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/846/mr0wo762805xn35w71za3pum8mj3m6rk/200_200_1/4e172418094d64d868ffa4e18bfd35f1.jpg",
+                    "amount": "",
+                    "cost": "10,40  руб."
+                },
+                {
+                    "name": "ДиАнКари Брелок адресный на ошейник, металл",
+                    "description": "Металлический брелок для животных",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/145/qn9aw154hpq2a5vangw5w27qqq5wnu6x/200_200_1/37f77fd6eefd61ee78ca51d4505ae86d.jpg",
+                    "amount": "S",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "Beeztees Ошейник с подсветкой, 35х0,7 см",
+                    "description": "Нейлоновый ошейник для кошек с USB",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a5c/90xj8lk2g7d1c64w0q9l0ngosvejvejq/200_200_1/e28b1020916b07268974b5fadc2d0d16.jpg",
+                    "amount": "",
+                    "cost": "32,00  руб."
+                },
+                {
+                    "name": "Ошейник «Роскошный леопард» (3S)",
+                    "description": "Ошейник из натуральной кожи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b0/8yuq87q3teu0vdanyom9th1yx2k8p9s1/200_200_1/21311c1f4196dfc55ed497014cf2a521.jpg",
+                    "amount": "Бежевый",
+                    "cost": "18,60  руб."
+                },
+                {
+                    "name": "Ошейник-Чокер для стильного модника. Размер 2S",
+                    "description": "Регулируемый чокер на кнопках",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad1/si0ptz9ri1ealm34ql1thsb2mrlj6ke1/200_200_1/50c20893025a0042d2ec74154bd4edcb.PNG",
+                    "amount": "Розовый",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Triol Ошейник для кошек \"Marie\"",
+                    "description": "Нейлоновый ошейник с колокольчиком.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/18e/wyos65p3178xel3ins5w0nh2wld7kjkk/200_200_1/9174b05f48cb265e385bbf9673c44976.jpg",
+                    "amount": "1 х 21-33 см",
+                    "cost": "7,00  руб."
+                },
+                {
+                    "name": "Triol Ошейник для кошек \"Minnie\"",
+                    "description": "Нейлоновый ошейник с колокольчиком.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad2/o6sub1fvm81jngz45z3li1uf7n2mbdgl/200_200_1/61403159a068c8499bbac1478feb686c.jpg",
+                    "amount": "1 х 21-33 см",
+                    "cost": "7,00  руб."
+                },
+                {
+                    "name": "Поводок-рулетка Ferplast \"Deluxe Mini\" трос 3 м",
+                    "description": "Для собак весом до 8 кг; тросовый поводок 3 м",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f38/3i6e0002pawmcpotq50ueg4gfo0haqni/200_200_1/a635c346900f71aab4bfaefc7a0b041d.jpg",
+                    "amount": "Голубой",
+                    "cost": "53,20  руб."
+                },
+                {
+                    "name": "Rogz Шлейка+поводок Sparklecat Pink",
+                    "description": "Светоотражающая шлейка с поводком для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/322/pqhlia1sslzo7qlf41fv62pjgb6j5964/200_200_1/99de59b0a4ecd490ea2463687f2964c5.jpg",
+                    "amount": "19,8-30 см/1,8 м",
+                    "cost": "63,30  руб."
+                },
+                {
+                    "name": "Rogz Ошейник \"Sparklecat Dark Red\"",
+                    "description": "Ошейник с бубенчиком из полиэстера для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ea/czvoqpoavf05n6wlcrwjl77l8uos88de/200_200_1/8ced0b6208d48e50135af6a307e20fc1.png",
+                    "amount": "XS",
+                    "cost": "19,10  руб."
+                },
+                {
+                    "name": "Rogz Шлейка+поводок Alleycat розовый",
+                    "description": "Светоотражающая шлейка с поводком для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9cd/hk1p9a156na0zq0zg1q0ow3oa5kkvzot/200_200_1/0e94d1d5c1935925cbffba97680fa83f.jpg",
+                    "amount": "19,8-30 см/1,8 м",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" для кошек двухцветный с колокольчиком",
+                    "description": "Регулируемый нейлоновый ошейник.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/057/36z1o4fqryfxtk95xynyfrjrpppdm63j/200_200_1/7bf89b88fd3e5a31a7bc7d7d2152b31e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,30 руб."
+                },
+                {
+                    "name": "ДиАнКари Подвеска в виде лапки, 35х33 мм",
+                    "description": "Алюминиевый жетон для гравировки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/497/micj0r1sqreyyzquu857opxups3tyqlv/200_200_1/900c3b65e9128bf5c2ff6fd473c2de30.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,90 руб."
+                },
+                {
+                    "name": "ДиАнКари Подвеска-фоторамка",
+                    "description": "Брелоки из нержавеющей стали.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bbf/7mylz3vp2j69kjfgrgfw0hfprp0nydj7/200_200_1/45581cd60707bdc63da41602a45b0d90.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,90 руб."
+                },
+                {
+                    "name": "ДиАнКари Подвеска для гравировки, 23 мм",
+                    "description": "Металлический жетон для гравировки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/134/stpzfxue9lb5kchae3qzgx5dih3mras8/200_200_1/022ad725b95a2281c911156a21e2ec61.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,80 руб."
+                },
+                {
+                    "name": "ДиАнКари Подвеска круглая с котиком",
+                    "description": "Жетон для гравировки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/415/molm5wi4t8cq2tv8tu5uevluneym0o4t/200_200_1/131312b5359bfa88127df04e0ed5a91b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,90 руб."
+                },
+                {
+                    "name": "ДиАнКари Подвеска с блестящей лапкой",
+                    "description": "Металлическая подвеска на ошейник.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ec/ys7btw2dojjr5e218hu9lrlmd6k18v33/200_200_1/445b50e2bc9bd626daff8a80812b7c86.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,80 руб."
+                },
+                {
+                    "name": "Trixie Шлейка с поводком для кошек, 27-46 см/1,2 м",
+                    "description": "Набор из нейлона",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/add/102ibd09b2irlq5j0vg0u2yra8u009z3/200_200_1/cfb51b9d661458f3ea8946b198bf8ae1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,50 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" для кошек регулируемый, фиолетовый",
+                    "description": "Нейлоновый ошейник для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e75/7tvn1r25j2oihns452lfhjod2022yiui/200_200_1/ec6497640639fbc5e514360042d1a7ef.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" для кошек регулируемый, индиго",
+                    "description": "Нейлоновый ошейник для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7d4/cy73t3i4r1d1cc4ez5zvqntznudsq3aw/200_200_1/6f99a031e2a6613dba301d673c69f362.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" для кошек регулируемый, коралловый",
+                    "description": "Нейлоновый ошейник для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f1c/uuw75j9jzdrtcpgrrvls178d4u0dxn4j/200_200_1/575ed9d6871db8c5359bebfbe8ce9d5f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" для кошек регулируемый, океан",
+                    "description": "Нейлоновый ошейник для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/133/kln9kv9veelc4e830vsyw5ltop95c1lx/200_200_1/d4affd91ae5676b1ad4c357030f6b2cb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Ошейник \"TRIXIE\" для кошек, светится в темноте, с колокольчиком, нейлон",
+                    "description": "Регулируемый ошейник для кошек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/845/fb0t5u79359rrxi96ur44lx6tu61msec/200_200_1/049dd35d9853720f2ff2b76d3aa15165.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "\"Гамма\" Ошейник и поводок, 1,5х40 см / 1,5х150 см",
+                    "description": "Комплект для кошек, капрон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8fa/7ceaibs133k8k41j26poqv3kzdw3v2wl/200_200_1/76a6d72ccd38ec4d164f834f1fe00cb4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "\"Гамма\" Шлейка и поводок, 1,5х20-32 см / 1,5х150 см",
+                    "description": "Комплект для кошек, капрон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6a6/je26ypk7ss1adpeb0x1vc46gcqltg7xu/200_200_1/eca668760020ffe923946cb7408be07c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Comfy Ошейник для кошки \"Obro\", голубой",
+                    "description": "Ошейник с колокольчиком, 31 х 1,1 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c7b/rdydicn6cmwmchlpmvy36xo4x5fxw7cv/200_200_1/b9015e1662804db0fa54c4eb18af9c74.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "Comfy Ошейник для кошки \"Obro\", розовый",
+                    "description": "Ошейник с колокольчиком, 31 х 1,1 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b88/dfzddp8g14jieur71g5ogyr73m5xzfn4/200_200_1/913119db1186fd5265e749377eecf013.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "5,30 руб."
+                },
+                {
+                    "name": "Comfy Ошейник для кошки \"Obro\", красный",
+                    "description": "Ошейник с колокольчиком, 31 х 1,1 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b1d/52lui84y69aplcxu2ru5x877i0axjwac/200_200_1/be98fcdf10dc8355086b1a433490041d.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "7,80 руб."
+                },
+                {
+                    "name": "Triol Комплект со стразами (25х500 мм/15х1200 мм)",
+                    "description": "Ошейник + поводок для кошек, искусственная кожа.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0fc/vjqddk7e9x8ne22uifmbwsypzbb5a3fj/200_200_1/c0b7a4d9bd99f426529308ab91df051e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,30 руб."
+                },
+                {
+                    "name": "Ошейник «Алмазные Подвески» Размер 3S Розовый",
+                    "description": "Натуральная кожа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d37/jdrpbwtl8mp2kfwq6usqpht03mnx41cu/200_200_1/7ae4b775bd8743235880c01e0ad6f67c.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "19,80 руб."
+                },
+                {
+                    "name": "Набор \"Trixie\" для кошек (шлея 25-45 см + поводок 1,2 м)",
+                    "description": "Набор из нейлона.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be1/3nhcr0eevn2de27tlpxp520q2yxcsxwp/200_200_1/57b853dc6b4ca6db5806d3db30ba4a9b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,70 руб."
+                },
+                {
+                    "name": "Beeztees Ошейник для кошек Triangle",
+                    "description": "Нейлоновый ошейник для кошек, 20-30 см х 10 мм",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a6f/0r4y39f9c44yx17mdx0ook20hc1l3390/200_200_1/cea84a101c1d052d585aebc5162c513f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,80 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" для кошек с колокольчиком",
+                    "description": "Регулируемый нейлоновый ошейник.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3bd/blzeml3y3yeor1i5ocbwfwa8wd1uovg8/200_200_1/184512ac0c8e10bae29f2c57871589f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,30 руб."
+                },
+                {
+                    "name": "Triol LD05M Ошейник светодиодный неоновый оранжевый",
+                    "description": "Светодиодный неоновый ошейник,25 х 310-410 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c4d/zls4w412wkko4pjua5mukodxouk44ouz/200_200_1/7ded9f9ba699ee61e04bea8ae7b105f5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,50 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" \"Elastic\"",
+                    "description": "Ошейники с колокольчиком, нейлон",
+                    "image_url": "https://garfield.by/upload/iblock/597/c1ou4y14yvjjzzqnx22f38p6ict6lwk4/f8bde1e68aecaa541504dabfac71223d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,20 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\", для кошек",
+                    "description": "Светоотражающий, с колокольчиком, иск. кожа/плюш.",
+                    "image_url": "https://garfield.by/upload/iblock/604/5yiw1q5c665nc3cwjppmn58lnbxz6x3w/ac4c7c3c541da8f577ecfd001c0006a0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,00 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" \"Sequins\"",
+                    "description": "Ошейник для кошек, с колокольчиком, нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/03b/i4qdaho5w335dolxetit7x3e0w2tky2c/3677fb13921d781177a8d36406b76c06.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,20 руб."
+                },
+                {
+                    "name": "Ошейник 1 \"Trixie\" для кошек",
+                    "description": "Ошейник для кошек, с колокольчиком, нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/7b3/6lb3mraqov950v1i8xv3f4ilpx2gqmd1/4cb47ae9b40a3d7ddbf214a63ed09345.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" \"Fashion\"",
+                    "description": "Ошейник для крупных кошек, нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/270/nz71xox1r4dpgfpcrhggac1bj238jzld/357e10e0ee4a692edd674844f0d89180.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,00 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\", для крупных  кошек",
+                    "description": "Для крупных кошек, нейлон, светоотражающий.",
+                    "image_url": "https://garfield.by/upload/iblock/bd3/qvm752mn5k0zo6pq8ycf1arc9dcpvou2/b38a8a52079beb10058955e04e9e6db4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\" для кошек, нейлон",
+                    "description": "Светоотражающий, с рисунком и колокольчиком, нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/057/8r390hshf0ktj3wg27vwrr6hq9zmocvv/d4a223f7c21092631b80e933292c2336.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Trixie Ошейник светоотражающий для кошек с рисунком",
+                    "description": "Регулируемый ошейник из нейлона с колокольчиком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/997/g8elecbr4nxyxx9919fn14xyz7e1kq17/200_200_1/266208_PHO_PRO_CLIP_4173-11.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\", пластик",
+                    "description": "Ошейник светоотражающий, с колокольчиком, пластик.",
+                    "image_url": "https://garfield.by/upload/iblock/42f/babb21xsyrdr8k3axqe78hqs8me2x4q2/b60931376aeadb48642e27dee687558f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Trixie Ошейник светоотражающий для кошек бархат",
+                    "description": "Регулируемый ошейник с колокольчиком",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/03f/jg5und4x23tori35644mhbb0j15nrt5j/200_200_1/282356_PHO_PRO_CLIP_4172-15.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Ошейник 1 \"Trixie\" нейлон",
+                    "description": "Ошейник с колокольчиком, нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/f0f/8pyi6vfryljtdf8j62s5dsfghelyw1up/a8e6c032fca735d22356c975d56dda13.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\", пластик/нейлон",
+                    "description": "Светоотражающий, с колокольчиком, пластик/нейлон.",
+                    "image_url": "https://garfield.by/upload/iblock/79b/0gzyjw15b8mvnw57rswx1o82jjo4uvkp/6163954bff93dfeb2a427bad7445fda1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Trixie Ошейник для кошек с рисунком и колокольчиком",
+                    "description": "Регулируемый ошейник из нейлона для кошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d66/e41kmyxya1x4ed2oi51290rrani16261/200_200_1/266213_PHO_PRO_CLIP_41904-12.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Ошейник \"Trixie\", иск. кожа",
+                    "description": "Ошейник с колокольчиком, искусственная кожа.",
+                    "image_url": "https://garfield.by/upload/iblock/f9b/o13m5a1x0xwcft9umdph0dyr2p0g75xz/5a5ddba407bef08136eec6c14517318b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Trixie Брелок адресный на ошейник для кошки",
+                    "description": "Брелок адресный, металл, цвет хром;Длина 1,7 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d17/rex2hhdi99ousqs4pr55xlf08baw2wy8/200_200_1/97f862458348a0c27167ef989aa75728.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Trixie Бубенчик на ошейник",
+                    "description": "Колокольчик на ошейник, металл",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47d/e3bw4fum40tqc3hsz1da9yf22qafqv3s/200_200_1/24830f5fddb4cd402bdfacfda839f415.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                }
+            ]
+        }
+    }
+}

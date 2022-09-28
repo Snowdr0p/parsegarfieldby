@@ -1,0 +1,37 @@
+{
+    "Кошки": {
+        "Подарочные сертификаты": {
+            "url": "https://garfield.by/catalog/cats/gifts-cats.html",
+            "products": [
+                {
+                    "name": "Подарочный сертификат на 20 рублей",
+                    "description": "Подарочный сертификат на покупки  в зоомагазине Garfield",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1c1/gslvs9wxgye4ffz05ius0fmq0q5svbr5/200_200_1/faa18f0728a8b338e60fce6518d80bed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,00 руб."
+                },
+                {
+                    "name": "Подарочный сертификат на 50 рублей",
+                    "description": "Подарочный сертификат на покупки в зоомагазине Garfield",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6a/2djy4xahkv46gbwq8qg8orh16yzqyqwh/200_200_1/f0714e7b35c472b75952aa80533c4525.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,00 руб."
+                },
+                {
+                    "name": "Подарочный сертификат на 100 рублей",
+                    "description": "Подарочный сертификат на покупки в зоомагазине Garfield",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad8/3f4dxw4fi82e6h1me7okdu90o1c3fe4q/200_200_1/e34b41da023d528709117c03aab1cdf5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "100,00 руб."
+                },
+                {
+                    "name": "Подарочный сертификат на 10 рублей",
+                    "description": "Подарочный сертификат на покупки в зоомагазине Garfield",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/284/9ogrib514i0z24wfkis2t8scf8o0bqq3/200_200_1/b5f30b23912c251254763bdd45d1b3f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                }
+            ]
+        }
+    }
+}

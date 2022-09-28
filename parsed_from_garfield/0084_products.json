@@ -1,0 +1,2221 @@
+{
+    "Рыбки": {
+        "Фильтрация": {
+            "url": "https://garfield.by/catalog/akvariumistika/filtratsiya.html",
+            "products": [
+                {
+                    "name": "Eheim Фильтр внутренний PICK UP 60",
+                    "description": "Фильтр для аквариумов до 60 л.",
+                    "image_url": "https://garfield.by/upload/iblock/377/za24zbifd89vpoo8qqowdsbf10l2xa30/b86aa9ea555e1f084188086e0c8558d6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "120,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний PICK UP 160",
+                    "description": "Фильтр для аквариумов до 160 л.",
+                    "image_url": "https://garfield.by/upload/iblock/123/3m4lve27t60zynuxsoln0zevkakjm02i/6d7512ced4f5a12044d1fb5808766e79.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "145,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний PICK UP 200",
+                    "description": "Фильтр для аквариумов до 200 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/582/m512fcd9g5o0vawc6cck8kutiqnre0hb/200_200_1/9edbd09f92b8b941a7e92465f8332230.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "170,10 руб."
+                },
+                {
+                    "name": "Aquael Присоски Suction Cup (4 шт.)",
+                    "description": "В комплекте 4 присоски.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8e4/aw9us1j74j0f4wwu7btnqpx0uni2qo1b/200_200_1/f78cbe452bf5fb3d5c69846b060ceaad.jpg",
+                    "amount": "диаметр 24 мм",
+                    "cost": "15,30  руб."
+                },
+                {
+                    "name": "Laguna Помпа 800HP-2500HP",
+                    "description": "Погружная аквариумная помпа",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4f/0ne6k6fyju2nitstf9xubdohlz8dc83a/200_200_1/fd0faf3f77f111b443b70c67aa10cad4.jpg",
+                    "amount": "15 Вт",
+                    "cost": "46,50  руб."
+                },
+                {
+                    "name": "Laguna Аэрлифт730IF, 1 фильтрующий элемент",
+                    "description": "Внутренний фильтр для аквариума, 9 х 13 х 5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fc8/1zmh2x11u6t5vvpq7h2pxakhvumohdz4/200_200_1/c246cd87bef262f8ce3b483aab4e160e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,60 руб."
+                },
+                {
+                    "name": "Eheim Ось со втулками для внутренних фильтров",
+                    "description": "Ось со втулками для фильтров aquaball, biopower",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b55/keyz9a2b03ajuax9pxy2rc4qtbhis9ue/200_200_1/Керамическая_ось_к_aquaball-biopower_312x393.jpg",
+                    "amount": "Aquaball и Biopower",
+                    "cost": "40,10  руб."
+                },
+                {
+                    "name": "Laguna Помпа JY1100, серия ICEBERG",
+                    "description": "Помпа для перемешивания воды и насыщения кислородом в пресноводных аквариумах",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/faa/np3wzdkw16vv5rlt0b3dxi0mt60o6c39/200_200_1/bf38b35e-85a2-11ec-a58d-b07b25e4d639.jpg",
+                    "amount": "4 Вт",
+                    "cost": "26,60  руб."
+                },
+                {
+                    "name": "Laguna Фильтр внутренний",
+                    "description": "Внутренний фильтр для очистки и аэрации воды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/280/vjtkjhwzah0opfsmtiwlzslxaj09zor2/200_200_1/a6631f7b-85a5-11ec-a58d-b07b25e4d639.jpg",
+                    "amount": "800 л/ч",
+                    "cost": "32,90  руб."
+                },
+                {
+                    "name": "Laguna Фильтр внутренний ICEBERG",
+                    "description": "Внутренний фильтр для очистки и аэрации воды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/325/zlzmc8rsf9cxrcuu7eeu7337x1wrv7pa/200_200_1/4c28c0d5-85a5-11ec-a58d-b07b25e4d639.jpg",
+                    "amount": "400 л/ч",
+                    "cost": "23,80  руб."
+                },
+                {
+                    "name": "Barbus Губка крупнопористая",
+                    "description": "Губка для системы фильтраций",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/39f/pja52tbtj5xzy4x4xl8msw4rdst20fas/200_200_1/sponge-043.jpg",
+                    "amount": "30 х 12 х 2 см",
+                    "cost": "19,70  руб."
+                },
+                {
+                    "name": "Barbus Присоска с держателем силиконовая, 2 шт",
+                    "description": "Присоска силиконовая",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/45d/7rpv3jnahnckn7w1ilrko5yh4n9gqews/200_200_1/d1a23b30ad13817f142b8200d52e97f9.jpg",
+                    "amount": "14 мм (2 шт)",
+                    "cost": "3,30  руб."
+                },
+                {
+                    "name": "Barbus Присоска с держателем силиконовая, 4 шт",
+                    "description": "Присоска силиконовая для фильтра",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/71c/76aavtu04fr4ahi0tg3qd8yai78q6uk2/200_200_1/Без названия (1).jpg",
+                    "amount": "12 мм (4 шт)",
+                    "cost": "5,30  руб."
+                },
+                {
+                    "name": "Barbus Губка сменная для фильтра Каскад",
+                    "description": "Фильтрующая губка для аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/23e/1990la4j6eqcwzba144xs2liof8o60n6/200_200_1/для 032.jpg",
+                    "amount": "103 x 58 x 10 мм",
+                    "cost": "8,50  руб."
+                },
+                {
+                    "name": "Barbus Присоска с держателем силиконовая",
+                    "description": "Присоска силиконовая для фильтра",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/918/f5izqeo3s2rzj0l77470ll7ht3cyx8m3/200_200_1/ACCESSORY_095.jpg",
+                    "amount": "16 мм (2 шт)",
+                    "cost": "3,00  руб."
+                },
+                {
+                    "name": "Barbus Присоска с держателем резиновая",
+                    "description": "Резиновая присоска для фильтров",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/54e/zz197ok2ohxfyvk6j1hlaw83rcor9mwl/200_200_1/12570713-2.jpg",
+                    "amount": "12 мм (1 шт)",
+                    "cost": "3,70  руб."
+                },
+                {
+                    "name": "Barbus Присоска резиновая для помп",
+                    "description": "Комплект насадок для помп",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff4/q2l1smy1s2vd94vi7hgvgnunkmf6cwzz/200_200_1/4012980d61fa07554f3d1a843a450181.jpg",
+                    "amount": "15 мм (4 шт)",
+                    "cost": "5,30  руб."
+                },
+                {
+                    "name": "Barbus Фильтр Био-комплекс со светильником (белый)",
+                    "description": "Внутренний фильтр для аквариума с лампой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/223/zswc3gls3t0t4s8hc8apoxxi9wifxy3m/200_200_1/фильтр.JPG",
+                    "amount": "350 л/ч",
+                    "cost": "81,40  руб."
+                },
+                {
+                    "name": "Barbus Био-наполнитель Шунгит",
+                    "description": "Обеззараживает воду от бактерий и вирусов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3a9/b3eer12cv3h91gom9g8bnc9m1j3r5xbc/200_200_1/925-chudo-kamen-shungit.jpg",
+                    "amount": "1 л",
+                    "cost": "30,60  руб."
+                },
+                {
+                    "name": "Barbus Фильтр внутренний Каскад",
+                    "description": "Аквариумный фильтр с регулятором мощности потока воды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8e6/rzp9sbzkf05s9jg7m55fmfp0s9eujxv6/200_200_1/1017861709.jpg",
+                    "amount": "20-50 л",
+                    "cost": "54,10  руб."
+                },
+                {
+                    "name": "Barbus АЭРО-фильтр ACCESSORY 040-042",
+                    "description": "Универсальный аэрофильтр для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ac2/0ktfhqafvymvu82nv38jh8r19mfypfiw/200_200_1/4493f68b284905e311cee9b24c28322c.jpg",
+                    "amount": "0-30 л",
+                    "cost": "16,40  руб."
+                },
+                {
+                    "name": "Barbus Губка сменная для фильтра",
+                    "description": "Фильтрующая губка для аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3b/yxpfxa929skh6rl16jzcqdbt1afl4ss4/200_200_1/SPONGE_028.jpg",
+                    "amount": "40 х 23 х 55 мм",
+                    "cost": "4,90  руб."
+                },
+                {
+                    "name": "Barbus Губка квадратная для помп",
+                    "description": "Наполнитель для помпы",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/31d/r68ulnsk88ebsy8vlzlz0n27bpu5qsqn/200_200_1/999-barbus-gubk.jpg",
+                    "amount": "55х120 мм",
+                    "cost": "32,10  руб."
+                },
+                {
+                    "name": "Barbus Фильтр внутренний с аэратором и флейтой",
+                    "description": "Внутренний фильтр для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/436/fpigiw79vhl5y92cxu046o58by1htqde/200_200_1/772-barbus-filter-003.jpg",
+                    "amount": "150 л/ч",
+                    "cost": "38,10  руб."
+                },
+                {
+                    "name": "Barbus Фильтр внутренний КРИСТАЛ",
+                    "description": "Внутренний фильтр для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eae/irk63ml0s47tww74un4rhllip2cfg8lb/200_200_1/5ba33939384e1f5160089998.jpg",
+                    "amount": "600 л/ч",
+                    "cost": "62,50  руб."
+                },
+                {
+                    "name": "Eheim Присоски, 4 шт",
+                    "description": "Подходят для фильтров и помп",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e51/03bmch13rr1sheadisce2d8k8cc546zr/200_200_1/Присоски_Eheim_большие_4_шт_417x355.jpg",
+                    "amount": "диаметр 20 мм",
+                    "cost": "33,10  руб."
+                },
+                {
+                    "name": "Eheim Внешний ТЕРМОфильтр Professionel 5е",
+                    "description": "Фильтр внешний с нагревателем и беспроводным управлением через смартфон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/afb/as59hgzar873kl1sy63dv1qbqqdx29e5/200_200_1/eheim-professionel-5et-em-2178010-5-(2).jpg",
+                    "amount": "T 600",
+                    "cost": "2640,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внешний Professionel 5е",
+                    "description": "Фильтр внешний c беспроводным управлением через смартфон",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/08a/xy1n71hrk0tlpb491nzdac1b4jyq2xfb/200_200_1/em-2078010-5.jpg",
+                    "amount": "450",
+                    "cost": "1680,10  руб."
+                },
+                {
+                    "name": "Exo Terra Фильтр внешний Turtle Filter FX-200",
+                    "description": "Фильтр для резервуаров для черепах, палудариумов или водных террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6a/5i56lm1ukcyisv32m73ksvutcfedzu2q/200_200_1/2838eeede80c9a8bfff29515dd046934.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "367,60 руб."
+                },
+                {
+                    "name": "Exo Terra Фильтр внутренний Repti Clear F350",
+                    "description": "3-ступенчатый погружной универсальный фильтр",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a6/0jg80twpurpy1y5trn29zce0aw1h0xgy/200_200_1/b48d12e6f95ddbdb85f78f250a2decc0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "150,70 руб."
+                },
+                {
+                    "name": "Tetra ротор",
+                    "description": "Аксессуар для внутреннего фильтра",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ff/a7cm8nz5f4aiopz8889ilnn7gcuqbsos/200_200_1/7f244ee8be813cd2d5a256c91e94330a.jpg",
+                    "amount": "для EasyCrystal Filter 100",
+                    "cost": "18,20  руб."
+                },
+                {
+                    "name": "Natural color Наполнитель для фильтра активированный уголь 1,5 мм",
+                    "description": "Высококачественный наполнитель для фильтра",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a7a/lrphbksda7r0pquchfbj64gi9a6bj8ke/200_200_1/cabfc94e8da4077d5f50facfb1a9b712.jpg",
+                    "amount": "500 г",
+                    "cost": "17,60  руб."
+                },
+                {
+                    "name": "Eheim Импеллер для внутренних фильтров",
+                    "description": "Запчасть к внутреннему фильтру.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/17d/wt6vy6te4w9mu21oj18gt2o31iderp4v/200_200_1/582335f39e9aabcb939643ad56f62d74.jpg",
+                    "amount": "PowerLine XL",
+                    "cost": "100,10  руб."
+                },
+                {
+                    "name": "Laguna Губка фильтрующая пенополиуретановая",
+                    "description": "Фильтрующая губка для аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/693/9u92j9sg6rxo05ceslo7ed05dikrahno/200_200_1/ce27c644d6b1869e8b876519f4ed8911.jpg",
+                    "amount": "55х55х120 мм",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний Аqua",
+                    "description": "Модульный внутренний угловой фильтр для аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d6/afry0rsxoqh39a11fdj2dptehcz8arkk/200_200_1/c9c6dd64b7b8e4c82fe733b5e1e444bc.png",
+                    "amount": "60",
+                    "cost": "160,10  руб."
+                },
+                {
+                    "name": "Eheim Помпа-течения StreamON+",
+                    "description": "Помпа для морских и пресноводных аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/14f/xvmf1t32hlzl57aqfda4ccwjk1xtmf9o/200_200_1/fa8582abbd6ff7fce841e064aa039577.jpg",
+                    "amount": "3500",
+                    "cost": "280,10  руб."
+                },
+                {
+                    "name": "Tetra Внутренний фильтр Easy Crystal",
+                    "description": "Внутренний фильтр для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/419/6v87ikinvkb50wvbrmioccf168f0mb7l/200_200_1/7ab980255ab85564f047b703f73c4e5f.jpeg",
+                    "amount": "250",
+                    "cost": "62,60  руб."
+                },
+                {
+                    "name": "Laguna Фильтр внутренний LS",
+                    "description": "Внутренний фильтр для очистки и аэрации воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/738/1s9d73croidnft5cl50i5cpy24eckytu/200_200_1/98004b1aa3684a64cbb6a91bd6766331.jpg",
+                    "amount": "15 Вт",
+                    "cost": "31,10  руб."
+                },
+                {
+                    "name": "Laguna Внутренний фильтр MY",
+                    "description": "Внутренний фильтр для очистки и аэрации воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/45e/oqg23nux6wghrd3mklmy48p06naln6xp/200_200_1/666179875cf4cd4ed1085eb5982bc1fe.jpg",
+                    "amount": "3 Вт",
+                    "cost": "27,60  руб."
+                },
+                {
+                    "name": "Eheim Уплотнительное кольцо для classic",
+                    "description": "Для фильтров classic 250, classic 350, classic 600.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/071/cjjot4d0do9q9pij31nc7lzjwuvx0otf/200_200_1/1284f7b703c013c4db6f75dd2fa2560a.jpg",
+                    "amount": "250",
+                    "cost": "40,10  руб."
+                },
+                {
+                    "name": "Haqos Внутренний фильтр Jular",
+                    "description": "Подходит для пресноводных и морских аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d7a/pl2989ph9qzymtsy9ap3zfsa1yedjosq/200_200_1/65589f54552c0b4c9bcf736f3ea9cebc.jpg",
+                    "amount": "435 л/ч",
+                    "cost": "31,90  руб."
+                },
+                {
+                    "name": "Aquael Присоски с амортизатором Suction Cup (4 шт.)",
+                    "description": "В комплекте 4 присоски.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/829/zzl9vglghapyuizzse1fm1fcdvl09bo4/200_200_1/666d30f0bb58d7220b8e732021dcfcfa.jpg",
+                    "amount": "диаметр 36 мм",
+                    "cost": "21,80  руб."
+                },
+                {
+                    "name": "Barbus Губка круглая для помп",
+                    "description": "Наполнитель для помпы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/170/7g0re9ybrv77tur9fzcyi86onru13ug0/200_200_1/9df333deecca6e78e83bf19fb9598b1e.jpg",
+                    "amount": "Ø55 х 120 мм",
+                    "cost": "33,20  руб."
+                },
+                {
+                    "name": "Laguna Помпа компактная",
+                    "description": "Помпа малой мощности для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fcc/88fbcu10ly6gua6w4mrzditeieq9tna9/200_200_1/4bcd008002b68bec6e542711c51f90ac.jpg",
+                    "amount": "130P",
+                    "cost": "23,30  руб."
+                },
+                {
+                    "name": "Aquael Внешний фильтр Ultramax",
+                    "description": "Внешний фильтр для аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b5/2luw9x64wds19aygicgnwm5ncjoh22lw/200_200_1/df8c47aa81988bc8b9234a8d2410aa7d.png",
+                    "amount": "1000",
+                    "cost": "541,40  руб."
+                },
+                {
+                    "name": "Sera Внутренний фильтр L",
+                    "description": "Внутренний фильтр для пресноводных и морских фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/97d/69ye90mj5b6c0omwdhigq2dutzalcjs0/200_200_1/c49af489272d5ff8dcac265d87cc1cad.png",
+                    "amount": "L-150",
+                    "cost": "59,50  руб."
+                },
+                {
+                    "name": "Aquael Внешний фильтр Maxi Kani",
+                    "description": "Внешний фильтр для аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b00/e2wr711e4qpcr8ou8kxnqc2ou6qpa8vv/200_200_1/3f436ccf25b25bccbb0d6ea73ba7989d.jpg",
+                    "amount": "250",
+                    "cost": "376,70  руб."
+                },
+                {
+                    "name": "Aquael Ось керамическая Rotor Unifilter",
+                    "description": "Запасная часть к внутреннему фильтру.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/033/re8fhnnc2gkqzs1lvszaoja9sxexwyoq/200_200_1/18f82e63306ef9409017a7989ed0d257.jpg",
+                    "amount": "280",
+                    "cost": "14,50  руб."
+                },
+                {
+                    "name": "Aquael Ось керамическая ROTOR",
+                    "description": "Запасная часть к внутреннему фильтру и фонтанному насосу.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/07a/u7nsjuy26xmq5657gqy5ytq5lxdwfmg4/200_200_1/371bb20420c4e31402ebf16b2addc0f1.jpeg",
+                    "amount": "1000",
+                    "cost": "12,70  руб."
+                },
+                {
+                    "name": "Aquael Помпа Unipump",
+                    "description": "Помпа для фильтров линейки ASAP.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6a/qjc6tvcsfg8ok1bdyw1l4pr3179xsd9b/200_200_1/b0855f6307d992bd689688813d159c97.jpg",
+                    "amount": "1000",
+                    "cost": "170,10  руб."
+                },
+                {
+                    "name": "Tetra Impressor",
+                    "description": "Ротор ко внутреннему фильтру.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/315/9b2t3mldkv54v416nxc4f6y77d7jtmm3/200_200_1/95197a3fb1ec8406eb77d129a19d842b.jpg",
+                    "amount": "IN300 plus",
+                    "cost": "15,50  руб."
+                },
+                {
+                    "name": "Eheim Кассета с картриджем (поролон)",
+                    "description": "Кассета с картриджем для внутренних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/568/t19z0gzab9862pq9m7gss1wdrgq5qvyh/200_200_1/151215756b5192dad4356ab1a7aaa47d.jpg",
+                    "amount": "для biopower",
+                    "cost": "50,10  руб."
+                },
+                {
+                    "name": "Eheim Импеллер для фильтров",
+                    "description": "Импеллер для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb6/754txula6chgxwh2hni3jucu7e2ns4l7/200_200_1/67391670e29f967e63acc683c3327db1.jpg",
+                    "amount": "classic 250",
+                    "cost": "100,10  руб."
+                },
+                {
+                    "name": "Eheim Зажим шлангов адаптера для фильтров",
+                    "description": "Зажим шлангов адаптера внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4b9/zkjh75a7ggnshs2g0jkwxbx68cfsctda/200_200_1/e6d0aa0131f771c96006aaf6a78b027e.jpg",
+                    "amount": "prof.3 250/350/600",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Eheim Ось со втулками для внешних фильтров",
+                    "description": "Втулки для внешних фильтров",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9f2/4lwikxjd99u0bzk4x7jta417aewhm835/200_200_1/b3192e0dcf940fdc10821357576b840d.png",
+                    "amount": "classic 250",
+                    "cost": "50,10  руб."
+                },
+                {
+                    "name": "Eheim Адаптер для фильтров",
+                    "description": "Адаптер для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ee/n5fezhhx7o90fyozid6ikdsxggtfa00b/200_200_1/1083416893979ba104c5e5a6f90020d5.jpg",
+                    "amount": "prof.3/4+  (250/350/600)",
+                    "cost": "110,10  руб."
+                },
+                {
+                    "name": "Eheim Комплект уплотнительных колец",
+                    "description": "Комплект уплотнительных прокладок для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea7/jspyfdq71mk8hgsd5mvqptv6cwgpopyw/200_200_1/13214fbc16fc265d4962cd53056cef26.jpg",
+                    "amount": "prof.3/4+  (250/350/600)",
+                    "cost": "75,10  руб."
+                },
+                {
+                    "name": "Eheim Уплотнительное кольцо для внешних фильтров",
+                    "description": "Уплотнительная прокладка для фильтров eXperience, prof. и prof.2.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/708/l8rwvi91h5h0inqm84om35psf57za3m7/200_200_1/4b20682d7f21ee6d6809b54cb4cef840.jpg",
+                    "amount": "eXperience (150/250)",
+                    "cost": "70,10  руб."
+                },
+                {
+                    "name": "Eheim Присоска с клеммой для шланга, 2 шт.",
+                    "description": "Клемма для шланга.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1c0/kzm3utvx02wrqkbya2izdcg75xhd4fm7/200_200_1/76bf9052e3bf9fb31f4133e2b76b390c.jpg",
+                    "amount": "16-22 мм",
+                    "cost": "30,10  руб."
+                },
+                {
+                    "name": "Eheim Зажим для шланга, 2 шт.",
+                    "description": "Зажим-\"хомут\" для шланга.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2f2/3yk3i8jxek1ukhnlctq1xh0xm02gsxoy/200_200_1/506f71b77c1624c9fde02c1a1c447496.jpg",
+                    "amount": "12-16 мм",
+                    "cost": "40,10  руб."
+                },
+                {
+                    "name": "Eheim Т-соединитель шлангов",
+                    "description": "Т-образная соединительная труба для для шланга.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/19e/t5o1kgn6x8hje7exmubaxyf51ww6jpz1/200_200_1/485de6b418365a6d7b986b91571f6d67.jpg",
+                    "amount": "9-12 мм",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Eheim Соединитель шлангов",
+                    "description": "Соединитель шлангов для фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/161/expbiz8889lk20np56h21rcqou0afms2/200_200_1/8657417ad9943454e07cd876e6616a1b.jpg",
+                    "amount": "12-16 мм (2 шт.)",
+                    "cost": "28,10  руб."
+                },
+                {
+                    "name": "Eheim Двойной быстроразъемный кран",
+                    "description": "Кран для безопасного отсоединения шланга от фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e77/xrj79d8ls8zigv4ql3ar7jp4w4m8rkcw/200_200_1/2e7e9f695d34fe013a046faf7e0f54f2.jpg",
+                    "amount": "12-16 мм",
+                    "cost": "100,10  руб."
+                },
+                {
+                    "name": "Eheim Выпускная трубка для шланга",
+                    "description": "Для выпуска воды в аквариум после внешнего фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1cf/q1coxup88dp2tzg6pii45kzobetmpxa9/200_200_1/3472be9a41c63edf630b2034756ede59.jpg",
+                    "amount": "12-16 мм",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "Eheim Водозаборная трубка для шланга",
+                    "description": "Для вертикального забора воды из аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8dd/cvtwq851k1bdwjlsqunevrnww524n8pr/200_200_1/158b4db85da8310c05d4bf7b835756ec.jpg",
+                    "amount": "12-16 мм",
+                    "cost": "53,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал SYNTH",
+                    "description": "Фильтрующий синтепон для механической очистки воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a9f/af0iyic7cxytbgpgrpnw33ae27l20q0f/200_200_1/17ae9dabcda302e8ca86ab7835c02aee.jpg",
+                    "amount": "1 л",
+                    "cost": "37,10  руб."
+                },
+                {
+                    "name": "Eheim Активированный уголь",
+                    "description": "Для кратковременной очистки аквариумной воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fc2/mj71lrqqqls34dnaz384kri5hbxo7wos/200_200_1/cbf15ff35e11b4cd21ab4333b6c26e3d.jpg",
+                    "amount": "1 л",
+                    "cost": "35,10  руб."
+                },
+                {
+                    "name": "Eheim Донный гравийный фильтр",
+                    "description": "Фильтрация через слой аквариумного грунта.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/58d/xchczrbjk46x7ccq3ih4z74d0e90j16b/200_200_1/be45829de9c4684065775bf9886e3b39.jpg",
+                    "amount": "нагнетающий",
+                    "cost": "230,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтр подвесной Liberty",
+                    "description": "Навесной фильтр-водопад для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/878/wheldnxdqislg5kkt318ns6d9rbbpvvv/200_200_1/d9096d8b904e7cb6cb36e203745e59a0.jpg",
+                    "amount": "220-570 л/ч",
+                    "cost": "150,10  руб."
+                },
+                {
+                    "name": "Eheim Насос \"CompactOn\"",
+                    "description": "Универсальный аквариумный насос.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b5a/3nlezw447bzjuamdvqwv8qzar8tco557/200_200_1/6c5bd99a7b890fd63c5b08d75df3f5d6.jpg",
+                    "amount": "до 300 л/ч",
+                    "cost": "100,10  руб."
+                },
+                {
+                    "name": "Hagen Губка угольная для фильтров FLUVAL",
+                    "description": "Губка угольная для внутренних фильтров Fluval.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/529/yqn6lttdvgf6wxp8a2imv3m7hzf7amp5/200_200_1/edcbd741d7a8cd4d7b508e147f6f4b8c.jpg",
+                    "amount": "U4",
+                    "cost": "16,20  руб."
+                },
+                {
+                    "name": "Hagen Фильтровальный вкладыш для Fluval",
+                    "description": "Фильтровальный вкладыш для фильтра Fluval, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41d/naw6cl97evfvbz62ri0ne0fg4hsi9s7w/200_200_1/ecd6641c170e8da2e3c81c1f568658c2.jpg",
+                    "amount": "U2",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Eheim Внешний ТЕРМОфильтр Professionel 3",
+                    "description": "Бесшумный внешний фильтр с встроенным обогревателем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/271/vpdut8ouvct9pede8ligmyb3eahf9job/200_200_1/e922c8ffbe9713d63084efd6922e01c6.jpg",
+                    "amount": "25 л",
+                    "cost": "2380,10  руб."
+                },
+                {
+                    "name": "Barbus Цеолит био-наполнитель",
+                    "description": "Наполнитель цеолит высокопористый.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b07/uu9jl1wkuznicch9ob4rn0szikgpduic/200_200_1/61946e3070c7832b5bd9db2136398c7c.jpg",
+                    "amount": "250 г",
+                    "cost": "14,10  руб."
+                },
+                {
+                    "name": "Barbus Активированный уголь био-наполнитель",
+                    "description": "Фильтрующий угольный наполнитель, коробка.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47d/eneqm9k38gualngr5s60dc134k2g6qvb/200_200_1/424fdd0341e220759902885df7195dfe.jpg",
+                    "amount": "250 г",
+                    "cost": "22,90  руб."
+                },
+                {
+                    "name": "Barbus Керамические кольца био-наполнитель",
+                    "description": "Фильтрующие керамические кольца.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/868/h8wn6yq0n7jwf3qig1rl6cdh7tsz7fcp/200_200_1/ebd9b282c35cd7589c9af822e6ec36b2.jpg",
+                    "amount": "250 г",
+                    "cost": "19,90  руб."
+                },
+                {
+                    "name": "Boyu DXB Фонтанный насос",
+                    "description": "Фонтанный насос.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/80f/chtcex2docx42y1i55rdd7n5fe7dgsmi/200_200_1/1c4973e0bcd68753f662850c5462950a.jpg",
+                    "amount": "3500 л/ч",
+                    "cost": "400,10  руб."
+                },
+                {
+                    "name": "Boyu SP-A/B Подводный фильтр",
+                    "description": "Аквариумный внутренний фильтр.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/69f/fl62m3vs88kt7k9wk23n2i2i04bv6h7s/200_200_1/8338cf5c20e82e9c0e0f847e62798241.jpg",
+                    "amount": "8 Вт, 300 л/ч  1 картр",
+                    "cost": "47,10  руб."
+                },
+                {
+                    "name": "Laguna 30103 Био-шары  кварцевые, 500 г",
+                    "description": "Наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/87b/c7n5qecp8tswtl4jpfjxpnqbr2am50qd/200_200_1/663e519a295d40a0946bd7df602ca19d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,90 руб."
+                },
+                {
+                    "name": "Hagen Губка грубой очистки для фильтров Fluval 206",
+                    "description": "Губка для грубой очистки, 18.5 х 7 х 7 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d9d/kse2sw3aju68c03z48r2ho43qzk0ryzy/200_200_1/3acb8a2bf2ce79a37f94619f125dc731.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,30 руб."
+                },
+                {
+                    "name": "Hagen Губка грубой очистки для фильтров Fluval 306/406",
+                    "description": "Губка для грубой очистки, 19 х 12 х 7 см, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/312/b1mywswtl7oaqrvvw514fx662rr9cim4/200_200_1/1889a58b91f521762af2e82c00f23c3e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,20 руб."
+                },
+                {
+                    "name": "Hagen Сменная губка механической очистки для FLUVAL FX5",
+                    "description": "Губка грубой чистки для фильтров Fluval FX5, 3 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/019/eeqqtn6ihx222jcfh51s9wbibf84feeo/200_200_1/b596f101d4c106ca82af01d2183d2ab1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,20 руб."
+                },
+                {
+                    "name": "Eheim Набор наполнителей prof. 3 1200XL/XLT (ведро)",
+                    "description": "Полный набор всех фильтрующих сред для фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f06/bsunzirok3q33idzradvscl401i9pvrc/200_200_1/84ecfad8b4bc8906b1c60307f37daa87.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "570,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующие картриджи для pickup 200 (2 шт.)",
+                    "description": "Картридж из пористой губки для грубой очистки воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e7/7k5ti116coxqzuqh49k436kpm6xxnvyq/200_200_1/bc13758d82158676763231b7981ac106.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующие картриджи для PowerLine XL (2 шт.)",
+                    "description": "Картридж из пористой пены.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/feb/88nqqd1sj471y2opj4fo1uhez7xx8l6i/200_200_1/780723d82ff5be21c56f89e490226b58.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "53,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующие картриджи для aquaball/biopower (2 шт.)",
+                    "description": "Губчатый картридж для внутренних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/350/4fb6bmaiu37bnzqaooz0i3n07wh9a4v9/200_200_1/7473646fdec72e8531edb74eedc342e2.png",
+                    "amount": "за 1 ед.",
+                    "cost": "47,10 руб."
+                },
+                {
+                    "name": "Eheim Комплект уплотнительных колец для prof. 3/4+",
+                    "description": "Уплотнительное кольцо для адаптера.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0d/6tc5xsoq0oyi1l1rkrpyceh40sa4r7c0/200_200_1/314153d57ea1d85d5fb126084db109f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,10 руб."
+                },
+                {
+                    "name": "Sera Активированный уголь \"Pond Super Carbon\", 2 кг.",
+                    "description": "6 недель активной фильтрации до 4000 литров прудовой воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4fd/hp0frfqx9r2n6l7fu7u8vcx8f42w8scw/200_200_1/ca1e51238270974f9ce512515e20926a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "127,80 руб."
+                },
+                {
+                    "name": "Sera Наполнитель биологический \"Biopur Forte\", 0,8 л",
+                    "description": "Биологический фильтрующий материал.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/781/kerc53zotkdk38b63nfhucoyyz5nt541/200_200_1/0339b749ecf22875ff73c19aebe7aa62.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "55,30 руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний Power Line XL",
+                    "description": "Фильтр для аквариумов до 400 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d9/qk00bm4fo61j4yp7pllwaxbccysjel66/200_200_1/9a2a9c90ac99201782f7b850ec6a5692.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "645,10 руб."
+                },
+                {
+                    "name": "Aquael Ротор Ultramax 1000/1500",
+                    "description": "Запчасть к внешнему фильтру",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c9/rm3bzf6cco4ujhvbv6g3o2luzyuni33h/200_200_1/810f8f66bb609ee4ef533d34939a6476.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,90 руб."
+                },
+                {
+                    "name": "Laguna Фильтр внутренний 150KF, 2,8 Вт",
+                    "description": "Внутренний фильтр для аквариума, 4,3 х 3 х 8 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6db/ftrd437r1v5ng3g01aekhjw8gvhmk92b/200_200_1/7a90b3a44bfa3950ce49636aa31b3321.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,80 руб."
+                },
+                {
+                    "name": "Tetra Ротор FilterJet 400 Impeller 24 MK",
+                    "description": "Ротор к внутреннему фильтру FilterJet 400.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/55f/mai2d1alri8mwp8fjdzblw83dxhg814j/200_200_1/91ed99aefb6dd5c92003be79cc38b66e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Aquael Биоконтейнер Bio Unifilter 500",
+                    "description": "Контейнер для фильтров Aquael Unifilter 500 и 500 UV.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/841/9771cc8agw0b2i08qn0yuxmpp2v6mbnz/200_200_1/18a8458e8e5675216c1d50fbec38bfbd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,30 руб."
+                },
+                {
+                    "name": "Aquael Биоконтейнер Bio Unifilter 750/1000",
+                    "description": "Контейнер для фильтров Aquael Unifilter 750/1000 и 750/1000 UV.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e31/6fd43kq5vmtc5xvcac5wsbm0gsezkvd1/200_200_1/816c890379a4cbd4a7710e380676e9a4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,60 руб."
+                },
+                {
+                    "name": "Eheim Угольные фильтрующие маты для внешних фильтров",
+                    "description": "Маты для фильтров Professionalel 3 250/350/600, 3e 350",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d58/3nulolrjt79fv8jo334lqvqbhmthwlvc/200_200_1/0d4fb13d61ba59f25ab4b0059ac90d91.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "80,10 руб."
+                },
+                {
+                    "name": "Laguna Фильтр для круглых аквариумов, 12х12х15 см",
+                    "description": "Внутренний биофильтр для аквариумов до 20 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/863/wlthxpt4p5dni8kbem8qnwe25af2gb7c/200_200_1/34e68279c4ba5bab53a1751d292d88a1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Eheim Маты для фильтров prof.2226/2228 и eXperience 350",
+                    "description": "Фильтрующие маты (1 грубый + 2 ватных) для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/260/m7hwxmem1fts5u88ma2btszxwetl6odx/200_200_1/53d02499a883640f608abddcc195622d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,10 руб."
+                },
+                {
+                    "name": "Eheim Маты для фильтров prof.3 1200XL/XLT",
+                    "description": "Фильтрующие маты (1 грубый + 4 ватных) для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6b/a3x1urn72quth0cy3m3fnwq2pulbsyu0/200_200_1/1234aa3e0f4302c87783a0d92122ffcb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "85,10 руб."
+                },
+                {
+                    "name": "Eheim Маты для фильтров prof.4+/4е+/4+Т",
+                    "description": "Фильтрующие маты (1 грубый + 4 ватных) для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/474/x4gpd4hmktimq76ow85tpfp4j7f5d6z1/200_200_1/6faac3d0feb8e2d6b688da21476c5fb7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "75,10 руб."
+                },
+                {
+                    "name": "Eheim Всасывающее устройство (\"груша\") для фильтра",
+                    "description": "Помпа закачки для старта фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a6/r9xjndjtz93w55psve0xdegjnysws21w/200_200_1/78ada2c2d9745ed88c2f30cd4cd3bb3d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "90,10 руб."
+                },
+                {
+                    "name": "Eheim Префильтр двухкассетный",
+                    "description": "Фильтр предварительной очистки для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/625/0irj7g0q6n10ubkon7b7jr9hc2kriy6u/200_200_1/22bd7c71927dce222a7aa5de71a32066.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "70,10 руб."
+                },
+                {
+                    "name": "Eheim Переменная выпускная трубка-вариатор",
+                    "description": "Поворотное колено, 12-16 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/816/wuicu1iu9e4uyw7r8y3pc4r5d4v5abqq/200_200_1/eba6ef91c44102bbde32039b7ebfb88a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,10 руб."
+                },
+                {
+                    "name": "Eheim Lili Pipe Лейка к внешнему фильтру",
+                    "description": "Регулируемая насадка для возврата воды.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/574/q49v3m9xia9lkn4widsmitw9bjoi72ry/200_200_1/5a00808305185c54dd130ee6e2e8383d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "85,10 руб."
+                },
+                {
+                    "name": "Eheim Диффузор для шланга 12/16 мм",
+                    "description": "Диффузор для шланга 12/16 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/46a/5oo6xprw9s6kv1n1thgj6g4t5n6h0mn9/200_200_1/bd2049afa4c872aff59301372c7f62b8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "52,10 руб."
+                },
+                {
+                    "name": "Eheim Водозаборная насадка для внешних фильтров",
+                    "description": "Насадка-решетка для шлангов 12х16, 16х22 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77e/1zfaa52pvwx297i5bi4f7bke681j95pk/200_200_1/85391d357e226fe3d44e1a444f251653.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,10 руб."
+                },
+                {
+                    "name": "Eheim Соединитель шлангов, D 16/22 -12/16 мм",
+                    "description": "Переходник для шлангов разных диаметров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a67/osaqfgho0cchtmldo69zoj9plln9zz6q/200_200_1/1be3eb47ec1bf12ff4aee468d12ebeb0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,10 руб."
+                },
+                {
+                    "name": "Eheim Поддон для внешних фильтров prof.3 1200 XL",
+                    "description": "Для фильтра prof.3 1200 XL и других внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/829/k62a38q7xf4ycwd5psqr1wsfe5x5wata/200_200_1/f5a696357726154df3d14ae565b67480.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "55,10 руб."
+                },
+                {
+                    "name": "Eheim крышка \"головы\" фильтра для classic 600",
+                    "description": "Крышка для внешнего фильтра classic 600.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd5/z73wupzyguoo6woaxh08v4oq6dm21bpw/200_200_1/70724f89d590be6bd237004a20902cde.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "110,10 руб."
+                },
+                {
+                    "name": "Eheim Соединитель ручки для фильтров ecco",
+                    "description": "Соединитель ручки для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/915/b7p8jq2ehzjk0q0tobnxfgjx2z8vaz1i/200_200_1/f8df6530937a004ba3f759f12d540076.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,10 руб."
+                },
+                {
+                    "name": "Eheim Зажимные клипсы для classic 2213/15/17, 4 шт.",
+                    "description": "Комплект зажимных клипс для внешнего фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5de/gk5ze6yqlxsncpt63c53e6zxuvtgwtyk/200_200_1/e04f4c73a35b2c038922e8123dd96958.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,10 руб."
+                },
+                {
+                    "name": "Barbus Помпа PUMP 003",
+                    "description": "Аквариумная водяная помпа, 800 л/ч",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9d5/dlvw3wcjg4solflifgsaj37amjbgulho/200_200_1/7b63865ab4dcecd266724dae33a88495.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "59,90 руб."
+                },
+                {
+                    "name": "Aquael Распылитель воды Sprinkler",
+                    "description": "Подходит для FAN, powerheads 350/65.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/291/doopiwy2uiktijjsaid3b02zsgxxky69/200_200_1/b235969e21255ebbf2f2aabfbfa94dac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,50 руб."
+                },
+                {
+                    "name": "Aquael Наполнитель Sponge PAT-mini Dense",
+                    "description": "Запасная губка для фильтра FAN PAT-mini.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ff2/i2q8fn9ex83dleg6xzkq22zcuvecdfls/200_200_1/8b04091471b55b4e49b7b868d535b2c1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Barbus Помпа PUMP 001",
+                    "description": "Аквариумная водяная помпа, 400 л/ч",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/09a/h36wgol7outk5q794ki1wmnsx0oh6rhk/200_200_1/ccd2b86d1a3f139602e010d4702a6926.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,10 руб."
+                },
+                {
+                    "name": "Laguna Фильтр внутренний каскадный 700FC, 3 Вт",
+                    "description": "Внутренний фильтр для аквариума, 5,2 х 6,2 х 13 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ff/3z4w5v1axgomcay62pze8xkwdzq2lgwj/200_200_1/57baab48526381505ea4ab5e277f7a05.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,20 руб."
+                },
+                {
+                    "name": "Aquael Распылитель воды SPRINKLER ASSEMBLY",
+                    "description": "Подходит для Turbofilter 1000/2000, Unimax 150/250.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b8d/bqndbmigygeqadfof0wl3r7z2ul0eemd/200_200_1/fb65997e17b6950371655c5057cae9ee.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,50 руб."
+                },
+                {
+                    "name": "Barbus Губка высокопористая МАТ, 50х50х5 см",
+                    "description": "Губка для фильтров в виде высокопористого мата",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/53d/b6ou58jj3xps7hcknhgda37y23gfr3yg/200_200_1/f4b6912e2900e883b08e19ca517967c8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "88,70 руб."
+                },
+                {
+                    "name": "Tetra Ротор FilterJet 600 Impeller",
+                    "description": "Ротор к внутреннему фильтру FilterJet 600",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/215/un706qv2tak1j3buj9q3fkjq2dq8sg10/200_200_1/75f193c0c79cf5dc343a1d1c5b7bd676.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,20 руб."
+                },
+                {
+                    "name": "Laguna Аэрлифт 732IF, 2 фильтрующих элемента",
+                    "description": "Внутренний фильтр для аквариума, 14 х 14 х 5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/14e/u24ojd8y6dz7pmduo5p8qdnv2hda7ci2/200_200_1/650f89fa4d65c1df982927ff16c0e0b4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,80 руб."
+                },
+                {
+                    "name": "Laguna Фильтр внутренний 200KF, 3 Вт",
+                    "description": "Внутренний фильтр для аквариума, 4,7 х 3 х 8 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dd4/8p8yknouy1qkxkmc1twdzv2el93twamn/200_200_1/0f5c2e909ec835a9ec287c39689cdd2c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,90 руб."
+                },
+                {
+                    "name": "Laguna Фильтр внутренний 350KF, 4,5 Вт",
+                    "description": "Внутренний фильтр для аквариума, 4,8 х 3,8 х 9,5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/51b/50jv41fwt4t4ti0rr543fnqmfnb0jcrk/200_200_1/86fd7d0d28c748e998bcd15d624b9df8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,50 руб."
+                },
+                {
+                    "name": "Eheim Кассета с картриджем к фильтру Eheim aqua",
+                    "description": "Кассета пластиковая с поролоновым картриджем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/659/47zd3ml4wim8r9cnssinf3aeaqn4hlk2/200_200_1/0a13a0a8813ccffc9c91ccce3915acfa.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,10 руб."
+                },
+                {
+                    "name": "Boyu РМ-3 (1,5\") Насадка - \"ёлочка\"",
+                    "description": "Фонтанный насос.",
+                    "image_url": "https://garfield.by/upload/iblock/d32/1pupg9wf214g8uh469dwognkew76ttiv/e4a5f1835ba7ccb857797c879b4a15db.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Boyu РМ-1 (1,5\") Насадка - \"ёлочка\"",
+                    "description": "Фонтанный насос.",
+                    "image_url": "https://garfield.by/upload/iblock/72f/wg8c5g9en6bc40wj0zpdfauxhpgchht0/28bb7a053b6b491d41fd60e123549fc3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,10 руб."
+                },
+                {
+                    "name": "Jebo ПОмпа 1500AP, 23 Вт",
+                    "description": "Помпа для аквариума, 56х96х120 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/201/pdg2ep4x8q3eg40tp3liita1pd280xrk/200_200_1/1c10b67a03b4e9375428e1635694c179.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "54,60 руб."
+                },
+                {
+                    "name": "Laguna 30701 Уголь активированный кокосовый, 500 г",
+                    "description": "Наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c07/x0s9znqogv0j4gf34jnx2zvwoay5ba68/200_200_1/a855dea53053be8a6ead2e7c2f667900.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,80 руб."
+                },
+                {
+                    "name": "Eheim Ватные маты для внешних фильтров classic 250",
+                    "description": "Белые синтепоновые прокладки для фильтров, 3 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fb9/0whkkb08y7mmum2x25pc577w7fh3b4bv/200_200_1/234f4dd1fe6eafa55254fbff39b65395.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,10 руб."
+                },
+                {
+                    "name": "Eheim Угольные маты для внешних фильтров classic 250",
+                    "description": "Черные угольные прокладки для фильтров, 3 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/101/vvzc6ki7dcjclm46qyto5nfh9i58pfcp/200_200_1/0da380f3c3daa41ef61ad29b04d58855.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "Eheim Маты для фильтров prof.2222/2224 и eXperience 150/250",
+                    "description": "Фильтрующие маты (1 грубый + 2 ватных) для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eff/qmzq6o445ryoqbj2r2ldgf0ez5usbnwj/200_200_1/d3ebd26bf3efae4c283272610c58b385.png",
+                    "amount": "за 1 ед.",
+                    "cost": "55,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтр-пеноотделитель Skim Marine 100",
+                    "description": "Пеноотделитель для морских аквариумов до 100 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/01d/wfitu6v9fkuhicxrhru9jpjnepibr39m/200_200_1/c773746c2926fdde3a51c1dbe867771a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "225,10 руб."
+                },
+                {
+                    "name": "Laguna 30101 Био-кольца кварцевые, 500 г",
+                    "description": "Наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd1/09jr6scyh0qxghtni37tlz1ykptu998r/200_200_1/4cc59acfa8b228aa451d77de88563e4d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,40 руб."
+                },
+                {
+                    "name": "Eheim соединитель шлангов (с краном), 12/16 мм",
+                    "description": "Переходник для шланга",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8b1/ztcg2tj5eo8yyer275052hkgpykyamd5/200_200_1/ad67e2b95c5317df6bf25bb38f937070.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,10 руб."
+                },
+                {
+                    "name": "Barbus Помпа PUMP 002",
+                    "description": "Аквариумная водяная помпа, 500 л/ч",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/edc/xbb64l1k10pwidudil8opi2gj46mj4tk/200_200_1/51399242000a119be06e74a65d255d56.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "44,90 руб."
+                },
+                {
+                    "name": "Jebo Помпа 1250AP, 10 Вт",
+                    "description": "Помпа для аквариума, 48х46х63 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6df/w3zvw95xhdwz3bt9rs9huz8ybnqj3zkk/200_200_1/5cc8f0328a4f887be070674a7760a671.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,20 руб."
+                },
+                {
+                    "name": "Eheim Диффузор для шланга 12/16 мм и 16/22 мм",
+                    "description": "Диффузор для шланга 12/16 мм и 16/22 мм.",
+                    "image_url": "https://garfield.by/upload/iblock/966/efxvaqqndnru8y4ccri0ii2khju00l5a/44f2d7e359fe65573aa94739848062eb.png",
+                    "amount": "за 1 ед.",
+                    "cost": "52,10 руб."
+                },
+                {
+                    "name": "Eheim Диффузор для шланга 4/6 мм",
+                    "description": "Диффузор для шланга 4/6 мм.",
+                    "image_url": "https://garfield.by/upload/iblock/5eb/fek61y4vu5bw51dfm3fci7v5ta0tu0ag/bbd22285802dc9474bd4f7e635e4da88.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Eheim Диффузор для шланга 9/12 мм",
+                    "description": "Диффузор для шланга 9/12 мм.",
+                    "image_url": "https://garfield.by/upload/iblock/de6/yvtgwassg2y9u3vwkmk0h7l15f2gh9ta/f71856eff3561197c4b1b98e9d40ba8a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,10 руб."
+                },
+                {
+                    "name": "Eheim Монтажный набор SET 1",
+                    "description": "Монтажный набор EHEIM SET 1, всасывающий.",
+                    "image_url": "https://garfield.by/upload/iblock/47f/caa353ect3cc0935ufyvw07zw2uf5nq5/455716c9773f9cf9c73245ba5a7b7301.png",
+                    "amount": "12-16 мм",
+                    "cost": "105,10  руб."
+                },
+                {
+                    "name": "Eheim Монтажный набор SET 2",
+                    "description": "Монтажный набор EHEIM SET 2, сторона давления.",
+                    "image_url": "https://garfield.by/upload/iblock/87e/8hkos9rjmavzbis6bdebzb0deg1d445c/c5c4f8e961c2baf696b0e8df952d65bd.png",
+                    "amount": "12-16 мм",
+                    "cost": "105,10  руб."
+                },
+                {
+                    "name": "Eheim Помпа-насос UNIVERSAL",
+                    "description": "Помпа-насос для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/da6/b5svqcmd1olkfa7xig2v6uz7bpf48v1h/38163ec17f37dcc97c6b7732338fef84.jpg",
+                    "amount": "(1200 л/ч) / 121х178х96 мм",
+                    "cost": "580,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внешний Classic",
+                    "description": "Укомплектованный бесшумный фильтр.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4ab/r03yy68sb5q16yduqr562qsimnu0iu8f/200_200_1/663f43a1f4dae7749db1c54676b9d097.jpg",
+                    "amount": "250",
+                    "cost": "440,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внешний Ecco",
+                    "description": "Укомплектованный бесшумный фильтр.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/809/a1ko0ncbfmf1yglf5muous40h34ael5n/200_200_1/b4b1df11e2960b6c1d9151700e53835f.jpg",
+                    "amount": "Pro 130",
+                    "cost": "445,00  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внешний eXperience",
+                    "description": "Укомплектованный бесшумный фильтр;Тихая и надежная работа.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fea/nindjmskv8rds2hn61exji96y3rxrv68/200_200_1/a203a859b49a22d6f8713379265e2168.jpg",
+                    "amount": "150",
+                    "cost": "535,10  руб."
+                },
+                {
+                    "name": "Eheim Внешний ТЕРМОфильтр Professionel 4+",
+                    "description": "Бесшумный внешний фильтр с встроенным обогревателем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d9d/jcpdny6tliwrhv1h1lfamznr90rzw7eu/200_200_1/1234870da3f2c108fbabe0ef81d7b3c3.jpg",
+                    "amount": "Т 250",
+                    "cost": "1315,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внешний Professionel 4+",
+                    "description": "Фильтр имеет увеличенную плавность и тишину хода",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1cc/4ruwt9cbgrrx8w0fgt3pajtpnmulcbr8/200_200_1/cd9ae998bebb1f94def5e093a2eeecee.png",
+                    "amount": "250",
+                    "cost": "865,00  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внешний Professionel 3",
+                    "description": "Фильтр укомплектован и полностью готов к работе.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f7/b5ub70en1399ffuu1tv34bg30d6uyvaz/200_200_1/706a17cb4dc477fed5ec5262f5e38ce9.jpg",
+                    "amount": "1200",
+                    "cost": "1800,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний AQUABALL",
+                    "description": "Фильтр внутренний AQUABALL для аквариумов.",
+                    "image_url": "https://garfield.by/upload/iblock/92c/cyr27pum19abb1fmokiuo7a17ybu3m1g/ae4723d9a7e8eab250473c6e9065e584.jpg",
+                    "amount": "/аквариумы до 60 л/ 96х160 мм",
+                    "cost": "160,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний BIOPOWER",
+                    "description": "Фильтр внутренний  BIOPOWER для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/e41/92mh8bb5rcw647ifbxdbn51wfnqlogn1/73e8f5aed56474d894426040f1c7d068.jpg",
+                    "amount": "до 160 литров",
+                    "cost": "260,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний AIR FILTER",
+                    "description": "Фильтр внутренний, работает от компрессоров.",
+                    "image_url": "https://garfield.by/upload/iblock/490/r8onl8z3gqkli2fbfdldbc5wq344b30h/e4f935a225394d2db6bc4539f30d3a63.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "70,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний miniUP",
+                    "description": "Фильтр внутренний для аквариума 25-30 л.",
+                    "image_url": "https://garfield.by/upload/iblock/a2e/n0ia8bkhtaegip6zaufu4efrxzzn5slj/01442befe75b5f52c9474fb350674536.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "85,00 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 250 (губка)",
+                    "description": "Губки для биологической и механической очистки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/935/bbeiph5zejod0ltwt3s080jbnmbgpj2m/be11f6fe34dc9767e6222ccad07564ed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2215 (губка угольная)",
+                    "description": "Набор угольных губок Eheim CLASSIC 2215, 3 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/5dc/jkx9tk36u8tiv9nx8xahmblfat7hsnv3/1ca8adec238ea19fa7a35da67dccc5b8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "58,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 350 (губка)",
+                    "description": "Губка Eheim CLASSIC 2215 для внешних фильтров, 2 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/390/b56e68g29mle4bewjff35p3hjap6pncr/adb28d32a625336390e5221ebf06257b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "52,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2215 (синтепон)",
+                    "description": "Синтепоновые губки для внешнего фильтра, 3 штуки.",
+                    "image_url": "https://garfield.by/upload/iblock/171/36sq60kdhcmw5nfjmsiafto0kbsqnf5o/49e7f98cc4c68d0b4b0133583120263f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "52,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 600 (губка угольная)",
+                    "description": "Набор угольных губок для внешнего фильтра, 3 штуки.",
+                    "image_url": "https://garfield.by/upload/iblock/3e2/lqsnlfvj4i85wnwvnxrezb75k8xxicd3/b91b90cdc99deedee6c48008ded7b829.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "70,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 600 (губка)",
+                    "description": "Губка для биологической и механической очистки, 2 штуки.",
+                    "image_url": "https://garfield.by/upload/iblock/c43/f1dg4x1ek417p1fmstzaq25fd48kvqlj/4e9fdfdc790c484844d0678bd1374298.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 600 (синтепон)",
+                    "description": "Синтепоновые губки для внешнего фильтра, 3 штуки.",
+                    "image_url": "https://garfield.by/upload/iblock/b8e/1hh7v3qkethg9apdxslywyz74scywrcn/8a802c2de284c6a2079256aa1c64d685.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал ECCO COMFORT (губка)",
+                    "description": "Фильтрующий материал для фильтра, 3 штуки.",
+                    "image_url": "https://garfield.by/upload/iblock/d29/dbjve8euw140pmor3qduxj5h4pwgpy5z/5ed7c3d7f6a6c00c48357ef638cd90be.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал ECCO PRO (губка угольная)",
+                    "description": "Угольные губки для внешних фильтров, 3 штуки.",
+                    "image_url": "https://garfield.by/upload/iblock/0f6/j005xir778gvpvpby8p426892q2ent0h/499a25816c9b286956dec613a4561a22.png",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал Eheim ECCO PRO (1 губка + 4 синтепона)",
+                    "description": "Набор фильтрующих материалов для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/iblock/eaf/92wr15s8l7czn4y8vqgl1rdosyyhviva/18269c0afb80f28b273ed232b9da5eb5.png",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал FIX",
+                    "description": "Зеленое волокно для удаления твердых частиц.",
+                    "image_url": "https://garfield.by/upload/iblock/79e/pm2yat83s2uqxxezz9ram79ws4a8nw3d/c2fa56e985ce7f347823bca74f5b446d.jpg",
+                    "amount": "1 л",
+                    "cost": "35,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал LAV",
+                    "description": "Вулканическая лава для биологической фильтрации.",
+                    "image_url": "https://garfield.by/upload/iblock/907/awc7dj6x2bodhp1gzj8c9tmz1la1490y/fd732c17a64cf47d73e4054ae2132dc2.png",
+                    "amount": "5 л",
+                    "cost": "160,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал MECH",
+                    "description": "Наполнитель из высококачественной керамики.",
+                    "image_url": "https://garfield.by/upload/iblock/d7d/d9cw3u5mwi517lavkh457vfqbg3ozyg3/7a4c401502e70d0035d59c6ca56ebea6.jpg",
+                    "amount": "1 л",
+                    "cost": "60,10  руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал SUBSTRAT pro",
+                    "description": "Биосреда для биологической очистки аквариумной воды.",
+                    "image_url": "https://garfield.by/upload/iblock/5e6/0tmluin1l5uwuybofqel6yff4b01mabj/b25180507c0be05868f76f13d3d53706.jpg",
+                    "amount": "1 л",
+                    "cost": "115,10  руб."
+                },
+                {
+                    "name": "Laguna 30601 Уголь активированный, 500 г",
+                    "description": "Наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5cb/iyj54mokllzn3cug2bytxq3smt2jjq1g/200_200_1/0ca8054002f24e9c23c43118c0f950d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,70 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал Prof. 3 350/600",
+                    "description": "Фильтрующие маты (1 губка + 4 синтепона) для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/iblock/73d/rr3jralcmhe6u3u54ldn3pjkgqljgesp/b245d0eec294fc309e66daaae7e8f605.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "75,10 руб."
+                },
+                {
+                    "name": "Tetra Уплотнит. кольцо для головы фильтра EX",
+                    "description": "Уплотнительное кольцо для головы фильтров Tetra.",
+                    "image_url": "https://garfield.by/upload/iblock/ceb/ymbtdfwjurqgicon96cfat3aamiot1wd/4df4bd7be247c43e9131e760db981a93.jpg",
+                    "amount": "EX 1200 Plus",
+                    "cost": "16,50  руб."
+                },
+                {
+                    "name": "Tetra 2-Lever Valve Block EX1200",
+                    "description": "Вентиль для внешнего фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/5c4/lqy58omz0p4xqthzfbm09x5wjdffs3oy/3301d58d31c28fc886470975dfcd2448.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "83,10 руб."
+                },
+                {
+                    "name": "Tetra Картридж с углем к фильтру EasyCrystal FilterPack 600",
+                    "description": "Картридж к фильтру EasyCrystal 600.",
+                    "image_url": "https://garfield.by/upload/iblock/452/zzsbcg9oakedh9vij0hjkhvy1z7f39mr/46697dc1d2bb08fe3ec8a9be803cb843.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "61,90 руб."
+                },
+                {
+                    "name": "Tetra Биошары Тетратек ВВ 400/600/700/1200",
+                    "description": "Био-шарики для внешнего фильтра EX 400/600/700/1200.",
+                    "image_url": "https://garfield.by/upload/iblock/5f5/e7jqqq4hp7gtthdxmp3z05pz3f4ecapr/14e8a40668400cbf79f3c26bc444a567.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,50 руб."
+                },
+                {
+                    "name": "Aquael Помпа-циркулятор Circulator",
+                    "description": "Мощная помпа для перемешивания воды и насыщения кислородом.",
+                    "image_url": "https://garfield.by/upload/iblock/042/voohw1ovg03hauo5h8p21s63k4xg84ge/5d613be9a3933832e14039e246086d9b.jpg",
+                    "amount": "500",
+                    "cost": "59,50  руб."
+                },
+                {
+                    "name": "Aquael Фильтр Pat-Mini filter",
+                    "description": "Фильтр для небольших пресноводных аквариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/481/umtzm72y626s4z67kxjnjtvbbm36jvux/200_200_1/a560e58509a840095b183e85e25212c3.jpg",
+                    "amount": "400 л/ч",
+                    "cost": "49,30  руб."
+                },
+                {
+                    "name": "Aquael Фильтр Turbo Filter (N)",
+                    "description": "Мощный фильтр для аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b76/vlpju94o9y9idf2apxkt3cwi25nz2317/200_200_1/779520312dc9b58b88a5bd74f121e2e0.jpg",
+                    "amount": "500",
+                    "cost": "82,40  руб."
+                },
+                {
+                    "name": "Aquael Фильтр Filter Fan",
+                    "description": "Для очистки воды в аквариуме и насыщения её кислородом.",
+                    "image_url": "https://garfield.by/upload/iblock/db3/gcvjwq3on9qcu6w74xedz8hix5z9uqea/8b79f2ef27ee1ddc30e647b7c03ba95a.jpg",
+                    "amount": "Micro Plus (N) EU",
+                    "cost": "51,70  руб."
+                },
+                {
+                    "name": "Tetra Фильтр IN plus",
+                    "description": "Внутренний фильтр для очистки воды в аквариуме.",
+                    "image_url": "https://garfield.by/upload/iblock/570/yk5wum39gnbeq9cct7nsos2ef7sqr278/deb60bfbfcc5cd19e117c510e315ad0d.png",
+                    "amount": "10-40 л",
+                    "cost": "60,20  руб."
+                },
+                {
+                    "name": "Tetra Brillant Filter",
+                    "description": "Внутренний фильтр для аквариумов (до 100 л).",
+                    "image_url": "https://garfield.by/upload/iblock/b30/305nwv1gwzfk1cjwx52j03mx06k8tgxy/24eadd96c4f471cc129221a276cbcd14.png",
+                    "amount": "за 1 ед.",
+                    "cost": "17,60 руб."
+                },
+                {
+                    "name": "Aquael Фильтр Filter ASAP",
+                    "description": "Внутренний фильтр для аквариумов и акватеррариумов.",
+                    "image_url": "https://garfield.by/upload/iblock/751/4fdz8e4vu1fy9anli7y88sgpm205wflk/f7b60bf2ba41b105f63aa2915e7d7e76.jpg",
+                    "amount": "300 EU",
+                    "cost": "51,10  руб."
+                },
+                {
+                    "name": "Aquael Фильтр Filter Versamax",
+                    "description": "Внешний фильтр очищает и насыщает воду кислородом.",
+                    "image_url": "https://garfield.by/upload/iblock/484/gkc21xfn071fqki3nwu5s7waz66zg79k/8d10dd1600e3fcab1d351cb983571368.jpg",
+                    "amount": "FZN-mini EU",
+                    "cost": "51,90  руб."
+                },
+                {
+                    "name": "Aquael Внешний фильтр Unimax",
+                    "description": "Внешний фильтр для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/122/6eebez3b97esuwqxzkvuaene6k17vsr9/aca634367602314b4586c1e65cee022e.jpg",
+                    "amount": "250 EU",
+                    "cost": "493,40  руб."
+                },
+                {
+                    "name": "Aquael Наполнитель для фильтра Nitromax Pro 1L (N)",
+                    "description": "Наполнитель для фильтра в виде ионообменной смолы.",
+                    "image_url": "https://garfield.by/upload/iblock/d5f/dutnk4wg2t6yjdag2nu3jqzhtf2vtoo1/60f0a453be3bc45fbd5cb8d85337f8ba.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "66,40 руб."
+                },
+                {
+                    "name": "Aquael Наполнитель Filtr.sponge Fan mikro plus (2pcs)",
+                    "description": "Сменная губка для FAN-micro",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/649/2kqwh4jr2sjr1xysyk4t1tc45nn9zsm7/200_200_1/3ca58924507b93dddeed275fd15e4026.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Aquael Наполнитель Filtr.sponge",
+                    "description": "Запасная губка для фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e4e/ybpxk8rh5tz5smgzdr2uef23u4yw0pjx/200_200_1/9c0c5cc37e3d6c11c982336e215b25e7.jpg",
+                    "amount": "FAN mini plus (2pcs)",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Aquael Наполнитель для фильтра Filtr.sponge",
+                    "description": "Для удаления механического и биозагрязнения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/58f/tzfrq0k8x2s5ztqoqp6sjp7swbzuedks/200_200_1/12577fae35da88df7e849adeb51fb82c.jpg",
+                    "amount": "500 (2pcs)",
+                    "cost": "24,40  руб."
+                },
+                {
+                    "name": "Aquael Наполнитель для фильтра Filtr.sponge Fan",
+                    "description": "Губка, пропитанная активированным углем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb9/evo61r7qqbddx2750m4lfv8umd0c5lmc/200_200_1/0f2b89428b6fa910c033d57050985863.jpg",
+                    "amount": "FAN Micro Plus CARBO",
+                    "cost": "12,90  руб."
+                },
+                {
+                    "name": "Aquael Сменный картридж Filtr.Sponge PAT-mini (2pcs)",
+                    "description": "Губка, пропитанная активированным углем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/99b/yja9uzk61c36sccarto1uiqpu8izdk4e/200_200_1/34b5bcd2d0940fde934abbdb48f747f6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,60 руб."
+                },
+                {
+                    "name": "Aquael Наполнитель Filtration Sponge ASAP Standard (2 шт.)",
+                    "description": "Губка для фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f6e/4v6opr3cg8632m0q1u8kteotvxvwew6g/200_200_1/29a81dc5023f8272e289ebaa9a0613d1.jpg",
+                    "amount": "300",
+                    "cost": "10,70  руб."
+                },
+                {
+                    "name": "Aquael Керамический наполнитель Bioceramax Pro 600 IL",
+                    "description": "Керамический наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/5d4/z2x16q5rzf1asiezkhfiexzix3d36mmd/dd40bf100be71285614c41f4ee351b82.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,70 руб."
+                },
+                {
+                    "name": "Aquael Керамический наполнитель для фильтра Bioceramax Ultrapro 1200 1L",
+                    "description": "Керамический наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/ffa/ahveoqde2n0adl70o1f1cu6wv5zbfp34/e7f6df81710dc7dcfa7d7dbab48d32fe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,60 руб."
+                },
+                {
+                    "name": "Aquael Керамический наполнитель для фильтра Bioceramamax Ultrapro 1600 1L",
+                    "description": "Керамический наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/59d/l753fg810n0znrbfbbqypzsxhazkk8ot/10cc4abeb12a04d6cb1de67b53be36cd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "46,30 руб."
+                },
+                {
+                    "name": "Aquael Цеолитовый наполнитель для фильтра ZeoMAX Plus 1L (N)",
+                    "description": "Цеолитовый наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/5a2/ydnn0f9jvtmjwhwcu65ynbijhum6jii7/6c633b7516f488e9afa4c4b2d74356fd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,60 руб."
+                },
+                {
+                    "name": "Aquael Угольный наполнитель для фильтра CarboMAX Plus",
+                    "description": "Угольный наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/dff/lnn2inlf5uyebm21bbs6r3wingg3hgi1/790ad9fc815f84551cddab9ca122e47d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,10 руб."
+                },
+                {
+                    "name": "Sera Фильтрующая вата \"Filter Wool\"",
+                    "description": "Для предварительной механической фильтрации мелких частиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c99/dgeemne65qi4z4ujx1ygnhcqpzgh4n5r/200_200_1/818770a473022b7ebc37113d1b07abbc.jpg",
+                    "amount": "100 г",
+                    "cost": "9,10  руб."
+                },
+                {
+                    "name": "Sera Биологический наполнитель \"Siporax Mini Professional\"",
+                    "description": "Для кристально чистой воды в пресноводных и морских аквариумах.",
+                    "image_url": "https://garfield.by/upload/iblock/94f/cm2fdrran9fp1cmqf6b5y3q7qst800n7/ea3e48542f90cb95377aa472416dbab6.jpg",
+                    "amount": "35 г",
+                    "cost": "9,60  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний PICK UP 2006",
+                    "description": "Фильтр для аквариумов до 45 л.",
+                    "image_url": "https://garfield.by/upload/iblock/36a/ow6xce23bfw3998c2nr2nhwhy8b3r2ru/936cd2246b91b2986833d3732121694f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "48,50 руб."
+                },
+                {
+                    "name": "Barbus Помпа водяная Фонтанная PUMP 012 - 015",
+                    "description": "Водяная фонтанная помпа для создания фонтанов, водопадов, альпийских горок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad3/7ymnmjey9p0xwqy2bdsktlhdbm317672/200_200_1/1017861736.jpg",
+                    "amount": "600 л/ч",
+                    "cost": "59,90  руб."
+                },
+                {
+                    "name": "Aquareef Внутренний фильтр для аквариума AF-1300/1",
+                    "description": "Внутренний фильтр для аквариума 150-400 л",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/876/7p88ws61yliw2ihs95zvvv6mgif05lhe/200_200_1/34922_big.jpg",
+                    "amount": "до 400 л",
+                    "cost": "42,90  руб."
+                },
+                {
+                    "name": "Exo Terra Черепашья скала Turtle-Cliff",
+                    "description": "Водопад, зона для купания и фильтр в одном",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/233/u628mg83pwaahk7af9rsiurffae368e6/200_200_1/c54422567ca75550d2445c8c8fb0436a.jpg",
+                    "amount": "22x16x19.5 см",
+                    "cost": "354,70  руб.Под заказ"
+                },
+                {
+                    "name": "Repti-Zoo Скала с водопадом для черепах",
+                    "description": "Декорация с фильтром для воды для террариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/93b/7wyb50a4136rrq0zqf3o5pd0z2fxpt07/200_200_1/62ae248253806a4591ac39ca5ac0595d.jpg",
+                    "amount": "260х165х170 мм",
+                    "cost": "98,60  руб.Под заказ"
+                },
+                {
+                    "name": "Jebo Помпа 4600AP",
+                    "description": "Помпа для аквариума, 135 Вт",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/057/3fcus8j9nyzcbnuvn4q6ugbwlg0ovcsk/200_200_1/31b9d32f61becfa78977a05e77ddc381.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "139,90 руб."
+                },
+                {
+                    "name": "Jebo Фильтр навесной 508BF",
+                    "description": "Навесной биофильтр для аквариума до 200 л",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/282/5xz2c1ihpkvenfqao4xu3z2hrqw6u0wq/200_200_1/a9a2c3669cfb7d290a0855c7d17c635f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "66,50 руб."
+                },
+                {
+                    "name": "Laguna Фильтр внешний HF",
+                    "description": "Внешний фильтр повышенной мощности.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/061/6qy3q3iq03betebi9rohblrx3zfsoc7u/200_200_1/03bc9f66af1d2e609f7f2f95de96341b.jpg",
+                    "amount": "45 Вт",
+                    "cost": "729,20  руб.Под заказ"
+                },
+                {
+                    "name": "Laguna Помпа многофункциональная",
+                    "description": "Для перемешивания воды и создания течения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/281/caxo4gdfcgtddl6qrxin30ajfdy9rvzi/200_200_1/170b2596d16972de45c661900aff2e11.jpg",
+                    "amount": "14 Вт",
+                    "cost": "67,60  руб.Под заказ"
+                },
+                {
+                    "name": "Laguna Фильтр внешний с УФ-стерилизатором",
+                    "description": "Фильтр со встроенным ультрафиолетовым стерилизатором.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/823/9j252z2gy5ghffdorrcwpvbqanbuwzy8/200_200_1/18d15dd0b48fb2aa2e79a565fb0a4bc2.jpg",
+                    "amount": "45 Вт",
+                    "cost": "820,70  руб.Под заказ"
+                },
+                {
+                    "name": "Laguna Фильтр внешний",
+                    "description": "Внешний фильтр повышенной мощности.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ba7/pg362wluctra3pc2sh05dsjiumyryr7l/200_200_1/f5bce405f4d3bbe36d46db280234ca49.jpg",
+                    "amount": "608",
+                    "cost": "330,30  руб.Под заказ"
+                },
+                {
+                    "name": "Hagen Зависающий фильтр Flex",
+                    "description": "Быстрый запуск и почти бесшумная работа.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/03c/a6pbdkan7uszub663mjq3xrutn0sjav3/200_200_1/f4b776765b2aa39dad139261a2e73af5.jpg",
+                    "amount": "3W",
+                    "cost": "24,10  руб."
+                },
+                {
+                    "name": "Haqos Внутренний фильтр HF",
+                    "description": "Подходит для пресноводных и морских аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7f4/zmrkfpczsbwo7gus8f0d7ns2jg6qn0pp/200_200_1/f19dfba798143bf0dbc1c2c9328bdcac.jpeg",
+                    "amount": "900 л/ч",
+                    "cost": "24,70  руб."
+                },
+                {
+                    "name": "Tetra Внутренний фильтр FilterJet",
+                    "description": "Внутренний фильтр для пресноводных и морских аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b19/q1q5uf0yemwree0be2gzzun2987cf09k/200_200_1/33bd7f492a617e03263f67ea06842ea3.jpg",
+                    "amount": "50 - 120 л",
+                    "cost": "41,60  руб."
+                },
+                {
+                    "name": "Aquael Ось керамическая Rotor Unimax",
+                    "description": "Запасная часть к фильтрам Unimax.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/696/7nwsjrbw8e9d367lksnu536d0xwof0vi/200_200_1/0f830fe76eb4dc278122650d71dfd6c8.jpg",
+                    "amount": "150/250",
+                    "cost": "19,00  руб."
+                },
+                {
+                    "name": "Aquael Ось керамическая Rotor FZN",
+                    "description": "Запасная деталь к навесному фильтру.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/688/ypb1rub5kt7mdvvhrfmsd41c4678diq0/200_200_1/47150060396d182cd9440e1ffd8812e7.jpg",
+                    "amount": "FZN-3/UNIFILTER 500/500UV",
+                    "cost": "22,20  руб."
+                },
+                {
+                    "name": "Aquael Колпачок к фильтру FAN",
+                    "description": "Запасная часть к внутреннему фильтру.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b07/n3ebgkztkd5yowt1ioi38srekqadusbs/200_200_1/44ef156c2e1aa08f2f256138ab99b998.jpg",
+                    "amount": "1 Plus",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Aquael Ось керамическая Rotor FAN",
+                    "description": "Запасная часть к внутренним фильтрам.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/efb/bts63679nkozch7k9g63ed24mmikcv2t/200_200_1/614c31f10731682e197b29e7c14ba1be.jpg",
+                    "amount": "Micro/Pat Mini",
+                    "cost": "11,40  руб."
+                },
+                {
+                    "name": "Aquael Стакан для фильтра Casing Fan",
+                    "description": "Запасной стакан для фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8cf/xuxtirovpr1agblx7iggzihja5kzfywe/200_200_1/02f69f45e391b64ace6b710d5703a3ea.jpg",
+                    "amount": "2 Plus",
+                    "cost": "21,80  руб."
+                },
+                {
+                    "name": "Aquael Внешний фильтр ASAP",
+                    "description": "Внешний фильтр для малых и средних аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4dc/q1hr5opgs2bv2ex505gpv4nnq3f3jtss/200_200_1/bf3d097dd7d1c837136b2d7aa97af6bd.jpg",
+                    "amount": "650Е",
+                    "cost": "214,10  руб."
+                },
+                {
+                    "name": "Eheim Помпа течения StreamOn +",
+                    "description": "Помпа для морских и пресноводных аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b3/9j1oi9dv5kf5swonco4bxj9nlqkjiqdh/200_200_1/9b430ffbaf42a1d9af03854d367555e8.jpg",
+                    "amount": "1400-2000 л/ч",
+                    "cost": "130,00  руб."
+                },
+                {
+                    "name": "Eheim Помпа-течения StreamOn",
+                    "description": "Помпа для морских и пресноводных аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/029/k71r30dtlsrz7vm1ny3g3dkwxvnfgtpy/200_200_1/d8e948d77f44032adac84e8e036a487c.jpg",
+                    "amount": "1800 л/ч",
+                    "cost": "80,00  руб."
+                },
+                {
+                    "name": "Hagen Сменная губка для внутренних фильтров FLUVAL",
+                    "description": "Сменная губка для внутренних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e05/o6ygurfrubiay3e7d9lt5yahfbb480pv/200_200_1/6255e911ce69c76e3421fab1210b64a1.jpg",
+                    "amount": "U1",
+                    "cost": "5,20  руб."
+                },
+                {
+                    "name": "Hagen Внутренний фильтр \"Fluval U\"",
+                    "description": "Фильтр для аквариумов с пресной и морской водой и террариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5d4/5d1f10ugiouz41oczi13b3sked73ee7y/200_200_1/43bba9357561d092bad3cdd35561d264.jpg",
+                    "amount": "до 45 л",
+                    "cost": "70,10  руб."
+                },
+                {
+                    "name": "Boyu SP Подводный насос",
+                    "description": "Подводный насос для аквариумов всех размеров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/14e/wzbuxu3w5zqszjefp97c933vbni50t9t/200_200_1/694b42977edfe7ec07c2e0257f966c29.jpg",
+                    "amount": "9 Вт, 400 л/ч",
+                    "cost": "40,00  руб."
+                },
+                {
+                    "name": "Hagen Губка грубой очистки для фильтров Fluval FX5/FX6",
+                    "description": "Губка для механической и биологической очистки, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/813/37ref05ho3l60fk1up55b5lbbh5z580o/200_200_1/7bc4f6fa729f669efb87afe74632db2b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,30 руб."
+                },
+                {
+                    "name": "Hagen Сверхтихий фильтр для аквариумов Fluval FX4",
+                    "description": "Внешний фильтр для аквариумов до 1000 литров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d2/0j7f2u0mj4mawhobn2wwfefmdqp5z1v2/200_200_1/c008772c98819cdf4ac9ffd076452b92.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "844,30 руб."
+                },
+                {
+                    "name": "Tetra Hose EX 400-800 Plus",
+                    "description": "Шланг к фильтрам EX 400-800",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb3/1955eyusncfui2pszdvwwcafyc7hsqn7/200_200_1/abad8cb588b2468af3d2d7cc07df1911.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "35,80 руб."
+                },
+                {
+                    "name": "Sera Фильтрующий материал \"Crystal Clear Professional\" 12 шт в уп.",
+                    "description": "Материал для механической фильтрации.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/950/8yppzak7fsx8gu0tzefvhawzo754hxoy/200_200_1/dedc2c31ff3fd6bd4f55cc180abe16c3.png",
+                    "amount": "за 1 ед.",
+                    "cost": "31,30 руб."
+                },
+                {
+                    "name": "Tetra Hose Adapter EX 400-800 Plus",
+                    "description": "Адаптер шланга",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/47d/dgnz5pf9abrjyo5hopnjfwjdc7v01nyq/200_200_1/e132ce4405a2be1f8150a5e4cc2e83b7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "53,60 руб."
+                },
+                {
+                    "name": "Jebo Фильтр внутренний 1200F AP, 8,5 Вт",
+                    "description": "Внутренний фильтр для аквариума до 150 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e9/xrkscb5yakpap3907cu9fi1lia815n98/200_200_1/1ea75d4e1c873256771376f94a8d22f0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,40 руб."
+                },
+                {
+                    "name": "Tetra Губка FilterJet 400 Foam",
+                    "description": "Cменная губка к фильтру FilterJet 400.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f73/vm6v5vm88ur3h12rklpbd87l66wog25z/200_200_1/9e257ab169998b77655f3b7aae25fb51.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Tetra Губка FilterJet 600 Foam",
+                    "description": "Cменная губка к фильтру FilterJet 600.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4bf/4v0n9gn7jfy9xgs9e7qqkh8xqay2b02e/200_200_1/5a4290b3651d426f96860e574a9db659.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,00 руб."
+                },
+                {
+                    "name": "Tetra Губка FilterJet 900 Foam",
+                    "description": "Сменная губка к фильтру FilterJet 900.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b0/ja8u27i72jh3g03ada0mu1g0z0e4uudh/200_200_1/b0f7d5f78990c3d7b9b933d20dcdb8af.png",
+                    "amount": "за 1 ед.",
+                    "cost": "13,70 руб."
+                },
+                {
+                    "name": "Aquareef Внутренний фильтр для аквариума AF-1000/1",
+                    "description": "Внутренний фильтр для аквариума 70-300 л",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/801/jly9yn4rcspqfm94zbtjy2ihiutrhk2h/200_200_1/2759639c133e3fac37317522e8597aa6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "42,40 руб."
+                },
+                {
+                    "name": "Sera Фильтр для внешних фильтров  \"PreFix\"",
+                    "description": "Предварительный-, Био- или «Экстренный» фильтр.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b26/saz3zbeis14if94x584xo9kmgssiyao9/200_200_1/e56c58300056be028ed7a75b21267e15.png",
+                    "amount": "за 1 ед.",
+                    "cost": "119,10 руб."
+                },
+                {
+                    "name": "Aquael Крышка для фильтра Multi Kani",
+                    "description": "Крышка для внешнего фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/210/bxkdt6j8nt933a0ez9buv31unq69wg3m/200_200_1/8f78e09f6f71a5cb079c6185d1fbb94b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,30 руб."
+                },
+                {
+                    "name": "Aquael Контейнер к фильтру Filter container Turbo/Cir. 500 (N)",
+                    "description": "Дополнительный контейнер к фильтру.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/67e/kdaa41jwbf9u52zwscdk6ehazb5b7rb2/200_200_1/44f6c5f0bbbb013034381dcf74368f5e.png",
+                    "amount": "за 1 ед.",
+                    "cost": "34,10 руб."
+                },
+                {
+                    "name": "Aquael Донный фильтр",
+                    "description": "Донный фильтра для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/31a/zmt0dwh8azmyz8xvvpxlz5wy8vkmqfjk/200_200_1/f84b813fb3ae8a62eeec1c16599c4819.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "69,50 руб."
+                },
+                {
+                    "name": "Aquael Присоски Suction Bracket mikro/mini/1",
+                    "description": "В комплекте 4 присоски диаметром 24см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/080/v4umcmwdu14cxx1aickwjweamd1rxesw/200_200_1/37fd8bc49be6c73a9cbcfa934abc5e6b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,60 руб."
+                },
+                {
+                    "name": "Aquael Присоски Holder 2 (FAN-2/3)",
+                    "description": "Для аквариумных фильтров для моделей: FAN 2,3.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c0/1nnocsv2gncqhb450y4k53m5ol8ozf20/200_200_1/3406f25a2b7c355c06cf7123d2c9e00a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,90 руб."
+                },
+                {
+                    "name": "Aquael Керамическая ось для Turbo/Circulator/PFN 1500/2000",
+                    "description": "Запасная часть к фильтрам и помпам.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/60f/q30wu64zvvrimqfxv34fzyui7nyv0u4f/200_200_1/365c8f37d2d663d8f00df0fc1e4b7776.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,00 руб."
+                },
+                {
+                    "name": "Aquael Ось для ротора Shaft Unimax 500/700, Turbo",
+                    "description": "Запасная деталь к фильтрам и помпам.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/999/vdtl0mk0e0zb3yj1ki8acmyg8iie7gwi/200_200_1/1899bf58e3d7dd04f8fea2e194488b2c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,00 руб."
+                },
+                {
+                    "name": "Aquael Насос для фильтра Engine Midikani/Multikani MK800",
+                    "description": "Насос для замены двигателя.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a1b/c1ohvducepoqtw607v1i1cgqwtgg2qj0/200_200_1/62b06d20355c5944ddde1caf40cebab2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "95,90 руб."
+                },
+                {
+                    "name": "Aquael Стеклянные трубки для фильтров Kani (2 шт.)",
+                    "description": "Набор трубок на вход/выход для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/534/dtpjn376sb6c0wds946fc5bfy5z4vqza/200_200_1/9ec1be9d1ab5eefb5329d88729ad2117.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "104,50 руб."
+                },
+                {
+                    "name": "Aquael Ось керамическая Rotor MK-650 / MK-800",
+                    "description": "Запасная часть к фильтрам MULTI/MINI Kani.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9cc/zedd45e5tdfl49n46gp3dy05qzn8hb0p/200_200_1/eca6e376eba969595fcb04c1ce560a04.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,70 руб."
+                },
+                {
+                    "name": "Tetra Внешний фильтр EX 400 Plus",
+                    "description": "Внешний фильтр для аквариумов 10-80 л",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/933/o5abcg3sj8liz7jkxwn0vdt9spb3q627/200_200_1/93c4514886f392da2f9316dc832c53ae.png",
+                    "amount": "за 1 ед.",
+                    "cost": "286,70 руб."
+                },
+                {
+                    "name": "Tetra Repl.Kit Outflow EX 400-800 Plus",
+                    "description": "Сменный комплект оттока",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3af/hbgsuesszve0846f4xn1x43t1z5i03vr/200_200_1/4ffb5841c156c4f75edf0592d8e4101b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,70 руб."
+                },
+                {
+                    "name": "Jebo Помпа 2500AP, 32 Вт",
+                    "description": "Помпа для аквариума, 106х68х155 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c2b/zk63mm4a93tsoklo4x3jrk0yriz2izt5/200_200_1/81e24dea699d11f779c9f37dab523334.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "57,70 руб."
+                },
+                {
+                    "name": "Jebo Уголь активированный, 400 г",
+                    "description": "Угольный наполнитель для фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f52/31egw7clcbi6tokld60lnwnr7y098ibg/200_200_1/169390fd1ec142e72eabb3fb5ef62845.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Jebo Фильтр внутренний 115F AP, 5 Вт",
+                    "description": "Внутренний фильтр для аквариума до 60 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e2a/o4h5zrdi5ncu88bo657qyuixerofnbrm/200_200_1/9c87bfb3965ca60d94634ec21f6479ac.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,60 руб."
+                },
+                {
+                    "name": "Jebo Фильтр внутренний 120FC AP, 10 Вт",
+                    "description": "Внутренний биофильтр для аквариума до 100 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/083/0d9e0k5rrf3r58zwaev0se6eakljh7dh/200_200_1/92635445fea0317a0ddad9f4e83cb36a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,50 руб."
+                },
+                {
+                    "name": "Laguna Шланг для внешних фильтров зеленый, Ø12/16 мм",
+                    "description": "Шланг для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6af/hnopmadkv7ftzv4wut4tzd65myhkdcad/200_200_1/f3cd344e2403de72946ff747639cf547.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "144,90 руб."
+                },
+                {
+                    "name": "Tetra Repl.Kit Intake EX 400-800 Plus",
+                    "description": "Сменный комплект впускной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/242/btrrm1weaz29a7l4d3pivum1s1318xo1/200_200_1/40a5f451932b9d35a699ebe4a642eb4a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,70 руб."
+                },
+                {
+                    "name": "Aquareef Внутренний фильтр для аквариума AF-1300",
+                    "description": "Внутренний фильтр для аквариума 150-400 л",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e36/5cbc0zjku220dkqq79nh4mban97j5uek/200_200_1/79c28f00e2a9e9c9d15ca3a3b156bbed.jpg",
+                    "amount": "до 400 л",
+                    "cost": "42,90  руб."
+                },
+                {
+                    "name": "Tetra Repl.Kit Outflow EX 1200",
+                    "description": "Сменный комплект оттока",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/26d/xht0zdnkzzkswnd3qc4137127przu2gj/200_200_1/52df26126b7af7bf67caafb71c8a4729.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,70 руб."
+                },
+                {
+                    "name": "Tetra Repl.Kit Intake EX 1200",
+                    "description": "Сменный комплект впускной",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e69/xsfc1p46pzpuwea49zfyrlaop8gsfrb1/200_200_1/22bf3cffd3b9ed6dc6db34e2071c1ec7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,70 руб."
+                },
+                {
+                    "name": "Tetra 2-Lever Valve Block EX400/600/700",
+                    "description": "Вентиль для внешнего фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/84c/r7q8cgkn0q12g2qiqhdgg6sz08tlrnxs/200_200_1/e5259cee4e1e397abf1959c7cf359235.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "70,40 руб."
+                },
+                {
+                    "name": "Tetra Valves EX 400-800 (Plus)",
+                    "description": "Вентиль для фильтра.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd4/3f6j5q8cdg3bhhnh0sr8kttmj1f0w3dh/200_200_1/4e7bfc8fead92aef83e971c9a6d7e191.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "45,40 руб."
+                },
+                {
+                    "name": "Tetra Картриджи с углем EasyCrystal FilterPack C250/300",
+                    "description": "Набор фильтрующих губок с углем для внутренних фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9bc/nms1q21vuac06ldra2xofu2sv4hudkl9/200_200_1/b3c2c0d423302722d887f7e1571298e9.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,90 руб."
+                },
+                {
+                    "name": "Tetra Губка Tetratec Brillant Filter Cartridge",
+                    "description": "Запасная губка к фильтру Brillant Filter.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a4a/hgz44ug71hqmf5aplyfzsmc46yap45g3/200_200_1/917092bec1a4f1ed703a3abc0f357981.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,70 руб."
+                },
+                {
+                    "name": "Boyu UF-20P Фильтр донный",
+                    "description": "Фильтр донный пластиковый, 71 см х 30,5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8a4/tbqkk0br1shu1rpuzj02m01bvby172xa/200_200_1/a9924b6faaf36da1fc5540aeaa4f8882.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,00 руб."
+                },
+                {
+                    "name": "Boyu SF-02 Фильтр аэрлифтный",
+                    "description": "Фильтр аэрлифтный для аквариума 20-50 литров.",
+                    "image_url": "https://garfield.by/upload/iblock/15d/9kdazrt2gpzzm2cjhxk569j9fzpljmuj/7a34e1a7e6139066761939c642a2fc16.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,00 руб."
+                },
+                {
+                    "name": "Trixie Соединитель для трубок, 5 мм (2 шт.)",
+                    "description": "Соединитель для трубок.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f29/r2hkyxfqr36xjtiotr3usyd6edeu1ni2/200_200_1/ece97d94241b6e54e8b6257f3b56d97f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,40 руб."
+                },
+                {
+                    "name": "Jebo Фильтр навесной 503BF, 6 Вт",
+                    "description": "Биофильтр-каскад для аквариума до 100 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/020/1ya8wymrpps7pbt7yi11aiuyiwr8tm1q/200_200_1/e7de564c1ce30412a2b456b4afb9a37a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "53,40 руб."
+                },
+                {
+                    "name": "Jebo Фильтр внутренний 1400F AP, 13,5 Вт",
+                    "description": "Внутренний фильтр для аквариума до 150 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/319/hu881xd3y3ijcuua0aw8m8w1fms3mk39/200_200_1/29ea658b49ef2ab344a0050b4d666c80.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "31,30 руб."
+                },
+                {
+                    "name": "Jebo Фильтр внутренний 112F AP, 5 Вт",
+                    "description": "Внутренний фильтр для аквариума до 60 литров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7db/qt63w2h7w7ag3dm4smz7mqzkkehfw8b2/200_200_1/d830539649965d616ec0fba1975cf1bb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,30 руб."
+                },
+                {
+                    "name": "Jebo Фильтр внутренний 1700F AP, 18 Вт",
+                    "description": "Внутренний фильтр для аквариума до 150 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d2/7kozf25s6twc9t11zf6j86lhqjb6bj6d/200_200_1/08e6f8892faa97194c84c2c31e611d61.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "40,20 руб."
+                },
+                {
+                    "name": "Hagen Губки механической очистки для Fluval 104,105",
+                    "description": "Сменная губка механической очистки, 4.8x7.9x19.6 см, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/990/5l5vx3ykff8atesse550yc6a26vbv2xx/200_200_1/bf38c9e0c6d9b744909d21456b1586ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Hagen Губки механической очистки для Fluval 204/304/205/305",
+                    "description": "Сменная губка механической очистки, 4.8 x 7.9 x 26.8 см, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/133/pbsqfo1ctipm11qx458nbymlgqzubuu9/200_200_1/7bf7735ae6eb9d6069c52f42bb24feea.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "Hagen Губки механической очистки для Fluval 404, 405",
+                    "description": "Сменная губка механической очистки, 4.8 x 8 x 32.7 см, 2 шт.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/724/pwwm66e9k8f4g7qm6mo93zg5pc881y3u/200_200_1/e04858987510806632458e9e29c33aec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,40 руб."
+                },
+                {
+                    "name": "Hagen Керамический наполнитель для Filter U-серии",
+                    "description": "Керамический наполнитель для аквариумных фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e8/87brx598n86sl5tv26v29sa2ttea6jf1/200_200_1/8f97ba9cf6c9e1d90e5d6239c55c47d2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,60 руб."
+                },
+                {
+                    "name": "Hagen Наполнитель керамический BioMax для FLUVAL, 500 мл",
+                    "description": "Керамический наполнитель для биологической очистки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c07/1unbkv7amtthnlmubbzy56bsvqkqvsns/200_200_1/34a7ea4198be495b529044db251e54dd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,30 руб."
+                },
+                {
+                    "name": "Eheim Диффузор для шланга 16/22 мм",
+                    "description": "Диффузор для шланга 16/22 мм.",
+                    "image_url": "https://garfield.by/upload/iblock/efd/ptd68ydmnnuy7hb77g4d0agh3rbh4pp2/a384e274fe10e5d105a8a870867bc494.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,90 руб."
+                },
+                {
+                    "name": "Eheim Помпа-насос СOMPACT+",
+                    "description": "Помпа-насос для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/480/5ab2nkgheevs3fuyuez96kn32ps4ewp0/624d93390d6d11945032a09b047bc9f3.jpg",
+                    "amount": "(1000 - 2000 л/ч) 138х82х126 мм",
+                    "cost": "170,00  руб."
+                },
+                {
+                    "name": "Eheim Фильтр внешний AQUACOMPACT 60",
+                    "description": "Внешний фильтр для аквариумов объемом до 60 л.",
+                    "image_url": "https://garfield.by/upload/iblock/20a/qbunz5ok9ai3qd7bwkko130wkyd7i49t/8eb30ddc5b70c09736100e506318978a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "139,00 руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний AQUACORNER",
+                    "description": "Фильтр внутренний AQUACORNER для аквариума от 10 до 60 л.",
+                    "image_url": "https://garfield.by/upload/iblock/b75/u2syiejkry2pdzzrph2iaurmdvfsu5ae/66785560c2a2d2d6d0565ff7c0158632.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "63,40 руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний miniFLAT",
+                    "description": "Фильтр внутренний, работает от компрессоров, мощность 300 л/ч.",
+                    "image_url": "https://garfield.by/upload/iblock/4c1/nxg7dtpwa2mj5840flusmlhscafs2pco/9b52dc5aefcbef2967035756c1f22ea3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "92,00 руб."
+                },
+                {
+                    "name": "Eheim Фильтр внутренний SKIM 350",
+                    "description": "Фильтр для устранения пленки с поверхности воды",
+                    "image_url": "https://garfield.by/upload/iblock/807/ime8p41zflm6xsea38fx9rjellx3udl7/225b51154bae3d8d54e02e329312fd06.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "61,70 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2211 (губка угольная)",
+                    "description": "Губка угольная для фильтра CLASSIC, 3 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/634/fyeq3h8j4bjgipp651kgoo3241stwfjt/f3aad950c9ce9fc87b9d0b35f3589801.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "24,80 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2211 (губка)",
+                    "description": "Губка для внешних фильтров CLASSIC, 2 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/31f/zypdq6kiggx0smhmp6tbs0dx1psl2h2o/a74969f75b4d9641de80716d6059d581.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,90 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2211 (синтепон)",
+                    "description": "Синтепоновые губки для внешнего фильтра CLASSIC, 3 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/3a0/788x6tg22urdnrgbvf05joqbm28ffrtt/516155f5666224e79b4b3be292f6ebd6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,60 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2213 (губка белая)",
+                    "description": "Синтепоновая губка для внешнего фильтра Classic.",
+                    "image_url": "https://garfield.by/upload/iblock/4ec/035rhr7yhkmk2yxczi4h18e9ho1z09nk/85557e1d9c5b4fd0d9a3d62f3c95b67e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,90 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2213 (синтепон)",
+                    "description": "Синтепоновые губки для фильтра Classic, 3 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/5a4/wroh0t0llngxw42dimw6i29077tu98nc/6d057e68fe4bc69c496bbfe8befe045f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,90 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2213 MEDIA SET",
+                    "description": "Керамика+субстрат+губка+синтепон для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/iblock/cfa/gei0m0cb34n0j5yafkdn38wvyjccyvtv/8b602551cd2d4c383adf7bffeb767f23.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "150,00 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2215 MEDIA SET",
+                    "description": "Бионаполнители и губки для внешнего фильтра Eheim CLASSIC.",
+                    "image_url": "https://garfield.by/upload/iblock/726/o0jli5fiuixbb270cqt6e2luv2nur22w/107286e6a6d20d153adfabfd9eac1016.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "130,80 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал CLASSIC 2217 MEDIA SET",
+                    "description": "Керамика+субстрат+губка+синтепон для внешних фильтров.",
+                    "image_url": "https://garfield.by/upload/iblock/1eb/iorupd2nucb5pe7ckvxivugnbrg7bkvw/631c1e552389b46d65b576095e9ba9a2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "220,00 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал ECCO PRO (синтепон)",
+                    "description": "Синтепоновые губки для внешних фильтров, 3 штуки.",
+                    "image_url": "https://garfield.by/upload/iblock/a6e/k4j5pkkdm6y11pzrycfhvtgk99kxay9a/66f1b8c69599218a15064b79fd91570a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,90 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал EHEIM BIO MECH, 1 л",
+                    "description": "Фильтрующий материал EHEIM BIO MECH, субстрат.",
+                    "image_url": "https://garfield.by/upload/iblock/4a6/mqegrlkuogi6h4y7rh1ayqpqullq5a81/795b4df6b7995d980e884b090b0bd5ad.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "43,60 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал EHEIM MECH, пластик",
+                    "description": "Наполнитель из пластика.",
+                    "image_url": "https://garfield.by/upload/iblock/aab/5xrs7opcktqcklqd9dez0qqh3srikn7l/642e3d6d4d0ad4972eb2a9ef342cd3b3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,00 руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал SUBSTRAT",
+                    "description": "Биосреда для биологической очистки аквариумной воды.",
+                    "image_url": "https://garfield.by/upload/iblock/cc9/9r40qz21wl5u7iwqs5eh2wwivowjn9ur/5e590b56ca004fb5b7f679b8425bb744.jpg",
+                    "amount": "1 л",
+                    "cost": "50,00  руб."
+                },
+                {
+                    "name": "Eheim Фильтрующий материал PICK UP (губка)",
+                    "description": "Универсальная губка для внутреннего фильтра Eheim PICK UP, 2 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/853/a31hobn2yghfyfj5provqe81w8a9u0t9/985d8e9cbca83509a536029256bb287e.jpg",
+                    "amount": "для фильтра внутреннего PICK UP 2006",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Tetra Внешний фильтр EX 600 Plus",
+                    "description": "Для аквариумов объемом не менее 60 литров.",
+                    "image_url": "https://garfield.by/upload/iblock/c2f/o62cwf93nme2nd64ibdyo7cpr8xo6gd2/9513735bea9f599412e47599810c784c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "323,50 руб."
+                },
+                {
+                    "name": "Tetra Внешний фильтр EX 800 Plus",
+                    "description": "Для аквариумов объемом не менее 100 литров.",
+                    "image_url": "https://garfield.by/upload/iblock/d80/hgoqpis8l08tqhu61xcbftgbi7pcdpt1/17a497b448f64a0ce836c262fae8f4a4.png",
+                    "amount": "за 1 ед.",
+                    "cost": "376,00 руб."
+                },
+                {
+                    "name": "Tetra Внешний фильтр EX 1200 Plus",
+                    "description": "Для аквариумов объемом не менее 250 литров.",
+                    "image_url": "https://garfield.by/upload/iblock/378/l0rg536u4dnjrmr2hzt370pso45i8bs4/fca55cd5c2597de78651ec337153829a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "580,30 руб."
+                },
+                {
+                    "name": "Tetra Valves EX1200",
+                    "description": "Вентиль для внешнего фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/481/jwtgxnsb00v7gxpe32v8cswn68xukf9u/927eb9bf4aadde6354f274c0b3f4b1b4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "52,40 руб."
+                },
+                {
+                    "name": "Tetra Катридж к фильтру EasyCrystal FilterPack",
+                    "description": "Картридж для фильтра Tetra EasyCrystal.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ddd/07o1fgj606wgy41panqlw7x9sxbopz5i/200_200_1/5ec363a1f9ed560f74e33b819d3966a2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,00 руб."
+                },
+                {
+                    "name": "Tetra Картридж EasyCrystal FilterPack С 100",
+                    "description": "Картридж к фильтру для аквариума Cascade Globe 6,8 л",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/62b/lwda7nxe8fpmy58inklrdl9a17nffk78/200_200_1/aae47c61756115c28e0e9ae87efc3549.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,60 руб."
+                },
+                {
+                    "name": "Tetra Био-губка к фильтрам EasyCrystal 250/300",
+                    "description": "Био-губка к фильтрам EasyCrystal 250/300.",
+                    "image_url": "https://garfield.by/upload/iblock/40b/16v6qr1ehkzz36sxq5gv82h2q6smxusp/05f620f12705ddd561c8bb0b01f8b4b4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,70 руб."
+                },
+                {
+                    "name": "Tetra Био-губка к внешнему фильтру EX 400/600/700/800",
+                    "description": "Био-губка к внешнему фильтру EX 400/600/700/800.",
+                    "image_url": "https://garfield.by/upload/iblock/650/4plyiyms1yvp3r8m8m26d8madx9drgvc/a84237d3393a4cfb7fe1b68a043f7a9d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,60 руб."
+                },
+                {
+                    "name": "Tetra Био-губка к внешнему фильтру EX 1200",
+                    "description": "Тетратек BF L для внешнего фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/24f/nw57ic41zcuqjcqyilnoemo3avi7mzm0/6a2c5be42b40f495bcd5ebc26dafe649.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,60 руб."
+                },
+                {
+                    "name": "Tetra Керамические кольца Tetratec CR 800 мл",
+                    "description": "Керамические кольца ко внешнему фильтру Tetratec CR.",
+                    "image_url": "https://garfield.by/upload/iblock/d1a/cknmumlsb4a6v9oiq8ldv3gvgd4nhs8u/2b70cbf18fdc90dee6e8308ee3538bbe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "28,00 руб."
+                },
+                {
+                    "name": "Tetra BalanseBalls Proline 440ml",
+                    "description": "Шарики из полимерного материала для фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/ed7/k6a018s9l6jhp5y8n8zdsepl484mnnqy/6ae390f8c5a8c1d2367c17b95e566b02.png",
+                    "amount": "за 1 ед.",
+                    "cost": "39,60 руб."
+                },
+                {
+                    "name": "Tetra Губка СF Carbon 800 мл",
+                    "description": "Тетра губка с угольным наполнителем для внешнего фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/a9d/kfsb5limhtkq29ebz9m0umwmkd92ftc3/3d1bf8a211699f88384261609724e094.png",
+                    "amount": "за 1 ед.",
+                    "cost": "34,10 руб."
+                },
+                {
+                    "name": "Tetra Губка FF FilterFloss",
+                    "description": "Прокладка для мелкой очистки во внешний фильтр.",
+                    "image_url": "https://garfield.by/upload/iblock/c36/lruma7xhf9lzrq24x78viga5l0b5qqgd/f77c9489c6ba77a2e5ef3de72586e626.jpeg",
+                    "amount": "S",
+                    "cost": "13,30  руб."
+                },
+                {
+                    "name": "Tetra Био-губка к внутреннему Фильтру IN 300 PLUS",
+                    "description": "Био-губка к внутреннему фильтру IN 300 PLUS.",
+                    "image_url": "https://garfield.by/upload/iblock/c33/srqn5g758pw55edaim7mzvxfo644h919/17b55b163f40dc4a09c160cb79520420.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "0,00 руб."
+                },
+                {
+                    "name": "Aquael Фильтр Unifilter",
+                    "description": "Для очистки и насыщения кислородом воды в аквариумах.",
+                    "image_url": "https://garfield.by/upload/iblock/9e2/6oiunw0ulwvsplnbc119r4byxhn8l31b/a958cd77af5001613d34710fae947ea0.jpg",
+                    "amount": "280 EU",
+                    "cost": "50,70  руб."
+                },
+                {
+                    "name": "Aquael Фильтр Unifilter Power",
+                    "description": "Для очистки и насыщения кислородом воды в аквариумах.",
+                    "image_url": "https://garfield.by/upload/iblock/087/rato24zrtk0swervx1c9gbgpqxog8u0s/7603755fcd644e33816cba09a88f3038.jpg",
+                    "amount": "500 UV",
+                    "cost": "123,40  руб."
+                },
+                {
+                    "name": "Tetra ReptoDecoFilter RDF300",
+                    "description": "Декофильтр для террариумов объемов от 20 до 200 л.",
+                    "image_url": "https://garfield.by/upload/iblock/348/33u6a66lvnu70y25q7j303m7us4g33qt/1d41bc6dddc3b232f7fee025d0396933.png",
+                    "amount": "за 1 ед.",
+                    "cost": "211,30 руб."
+                },
+                {
+                    "name": "Aquael Наполнитель FZN Mini",
+                    "description": "Сменный фильтрующий картридж для фильтра FZN MINI.",
+                    "image_url": "https://garfield.by/upload/iblock/6d6/hf75x1otxtt9v4cfr49x6i0bimhydc5s/1b2d58ea01fc1fa2e4310c545bd0a5f4.jpg",
+                    "amount": "FZN MINI STANDARD",
+                    "cost": "15,60  руб."
+                },
+                {
+                    "name": "Aquael Фильтр Filter Multi Kani 800",
+                    "description": "Фильтр для аквариумов.",
+                    "image_url": "https://garfield.by/upload/iblock/d55/vjwrw0w52c7o60ssnsnxz3p7348nlcln/c945210bb39272bcc4c312d65e8cfdeb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "261,00 руб."
+                },
+                {
+                    "name": "Aquael Внешний фильтр Midi Kani 800 canister filter EU",
+                    "description": "Внешний фильтр для аквариумов.",
+                    "image_url": "https://garfield.by/upload/iblock/fac/sdl77r22vrzmbs8wf2pd4khylj1re3bd/e6b63913e4257fb65288e192c2655572.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "278,70 руб."
+                },
+                {
+                    "name": "Aquael Фильтр Filter Mini Kani 80",
+                    "description": "Фильтр для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/48e/g1m1p22n8i01ixjopi72t28mfh3k8msl/d130a97cadd5c2eda29d159de39a1776.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "230,60 руб."
+                },
+                {
+                    "name": "Aquael Фильтр Mini Kani 120",
+                    "description": "Внешний канистровый фильтр.",
+                    "image_url": "https://garfield.by/upload/iblock/49d/av7zm571b63qtfnsa2l3sb8ov1spf5ot/30c5d4d8ff8aaf4a145be771c112683a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "258,20 руб."
+                },
+                {
+                    "name": "Aquael Картридж Multi Cartridge Multikani Carbomax",
+                    "description": "Модуль для расширения фильтра Multikani.",
+                    "image_url": "https://garfield.by/upload/iblock/b9d/5momp25tbcixx38vax1gio2j7mo7wc1k/916b2a3ee619eb9f9c2847badc015a61.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "76,90 руб."
+                },
+                {
+                    "name": "Aquael Картридж Multi Cartridge Multikani Zeomax",
+                    "description": "Модуль для расширения фильтра Multikani.",
+                    "image_url": "https://garfield.by/upload/iblock/6ba/5jr1d32526wmownyk0ngpggs4yf1uk9z/5e6de29963c3a87d3d242b4aa4b60575.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,20 руб."
+                },
+                {
+                    "name": "Aquael Наполнитель Multi Cartrige Pro BioCeraMax Pro 600",
+                    "description": "Наполнитель для фильтра Aquael Multikani.",
+                    "image_url": "https://garfield.by/upload/iblock/f87/uof2q2mos7y9n3w7m418z3870fely2wm/b4014b3e8b81d6a5af398e58fa526a57.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "57,60 руб."
+                },
+                {
+                    "name": "Aquael Картридж Cartridge Phosmax Basic Multikani",
+                    "description": "Модуль для расширения фильтра Multikani.",
+                    "image_url": "https://garfield.by/upload/iblock/a30/32t9l2ls5ll17vgii320bkhx6feo7xkr/ec81defc0a8915159890cad7bd591055.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "78,30 руб."
+                },
+                {
+                    "name": "Aquael Наполнитель для фильтра Phosmax Pro 1L (N)",
+                    "description": "Химический наполнитель в виде ионообменной смолы.",
+                    "image_url": "https://garfield.by/upload/iblock/c14/udev3r6v9vrr0as7cajcjijll5vyocye/b1ae92f16886d9dec778b94ee41add68.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "70,30 руб."
+                },
+                {
+                    "name": "Aquael Наполнитель для фильтра Filtr.sponge Fan Phos (2pcs)",
+                    "description": "Губка для фильтров.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d77/obinfrwykvsnlujfssci1of0f63ctrhq/200_200_1/3ab26af2293c5f739745b200cd587526.jpg",
+                    "amount": "FAN Micro Plus",
+                    "cost": "10,70  руб."
+                },
+                {
+                    "name": "Aquael Наполнитель для фильтра Phosmax Basic",
+                    "description": "Наполнитель для фильтра.",
+                    "image_url": "https://garfield.by/upload/iblock/7e1/haphuu2qskv7zgxyk5ppa1olftzjlh2x/c103c995b3dffcde76f95dff64e56cae.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "36,00 руб."
+                },
+                {
+                    "name": "Aquael Помпа Reef Circulator",
+                    "description": "Практически бесшумная помпа для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/893/npugk6e8tckt5zhn31p0t03fhtpwnwnv/bea8a31e8f90c203c872966cecc89826.jpg",
+                    "amount": "до 100 л",
+                    "cost": "82,10  руб."
+                }
+            ]
+        }
+    }
+}

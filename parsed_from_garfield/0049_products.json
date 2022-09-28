@@ -1,0 +1,310 @@
+{
+    "Птицы": {
+        "Поилки, кормушки": {
+            "url": "https://garfield.by/catalog/birds/poilki-kormushki.html",
+            "products": [
+                {
+                    "name": "Triol Поилка A2-90 для птиц, 90 мл",
+                    "description": "Поилка для мелких и средних птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/df9/1wye2pbv163zwt5yqo8hqhftgzudgycx/200_200_1/6eeac7b705b15ea3eb9cad47f0823c6a.jpg",
+                    "amount": "",
+                    "cost": "4,30  руб."
+                },
+                {
+                    "name": "ВАКА Поилка для птиц для клетки с горизонт. прутьями",
+                    "description": "Поилка из нетоксичного пластика для клетки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8e3/6yr4v07rr6fbkshf67v470rwt83z2pjc/200_200_1/c44a7555b741da03ec56b66e44e85330.gif",
+                    "amount": "за 1 ед.",
+                    "cost": "3,40 руб."
+                },
+                {
+                    "name": "ВАКА Поилка для птиц для клетки с вертик. прутьями",
+                    "description": "Поилка из нетоксичного пластика для клетки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/325/58lidtu57m2ka80um487m2oforbi0zwx/200_200_1/6e890adf52f0151a72a7b313c9034ee8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,40 руб."
+                },
+                {
+                    "name": "ВАКА Кормушка для птиц",
+                    "description": "Кормушка из прочного пластика для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7c1/6lrkq02mp4amfbxrvucmuvxkgc280ez1/200_200_1/4cdca95c7aa1a231d53a30f895b04a36.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,10 руб."
+                },
+                {
+                    "name": "Vitapol \"Seeds catcher\" Зерноулавливатель для мелких птиц",
+                    "description": "Для сбора остатков корма, пластик.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc0/m1nvt8h3skd420d5geiq7aw0s6rmaytx/200_200_1/aee53e84f5331112acb4db4e890a0196.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,90 руб."
+                },
+                {
+                    "name": "Triol Поилка BR15K для птиц, 50 мл",
+                    "description": "Поилка для мелких попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/169/s3dgpbt1xvtfl59wtqon3znc36ywkque/200_200_1/454cbae16f08813f5c9d925f4ad89493.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,80 руб."
+                },
+                {
+                    "name": "Triol Держатель для фруктов \"Яблочко\"",
+                    "description": "Держатель и игрушка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/64c/5yzklnsocazogimp059gp044uk4duz5w/200_200_1/c458f1746712c9e07c7d8dcac741eba7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "17,30 руб."
+                },
+                {
+                    "name": "Triol BR49K Поилка для птиц, 75 мл",
+                    "description": "Поилка для мелких попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/712/yblgvqla4qv07mq86yy7r6qw9d3t5roo/200_200_1/94f7c8ee6438d6d0a959ae455ff30011.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,10 руб."
+                },
+                {
+                    "name": "For Friends Поилка для птиц, 15 см",
+                    "description": "Пластиковая поилка для мелких птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d31/k8d6uaee0v0o512jj9bgyt2q2papedbh/200_200_1/afae1461f39a3e02432cbe3f918988fe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Triol BR44K Кормушка для птиц, 9х6,5х2,5 см",
+                    "description": "Кормушка для птиц с жердочкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/422/r43dri65ir24vmdmaedj1f9l36rdmgga/200_200_1/f88dda5d09000fe9be539ea4fa92ffe0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,60 руб."
+                },
+                {
+                    "name": "Triol BR45P Поилка для птиц, 100 мл",
+                    "description": "Поилка для птиц с высоким носиком.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eab/qylk6auhsh2xkfqus8oxpsmu9jzysy1b/200_200_1/7431d1f9ae0afc6952eed08504a00b2b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                },
+                {
+                    "name": "Triol BR46P Поилка для птиц, 200 мл",
+                    "description": "Удобная поилка для мелких попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e4/tw4ayfc0zdwpu1dwmsef71t03ax3gbmu/200_200_1/91d21b06a7112f0525e8105dd7f7e119.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Triol BR47P Поилка для птиц с креплением, 200 мл",
+                    "description": "Поилка с носиком для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0cc/uhhhivalvv5evl75c4dxgwcqhuxa32ws/200_200_1/f69d6ba67ecae0ecaf45add7f473e2ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Triol BR49P Поилка для птиц, 75 мл",
+                    "description": "Поилка с носиком для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/875/7m0f74yn1aoj54l0wbhd6tjvwv79z5mb/200_200_1/d0400d220076651bac8254e7e5450748.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,80 руб."
+                },
+                {
+                    "name": "Beeztees Поилка для голубей серая 1 л",
+                    "description": "Пластиковая поилка для голубей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/598/ui2ugy2u34dxatdn5fetvs0i7v4mcrd1/200_200_1/2bc0bb29e7c350477b26e12c7511b77c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,90 руб."
+                },
+                {
+                    "name": "Triol Кормушка BR51P для птиц и мелких животных",
+                    "description": "Функциональная кормушка для мелких птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6d7/fg00ai44pealjha7yb3kwu5h6jkxyfe6/200_200_1/8cbdd397c42071664658ffa69f6fb3e7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,90 руб."
+                },
+                {
+                    "name": "Triol BR15P Поилка для птиц, 50 мл",
+                    "description": "Поилка для мелких попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e69/o2g19kt3jkbku4a1st8iqewkbn16v5b9/200_200_1/d1397597241d7307aacb71d7cd5cadea.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,60 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для птиц,  50 мл /11 см",
+                    "description": "Кормушка для птиц, 50 мл/11 см., пластик.",
+                    "image_url": "https://garfield.by/upload/iblock/1c7/j2jjkcbgyri3wa7iofbzd3fkbbumlok2/a925eb84ed2e16d097709a1bfb53ee55.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,50 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для птиц, 65 мл/14 см",
+                    "description": "Кормушка для птиц, пластик, 65 мл/14 см.",
+                    "image_url": "https://garfield.by/upload/iblock/c51/2z2l27uoi4hpaurhoik65wjttp782fio/eaff5d0a4bbb126457ecefbab674a57c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для птиц, 130 мл/16 см",
+                    "description": "Кормушка \"Trixie\" для птиц, 130 мл/16 см.",
+                    "image_url": "https://garfield.by/upload/iblock/7cd/zksrse0vwco1zbx8xz2zagvrd0j0b3g4/14677c76770143927d700e3193578dec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,50 руб."
+                },
+                {
+                    "name": "Набор кормушек \"Trixie\" для птиц, 75 мл/85 мл (2 шт)",
+                    "description": "Набор кормушек для птиц, пластик, подвесные.",
+                    "image_url": "https://garfield.by/upload/iblock/211/z24v22l06481pljel9e9gc2pq3riexh1/bb53d9935cc2ba464718ebf1a928adf1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,50 руб."
+                },
+                {
+                    "name": "Trixie Кормушка для птиц",
+                    "description": "Пластиковая кормушка для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42e/1jmb6mq3kbmlygttczggr7l7p1vnmpq4/200_200_1/80 мл.jpg",
+                    "amount": "80 мл",
+                    "cost": "3,10  руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для птиц, из металла",
+                    "description": "Кормушка с держателем, металл.",
+                    "image_url": "https://garfield.by/upload/iblock/902/95su8k2wr7htkfes3fxqufhj5athce28/82e14de4b59e7aa399fb521f282e64e7.jpg",
+                    "amount": "150 мл/ диам.7 см",
+                    "cost": "7,20  руб."
+                },
+                {
+                    "name": "Ferplast Кормушка SIRIO железная подвесная",
+                    "description": "Кормушка для попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eac/5kqy820tsdm629jv23asifdul225wtqn/200_200_1/Снимок.JPG",
+                    "amount": "0,3 л",
+                    "cost": "16,10  руб."
+                },
+                {
+                    "name": "KIRI-KIRI Кормушка-поилка STELLA, 0,65 л",
+                    "description": "Пластиковая кормушка с противоскользящим покрытием",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e19/ci8gajlyvywg3x7woece2df4eilrhsxo/200_200_1/f5c83d1ffa3d9a38628ad9b8813ab11c.jpg",
+                    "amount": "",
+                    "cost": "14,30  руб."
+                },
+                {
+                    "name": "Ferplast Поилка для малых птиц Cristal цилиндр",
+                    "description": "Поилка цилиндрической формы для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/51b/tba223z2wxqek37du5b9507wpdwrhkts/200_200_1/a5ff1b0f7d5a07270ec7d5e337be6f7d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,50 руб."
+                },
+                {
+                    "name": "Green Farm Кормушка для птиц уличная",
+                    "description": "Подвесная кормушка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/68a/6j1detb2u5ss3ld2bl93o0w4nr4x2bbw/200_200_1/fc28c4e6d9a532c3d192f4e09b9d9990.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "29,60 руб."
+                },
+                {
+                    "name": "Green Farm Кормушка для птиц \"Карусель\"",
+                    "description": "Подвесная кормушка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/016/hb7ttcezg0ch04aacgzbjrd666znryii/200_200_1/9241d84f0e5734f9d0b4a58b3a24418f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "55,10 руб."
+                },
+                {
+                    "name": "Green Farm Кормушка для птиц \"Теремок\"",
+                    "description": "Подвесная кормушка для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a0/sa5bqofkdidhr6ug3u8agy6tpfiou6ts/200_200_1/69af681b0ce0b63817bdde19b0f21234.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "54,10 руб."
+                },
+                {
+                    "name": "LoLo Pets Миска для птиц с крепежом, 0,28 л",
+                    "description": "Металлическая подвесная миска для клетки.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/93d/fgde0pgzz8kc2ujlu72cm9ew36yr3sck/200_200_1/76864cf048f6c032c2e6ee1ae03b055a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "Beeztees Миска для птиц фаянсовая, 10х5 см",
+                    "description": "Миска для корма и воды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9db/k0uc9rfmc17x6gxei72b82b1wuql3ee7/200_200_1/6de4d41a6946e8a5c1c0ff5ed6d24f7f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Hagen Поилка для птиц, большая",
+                    "description": "Пластиковая поилка для птиц, 22 х 12,5 х 4,5 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/86e/bgiq4m8osauxjryzrw871imh04l94p3b/200_200_1/2f0a16a8bce528431729a70f1a751d67.PNG",
+                    "amount": "за 1 ед.",
+                    "cost": "5,10 руб."
+                },
+                {
+                    "name": "Triol BR44P Кормушка для птиц, 9х6,5х2,5 см (пакет)",
+                    "description": "Кормушка для птиц с жердочкой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/993/5a888lxd4fxv1v7447lwu5l2otuwukc2/200_200_1/940b655a348a442ab21313e7ff08daca.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,90 руб."
+                },
+                {
+                    "name": "Поилка \"Trixie\" для птиц, 100 мл/13 см",
+                    "description": "Поилка для птиц, пластик, 100 мл/13 см.",
+                    "image_url": "https://garfield.by/upload/iblock/fa9/ob25ym57846zzam2ivxpfngu4vz6uhzl/441b9a88738a1447a6e43e0372fc9068.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,50 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для птиц, 75 мл/15 см",
+                    "description": "Кормушка для птиц, 75 мл/15 см.",
+                    "image_url": "https://garfield.by/upload/iblock/e9a/953uziz6ml3fu7ir603ds93r9cdtrli1/fd8451115ff059cef3122bad613f5905.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,30 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для птиц, 90 мл/12 см",
+                    "description": "Кормушка для птиц, пластик, 90 мл/12 см.",
+                    "image_url": "https://garfield.by/upload/iblock/9f2/qg24oyhm2wgvpn5lpycuvzol71pl2e8h/065083459fc78629a1917bd274968358.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\", для птиц, 150 мл/12 см",
+                    "description": "Кормушка для птиц, пластик, 150 мл/12 см.",
+                    "image_url": "https://garfield.by/upload/iblock/f49/qc1vpjtgrp3bh9ko1zm2jl7jyt42n3na/4e99bb69a0d55c5105152a98e6aef4cd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,10 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\", для птиц, 100 мл/10 см",
+                    "description": "Кормушка \"Trixie\", для птиц, 100 мл/10 см.",
+                    "image_url": "https://garfield.by/upload/iblock/805/db1br1jsijte1mkjj5ugjn0invaikc0q/aec4667ce4a774135a3ac785d0929c3f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,70 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для птиц, 70 мл/7х7 см",
+                    "description": "Кормушка для птиц, пластик, с жердочкой.",
+                    "image_url": "https://garfield.by/upload/iblock/7d6/dhi324ny49yy7385hpzfuu9t1uyp1i96/d93c50b77551f25b83e8355cb3e54dc7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,20 руб."
+                },
+                {
+                    "name": "Набор кормушек \"Trixie\" для птиц 50 мл/5.5 см (2 шт)",
+                    "description": "Набор кормушек для птиц, подвесные, пластик.",
+                    "image_url": "https://garfield.by/upload/iblock/b21/vp1wz6toto7x8wlkr06k5pgx3tpb8qq6/1f044137a8eb251e4346f58a5ede9833.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,10 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для птиц, 150 мл/8х6 см",
+                    "description": "Кормушка для птиц, пластик, 150 мл/8х6 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/647/xo1iuovcux4f691h7600mt7ilyyyikj8/200_200_1/96eb3290badd912b697dfa7104b0e1b6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,30 руб."
+                },
+                {
+                    "name": "Кормушка \"Trixie\" для птиц, 400 мл/11х8 см",
+                    "description": "Кормушка для птиц, пластик, 400 мл/11х8 см., для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2f5/o4d9pmczgv9beug3fjzqrj92yd8wd7eu/200_200_1/b9fe04db1761b43d25625aaf0e016fa0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,50 руб."
+                },
+                {
+                    "name": "Набор держателей универсальных \"Trixie\", 2 шт",
+                    "description": "Набор держателей универсальных, для птиц, 2 шт.",
+                    "image_url": "https://garfield.by/upload/iblock/f00/b0qdorhsjalil5zg4r82d1bgtfdq788t/83ed9ee97631de6d5b69d63a039dfa43.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                }
+            ]
+        }
+    }
+}

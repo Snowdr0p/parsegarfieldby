@@ -1,0 +1,765 @@
+{
+    "Рыбки": {
+        "Освещение": {
+            "url": "https://garfield.by/catalog/akvariumistika/osveshchenie.html",
+            "products": [
+                {
+                    "name": "Laguna Лампа для птиц ультрафиолетовая UVB2.4",
+                    "description": "Лампа для любых видов птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/341/cho51xqw23xzy791m4973u0gvlufabya/200_200_1/4c23879d-599b-11ec-bbb5-1866da6865b2.jpg",
+                    "amount": "20 Вт",
+                    "cost": "63,20  руб."
+                },
+                {
+                    "name": "Laguna Светильник светодиодный ICEBERG",
+                    "description": "Для освещения пресноводных аквариумов, с одной опорой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3b8/0fwe6en8uu8xizvj3goysqtcvziteug9/200_200_1/23a22705-85a2-11ec-a58d-b07b25e4d639.jpg",
+                    "amount": "6 Вт",
+                    "cost": "51,50  руб."
+                },
+                {
+                    "name": "Barbus Светильник универсальный (белый)",
+                    "description": "Универсальный светодиодный светильник",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e02/9muoxs9vgm4qon40h9c090rt934pfggo/200_200_1/svetodiodnyy_svetilnik_barbus_universalnyy_belyy_svet_42_sm_8_vt.jpg",
+                    "amount": "6 W",
+                    "cost": "78,60  руб."
+                },
+                {
+                    "name": "Barbus Светильник универсальный (голубой)",
+                    "description": "Универсальный светодиодный светильник",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0e0/03llhjmtolrxlgl31oiwwc91gv9051lp/200_200_1/svetodiodnyj-svetilnik-barbus-universalnyj-min.jpg",
+                    "amount": "5 W",
+                    "cost": "65,50  руб."
+                },
+                {
+                    "name": "Barbus Светодиодный светильник LED 025-036 (микс)",
+                    "description": "Универсальная лампа для наружного или подводного освещения аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/da4/ciu7kr66cmf2iwwb1u2p873kqr5xtsxr/200_200_1/745-334-led-025.jpg",
+                    "amount": "20 см",
+                    "cost": "37,10  руб."
+                },
+                {
+                    "name": "Barbus Светодиодный светильник LED 025-036 (красный)",
+                    "description": "Универсальная лампа для наружного или подводного освещения аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a52/jjjk1068k2p1atu2e9lfcufe239tbhir/200_200_1/745-334-led-025.jpg",
+                    "amount": "20 см",
+                    "cost": "34,30  руб."
+                },
+                {
+                    "name": "Barbus Светодиодный светильник LED 025-036 (голубой)",
+                    "description": "Универсальная лампа для наружного или подводного освещения аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7fd/jywxucimt1ntads3htkmzhhkzueynwt1/200_200_1/745-334-led-025.jpg",
+                    "amount": "20 см",
+                    "cost": "34,30  руб."
+                },
+                {
+                    "name": "Barbus Светодиодный светильник LED 025-036 (белый)",
+                    "description": "Универсальная лампа для наружного или подводного освещения аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/daf/tzas8zu3eadhg33zywei5dy7ugut8luj/200_200_1/745-334-led-025.jpg",
+                    "amount": "20 см",
+                    "cost": "37,10  руб."
+                },
+                {
+                    "name": "Aquael Светильник светодиодный Leddy Tube D&N Plant",
+                    "description": "Светодиодное освещение для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e86/vgdp0rj3oqa6zn8hc5kira5om440rore/200_200_1/1616585061_2021-03-24_14-24-21.jpg",
+                    "amount": "14 W",
+                    "cost": "256,10  руб."
+                },
+                {
+                    "name": "Aquael Светильник светодиодный Leddy Tube D&N Sunny",
+                    "description": "Светодиодное освещение с функцией день/ночь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de8/exqyntgkxbig610jf22owo4bek1rawd4/200_200_1/1616585061_2021-03-24_14-24-21.jpg",
+                    "amount": "17 W",
+                    "cost": "226,10  руб."
+                },
+                {
+                    "name": "Meijing Светильник для террариума NJ-03",
+                    "description": "Светильник для террариума с регулировкой яркости",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2a0/jwhjefz524br8zfonf6swf43b9cspjgh/200_200_1/thumb_77bfce54ff9d347355315704270a752b_adaptiveResize_211_173.jpg",
+                    "amount": "220 V",
+                    "cost": "62,60  руб."
+                },
+                {
+                    "name": "Exo Terra Лампа Reptile UVB200 Compact",
+                    "description": "Лампа для пустынных и высоких террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d83/02r8tcrk0brx88q21m0r1hvt9u8o8s6q/200_200_1/b6bf84e409f1e4737f49c00bdd08c06e.jpg",
+                    "amount": "13 Вт",
+                    "cost": "137,20  руб."
+                },
+                {
+                    "name": "Exo Terra Лампа солнечного света Solar Glo",
+                    "description": "Лампа с ультрафиолетом, инфракрасным и видимым светом для террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/85d/dr13piuo013kxxnhp7lujjgkcpxxwmlx/200_200_1/1dec08ea5ad96bb30d132e7a3e5e840e.jpg",
+                    "amount": "80 Вт",
+                    "cost": "187,00  руб."
+                },
+                {
+                    "name": "Exo Terra Лампа Reptile Natural Light former UVB2.0 Compact",
+                    "description": "Лампа дневного света полного спектра для террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fd5/76wkyqxjhvn2esrrttk3p717j7ozu6gm/200_200_1/1428f10ffba59960404c970167588fbe.jpg",
+                    "amount": "13 Вт",
+                    "cost": "106,40  руб."
+                },
+                {
+                    "name": "Exo Terra Лампа Reptile UVB150 former UVB10.0 Compact",
+                    "description": "Лампа для пустынного террариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/439/pflh0bbp9orny60m89vhjzdpep43iz74/200_200_1/e7603245a025a99bc1d630792e4f3062.jpg",
+                    "amount": "13 Вт",
+                    "cost": "115,50  руб."
+                },
+                {
+                    "name": "Exo Terra Лампа инфракрасная Infrared Basking Spot NANO",
+                    "description": "Круглосуточный источник тепла для небольших террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bda/tz6cf4svava2sjwqqmczbp5401npx2ec/200_200_1/e416dd4950752b8c5e5317ead8616035.jpg",
+                    "amount": "25W",
+                    "cost": "25,40  руб."
+                },
+                {
+                    "name": "Exo Terra Лампа инфракрасная Infrared Basking Spot",
+                    "description": "Повышает общую температуру воздуха в террариуме",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/237/t3r7nw5mgw5ohucvyjnd1aowsm3zlu8r/200_200_1/b0d978fc636995d6615574da1fdc0616.jpg",
+                    "amount": "50W",
+                    "cost": "33,90  руб."
+                },
+                {
+                    "name": "Exo Terra Светильник Reptile Nano Dome",
+                    "description": "Светильник для небольших террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b52/hjpy8k8jsvf492bcpcyksen8lz1m01fy/200_200_1/8a398ca5e30f4ae7e79f16e07b570c28.jpg",
+                    "amount": "10 см",
+                    "cost": "89,40  руб."
+                },
+                {
+                    "name": "Exo Terra Cветильник Compact Top для террариумов",
+                    "description": "Компактный люминесцентный светильник для террариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f63/8eno0rajikozxrrgum45he1lgp4env77/200_200_1/6549f40de946259238d71c1ddeef2a51.jpg",
+                    "amount": "30x30x45 см",
+                    "cost": "135,60  руб."
+                },
+                {
+                    "name": "Exo Terra Лампа Reptile UVB100 former UVB5.0 Compact",
+                    "description": "Лампа для тропического террариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/62e/6jhosj5m1795rvhy1tf5bypfnscoihaq/200_200_1/98e2ba24530e19c60083315702c12a08.jpg",
+                    "amount": "13 Вт",
+                    "cost": "109,50  руб."
+                },
+                {
+                    "name": "Repti-Zoo Карточки-тестеры UVB01 для проверки наличия ультрафиолета",
+                    "description": "Тестовая карта для проверки присутствия ультрафиолетового излучения",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/433/uswpag3kj26l93pxxwj90xv46lgb49jj/200_200_1/03c7c73d5ce16ffc53f238b38253541a.jpg",
+                    "amount": "2 штуки",
+                    "cost": "18,10  руб."
+                },
+                {
+                    "name": "Tetra LightWave Complete Set",
+                    "description": "Светодиодный светильник для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/550/77m6y5b2q4hv5w6ciduec6qrj28rkccr/200_200_1/f55d45fde93433f63616b6f7ad60e551.png",
+                    "amount": "270",
+                    "cost": "107,50  руб."
+                },
+                {
+                    "name": "Tetra Таймер",
+                    "description": "Таймер может использоваться для управления различными дополнительными функциями",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f06/v9407dph8m02u45nw964aycvd903o30i/200_200_1/83da86bd35e6ddb472367febec4a7613.png",
+                    "amount": "для лампы LightWave",
+                    "cost": "150,10  руб."
+                },
+                {
+                    "name": "Aquael Светильник светодиодный Leddy Smart Sunny Day & Night",
+                    "description": "Светильник с функцией «День и ночь»",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1e1/dfwvg1tyofh79019gwcimhy7hznwbeew/200_200_1/124223_leddy_smart_plant_dn-white-01_834.jpg",
+                    "amount": "черный",
+                    "cost": "154,80  руб."
+                },
+                {
+                    "name": "Laguna Лампа T8 люминесцентная (белая)",
+                    "description": "Лампа с цоколем G13 для повседневного использования.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/441/ai5a2zu0hud9w9kq545c2ehom9thf1eo/200_200_1/ea66c566cf911caa54cd838dfcc3f74a.jpg",
+                    "amount": "15 Вт",
+                    "cost": "27,20  руб."
+                },
+                {
+                    "name": "Laguna Лампа T8 люминесцентная (синяя)",
+                    "description": "Лампы с цоколем G13 для оформления \"морского\" аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8cb/1fd8btesj3wtmahl3xihkha4novpkjh5/200_200_1/bbdaf4d5ce27e42dc3d5052988d7eb8b.jpg",
+                    "amount": "10 Вт",
+                    "cost": "29,90  руб."
+                },
+                {
+                    "name": "Laguna Лампа T8 люминесцентная (красная)",
+                    "description": "Лампа с цоколем G13 для пресноводных аквариумных растений.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/236/gnrklwkzk8t3rjofu7dy5ooqduozabqe/200_200_1/f2911b163dd55135e5ddb0d83fa462af.jpg",
+                    "amount": "10 Вт",
+                    "cost": "23,10  руб."
+                },
+                {
+                    "name": "Barbus Светильник универсальный светодиодный (микс)",
+                    "description": "Оптимальный спектр свечения для растений и рыб",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d2/5r3mcnz5ha257i315rngkhw77z9jznad/200_200_1/f41bedfe48893b1d86846da4bb61694a.jpg",
+                    "amount": "8 W",
+                    "cost": "91,70  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа инфракрасная \"ReptiInfrared\"",
+                    "description": "Содержит в спектре УФ-лучи А-типа.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e1b/wi2rywd9pn5jg1vnrheqoe5me7nxthv8/200_200_1/8877d0e78c1d3a8cc1408f61e903f548.jpg",
+                    "amount": "100 Вт",
+                    "cost": "33,90  руб."
+                },
+                {
+                    "name": "Laguna Софит погружной, 0,4Вт",
+                    "description": "Подводная подсветка для аквариумов, 35х35х35 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b76/bd6t6ixq5dsbalexhjzaslrze5d8nj01/200_200_1/1910de16f7cac43b3237c4bf5e4c1cfb.jpg",
+                    "amount": "голубой",
+                    "cost": "41,10  руб."
+                },
+                {
+                    "name": "Tetra Светильник Tetronic LED ProLine",
+                    "description": "Регулируемый светодиодный аквариумный светильник.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2b4/60ujo2r0mzq917qncvqnsw329nrld3vp/200_200_1/446e043e11e49bb6829c5a40b48445d4.png",
+                    "amount": "380",
+                    "cost": "372,50  руб."
+                },
+                {
+                    "name": "Barbus Светодиодный светильник",
+                    "description": "Светильник для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7d5/83syic4uyzbih3lvs5v5dr6gwelwe9ef/200_200_1/9fa6203f2c6916984610d1d0f9dc81de.jpg",
+                    "amount": "LED 018",
+                    "cost": "61,60  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа УФ 1015CT \"Compact Desert\" 10.0",
+                    "description": "Лампа с 10% УФ-излучения в спектре",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a95/pymidb6n1wlq9m844csii95moed2s1h0/200_200_1/JAKA-ZAROWKA-UVB-DLA-ZOLWIA-ZOLW-STEPOWY-15W-10-0-EAN-6970211801359.jpg",
+                    "amount": "26 Вт",
+                    "cost": "110,10  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа точечного нагрева \"BeamSpot\"",
+                    "description": "Лампа для террариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d0/skj6fd7p5zeyby0xotow94zwlqtm3pf5/200_200_1/6ad94891881bf3dfb6ef992f2a6d556d.jpg",
+                    "amount": "35 W",
+                    "cost": "20,10  руб."
+                },
+                {
+                    "name": "Aquael Светильник светодиодный Leddy Slim Plant",
+                    "description": "Лампа для освещения растительных аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/003/vlr45yst3fgt69qi38ewq6cbruqttcpw/200_200_1/84696104963d4b661e3303b2d53281c3.jpg",
+                    "amount": "5W белый",
+                    "cost": "172,90  руб."
+                },
+                {
+                    "name": "Aquael Светильник светодиодный Leddy Slim Sunny",
+                    "description": "Лампа для освещения морских и пресноводных открытых аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/027/92350rooa69liq830blb44eaj47n0sbb/200_200_1/cd2abdce2c462ad5042d04142cbceb48.jpg",
+                    "amount": "5W белый",
+                    "cost": "122,10  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа дневная \"ReptiDay\"",
+                    "description": "Дневные лампы для освещения и обогрева террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b5a/lozqhwz0gb29crlqxvg9g6uyuudwmqlv/200_200_1/9bfb59cf7df5da2da429a697b0a9ea49.jpg",
+                    "amount": "50W",
+                    "cost": "28,10  руб."
+                },
+                {
+                    "name": "Eheim Набор светильников Power LED daylight (2 x 40 W)",
+                    "description": "Размер светильников: 128 - 148 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e20/i9a38ak1qk9vvt6cu308bepx0k4fk3dw/200_200_1/21174e7269962e3f88e5a443f3286259.jpg",
+                    "amount": "40 Вт",
+                    "cost": "1860,00  руб."
+                },
+                {
+                    "name": "Eheim Лампа Aquarium light classic LED daylight",
+                    "description": "Светодиодное освещение для пресноводных аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2dc/4t23d3b1xbsvq7amx1dje26q3onovspo/200_200_1/0e9cc20b4b1222e3682e9faa94ba5663.jpg",
+                    "amount": "12 Вт",
+                    "cost": "335,10  руб."
+                },
+                {
+                    "name": "Hagen Флуоресцентная лампа \"Aqua-Glo\"",
+                    "description": "Средне-яркая флуоресцентная лампа для аквариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ad/e31cwmj2li6gp0xwpm2h91z4ham4ansi/200_200_1/430dde6f220367e0a143f9380a1eef8f.jpg",
+                    "amount": "8 Вт",
+                    "cost": "26,30  руб."
+                },
+                {
+                    "name": "Aquael Светильник Lamp Leddy Smart 2 (plant) черный",
+                    "description": "Светодиодный светильник для аквариума, 6W.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6b/rgal3ww0ters085mssulwwof7e2nbx31/200_200_1/33c1b0fead243e3f57545d1be6f72284.jpg",
+                    "amount": "plant белый",
+                    "cost": "129,60  руб."
+                },
+                {
+                    "name": "Aquael Светильник светодиодный LT \"Retro Fit\" Plant",
+                    "description": "Универсальные модули освещения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/909/kno5s0ragps27xeemohp7w4ncey7f5j1/200_200_1/4e6da494794e0b5a0495ac611cfe7316.jpg",
+                    "amount": "10 W",
+                    "cost": "203,30  руб."
+                },
+                {
+                    "name": "Barbus Лампа светодиодная 350 мм, 15 Вт",
+                    "description": "Cветодиодный светильник для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e3/tij98kal0gp1arnexe3rk66n6yi82qsn/200_200_1/4b26d317d786c0bb8622eb413ecca328.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "124,40 руб."
+                },
+                {
+                    "name": "Eheim Коннектор на две лампы LED",
+                    "description": "Тройник для ламп.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/021/j71hdlkc170lkop68duul6fmxw4mor57/200_200_1/8dadf6ae893c0676215242408a5663ce.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "Haqos Apads 40S Клип для светодиодов Tri-colors, черный",
+                    "description": "Двойная рабочая функция для дневного или ночного использования.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/29c/v3i632jmedfuw2ue1fa22d2po65fh37v/200_200_1/efe5b7c4982589b664850536c4d5f901.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "66,80 руб."
+                },
+                {
+                    "name": "Barbus Комплект держателей для светильников LED 008-016",
+                    "description": "Комплект пластиковых держателей для светильников",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f0/w5ftn1e8dhlnnl1prdqsar41nqzwmua1/200_200_1/88e3bedc651a61cdc4b2bba5f1d18b51.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,80 руб."
+                },
+                {
+                    "name": "Aquael Адаптер Holder Leddy tube 3/6W",
+                    "description": "Держатель-адаптер для лампы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/90e/03yen5ft6jiutb390nq9fs70lhexej3t/200_200_1/af55d1fee86ed279e770b66b7d5e8446.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,30 руб."
+                },
+                {
+                    "name": "Aquael Светильник светодиодный Waterlight Quadro",
+                    "description": "Для использования в фонтанах, водоемах, бассейнах.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a96/hs3g1pn1q1g7vyx9162mow63idaufrq1/200_200_1/7fcb084bb1d51462c7d11e6a47ed3acd.png",
+                    "amount": "за 1 ед.",
+                    "cost": "353,40 руб."
+                },
+                {
+                    "name": "Aqualighter Светильник \"Nano\"",
+                    "description": "Светодиодный светильник для пресноводного аквариума до 25 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f51/cu4cby1j0tjst7fin2ofcnihfu0tysiy/200_200_1/f2dce25346579e975a0cb35001d331ec.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "97,70 руб."
+                },
+                {
+                    "name": "Eheim Набор адаптеров под держатели T5/T8",
+                    "description": "Адаптеры для светильников \"сlassic LED\".",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d2/48aagzqse2d3thhdeycnwujaisdugjro/200_200_1/1c363b225a06e6724b8ecf5fddec5016.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа УФ 2026CT \"Compact Daylight\" 2.0, 26 Вт",
+                    "description": "Лампа с 2% УФ-излучения в спектре.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a39/cc56nugh9lqmjq0dvhx3qwu98biv5qkm/200_200_1/ad519383ae35ce32dc0a676ffdc5f414.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "81,70 руб."
+                },
+                {
+                    "name": "Tetra Tetronic LED ProLine Arms 30 MK",
+                    "description": "Кронштейн для светильника",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ba8/xsjne085omfu6jj3av5c1qq5uvuw1ohj/200_200_1/ae5e50c068a57b0857966faa5eeac334.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "32,40 руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа инфракрасная 63060R \"ReptiInfrared\", 60 Вт",
+                    "description": "Содержат в спектре УФ-лучи А-типа.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/040/46rb7z2lra01fcczqukwfgqct8cuzbwq/200_200_1/7c74f27c3ad47dd8a3a1da44018a0f6e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "30,30 руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа УФ 2015CT \"Compact Daylight\" 2.0, 15 Вт",
+                    "description": "Лампа с 2% УФ-излучения в спектре.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f5/aj8s34f2idpf76pe67z4helztwhpjeks/200_200_1/e5a56b53650fc32f35dc1d2ae25e2952.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "71,70 руб."
+                },
+                {
+                    "name": "Eheim Mounting bracket Кронштейн для светильников",
+                    "description": "Высокий кронштейн для powerLED светильников.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f3f/5ezp3xspp2lovg2cx515ijm6jf40v2xc/200_200_1/abc26397a7f7f44a0f16a6fb102874d4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "55,10 руб."
+                },
+                {
+                    "name": "Eheim Adapter set для ламп Т5, Т8",
+                    "description": "Комплект насадок для патронов Т5 и Т8.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2de/h1r38mhp8bq6sq9z8aidh0ahmlln9agz/200_200_1/2f6abe37da605049b25cc97fb2a17212.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "50,10 руб."
+                },
+                {
+                    "name": "Eheim Набор Светильник Power LED daylight (20 W) + питание (20 W)",
+                    "description": "Размер светильника: 68-88 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c09/tiut197j262jpl320cme26bg6hickjr8/200_200_1/237e4c918efd4a070905a3b9cf6a8d19.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "760,00 руб."
+                },
+                {
+                    "name": "Aquael Осветительный модуль Aquael Lighting",
+                    "description": "Осветительный модуль для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/792/dxrqkgh4c9i0bbci6ciowf3pgwt1kg32/bd62d219a8f1782c1bafd8cb53efb85c.jpg",
+                    "amount": "Sunny 6W LED",
+                    "cost": "108,90  руб."
+                },
+                {
+                    "name": "Aquael Светильник светодиодный Leddy Tube D&N Marine",
+                    "description": "Светодиодное освещение с функцией день/ночь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/292/l3mrjl52eja8heq51np7xwstwtadq0oe/200_200_1/1616585061_2021-03-24_14-24-21.jpg",
+                    "amount": "14 W",
+                    "cost": "228,10  руб."
+                },
+                {
+                    "name": "Exo Terra Cветильник Led Day & Night",
+                    "description": "Светодиодный светильник  для террариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/433/v83ayvv8kfxcsagz8nurcd9eddfwslc3/200_200_1/500f6e72797bf779227d8aa7cb852559.jpg",
+                    "amount": "15x16.5x7 см",
+                    "cost": "183,30  руб.Под заказ"
+                },
+                {
+                    "name": "Exo Terra Лампа дневного света Day light basking spot NANO",
+                    "description": "Дневной источник тепла для небольших террариумов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ad8/n2nfnkir1ac82liagyqpncc0rrqznj6i/200_200_1/c7e1dd6713bff44894cd54aa98f3e599.jpg",
+                    "amount": "25W",
+                    "cost": "21,50  руб."
+                },
+                {
+                    "name": "Exo Terra Лампа для баскинга Intense basking spot",
+                    "description": "Точечная лампа для солнечных ванн",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/be7/mos207hye89abd14c0b3xng1u5l1p0se/200_200_1/b2148ccb14ddc520671803aa536cf344.jpg",
+                    "amount": "50W",
+                    "cost": "21,50  руб."
+                },
+                {
+                    "name": "Exo Terra Лампа для болотных и водяных черепах Swamp Basking Spot",
+                    "description": "Лампа для обогрева с защитой от брызг и тумана",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b9/d9jqwfq8t18yb8go6t7p30e0xqjhoicv/200_200_1/318ca5c7e14be4c4123e78e941d36163.jpg",
+                    "amount": "75W",
+                    "cost": "79,80  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа УФ UVB 2.0",
+                    "description": "Источник ультрафиолетовых лучей типа А и В.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fab/z6wa0scd1xprab0hfqjijbzdrsseve9k/200_200_1/86563c932c1a594d698358c3ec6b3d98.jpg",
+                    "amount": "13 Вт",
+                    "cost": "36,70  руб."
+                },
+                {
+                    "name": "Repti-Zoo Friendly Лампа УФ UVB 5.0",
+                    "description": "Источник ультрафиолетовых лучей типа А и В.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0f/ucy7anr7gyqka9ciftsg3prh702ovfpq/200_200_1/4976e677e94ef3676e3fcf987e674b4c.jpg",
+                    "amount": "13 Вт",
+                    "cost": "47,90  руб."
+                },
+                {
+                    "name": "Repti-Zoo Friendly Лампа УФ UVB 10.0",
+                    "description": "Источник ультрафиолетовых лучей типа А и В.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/95c/z3x1y62a1v11lbcqc7u9hqqu91e25r1h/200_200_1/f6d9266980f2780e8183b9f266afd6a1.jpg",
+                    "amount": "13 Вт",
+                    "cost": "52,40  руб."
+                },
+                {
+                    "name": "Laguna Светильник светодиодный",
+                    "description": "Для освещения пресноводных аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/201/rtgcjopm4sw5agbs65txbo4jj2xc35tg/200_200_1/103cbf9fcc5628e2a2bb4b2de1a102e8.jpg",
+                    "amount": "10 Вт",
+                    "cost": "136,50  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа УФ Т8 \"ReptiSol Desert\" 10.0",
+                    "description": "Лампа с 10% УФ-излучения в спектре.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b78/a62jo34nbpd6jqy8k0s7k49qxryjgh97/200_200_1/5306e4f759a50d0b1ce2a7537001e0d8.jpg",
+                    "amount": "10 Вт",
+                    "cost": "36,70  руб."
+                },
+                {
+                    "name": "Repti-Zoo Светильник на зажиме",
+                    "description": "Светильник с керамическим цоколем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/11e/nnh233sphjsogkqrwteidh59bb360kp2/200_200_1/ad832270a62e0dbe20cdbb4086161601.jpg",
+                    "amount": "150 Вт",
+                    "cost": "63,60  руб."
+                },
+                {
+                    "name": "Repti-Zoo Светильник на зажиме с защитной сеткой",
+                    "description": "Светильник с керамическим цоколем.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/393/b0e33kjie0vsx2gxa1amgbfnqhca980l/200_200_1/215905744539d9c4db0b44879e7f9208.jpg",
+                    "amount": "150 Вт",
+                    "cost": "67,00  руб."
+                },
+                {
+                    "name": "Ferplast Светильник для аквариума Led Bar, 6300 Лм",
+                    "description": "Светодиодная лампа для аквариумов с пресной водой.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a32/dcys3pqjb0o57pzi0lnmfvcdk02w8chb/200_200_1/3e890f9aae8423a88cafdf4936bd8c3a.jpg",
+                    "amount": "47 см",
+                    "cost": "77,70  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа точечного нагрева \"Friendly\"",
+                    "description": "Для обогрева холоднокровных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e45/majb3ew0z48hlnqnzae962vnel38qon6/200_200_1/39354dc58d162231b1c1a9c9d702d8b6.jpg",
+                    "amount": "40 Вт",
+                    "cost": "9,90  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа дневная неодимовая \"Friendly\"",
+                    "description": "Для обогрева холоднокровных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/95c/nbc0cl483mc1g5o3507xv3vkxclti9v6/200_200_1/f8f312cff0b6d91ffbf4e87f10b2a7e1.jpg",
+                    "amount": "75 Вт",
+                    "cost": "15,10  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа инфракрасная \"Friendly\"",
+                    "description": "Для обогрева холоднокровных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/89d/o8jlxk2p833pl43nqdr3t3zu9udokdz8/200_200_1/d007695abc36ab2101b3f7d065963248.jpg",
+                    "amount": "50 Вт",
+                    "cost": "15,20  руб."
+                },
+                {
+                    "name": "Aquael Светильник светодиодный LT \"Retrofit\" Sunny",
+                    "description": "Универсальные модули освещения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e09/arzwxubrocj0rt2nm5jmqtapvv2hk8ev/200_200_1/32510928acd03e4b9fd8bf2b88244c2d.jpg",
+                    "amount": "10 W",
+                    "cost": "167,90  руб."
+                },
+                {
+                    "name": "Eheim Набор светильников Power LED daylight (34 W) + actinic blue (34 W)",
+                    "description": "Размер светильников: 109 - 129 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d6d/6lp6jua24gd28a589fa4g982mla5pmk6/200_200_1/9edc80ec93201d10f010c78985d4ee87.jpg",
+                    "amount": "34 Вт",
+                    "cost": "1150,00  руб."
+                },
+                {
+                    "name": "Eheim Набор светильников Power LED daylight (30 W) + actinic blue (30 W)",
+                    "description": "Размер светильников: 98 - 118 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9af/myyfjy28zn6yrsi90cu2nn0jwne4384s/200_200_1/5dfef2bdeb5da0e9079d885f39cc0e12.jpg",
+                    "amount": "30 Вт",
+                    "cost": "943,50  руб."
+                },
+                {
+                    "name": "Eheim Набор светильников Power LED daylight (30 W) + plants (30 W)",
+                    "description": "Размер светильников: 98 - 118 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2ca/xhni5b53e4ewnu424vj2fncocqwuhsnr/200_200_1/c54d58c778ea82a5e0088cd12961976c.jpg",
+                    "amount": "30 Вт",
+                    "cost": "1070,00  руб."
+                },
+                {
+                    "name": "Eheim Набор светильников Power LED daylight (24 W) + actinic blue (24 W)",
+                    "description": "Размер светильников: 78 - 98 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e4d/vpgvv5r830m0wasnk5lkihptcf52mr30/200_200_1/170420f072cc57da0d9092bddc3ba907.jpg",
+                    "amount": "24 Вт",
+                    "cost": "832,50  руб."
+                },
+                {
+                    "name": "Eheim Набор светильников Power LED daylight (24 W) + hibrid (24 W)",
+                    "description": "Комплект светильников для аквариума",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f35/mrxcwnbreowlumflerlqmeub4pqiqiit/200_200_1/73b2801c1a7aaeca266de9f3ff22918c.jpg",
+                    "amount": "78-98 см",
+                    "cost": "965,00  руб."
+                },
+                {
+                    "name": "Hagen Спектральная флуоресцентная лампа \"Sun-Glo\"",
+                    "description": "Средне-яркая спектральная флуоресцентная лампа.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/45d/j9ffa7ajchm4wvw8byfxdx414jmuqalx/200_200_1/003d281912adfc7219709e26875a839b.jpg",
+                    "amount": "14 Вт",
+                    "cost": "17,80  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа УФ 5010LL T8 \"ReptiSol Tropical\" 5.0, 10 Вт",
+                    "description": "Лампы с 5% УФ-излучения в спектре.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b80/qog4023gcn4shohkpkz6y8dfsjprzoye/200_200_1/24b6625d8ffa27c101e0553b20ac854d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "34,80 руб."
+                },
+                {
+                    "name": "Haqos Solaris 504 Светодиодный светильник, черный",
+                    "description": "Светильник для аквариума, 215 х 83 мм.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/103/yeuxmpmfnr3g80tluo1pzc6uuzad1p3a/200_200_1/b8a124f2a511dd0d8e4cfa0c82fcecb8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "44,50 руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа УФ 5026CT \"Compact Tropical\" 5.0, 26 Вт",
+                    "description": "Лампы с 5% УФ-излучения в спектре",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fa3/kk2rz918n5r9mdbyujkkm5b3e1l9942z/200_200_1/a06931a097f23a2bbd3d29f539b3668e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "105,50 руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа ночная неодимовая Friendly, 100 Вт",
+                    "description": "Для обогрева холоднокровных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c7f/wrwtazv2rormg6epy4n9by0yzjgngn1n/200_200_1/5aa271a89b54721a96d3691c89e0ab71.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "22,10 руб."
+                },
+                {
+                    "name": "Aquael Светильник Lighting Moonlight LED",
+                    "description": "Светодиодный ночной светильник для морских и пресноводных аквариумов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e7a/ndvhifwkdgp6qmktskq1shbd4ml77qti/200_200_1/418a06f8290ed278c25c48a3a8a6ce5a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "100,90 руб."
+                },
+                {
+                    "name": "Aquael Крепление для ламп Glossy/Aludekor/Aspect 2 pcs",
+                    "description": "Держатель для светодиодных ламп.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/23c/i5qi8vsmvwske2abxpval61jesuxpaxy/200_200_1/0ed594e1ce28ac4b477ecbc486dfc136.png",
+                    "amount": "за 1 ед.",
+                    "cost": "10,80 руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа ночная Friendly, 50 Вт",
+                    "description": "Для обогрева холоднокровных животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a2f/y5mw3r2yfnkmu0xsexdu2n8nccnbs070/200_200_1/91f8f0b57146091eb1bd11ecbcf3ddad.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,60 руб."
+                },
+                {
+                    "name": "Aqualighter Светильник \"Pico\" white",
+                    "description": "Светодиодный светильник для пресноводного аквариума до 10 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5b1/csr9c12nr19bkcb3srodabwlomk53jfj/200_200_1/4dcb9bfa48d8407f3e9b86aade209e54.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "60,80 руб."
+                },
+                {
+                    "name": "Aqualighter Светильник \"Pico\" black",
+                    "description": "Светодиодный светильник для пресноводного аквариума до 10 л.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dd7/groib20h600g8xchx90g5erbk8afgiw8/200_200_1/ca6d68ead8882e7415f8028883adeaef.JPG",
+                    "amount": "за 1 ед.",
+                    "cost": "60,80 руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа ночная 63050D \"ReptiNightglow\", 50 Вт",
+                    "description": "Cлужат для обогрева террариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9bf/pyajq3zsjghrgbumaiaq2rfjki8w7m1q/200_200_1/e35148e25593fe04446c705f6b048311.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа ночная 80100D \"ReptiNightglow\", 100 Вт",
+                    "description": "Cлужат для обогрева террариума.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b6a/t0uz22npw1aijvsm35r426pd2bxqqm4n/200_200_1/d38dcdf893ad208995b7141eb7e7ccbb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,70 руб."
+                },
+                {
+                    "name": "Tetra LightWave Splitter",
+                    "description": "Сплиттер для подключения сразу двух светодиодных светильников LightWave",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cb3/joaz54sgdxtmjkwav2542hxhplg943y3/200_200_1/bd44b2d93c2eebd6176494932c5e5db1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,20 руб."
+                },
+                {
+                    "name": "Eheim Диммер \"День&Ночь\" 12 V",
+                    "description": "Диммер для powerLED светильников.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f0d/rpslb7jt5l3qcqkw8noga1mt36f52kah/200_200_1/4f776bfcd7dc0c0a84540b7573e6d7e9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "155,00 руб."
+                },
+                {
+                    "name": "Eheim Набор Светильник Power LED plants (11 W) + питание (20 W)",
+                    "description": "Размер светильника: 37 - 57 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6a9/kedi2ht4lvdutu6zn6kmg6zi9ia4k8nx/200_200_1/10dde50eca78a8c518fc3b6705b89347.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "415,00 руб."
+                },
+                {
+                    "name": "Eheim Набор Светильник Power LED plants (16 W) + питание (20 W)",
+                    "description": "Размер светильника:53 - 73 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bd9/7igf5nev3f6s4i9h7coza1mc209lg36z/200_200_1/a01b997bfc037b3e9959b57f746bcb34.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "420,00 руб."
+                },
+                {
+                    "name": "Eheim Набор Светильник Power LED hibrid (24 W) + питание (100 W)",
+                    "description": "Размер светильника: 78 - 98 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c67/8hfrdakuztoktpd2b8jifdkoj83nueh0/200_200_1/bb357e4fd5c3a6ac760dc3c0723343f9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "550,00 руб."
+                },
+                {
+                    "name": "Eheim Набор Светильник Power LED actinic blue (24 W) + питание (100 W)",
+                    "description": "Размер светильника: 78 - 98 см.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6e5/pb7wgj1vyddw2hvult7rzmmzsnliaqbi/200_200_1/ad1a05a7f7620c0b9d6836cb143b053e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,00 руб."
+                },
+                {
+                    "name": "Laguna Светильник HB",
+                    "description": "Светильник светодиодный навесной.",
+                    "image_url": "https://garfield.by/upload/iblock/6b7/pxrj3jeuwykprak6z98a7uvvtbsktdxp/93d8f00ab6b4255dce12774589625aeb.jpg",
+                    "amount": "4 Вт",
+                    "cost": "50,90  руб."
+                },
+                {
+                    "name": "Repti-Zoo Лампа УФ 5015CT \"Compact Tropical\" 5.0, 15 Вт",
+                    "description": "Лампы с 5% УФ-излучения в спектре.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/abe/2gof6yfwnhonw73awqktfwmfa0kddz20/200_200_1/1a77aec87cf95589b2d4b8000e6d542e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "94,70 руб."
+                },
+                {
+                    "name": "Aquael Светильник Lamp Leddy Smart",
+                    "description": "Светодиодный светильник для аквариума, 6W.",
+                    "image_url": "https://garfield.by/upload/iblock/362/xnum5k3vmb665qzucfzch2zdhb8e9edj/1b16934d1da9bf2c5603ce2411638060.jpg",
+                    "amount": "sunny белый",
+                    "cost": "98,70  руб."
+                },
+                {
+                    "name": "Aquael Светильник Lighting Beam",
+                    "description": "Светильник для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/ac6/2p2a74ccjg8hemv84bef7zd3eoh9ekrk/4cf3224cce34afb335eabc9f5b577bf7.jpg",
+                    "amount": "80 sunny",
+                    "cost": "160,50  руб."
+                },
+                {
+                    "name": "Aquael Светильник Lamp Decolight 6W sunny lt",
+                    "description": "Светодиодный аквариумный светильник.",
+                    "image_url": "https://garfield.by/upload/iblock/ead/q4l08poa48jww08g1uxgak5zo57mk9kb/cce52196097f945b17f55c675cdafeba.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "94,40 руб."
+                },
+                {
+                    "name": "Aquael Светильник Lamp Decolight 2х6W",
+                    "description": "Светильник для морских и пресноводных аквариумов.",
+                    "image_url": "https://garfield.by/upload/iblock/381/3awa7a0jk6e1efquovjevf8dicwunh8x/f4d14b86030f6221844e636eae2d8f71.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "193,40 руб."
+                },
+                {
+                    "name": "Aquael Светильник Aquael Leddy Tube Actinic",
+                    "description": "Светодиодный осветительный модуль.",
+                    "image_url": "https://garfield.by/upload/iblock/d9d/u7m73p9hw7vvh3byu2p53y38ah4xr097/0d46a5f5614357c5a59efac476e14b3a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "115,30 руб."
+                },
+                {
+                    "name": "Aquael Светильник Lighting Modul Leddy Tube Marine 6W LED",
+                    "description": "Сменный осветительный модуль.",
+                    "image_url": "https://garfield.by/upload/iblock/c3e/932qghcen1qb0smyiswkt9v3bongs9f1/3e134b14c84f2d68c9c041520dde8e9d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "138,60 руб."
+                },
+                {
+                    "name": "Aquael Светильник Airlights LED (N)",
+                    "description": "Аквариумная аэрационная насадка с подсветкой.",
+                    "image_url": "https://garfield.by/upload/iblock/427/5wsqe4fzxvvu4g7naynk43qh7484yi4i/ff87f7d39e3deb09e46abcbfa1840152.png",
+                    "amount": "за 1 ед.",
+                    "cost": "100,70 руб."
+                },
+                {
+                    "name": "Aquael Светильник Lighting Beam Glossy 100 Plant",
+                    "description": "Светильник для аквариума.",
+                    "image_url": "https://garfield.by/upload/iblock/d69/0aosti4qu9elkdxjt7rirxtezi8lzy54/96a650cc6a936853d69faef0e99de107.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "223,30 руб."
+                }
+            ]
+        }
+    }
+}

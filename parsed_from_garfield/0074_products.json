@@ -1,0 +1,37 @@
+{
+    "Грызуны": {
+        "Средства от блох и клещей": {
+            "url": "https://garfield.by/catalog/gryizunyi/sredstva-ot-blokh-i-kleshchey.html",
+            "products": [
+                {
+                    "name": "ЧИСТОТЕЛ Максимум Спрей для декоративных птиц и грызунов",
+                    "description": "Спрей от блох и клещей с маслом лаванды",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/16c/g5c24q7ihy021kze7rs127p7o6h2iaf3/200_200_1/a820cf760a52dd4163d5e25fb40c63ac.jpg",
+                    "amount": "100 мл",
+                    "cost": "17,10  руб."
+                },
+                {
+                    "name": "Pchelodar Спрей ЗооЗащита от комаров, мошек и клещей, 150 мл",
+                    "description": "Для защиты животных от клещей, комаров и мошек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/162/7iasasflapsgptsc5hdjrymj9lc0xqxg/200_200_1/076fceb8243a35133d8daec0dcec43e2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,40 руб."
+                },
+                {
+                    "name": "Ручка для удаления клещей \"TRIXIE\"",
+                    "description": "Со светодиодной подсветкой , 14 см;Цвет в ассортименте.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/daf/rxnk4wlytjata6qqqu30ol64x06oyqop/200_200_1/e63557aac20c245311c34bc4f6654727.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,90 руб."
+                },
+                {
+                    "name": "Спрей от паразитов Immo Shield, 250 мл",
+                    "description": "Спрей от паразитов и для обработки мест обитания животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/221/3f2mi9u25sh83vglkujw4e6npzqyoi0m/200_200_1/e0e5565705de79014b44dd58d4606c60.png",
+                    "amount": "за 1 ед.",
+                    "cost": "40,90 руб."
+                }
+            ]
+        }
+    }
+}

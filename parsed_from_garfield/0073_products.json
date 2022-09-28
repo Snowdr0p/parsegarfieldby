@@ -1,0 +1,254 @@
+{
+    "Грызуны": {
+        "Средства по уходу": {
+            "url": "https://garfield.by/catalog/gryizunyi/sredstva-po-ukhodu.html",
+            "products": [
+                {
+                    "name": "Le Artis Спрей для обработки мест содержания грызунов",
+                    "description": "Уничтожает все неприятные запахи",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b96/47j9e1izin81p3g26hppb1n93wk04r0z/200_200_1/467ab5c82ca31156aacd55078ac2bfdd.png",
+                    "amount": "200 мл",
+                    "cost": "11,80  руб."
+                },
+                {
+                    "name": "Шампунь \"Шустрик\" для чувствит. кожи, 100 мл",
+                    "description": "Зоошампунь для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/95f/s5yew0t01wt2g73qto810s1ht95cdbqb/200_200_1/48470dfd2ac8ae15591687f02683dbdd.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,50 руб."
+                },
+                {
+                    "name": "Apicenna Росинка Crystal Line лосьон для глаз, 30 мл",
+                    "description": "Гигиеническое средство для обработки глаз у животного",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b4/ms6yzti9ev6ifd0red9u59b4gt83jbx5/200_200_1/4763c36269d1847ca9e76ffbfd9eafad.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,20 руб."
+                },
+                {
+                    "name": "Pchelodar Спрей для нейтрализации запахов, 500 мл",
+                    "description": "Спрей для удаления запахов и пятен",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d5c/sci4debon3szmpln61t6yg1sntqvlttk/200_200_1/a3f05c323e69aaac0948b8cbd2322ebe.png",
+                    "amount": "за 1 ед.",
+                    "cost": "28,50 руб."
+                },
+                {
+                    "name": "Шампунь \"Шустрик\" дезодорирующий, 100 мл",
+                    "description": "Зоошапмунь для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/740/nufkt1fn68sjse4c84whfd2bvm6tb25f/200_200_1/32fe269dc8e84774a05e1dc8eb80e5a3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,50 руб."
+                },
+                {
+                    "name": "Trixie Салфетки для ухода за глазами, 30 шт.",
+                    "description": "Салфетки для кошек, собак и мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/885/rgcgrft1xnagy1846ig822q0x09p0ur9/200_200_1/56af60b78583f8e9b418eafa1163e7df.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,60 руб."
+                },
+                {
+                    "name": "Trixie Салфетки для ухода за ушами, 30 шт",
+                    "description": "Салфетки для кошек, собак и мелких животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ca2/1cu0y7gxrqzz2uw88mgzpnkal9b1t3q1/200_200_1/546f562c44ede5e7077f55a488f9833b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "19,60 руб."
+                },
+                {
+                    "name": "Mr. Fresh Expert Ликвидатор пятен и запаха грызунов и птиц",
+                    "description": "Зоогигиеническое средство против пятен и запахов, 200 мл.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fee/0nrlb60gpp2kht5xvawgu5u1dbshou1a/200_200_1/9d3560bdf4c49ab2f7a2c0b124c148b9.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,10 руб."
+                },
+                {
+                    "name": "Natural-Vit Сухой шампунь для грызунов, 250 мл",
+                    "description": "Ухаживающий шампунь для всех грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/69c/m3loegmuc5op6nxhzziasfywkzhyc8x7/200_200_1/002eb9582f25bf6aa00d03717d6a72b7.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,40 руб."
+                },
+                {
+                    "name": "Beaphar Дезодорант Odour Eliminator от запахов, 500 мл",
+                    "description": "От запахов испражнений, шерсти и др.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b29/qud7ag9hc4g420c914zgc6ip76wm4nvs/200_200_1/a95768ec7e18e899f4f1df8711c14a6b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "33,90 руб."
+                },
+                {
+                    "name": "Beaphar Набор для вскармливания Bea Nursing Set",
+                    "description": "Набор для вскармливания мелких дом. животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/653/hg7wckex70dngiio8bfqu57lz6vh8t0g/200_200_1/8eb12bede1fdf92abc604240525c6e3b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,40 руб."
+                },
+                {
+                    "name": "Чистотел Шампунь Мягкий для кроликов и грызунов",
+                    "description": "Бережно очищает, смягчает и успокаивает",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/29d/yry7qesh2vd2ycztwpujkfx1put455jw/200_200_1/c701-3.jpg",
+                    "amount": "220 мл",
+                    "cost": "8,50  руб."
+                },
+                {
+                    "name": "Cliny Магия белого шампунь-кондиционер",
+                    "description": "Восстанавливает белый цвет шерсти",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/51b/i6inmpbvoegdeixxwwikwhkem18lpx9e/200_200_1/1d2a053ff176ba1a0ba277c127a6f0a4.jpg",
+                    "amount": "300 мл",
+                    "cost": "16,90  руб."
+                },
+                {
+                    "name": "Dr. Seidel Шампунь для хорьков",
+                    "description": "Концентрированный протеиновый шампунь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2e4/eh1iro940xogprk4ab96ushvb3h2h4zz/200_200_1/48c9044fdaea7810f3e56083aac4880a.PNG",
+                    "amount": "220 мл",
+                    "cost": "14,40  руб."
+                },
+                {
+                    "name": "Le Artis Шампунь для грызунов",
+                    "description": "Шампунь для ухода за шерстью хомяков, кроликов, крыс, морских свинок",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c4/xuighxxbcsjp1xx1r91s2ypto7jdukog/200_200_1/b1fc86e5887bcc65dedd4140a6ed105f.png",
+                    "amount": "150 мл",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Le Artis Спрей для обработки мест содержания хорьков",
+                    "description": "Спрей на основе биологически активных веществ",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/392/4bymekgcbv1mkogdcbthq4gvqn96ec8b/200_200_1/27c524938ada6940da41d143a84a837d.jpg",
+                    "amount": "200 мл",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "Le Artis Спрей-кондиционер для хорьков",
+                    "description": "Спрей для ухода за шерстью хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/de7/9nkjxb4huuth2c539unh3rq75j7bqg7i/200_200_1/4095bdfd2e9047a68e72debfc5cb9423.jpg",
+                    "amount": "200 мл",
+                    "cost": "8,80  руб."
+                },
+                {
+                    "name": "Le Artis Масло для когтей и подушечек лап",
+                    "description": "Средство для собак, кошек, хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e1d/3s1omrwnro31pz5puv3xkm9o6rnv3nxz/200_200_1/8050d0c7a4d1ebdae458e6b6396b8ac7.jpg",
+                    "amount": "15 мл",
+                    "cost": "5,50  руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Кондиционер с маслом норки, 150 мл",
+                    "description": "Увлажняющий спрей-кондиционер для хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/63b/xyd9u4x7n93vrtsgojmwgqsttg75dela/200_200_1/8d4e1c28d48516b7be839459c6f32e6b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,60 руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь с маточным молочком и Алоэ Вера, 150 мл",
+                    "description": "Мягкий шампунь для щенков хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a5/sfba5gmmhf0na96tvdjkihyv8nmgcup3/200_200_1/f86de74b0cd1047f52a4071c33f87abc.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "Pchelodar Energy of Nature Шампунь для хорьков с протеинами шелка, 150 мл",
+                    "description": "Шампунь для нормошерстных хорьков",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/41b/5k0t6pp2z0qe9uupw0044aj37nlh08qn/200_200_1/10e205f21ac0e4fb71b197062ed20f96.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,10 руб."
+                },
+                {
+                    "name": "OROPHARMA Лосьон Furry Foam, 150 мл",
+                    "description": "Лосьон для чистки шерсти грызунов и кроликов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9e1/ub5hypmnxkyfuhv28vr7ew7c5uxoeejz/200_200_1/6b1a41003c5e8fb704101eabb5d81fae.png",
+                    "amount": "за 1 ед.",
+                    "cost": "17,30 руб."
+                },
+                {
+                    "name": "Beaphar Eye Gel, 5 мл",
+                    "description": "Гель для ухода за глазами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/559/zz3lwrqdywyzqcrhvqg8oaoehdfvn369/200_200_1/afaeeefa05cbbacf8fdf6b0fd2462c47.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,20 руб."
+                },
+                {
+                    "name": "Trixie Салфетки-напальчники для ушей, 50 шт.",
+                    "description": "Одноразовые напальчники для ухода за животными.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1fd/wbh5h0sax5rspnw9mwosklqr4frxkafx/200_200_1/653c1dd2699234fdb699b83a13e9d588.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,60 руб."
+                },
+                {
+                    "name": "Beaphar Odour killer против запахов для грызунов, 600 г",
+                    "description": "Дезодорант для уничтожения неприятных запахов для грызунов.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1db/m4nrialid9u6qascrqnupqfdfdfz1d0g/200_200_1/3f1d467306d40c37793bcb61fac9122a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "33,10 руб."
+                },
+                {
+                    "name": "Trixie Салфетки-напальчники для зубов, 50 шт.",
+                    "description": "Одноразовые напальчники для ухода за животными.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/78a/ci8hnmi21ho74esz43wqx5q76a9tvtnb/200_200_1/a6f8be58a5641858eccc76d487a93ea6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "27,60 руб."
+                },
+                {
+                    "name": "Trixie Шампунь сухой",
+                    "description": "Сухой шампунь для собак, кошек и других мелких животных",
+                    "image_url": "https://garfield.by/upload/iblock/f78/bqzwh8q8vqll1dak8izqz7cudhco76jk/c8e434ed79a0a89462e40d0713aa131e.jpg",
+                    "amount": "200 г",
+                    "cost": "12,80  руб."
+                },
+                {
+                    "name": "Tropiclean Stay Away Антигрызин, 236 мл",
+                    "description": "Спрей отучает питомца грызть предметы домашнего обихода.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/649/4yzzuk1iq0xtt7kblyiknrmf495z1me3/200_200_1/5a317bc24050274b26d0fc7c3796739a.png",
+                    "amount": "за 1 ед.",
+                    "cost": "24,20 руб."
+                },
+                {
+                    "name": "Urine OFF Multi Pet, 118 мл",
+                    "description": "Для уничтожения пятен и запахов мочи домашних животных.",
+                    "image_url": "https://garfield.by/upload/iblock/a1a/4dmx3sb1fymbxhfs30rpjedhiezi50qf/40ceb50d09e6bcb74415b407e69eb46e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Trixie Лосьон для глаз кошек и собак, 50 мл",
+                    "description": "Поможет содержать чистой кожу вокруг глаз животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a3/s4se150uhse6cebwu3bone3ac00qh5sa/200_200_1/af88e3d0d4899db2b81f44f496659aca.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,90 руб."
+                },
+                {
+                    "name": "Trixie Средство для ухода за глазами, 50 мл",
+                    "description": "Средство для мягкого ухода за глазами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/94c/i2f9hv6hrg006hngdl0rhv7cexyvjc6c/200_200_1/6e31f454f26d0263f1269d40c4247cb0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,70 руб."
+                },
+                {
+                    "name": "Bio-Groom пудра для ушей собак и кошек, 24 г",
+                    "description": "Средство для ухода за ушами.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b26/z5982e7quszj76du6cootecas06iq0ai/200_200_1/32d20d6d319b75a06753e00ab2d2bcb0.png",
+                    "amount": "за 1 ед.",
+                    "cost": "40,40 руб."
+                },
+                {
+                    "name": "Trixie Средство для ухода за ушами, 50 мл",
+                    "description": "Средство для ухода за ушами котов, собак и др. животных.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/55c/35qtbwg8p0i1xqk2hp4psf8qv6caf7fw/200_200_1/38b43d35a84183c83eac77c84477c78b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "16,30 руб."
+                },
+                {
+                    "name": "Trixie Universal Cosmetic Wipes",
+                    "description": "Гигиенические салфетки для собак, кошек и грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/b3e/uu0miof1v5mogm1xvykhk3kcpex0aaj9/80ee4c4ed2660be136c5accb91ac200c.jpg",
+                    "amount": "30 шт",
+                    "cost": "11,00  руб."
+                },
+                {
+                    "name": "Trixie Universal Cosmetic Wipes Mini",
+                    "description": "Гигиенические салфетки для собак, кошек и грызунов.",
+                    "image_url": "https://garfield.by/upload/iblock/038/im3n9ujr5vioj0w275ykx4j1f5lz5sb0/20fb40a645983a1f270f3c7ad9e51319.jpg",
+                    "amount": "10 шт",
+                    "cost": "4,50  руб."
+                }
+            ]
+        }
+    }
+}

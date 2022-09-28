@@ -1,0 +1,120 @@
+{
+    "Кошки": {
+        "url": "https://garfield.by/catalog/cats.html",
+        "categories": {
+            "Дезинфекторы, маски": "https://garfield.by/catalog/cats/dezinfektory.html",
+            "Сухие корма": "https://garfield.by/catalog/cats/suhie-korma-dlya-koshek.html",
+            "Консервы": "https://garfield.by/catalog/cats/konservyi-dlya-koshek.html",
+            "Лакомства": "https://garfield.by/catalog/cats/lakomstva.html",
+            "Витамины и добавки": "https://garfield.by/catalog/cats/vitaminy-i-dobavki.html",
+            "Миски, контейнеры, кормушки": "https://garfield.by/catalog/cats/miski-konteynery-kormushki.html",
+            "Наполнители": "https://garfield.by/catalog/cats/napolniteli.html",
+            "Лотки, совки": "https://garfield.by/catalog/cats/lotki-sovki.html",
+            "Игрушки": "https://garfield.by/catalog/cats/igrushki.html",
+            "Когтеточки": "https://garfield.by/catalog/cats/kogtetochki.html",
+            "Переноски": "https://garfield.by/catalog/cats/perenoski.html",
+            "Домики и лежаки": "https://garfield.by/catalog/cats/lezhaki-i-domiki-dlya-koshek.html",
+            "Поводки и ошейники": "https://garfield.by/catalog/cats/povodki-i-osheyniki.html",
+            "Домашний груминг": "https://garfield.by/catalog/cats/gruming.html",
+            "Косметика и средства по уходу": "https://garfield.by/catalog/cats/kosmetika-i-sredstva-po-ukhodu.html",
+            "Профессиональный груминг": "https://garfield.by/catalog/cats/professionalnyy-gruming.html",
+            "Мягкие коготки": "https://garfield.by/catalog/cats/myagkie-kogotki.html",
+            "Для дома": "https://garfield.by/catalog/cats/dlya-doma.html",
+            "Средства от блох и клещей": "https://garfield.by/catalog/cats/sredstva-ot-blokh-i-kleshchey.html",
+            "Коррекция поведения": "https://garfield.by/catalog/cats/korrektsiya-povedeniya.html",
+            "Подарочные сертификаты": "https://garfield.by/catalog/cats/gifts-cats.html"
+        }
+    },
+    "Собаки": {
+        "url": "https://garfield.by/catalog/dogs.html",
+        "categories": {
+            "Дезинфекторы, маски": "https://garfield.by/catalog/dogs/dezinfektory.html",
+            "Сухой корм": "https://garfield.by/catalog/dogs/suhie-korma-dlya-sobak.html",
+            "Консервы": "https://garfield.by/catalog/dogs/konservyi-dlya-sobak.html",
+            "Лакомства": "https://garfield.by/catalog/dogs/lakomstva.html",
+            "Витамины и добавки": "https://garfield.by/catalog/dogs/vitaminy-i-dobavki.html",
+            "Ошейники, шлейки, намордники": "https://garfield.by/catalog/dogs/razdel.html",
+            "Игрушки": "https://garfield.by/catalog/dogs/igrushki.html",
+            "Миски, коврики, контейнеры": "https://garfield.by/catalog/dogs/miski-dlya-sobak.html",
+            "Поводки, рулетки, перестёжки": "https://garfield.by/catalog/dogs/osheyniki-povodki-namordniki.html",
+            "Туалеты, пеленки": "https://garfield.by/catalog/dogs/tualetyi-i-pelenki.html",
+            "Переноски, клетки, будки": "https://garfield.by/catalog/dogs/perenoski-kletki-budki.html",
+            "Лежаки, домики": "https://garfield.by/catalog/dogs/lezhaki-domiki.html",
+            "Косметика и средства по уходу": "https://garfield.by/catalog/dogs/kosmetika-i-sredstva-po-ukhodu.html",
+            "Домашний груминг": "https://garfield.by/catalog/dogs/gruming.html",
+            "Профессиональный груминг": "https://garfield.by/catalog/dogs/professionalnyy-gruming.html",
+            "Одежда, украшения": "https://garfield.by/catalog/dogs/odezhda-dlya-sobak.html",
+            "Для дома": "https://garfield.by/catalog/dogs/dlya-doma.html",
+            "Средства от блох и клещей": "https://garfield.by/catalog/dogs/sredstva-ot-blokh-i-kleshchey.html",
+            "Дрессура, коррекция поведения": "https://garfield.by/catalog/dogs/dressura.html",
+            "Разное": "https://garfield.by/catalog/dogs/raznoe-dog.html",
+            "Подарочные сертификаты": "https://garfield.by/catalog/dogs/gifts-dogs.html"
+        }
+    },
+    "Птицы": {
+        "url": "https://garfield.by/catalog/birds.html",
+        "categories": {
+            "Дезинфекторы, маски": "https://garfield.by/catalog/birds/dezinfektory.html",
+            "Живые обитатели": "https://garfield.by/catalog/birds/zhivye-obitateli.html",
+            "Клетки, скворечники": "https://garfield.by/catalog/birds/kletki-dlya-ptits.html",
+            "Сухие корма": "https://garfield.by/catalog/birds/korma-dlya-ptits.html",
+            "Игрушки, аксессуары для клетки": "https://garfield.by/catalog/birds/igrushkii.html",
+            "Лакомства": "https://garfield.by/catalog/birds/lakomstva.html",
+            "Поилки, кормушки": "https://garfield.by/catalog/birds/poilki-kormushki.html",
+            "Витамины и добавки": "https://garfield.by/catalog/birds/vitaminy-i-dobavki.html",
+            "Средства от паразитов": "https://garfield.by/catalog/birds/sredstva-po-ukhodu.html",
+            "Переноски": "https://garfield.by/catalog/birds/perenoskii.html",
+            "Наполнители, подстилки": "https://garfield.by/catalog/birds/napolniteli.html",
+            "Купалки": "https://garfield.by/catalog/birds/kupalki.html",
+            "Средства для дома и клетки": "https://garfield.by/catalog/birds/udalenie-zapakhov.html",
+            "Груминг": "https://garfield.by/catalog/birds/gruming.html",
+            "Освещение": "https://garfield.by/catalog/birds/osveshchenie.html",
+            "Подарочные сертификаты": "https://garfield.by/catalog/birds/gifts-birds.html"
+        }
+    },
+    "Грызуны": {
+        "url": "https://garfield.by/catalog/gryizunyi.html",
+        "categories": {
+            "Дезинфекторы, маски": "https://garfield.by/catalog/gryizunyi/dizenfektory.html",
+            "Живые обитатели": "https://garfield.by/catalog/gryizunyi/zhivye-obitateli.html",
+            "Клетки": "https://garfield.by/catalog/gryizunyi/kletki-dlya-gryizunov.html",
+            "Сухой корм": "https://garfield.by/catalog/gryizunyi/korma-dlya-gryizunov.html",
+            "Домики, переноски": "https://garfield.by/catalog/gryizunyi/domikii.html",
+            "Лакомства": "https://garfield.by/catalog/gryizunyi/lakomstva.html",
+            "Миски, поилки": "https://garfield.by/catalog/gryizunyi/miski-poilki.html",
+            "Витамины и добавки": "https://garfield.by/catalog/gryizunyi/vitaminy-i-dobavki.html",
+            "Колеса, шары": "https://garfield.by/catalog/gryizunyi/kolesa-shary.html",
+            "Наполнители, сено": "https://garfield.by/catalog/gryizunyi/napolniteli.html",
+            "Игрушки": "https://garfield.by/catalog/gryizunyi/igrushki.html",
+            "Туалеты, купалки": "https://garfield.by/catalog/gryizunyi/tualety-rodent.html",
+            "Амуниция": "https://garfield.by/catalog/gryizunyi/amunitsiya.html",
+            "Груминг": "https://garfield.by/catalog/gryizunyi/gruming.html",
+            "Средства по уходу": "https://garfield.by/catalog/gryizunyi/sredstva-po-ukhodu.html",
+            "Средства от блох и клещей": "https://garfield.by/catalog/gryizunyi/sredstva-ot-blokh-i-kleshchey.html",
+            "Подарочные сертификаты": "https://garfield.by/catalog/gryizunyi/gifts-rodents.html"
+        }
+    },
+    "Рыбки": {
+        "url": "https://garfield.by/catalog/akvariumistika.html",
+        "categories": {
+            "Дезинфекторы, маски": "https://garfield.by/catalog/akvariumistika/dezinfektory.html",
+            "Живые обитатели": "https://garfield.by/catalog/akvariumistika/zhivye-obitateli-.html",
+            "Аквариумы и тумбы": "https://garfield.by/catalog/akvariumistika/akvariumyi.html",
+            "Живые растения": "https://garfield.by/catalog/akvariumistika/zhivye-rasteniya.html",
+            "Корма, кормушки": "https://garfield.by/catalog/akvariumistika/korma.html",
+            "Грунт, песок, гравий": "https://garfield.by/catalog/akvariumistika/grunt-pesok-graviy.html",
+            "Декорации для аквариума": "https://garfield.by/catalog/akvariumistika/dekoratsii.html",
+            "Витамины, лекарства и химия": "https://garfield.by/catalog/akvariumistika/lekarstvennyie-sredstva-177049.html",
+            "Фильтрация": "https://garfield.by/catalog/akvariumistika/filtratsiya.html",
+            "Аэрация": "https://garfield.by/catalog/akvariumistika/aeratsiya.html",
+            "Освещение": "https://garfield.by/catalog/akvariumistika/osveshchenie.html",
+            "Терморегуляция": "https://garfield.by/catalog/akvariumistika/termoregulyatsiya.html",
+            "Гигрометры, увлажнители воздуха": "https://garfield.by/catalog/akvariumistika/gigrometry.html",
+            "Инвентарь для ухода": "https://garfield.by/catalog/akvariumistika/komplektuyuschie-dlya-akvariuma.html",
+            "UV Стерилизаторы": "https://garfield.by/catalog/akvariumistika/uv-sterilizatoryi.html",
+            "Отсадники, переноски": "https://garfield.by/catalog/akvariumistika/inkubatory.html",
+            "Подарочные сертификаты": "https://garfield.by/catalog/akvariumistika/gifts-fisch.html",
+            "Всё для пруда": "https://garfield.by/catalog/akvariumistika/vsye-dlya-pruda.html"
+        }
+    }
+}

@@ -1,0 +1,1045 @@
+{
+    "Птицы": {
+        "Сухие корма": {
+            "url": "https://garfield.by/catalog/birds/korma-dlya-ptits.html",
+            "products": [
+                {
+                    "name": "Lolo Pets Полнорационный корм для розелл, 500 г",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/548/s49e6aycv5vmiprbo1vtnt5rkkpcexgc/200_200_1/ae6c0e7d5e19d4427e47a5e290c89f0b.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "RIO Стартовый набор владельца волнистого попугайчика",
+                    "description": "Удобный стартовый набор владельца волнистого попугайчика",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7b1/6tm9w7zaf7d2cswa81qugct0t1m4jugi/200_200_1/dskl1ogj3z3wckh8l59nw47tjhog4jjn.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,10 руб."
+                },
+                {
+                    "name": "Природа Премиум корм Коктейль Экзотик для экзотических птиц",
+                    "description": "Полноценный корм для экзотических птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/221/fjt47icn67i5lnhuu5m7js2epj0z9gic/200_200_1/korm-koktejl-ekzotik.jpg",
+                    "amount": "500 г",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Природа Премиум корм Коктейль Канарейка для канареек и декоративных птиц",
+                    "description": "Полноценный корм для канареек и декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8c5/equ4w2o1kcnod90bew69n2v4f0pu7qkg/200_200_1/korm-koktejl-kanarejka.jpg",
+                    "amount": "500 г",
+                    "cost": "4,80  руб."
+                },
+                {
+                    "name": "Triol Original Корм для волнистых попугаев с овощами",
+                    "description": "Полноценный рацион для волнистых попугаев с добавлением овощей",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/170/579stm1fc2f0kowpy2lrp60lb8w2j43v/200_200_1/f18e2cf1a8b50cddae86fde2c96377fb.jpg",
+                    "amount": "450 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "Triol Origina Корм для крупных попугаев",
+                    "description": "Полноценный рацион для крупных попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea6/jkfw4j71zok9cn8a0zomfp8b1427gl3b/200_200_1/520877f19fdef5b8c327cfa1ad570e15.jpg",
+                    "amount": "450 г",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "Triol Original Корм для средних попугаев",
+                    "description": "Полноценный рацион для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/96b/8e5i0ko31dpdyjhfz9lumaiuf8vaz12p/200_200_1/90821fa23be6fd35c76f09b1ef96536e.jpg",
+                    "amount": "450 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "Triol Original Корм для канареек",
+                    "description": "Полноценный рацион для канареек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8e9/pjfs28ravw0bbwgxnjsii3swmrf14c94/200_200_1/726728398a125b75eef68359f250f191.jpg",
+                    "amount": "450 г",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Просо красное для декоративных птиц и грызунов",
+                    "description": "Зерновой корм для птиц и грызунов",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e56/vribxvwzameex5ygegzs4ij3pyxqqu2k/200_200_1/b09626cf285202f97df7593d4fc9379a.jpg",
+                    "amount": "500 г",
+                    "cost": "1,70  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Просо витаминизированное с семенами льна",
+                    "description": "Полезное лакомство для птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f4e/58aitxxxzguujaehzkmc8aivxayowa4m/200_200_1/34ecb3d3880c56912bf6175e5c50e784.jpg",
+                    "amount": "500 г",
+                    "cost": "2,80  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Основной рацион для средних попугаев",
+                    "description": "Полнорационный корм для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/262/75rrnq4i4vgyf2lgmovfghh4wc4zxktx/200_200_1/228aa073dcdb88c702b55f644f998222.jpg",
+                    "amount": "500 г",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Dr. Hvostoff Основной рацион для волнистых попугаев",
+                    "description": "Полнорационный корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2c8/r7w67mk9hysbs4p086ncofaxfmxthnpu/200_200_1/dad3d61ac51d4c46d31396af50e5fc40.jpg",
+                    "amount": "500 г",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Природа Корм Рацион Мультивитамин + йод для волнистых попугаев",
+                    "description": "Полноценный корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6d1/eqczzzzmgsaec33ytc0dutupjdw015s1/200_200_1/0b8b8f9aa34c2140726229b53a17b977.jpg",
+                    "amount": "1,5 кг",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Природа Корм Папужка Йод + эхинацея для волнистых попугаев",
+                    "description": "Полноценный корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/283/0cmrue0y428d1orpshozn6y84109rnug/200_200_1/925a23562c08f0c018fae7a07622a42e.jpg",
+                    "amount": "500 г",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Корм Папужка Энергия для волнистых попугаев",
+                    "description": "Полноценный корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f87/2cxke8zuuvbn81dpq7awl453xpmppv95/200_200_1/35c5d4f11469daf85df81b61fa413b9a.jpg",
+                    "amount": "500 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Природа Корм Жако для больших попугаев",
+                    "description": "Полноценный корм для больших попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b06/4h1vbohr79pf1t7130y202zntwk6a230/200_200_1/2260e1a421d73d07dbb7788eaa837b68.jpg",
+                    "amount": "1 кг",
+                    "cost": "8,60  руб."
+                },
+                {
+                    "name": "Природа Колосок Луговые травы для декоративных птиц",
+                    "description": "Корм и лакомство для экзотических птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b9c/m4y6fu0b6k6rdnbhy0m7a167ky3fv3sf/200_200_1/df73f6ef105c5798f10f48cdbf701496.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "3,90  руб."
+                },
+                {
+                    "name": "Природа Колосок Мультифрукт для средних попугаев",
+                    "description": "Корм и лакомство для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/480/5dttw2t09jjrpeusrugky3p2sqfmc5ko/200_200_1/16e2d958a6ef1f7c79a91390b848addc.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Фруктовый для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c4c/lzfq8mkluvhytfez7xf71zgelgcjwyfa/200_200_1/8ec7519ffe068f381d3f2c5673b2fe3f.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Природа Колосок Ореховый для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8ec/7prxnnckcwgod56jhxjlz5xhdr339zqx/200_200_1/f20d5f0e4e6ec15e1b7d8df70aa63184.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,20  руб."
+                },
+                {
+                    "name": "Природа Колосок Овощной для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e06/zy4pjlj7wh8333xseny08917tf9h8joj/200_200_1/b41e09fc7137d243f9f4dad8817175f8.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Мультизлак для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/554/urdqy2i8zncl9let3zz96yflb0wqthqi/200_200_1/2c2e205cfffae115004927299d5b640e.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Мультивитамин для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c85/7dj719iyz570ce34y2uh01d0b4vvr1kg/200_200_1/143327c428bb31e39e5bda8d49d545fa.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Медовый для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a9f/gzgr33t6wukzszxlxg5o3sl0303kvn3u/200_200_1/f0de377dee13307e40abfa6c89e95df1.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Колосок Луговые травы для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/991/7e26nn6bn9wnb8ockq57l416yjqasf5c/200_200_1/01f4e33036ebb1ffbdb7acadb245e762.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,10  руб."
+                },
+                {
+                    "name": "Природа Колосок Бисквит для волнистых попугаев",
+                    "description": "Корм и лакомство для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f06/k6m5s0ufj0ykbaw3a091mwtndtrxjz1o/200_200_1/ef10edf68c41965dcefb585d40710f9a.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,50  руб."
+                },
+                {
+                    "name": "Природа Колосок Медовый для средних попугаев",
+                    "description": "Корм и лакомство для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1b6/uk3qrkalnevyze720n3ho5ubbjp71e1q/200_200_1/fb17b1e663cb6b83afe2dcb8d56d78e8.jpg",
+                    "amount": "70 г х 2 шт (упаковка)",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Ореховый для волнистых попугаев",
+                    "description": "Корм и лакомство для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e0c/1irh7nzpzxon8k64t5l2n3krp4fkgb26/200_200_1/d3c7123f4116ff0fe32663d53128581c.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Мультивитамин для волнистых попугаев",
+                    "description": "Корм и лакомство для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/046/v2p0yu0qrqfwnvzgxj6mx01q8jf01e2e/200_200_1/f87f455d23496f0ee71cde8c7fe44700.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "RIO Смесь для стимулирования пения",
+                    "description": "Лакомство для всех видов птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f7c/u1b5t2ioygz1xyob5ggp3a8hwdogbdwq/200_200_1/34ab7e7272c11ba8cc40c4bcb1506f93.jpg",
+                    "amount": "240 г",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "RIO Гурмэ корм для средних и крупных попугаев",
+                    "description": "Добавка к основному рациону.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77e/wxyf1e3a2lj2l16jfj17pugky6sa987w/200_200_1/fd3e4802372caa575867ae688b3a0217.png",
+                    "amount": "250 г",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "RIO Яичный корм для средних и крупных попугаев",
+                    "description": "Добавка к основному рациону.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f34/bu9c6wz8crp7v0220gs9cv10ty16yzxg/200_200_1/d0188e71293441444a5a8684ea80be97.png",
+                    "amount": "250 г",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "RIO Корм для лесных певчих птиц",
+                    "description": "Зерновая смесь для щеглов, чижей и других видов лесных птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/582/1t6hs3np130vil6xxx10153en6zv6e7o/200_200_1/ca6056b6c0ae8d87226572875d7dfb0e.jpg",
+                    "amount": "500 г",
+                    "cost": "7,80  руб."
+                },
+                {
+                    "name": "Vitapol Корм для амадин и экзотических птиц, 500 г",
+                    "description": "Полнорационный корм для экзотических птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/462/wso7fzkys4ge84o0ms8jsqgn03t1gc1p/200_200_1/3625f1e1815e4b324a74373366c2b15e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,60 руб."
+                },
+                {
+                    "name": "RIO Арахис в сетке 150 г",
+                    "description": "Арахис для подкармливания и привлечения птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/00b/fi3n174rtfmns6zyn5gkt99qbwc895o5/200_200_1/184cedd9ef5a72a2ebe18bfaeef16a25.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,80 руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Canaries Prestige",
+                    "description": "Корм для всех видов канареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b94/yqlbjcjc0e30xng2pp9o6mtulbzfjzrq/200_200_1/5410340210406pack.jpg",
+                    "amount": "1 кг",
+                    "cost": "17,80  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Tropical Finches Prestige",
+                    "description": "Корм для тропических птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/67e/it323jhj2mw6gk949belj5ptg01ffm0d/200_200_1/c16393e85b94dcb49742858b2749a5ea.jpg",
+                    "amount": "1 кг",
+                    "cost": "18,40  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Prestige Budgies",
+                    "description": "Корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b14/chrnpgcg0ythrlxp4dvorcbltcp337zw/200_200_1/5410340216200pack.jpg",
+                    "amount": "1 кг",
+                    "cost": "14,10  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Parrots Prestige",
+                    "description": "Корм для крупных попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/616/xoprv5pwf3w0dpefhwutycl2vgnk2uat/200_200_1/5410340217955pack.jpg",
+                    "amount": "1 кг",
+                    "cost": "22,40  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Prestige Big Parakeets",
+                    "description": "Корм для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c43/7yierapu3trg1l35tu0d4i4nzc517gmc/200_200_1/5410340218532pack.jpg",
+                    "amount": "1 кг",
+                    "cost": "16,30  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Classic Budgie",
+                    "description": "Корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f38/74z134pq7jff8e165ghzgllunhfqwx72/200_200_1/5410340211533pack.jpg",
+                    "amount": "500 г",
+                    "cost": "6,10  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Classic Parakeet, 500 г",
+                    "description": "Корм для средних попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/18d/uhq5nq1qh69xobsk70gcybi6bxh01ztm/200_200_1/4ab783cd8351225aabfd4325f3291dcb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,30 руб."
+                },
+                {
+                    "name": "RIO Корм для экзотических птиц",
+                    "description": "Зерновая смесь для амадин, астрильдов и других.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/527/26uphaln4pq74ueiap8hj8b8e4jhr9z5/200_200_1/dd1ca53d77e48f9122935d0786038a1e.jpg",
+                    "amount": "500 г",
+                    "cost": "8,20  руб."
+                },
+                {
+                    "name": "RIO Корм для канареек",
+                    "description": "Основной рацион - сбалансированная зерновая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cce/novlkp48nlwui9v44gh0h3330m8b8pzl/200_200_1/29f5a8c62e6edad4c1c33ef9ca993f12.jpg",
+                    "amount": "500 г",
+                    "cost": "6,80  руб."
+                },
+                {
+                    "name": "RIO Корм для канареек (линька)",
+                    "description": "Рацион в период линьки – зерновая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3c/9lnxvgwxl9hrm4m22769szhjz8qvwz17/200_200_1/c5afb887352b11f25217fc7304cee531.jpg",
+                    "amount": "500 г",
+                    "cost": "7,40  руб."
+                },
+                {
+                    "name": "RIO Корм для волнистых попугаев",
+                    "description": "Основной рацион - сбалансированная зерновая смесь",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b80/myiu258xiv1esbzj37uxoxwsqbdcr0ic/200_200_1/a7cbe30f24738f1afa790c45a8910a01.jpg",
+                    "amount": "500 г",
+                    "cost": "5,20  руб."
+                },
+                {
+                    "name": "RIO Корм для волнистых попугаев (линька)",
+                    "description": "Рацион в период линьки – зерновая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/961/a3v9a2oeixjfaqteb4a7ql894gme15gt/200_200_1/baf20e8ab5af5a13cf0ac3d624c8d54b.jpg",
+                    "amount": "500 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "RIO Корм для средних попугаев",
+                    "description": "Основной рацион – сбалансированная зерновая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f3d/wrthmr3swf6xb7a5hm3orhfimidhgp0y/200_200_1/15bc21ecaa38dce74f7d626812f4566c.jpg",
+                    "amount": "500 г",
+                    "cost": "5,90  руб."
+                },
+                {
+                    "name": "RIO Корм для средних попугаев (линька)",
+                    "description": "Рацион в период линьки – зерновая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/dee/ydd5g7dudbtapw1hsucwnw1ed0ru4tqk/200_200_1/7bba72633c8904d0b05b689acd6dc26b.jpg",
+                    "amount": "500 г",
+                    "cost": "6,50  руб."
+                },
+                {
+                    "name": "RIO Корм для крупных попугаев",
+                    "description": "Основной рацион – сбалансированная зерновая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0b2/dzz1zhqnu5swc8u059dejb5sil5vom2t/200_200_1/4fe75d417d42c88439622acfd60806b8.jpg",
+                    "amount": "500 г",
+                    "cost": "8,40  руб."
+                },
+                {
+                    "name": "Vitapol Корм для канареек 500 г",
+                    "description": "Полнорационный корм для канареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e93/acxyogyvhxqq14h8z5fuobkoua7yazs9/200_200_1/0a0df1c0d5c8d263d65a3dd43572a32d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Корм для нимф 500 гр",
+                    "description": "Полнорационный корм для нимф",
+                    "image_url": "https://garfield.by/upload/iblock/d20/nu00orpk8bsjs3xp1ni8i7db6ipznt39/4b4b51f28659bbd45d8156510e9f7402.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,50 руб."
+                },
+                {
+                    "name": "Lolo Pets Lololine Уголь для птиц, 10 г",
+                    "description": "Дополнительная кормовая смесь для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/adc/t2lz9uy053d21oighd0imn4xejimhm8b/200_200_1/32f6a78978751fcf41bff403d83e0ee8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,70 руб."
+                },
+                {
+                    "name": "Lolo Pets Lololine \"Чик-чирик\", 20 г",
+                    "description": "Дополнительная кормовая смесь для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b9/lajc7ti8qci1nx736gri4fjx0dim9ndo/200_200_1/6bf1aa096b92ba17e712f5984c71fa06.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,00 руб."
+                },
+                {
+                    "name": "Lolo Pets Lololine \"Густые перья\"",
+                    "description": "Дополнительная кормовая смесь для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/2d9/e63bw3sblzdrgheinw1zu13e8evb4ef7/200_200_1/48a77e5911482f90fe38a6e8d9e353fe.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,00 руб."
+                },
+                {
+                    "name": "Barrom Гаммарус",
+                    "description": "100% натуральный гаммарус",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/64a/i4ss9cxjpcb0k4z54iplhq204kog3wnr/200_200_1/8ace27d3e37cf81d64485b5e676126ee.jpg",
+                    "amount": "100 мл",
+                    "cost": "3,50  руб."
+                },
+                {
+                    "name": "Triol Original Корм для волнистых попугаев",
+                    "description": "Полноценный рацион для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/51c/c90e1m2tyadx99r1czfw9soet8ywegkn/200_200_1/42d40fc244778f622dc9f0f2ec396c53.jpg",
+                    "amount": "450 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Природа Корм Рацион для средних попугаев",
+                    "description": "Полноценный корм для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/fbd/fogpg077e5qu1aqatkfrr8onskd77p0b/200_200_1/839a524b7e08153c8074ced15be04874.jpg",
+                    "amount": "1,5 кг",
+                    "cost": "9,80  руб."
+                },
+                {
+                    "name": "Природа Корм Папужка Юниор для волнистых попугаев",
+                    "description": "Полноценный корм для молодых волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/88d/d152tq5e2m6n4skig50kwui7c9ziusxa/200_200_1/29c8a9e3d191c645069d25993ef0a752.jpg",
+                    "amount": "500 г",
+                    "cost": "4,60  руб."
+                },
+                {
+                    "name": "Природа Корм Папужка Йод + колор",
+                    "description": "Полноценный корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/42a/qixbv28uw4cmoi1jyord3i3ufyf8meau/200_200_1/d33d6403a050ca6b800e7d8826e63acc.jpg",
+                    "amount": "500 г",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Корм Папужка Йод + кокос для волнистых попугаев",
+                    "description": "Полноценный корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d39/1kbvi2j358j98gvwiw6ryjrc3t9bbuso/200_200_1/a68493892088baeff2ff386064a97486.jpg",
+                    "amount": "500 г",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Корм Папужка Йод для волнистых попугаев",
+                    "description": "Полноценный корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/cad/zm43l1c8d7hiyocwz6gj98ehkic11z13/200_200_1/f0e43e189c7f9f43bae2c5a2a9f46b21.jpg",
+                    "amount": "500 г",
+                    "cost": "4,00  руб."
+                },
+                {
+                    "name": "Природа Корм Нимфа для средних попугаев",
+                    "description": "Полноценный корм для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ccf/lv76s8esxdnld20n9r01de3js70dvieo/200_200_1/ba7b77793da8eddd7fa5c4addf7a3576.jpg",
+                    "amount": "500 г",
+                    "cost": "4,00  руб."
+                },
+                {
+                    "name": "Природа Корм Корелла Йод для средних попугаев",
+                    "description": "Полноценный корм для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/20e/jp5imdp98azjly9hdlf3dsny4e9rrg6v/200_200_1/9eb846d20f7316432026c66cb9a7073d.jpg",
+                    "amount": "500 г",
+                    "cost": "4,40  руб."
+                },
+                {
+                    "name": "Природа Корм Канарейка для канареек и декоративных птиц",
+                    "description": "Полноценный корм для канареек и экзотических птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/740/15ervpivm1y54u00wmcsnmft18l434vm/200_200_1/0691620e54a31bcb9b2b050235652b52.jpg",
+                    "amount": "500 г",
+                    "cost": "4,70  руб."
+                },
+                {
+                    "name": "Природа Корм Экзотик для экзотических птиц",
+                    "description": "Полноценный корм для экзотических птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/399/ukyc5iq6jf98952twlrm3ryxgitniatn/200_200_1/f47aee3caf89649a6814512e64fa4565.jpg",
+                    "amount": "500 г",
+                    "cost": "6,30  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Мультивитамин для средних попугаев",
+                    "description": "Корм и лакомство для средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4c9/a31jw5kz2845osaeemt1jf8qe2w0v8i9/200_200_1/4caf1c59de9455ef189caf28791d5fdb.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "Природа Фиеста Колосок Фруктовый для волнистых попугаев",
+                    "description": "Корм и лакомство для декоративных птиц",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8cd/bw1x9x7lx3wect86j1qzo31c1bg7jzq5/200_200_1/37e452ae0de1864b3873a3c4fdce39f0.jpg",
+                    "amount": "50 г х 2 шт (упаковка)",
+                    "cost": "5,00  руб."
+                },
+                {
+                    "name": "ENJOY Корм для крупных попугаев",
+                    "description": "Полнорационный корм для попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4a3/16emc41cg2t8p5spkx8vz4zxljyfbj0w/200_200_1/e90b4cf3f8c4558d9cf96381be5b0ddd.jpg",
+                    "amount": "700 г",
+                    "cost": "13,80  руб."
+                },
+                {
+                    "name": "Padovan Корм для канареек GrandMix Canarini",
+                    "description": "Комплексный основной корм для канареек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/953/2o4c0jvj0ju0i3fhfe4vg81jok448bbj/200_200_1/155a228f0b265f7ef8e429bff4c513ed.jpg",
+                    "amount": "400 г",
+                    "cost": "14,30  руб."
+                },
+                {
+                    "name": "Padovan Корм Naturalmix Parrocchetti для средних попугаев",
+                    "description": "Смесь для круглогодичного питания средних попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b8b/sk5jsb6uty0khz6ydnrc77z4jz1zbera/200_200_1/45e9837de7d864be5b046d8bab4042be.jpg",
+                    "amount": "850 г",
+                    "cost": "13,60  руб."
+                },
+                {
+                    "name": "Padovan Корм Naturalmix Cocorite для волнистых попугаев",
+                    "description": "Полнорационный корм для волнистых попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b42/53czs30s2bpnblk07ccowv6p7qjlhqm9/200_200_1/62b4ae262f49579583e54330b89d6e8a.jpg",
+                    "amount": "1 кг",
+                    "cost": "15,90  руб."
+                },
+                {
+                    "name": "Padovan Корм Grandmix Parrocchetti для средних попугаев",
+                    "description": "Комплексный корм с фруктами и бисквитной крошкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/0d3/u12liaqall2zky2noakrj636wgknqj6x/200_200_1/c99aa05110c35204d62ea282e717784e.jpg",
+                    "amount": "400 г",
+                    "cost": "12,90  руб."
+                },
+                {
+                    "name": "Padovan Корм Grandmix Pappagalli для крупных попугаев",
+                    "description": "Комплексный корм с фруктами и бисквитной крошкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4f0/mltvhqdb9640alp71kx69hb2gfu6rt9h/200_200_1/eb18f163b9f7b964d08856b07964bf57.jpg",
+                    "amount": "600 г",
+                    "cost": "23,30  руб."
+                },
+                {
+                    "name": "Padovan Корм Grandmix Cocorite для волнистых попугаев",
+                    "description": "Комплексный корм с фруктами и бисквитной крошкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/afb/morzojzn9si2x2c4ghz26ivxt6bf1586/200_200_1/5b15751289091b3b1c07df87209092a4.jpg",
+                    "amount": "400 г",
+                    "cost": "12,90  руб."
+                },
+                {
+                    "name": "Fiory Корм для волнистых попугаев \"Classic\"",
+                    "description": "Классическая смесь для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/818/vguup67px1904xe5noeadi4v68t3o6j9/200_200_1/8e467efc4d8167a1dcfed39c401dc49b.png",
+                    "amount": "400 г",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Fiory Корм для волнистых попугаев",
+                    "description": "Сбалансированный рацион для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/ea3/hrlxuakwmyf7lc3fow2zdf4dh2l9vzvy/200_200_1/8be637fc1d45452c8480e4e73fb3b860.png",
+                    "amount": "400 г",
+                    "cost": "8,00  руб."
+                },
+                {
+                    "name": "Fiory Корм для средних попугаев \"Classic\"",
+                    "description": "Классическая смесь для средних попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/deb/lgyn7qs9ncmc962uterfk6k2uhoxooq4/200_200_1/1263682dd6a158c27c134bc3f8a64940.png",
+                    "amount": "400 г",
+                    "cost": "7,70  руб."
+                },
+                {
+                    "name": "Fiory Корм для канареек \"Classic\"",
+                    "description": "Классическая смесь для канареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1f1/81lzhgtbvbx9sjsclzl02mj6aqkdv4hv/200_200_1/13d025f46ab61a6141557d043953aa2b.png",
+                    "amount": "400 г",
+                    "cost": "8,10  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Nutribird P15 Tropical",
+                    "description": "Корм для крупных попугаев, разноцветные гранулы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/057/ryloz3vpxcmgymgcum1u3dtcemorgbnh/200_200_1/41eb48356707a4cd8b89e4a2406c5dd2.jpg",
+                    "amount": "1 кг",
+                    "cost": "42,10  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Nutribird G14 Tropical",
+                    "description": "Корм для больших попугаев, разноцветные гранулы.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e09/o28jto9ynzkzpg7a0x9i1gedma7f3uw4/200_200_1/9b965995933ac9d9e49f6f72b77d8c4c.jpg",
+                    "amount": "1 кг",
+                    "cost": "42,10  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Nutribird B14",
+                    "description": "Корм для волнистых попугайчиков и других маленьких попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bc2/733pry2c6rflb2ly0o5hria2gjtdu4ri/200_200_1/72cf9e302a80ff454af6cb6f77e3ab3b.png",
+                    "amount": "800 г",
+                    "cost": "23,20  руб."
+                },
+                {
+                    "name": "RIO Гурмэ корм для волнистых попугайчиков и мелких птиц",
+                    "description": "Добавка к основному рациону.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/aed/yuzm9byyzl4o1epjv3i56ddm523prgah/200_200_1/f135c47a343e75a5857d7382dce6d074.png",
+                    "amount": "250 г",
+                    "cost": "7,30  руб."
+                },
+                {
+                    "name": "RIO Яичный корм для волнистых попугайчиков и мелких птиц",
+                    "description": "Добавка к основному рациону.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/d97/fk51z8z4fai375ik9kc8t3sitqm8w9a1/200_200_1/4202282008a953a7db7f7ef9ac32b428.png",
+                    "amount": "250 г",
+                    "cost": "6,80  руб."
+                },
+                {
+                    "name": "Vitapol Economic Корм для волнистых попугаев",
+                    "description": "Полнорационный корм для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/eb7/w6yv42rgkqzmehhgcy55s8a5x1zz3b52/200_200_1/bc47c4f06561dc149cb9097a41eda4a5.jpg",
+                    "amount": "1,2 кг",
+                    "cost": "16,70  руб."
+                },
+                {
+                    "name": "Vitapol \"Karma\" Корм для волнистых попугаев",
+                    "description": "Полноценное питание для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/375/arwmo0zefv1svmsc9pavw7h6lykiqudr/200_200_1/c34519ddca03560253ca8502c5140f9b.jpg",
+                    "amount": "500 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "Vitapol \"Karma\" Фруктовый корм для волнистых попугаев",
+                    "description": "Полноценное питание для попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/86b/1qqwhcijhq9w1dpgyf82834bi15mshxc/200_200_1/82ed175533b11d33d38fba86b5848d34.jpg",
+                    "amount": "500 г",
+                    "cost": "8,90  руб."
+                },
+                {
+                    "name": "Power Vit Полнорационный корм для нимф (в пакете)",
+                    "description": "Корм для нимф и средних попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/09d/z1w4qzetdhp4hqjgaml7z6h79anao0eb/200_200_1/d85b9d9dfca85a79745ecf0bb9c7d0f9.jpg",
+                    "amount": "500 г",
+                    "cost": "5,70  руб."
+                },
+                {
+                    "name": "Versele-Laga Дополнительный корм Prestige Grit with Corals",
+                    "description": "Дополнительный минеральный корм для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ae/noh5l4aa4cuv3iywofcnmw2chhozlm06/200_200_1/9363790504216561ee1471c73b53fb6d.jpg",
+                    "amount": "2,5 кг",
+                    "cost": "12,90  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Tropical Finches Premium",
+                    "description": "Корм для тропических и экзотических птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/916/a94qgyi92h7bw1o430hg2ti70xa92ohb/200_200_1/98009a66ff6c2c9491658b1293a7f5d3.jpg",
+                    "amount": "800 г",
+                    "cost": "22,10  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Prestige Australian Parrot",
+                    "description": "Корм для австралийских крупных попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1fc/0nepgy89789yj0dsnqlyav4eatle4gik/200_200_1/463c1652925dd0c90cb95d63839a73ca.jpg",
+                    "amount": "1 кг",
+                    "cost": "26,70  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Prestitge Ara",
+                    "description": "Корм для крупных ара и какаду.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/77b/5dqorcco9fvqb8vfwlpn1mwc3jeens7y/200_200_1/a67fbd941af60d5d2a600cf88fc41a5f.jpg",
+                    "amount": "2 кг",
+                    "cost": "55,20  руб."
+                },
+                {
+                    "name": "Power Vit Полнорационный корм для неразлучников, пакет",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/10f/swu3ir225swsbvjqe0plyqojns29qgt4/200_200_1/6de2f7510038b6a0a8f538196451351b.jpg",
+                    "amount": "500 г",
+                    "cost": "5,10  руб."
+                },
+                {
+                    "name": "Power Vit Полнорационный корм для зебровой амадины",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7eb/ttjjysmhkctye5bz4a8uklgr9hx1x0tl/200_200_1/5d11b828f19f0147d8a24d9e9bf03b96.jpg",
+                    "amount": "500 г",
+                    "cost": "5,80  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Prestige African Parrot",
+                    "description": "Корм для африканских видов попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1c1/agoqrkhq1tddmtlr35tymmpfqvqfw4dp/200_200_1/5c00492814802ab26891e915ed31b7e6.jpg",
+                    "amount": "1 кг",
+                    "cost": "32,70  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Prestige Amazon Parrot",
+                    "description": "Корм для крупных и средних амазонских попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/4e1/3lrc8ap6rscmjwcci16ph736ckfxe5m2/200_200_1/5b8577d4ed15713afce2d2c63aec8cc5.jpg",
+                    "amount": "1 кг",
+                    "cost": "26,20  руб."
+                },
+                {
+                    "name": "Vitapol Корм для амадин и экзотических птиц",
+                    "description": "Полнорационный корм для зебровой амадины и экзотических птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5c9/uxo3bplmtmnz0rjpdhu26owp5xsrfg9c/200_200_1/1eb730b2206349687556f2416e0a52d8.jpg",
+                    "amount": "500 г",
+                    "cost": "6,80  руб."
+                },
+                {
+                    "name": "Vitapol Корм для нимф",
+                    "description": "Полнорационный корм для нимф.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3c2/doggo8xn6563uvkyv755chxd5l8m5ww3/200_200_1/b5cc9f25516f6453c43ff32a1f582f26.jpg",
+                    "amount": "500 г",
+                    "cost": "9,30  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Prestige Premium Australian Parakeet",
+                    "description": "Корм для средних австралийских попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/9b4/b2ia73khuz23madm20bm8mudxp3n8yha/200_200_1/0eea985d6c91f01cdf8404f23d3f3b0d.png",
+                    "amount": "1 кг",
+                    "cost": "20,30  руб."
+                },
+                {
+                    "name": "Fiory Корм для волнистых попугаев \"Fiory Breeders\", 1 кг",
+                    "description": "Полнорационный корм для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/753/gjgtpvtpe5lyalnsfknj50ajbzlfr4x9/200_200_1/b211bf445313902206e6a8e6a1a4b9a2.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,30 руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Prestige Premium African Parakeet, 1 кг",
+                    "description": "Корм для африканских видов средних попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/444/amf4a2zwaqguhunjmwy7bg1a7ohhj57w/200_200_1/cbd3995dadc4f53f014606c48f2f8feb.png",
+                    "amount": "за 1 ед.",
+                    "cost": "25,40 руб."
+                },
+                {
+                    "name": "LoLo Pets LoloLine Медовые жемчужины, 20 гр.",
+                    "description": "Дополнительная кормовая смесь для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/f00/42wlw4b7topdx55z4451yz7lfqx7ssta/200_200_1/8d9f195965613645438720ae07e7d384.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,10 руб."
+                },
+                {
+                    "name": "LoLo Pets LoloLine Йодовые жемчужины, 20 гр.",
+                    "description": "Дополнительная кормовая смесь для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7ed/r6uzoxd6b2h66pi2r5u417zzzu7b22zl/200_200_1/206681d42c917149df3b6db75d4c5a4a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,00 руб."
+                },
+                {
+                    "name": "LoLo Pets LoLoLine Ракушки с кальцием, 50 гр.",
+                    "description": "Минеральная кормовая смесь для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6f2/tsh7sd39lgqp120uhxo85q1cnqksdr55/200_200_1/923407c9add8fc02beb9fd0936f3d87d.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,60 руб."
+                },
+                {
+                    "name": "LoLo Pets LoloLine Морские водоросли, 10 гр.",
+                    "description": "Минеральная кормовая смесь для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/1d9/9uv20u9s468urzd5g0hn5rzhzrk08h7d/200_200_1/db4bff5364d97d19142bb66d6be71cd8.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "3,20 руб."
+                },
+                {
+                    "name": "LoLo Pets Корм для неразлучников 500 г",
+                    "description": "Полнорационный корм для неразлучников",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7fc/12dvwp08cv1heq4n67x7caljs54xqdzi/200_200_1/aea4b749d81d14d970ade470f63c3056.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,50 руб."
+                },
+                {
+                    "name": "Vitapol Ракушки + кальций для птиц \"Vitaline\", 120 г",
+                    "description": "Ракушки с кальцием для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/81f/li7sgqm6a51am62pbszol09fo8ub137n/200_200_1/4c24469acd60b91287fb39afe66f44fb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "1,10 руб."
+                },
+                {
+                    "name": "Vitapol Vitaline \"Чик-чирик\" Подкормка для волн. попугаев, 20 г",
+                    "description": "Подкормка для развития речи.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/560/6u41eqw7ds2s7a30ooi1gifaze9agzf2/200_200_1/d52f4d55faa6353007f6149e380a627a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,00 руб."
+                },
+                {
+                    "name": "Vitapol Vitaline \"Густые перья\" Подкормка для волн. попугаев, 20 г",
+                    "description": "Подкормка для густого оперения.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/433/yr3c94zagmwrlypyic86p1hvtw1v2lte/200_200_1/111334d44f6c6eab4e75719b732032e1.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,10 руб."
+                },
+                {
+                    "name": "Vitapol Vitaline Йодовые жемчужины для волн.попугаев, 20 г",
+                    "description": "Подкормка с йодом.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/3ab/8tve80didybbhbccd3mriwbp044cxqow/200_200_1/7eb3638fe10de0d19cf7cee58018e6ed.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "2,10 руб."
+                },
+                {
+                    "name": "Fiory Корм для экзотических птиц, 400 г",
+                    "description": "Полноценный рацион для экзотических птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/490/feewtzkgzxwt90ip2wx01yygh3tcfmbd/200_200_1/f00589f80c8827baf7a200e54c3f4578.png",
+                    "amount": "за 1 ед.",
+                    "cost": "8,70 руб."
+                },
+                {
+                    "name": "Lolo Pets Doypack Корм для канареек, 600 г",
+                    "description": "Полнорационный корм для канареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/494/wr7hm4iucldxfkajl8i8atqgdes50d82/200_200_1/d5311b9f5eccad578c1d1be387a7c6d0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,00 руб."
+                },
+                {
+                    "name": "Lolo Pets Doypack фруктовый корм для канареек, 600 г",
+                    "description": "Сбалансированный корм с фруктами для канареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6a/rupifx0ncl8eyy0bm78avkrm9kcuwaz2/200_200_1/a91e9f9378f5ad24b8eec7467bef573f.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Корм для крупных попугаев, 900 г",
+                    "description": "Полнорационная кормовая смесь.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/b29/zpv6udlxk86s1ubx0uetyzzq3hag2hxx/200_200_1/6a6218ea793e0f94ca4c0bdd6c1a1fd0.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "25,20 руб."
+                },
+                {
+                    "name": "Fiory Корм для экзотических птиц \"Classic\", 400 г",
+                    "description": "Классическая смесь для экзотических птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6b6/7r4azkq3ieswl3xzklnbf3f9xplbdror/200_200_1/8cecb70c4493f75adccee80fd2b40e94.png",
+                    "amount": "за 1 ед.",
+                    "cost": "7,00 руб."
+                },
+                {
+                    "name": "Versele-Laga Prestige Doves для голубей, 1 кг",
+                    "description": "Полнорационный корм для голубей.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/7a5/mbppqlt4rc4wgagmxx37af9z30l114cm/200_200_1/324a6964212d8d5e7dc731c484841f94.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,50 руб."
+                },
+                {
+                    "name": "Padovan Корм Grandmix Esotici для экзотических птиц, 400 г",
+                    "description": "Комплексный корм с фруктами и бисквитной крошкой",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e9b/6cs1skypui0eqlusre77dsxbg65hlwve/200_200_1/6c917b7ff07d68aac395fb71f4514adb.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,60 руб."
+                },
+                {
+                    "name": "Fiory Корм для разведения волнистых попугаев, 400 г",
+                    "description": "Корм для разведения волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/33d/xm47j3ty2g1ewjupv65arod0np50lacp/200_200_1/8977092cade8a7bdb566d2c47a306260.png",
+                    "amount": "за 1 ед.",
+                    "cost": "13,20 руб."
+                },
+                {
+                    "name": "LoLo Pets Корм для неразлучников 1000 г",
+                    "description": "Полнорационный корм для неразлучников.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/e59/f6ntjganakr7ix5c00scm2l9mqm31nb0/200_200_1/8db87bbc2e7eaa73977f1d3c8fd0c08a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "14,50 руб."
+                },
+                {
+                    "name": "Fiory Корм для канареек",
+                    "description": "Полноценный рацион для канареек",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/59a/aqqzag25yer0qtkem2vbjjzvh1cg7q8b/200_200_1/00798d9dfa2c301a384d62761b2df863.png",
+                    "amount": "400 г",
+                    "cost": "10,10  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Prestige Budgies Premium",
+                    "description": "Корм для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/iblock/e26/hk2vlz3uo53jljv5deznyx8jwkrj8n2c/f66589423cf180672300f6fb4f74d650.png",
+                    "amount": "1 кг",
+                    "cost": "15,50  руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Classic Canary, 500 гр",
+                    "description": "Корм для всех видов канареек.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5e7/tuxurljjmx6tmol1j1a5q084stltgjle/200_200_1/1b84d94b99fcd8aa2d0c985e723eaa89.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,60 руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Exotic Fruit, 600 г",
+                    "description": "Комбинированный корм с экзотическими фруктами для крупных попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/a3a/xu3r33dezqfaadq745gqac0v5bq3jw9k/200_200_1/5410340217818pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,20 руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Exotic Nuts, 750 г",
+                    "description": "Комбинированный корм с экзотическими орехами для крупных попугаев",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/230/xmrscgt9vo0qsvf83xi740k1bwjia1b3/200_200_1/5410340217825pack.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "21,20 руб."
+                },
+                {
+                    "name": "Versele-Laga Корм Exotic Light, 750 г",
+                    "description": "Комбинированный корм для средних и крупных попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c5c/dwt2qezmce8xinj0fv8r8rgguiyg8ot5/200_200_1/48d650ff431a43fce4ddbb0f423ae75e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,30 руб."
+                },
+                {
+                    "name": "RIO Яичный корм, 350 г",
+                    "description": "Источник витаминов для всех видов птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/6ae/b7gvdpylbnw4rnc7hplxmmod4931dvpo/200_200_1/c23bcd90839c30c50a66878833c7a610.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,20 руб."
+                },
+                {
+                    "name": "RIO Красный яичный корм, 350 г",
+                    "description": "Для усиления красного окраса канареек, зябликов, щеглов и других птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/c6a/6jckm0ynfpf52beezvtrn6irbrpxgyv6/200_200_1/2ddd3d518e74f4901d7751ba1fcb4404.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "13,40 руб."
+                },
+                {
+                    "name": "Vitapol Economic Корм для нимф 1,2 кг",
+                    "description": "Полнорационный корм для нимф.",
+                    "image_url": "https://garfield.by/upload/iblock/46b/62o9md7gcapxttzs4qfjevs29ejbspvz/6c8f4b98896b9249855d7f7623b8fe8c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "18,70 руб."
+                },
+                {
+                    "name": "Vitapol Economic Корм для канареек",
+                    "description": "Полнорационный корм для канареек, 1,2 кг.",
+                    "image_url": "https://garfield.by/upload/iblock/64d/5l2rvx9ql8mqcndepq3z6i9evp5gvy61/ebb1b84f9183c9972520b85829137124.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,20 руб."
+                },
+                {
+                    "name": "Vitapol \"Karma\" корм для неразлучников 500 г",
+                    "description": "Полнорационный корм для неразлучников.",
+                    "image_url": "https://garfield.by/upload/iblock/eb4/k9tq7dfc160lri74uwt03c0ld0x45s82/c498985e5f70dac3ffa6362d9f1c7e91.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,70 руб."
+                },
+                {
+                    "name": "Vitapol Корм для крупных попугаев",
+                    "description": "Полнорационный корм для крупных попугаев, 900 г.",
+                    "image_url": "https://garfield.by/upload/iblock/b6a/ogt5w0akir681ijqyzie9280miguxit7/a67312394b9d88c28983ece096518bf4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "26,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Premium Корм для волнистых попугаев",
+                    "description": "Полнорационный корм для волнистых попугаев, 1 кг.",
+                    "image_url": "https://garfield.by/upload/iblock/db8/6mt7t470707c1u1kng9d9xrmcfbcmlzt/fee99e0aa90bfe898501934c94927ab4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "20,10 руб."
+                },
+                {
+                    "name": "Lolo Pets Doypack Корм для волнистых попугаев (Фрукты)",
+                    "description": "Корм фруктовый для волнистых попугаев, 600 г.",
+                    "image_url": "https://garfield.by/upload/iblock/32f/dww1azg4gvbgax217cqe8s15dcmqhqnl/9aa5777e7cedb2a15fecefb168735b3c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,30 руб."
+                },
+                {
+                    "name": "Lolo Pets Basic Корм для волнистых попугаев",
+                    "description": "Полнорационный корм для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/iblock/f3c/blhti2i9fg7puk8mzcq8hs29sbh7jted/91e0e96235842723c9e7d3e5e0e5c11f.jpg",
+                    "amount": "0,5 кг",
+                    "cost": "6,90  руб."
+                },
+                {
+                    "name": "Lolo Pets Doypack Корм для волнистых попугаев 600 гр",
+                    "description": "Полнорационный корм для волнистых попугаев, 600 г.",
+                    "image_url": "https://garfield.by/upload/iblock/854/70dryir5ulg9e54vysnvsd3qhroqbpad/dabd8cabd222015b32f4ab4fb49dde5c.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,70 руб."
+                },
+                {
+                    "name": "Lolo Pets Basic Корм для волнистых попугаев (Фруктовый)",
+                    "description": "Корм фруктовый для волнистых попугаев, 500 г.",
+                    "image_url": "https://garfield.by/upload/iblock/492/0wmcb2zkryg9czvxv69gspjpmk1xfkln/3704f019a4a4a518f714dfe70d415574.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "8,80 руб."
+                },
+                {
+                    "name": "Lolo Pets Doypack Корм для нимф",
+                    "description": "Полнорационный корм для нимф, 600 г.",
+                    "image_url": "https://garfield.by/upload/iblock/c65/331mt78y2vng7420rspn4mgvtf0wfyqi/0e44b37bcbba899c2d79619f1bd777b4.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,70 руб."
+                },
+                {
+                    "name": "Lolo Pets Корм для канареек, 500 г",
+                    "description": "Полнорационный корм для канареек",
+                    "image_url": "https://garfield.by/upload/iblock/dad/b164dv69mt3i4bpxym0niirp0se4qixj/921d6c0c7eff3051fb0c339e97369f22.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "10,60 руб."
+                },
+                {
+                    "name": "Lolo Pets Doypack Корм для крупных попугаев, 350 г",
+                    "description": "Полнорационный корм для крупных попугаев.",
+                    "image_url": "https://garfield.by/upload/iblock/5a4/dpb2wmgwfeq3kabcuwfdl43rhvyii3f5/0537f3a6c00c24bf81b9d062098d5e0a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "11,90 руб."
+                },
+                {
+                    "name": "Power Vit  для волнистых попугаев (в пакете), 500 г",
+                    "description": "Полнорационный корм для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/iblock/867/uaigf49bidqfaq35ff32wwlm3bfwjlga/c9afbb78e8bb584caedd8fa702c9aff5.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,60 руб."
+                },
+                {
+                    "name": "Power Vit Premium для волнистых попугаев, 1 кг",
+                    "description": "Полнорационный корм для волнистых попугаев.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/5a1/fkfy6qskrthi8ok9bc83otbtbo0gi7uj/200_200_1/47897596bf449c2446e5440c7f805c10.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "6,00 руб."
+                },
+                {
+                    "name": "Power Vit для средних попугаев (в пакете), 500 г",
+                    "description": "Полнорационный корм для средних попугаев.",
+                    "image_url": "https://garfield.by/upload/iblock/fac/ehzea0rq0mbxg1ru671xokv0k1zlm19d/7fee35478614bec12c2347b39ed47c04.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "5,70 руб."
+                },
+                {
+                    "name": "Power Vit для канареек",
+                    "description": "Полнорационный корм для канареек, 500 г.",
+                    "image_url": "https://garfield.by/upload/iblock/8a9/nef9hs0n42k8t7ywie6rsil04qqqb2i0/0307c2cfcf82d04090cbcc743041a94a.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Power Vit Premium для канареек",
+                    "description": "Полнорационный корм для канареек, 1 000 г.",
+                    "image_url": "https://garfield.by/upload/iblock/982/9gdr5n2xic1c9cqed376y0xypss0kao5/f4232123ccabbfa91927f9ba06d1c5d3.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "12,80 руб."
+                },
+                {
+                    "name": "Power Vit для неразлучников, 500 г",
+                    "description": "Полнорационный корм для неразлучников.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/8d2/k9e6r0gf4kp5acb32m4t0mim7w5mgfei/200_200_1/59e4530b57b9aefb46694375e2203146.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "7,10 руб."
+                },
+                {
+                    "name": "Power Vit для крупных попугаев, 800 г",
+                    "description": "Полнорационный корм для крупных попугаев.",
+                    "image_url": "https://garfield.by/upload/iblock/ce1/ru3vcs3z757fvf2wz7e5ieo4kzwodrg4/5e5e898d6517d25a37dd5285d84f4de6.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "15,80 руб."
+                },
+                {
+                    "name": "Power Vit Песок с ракушками, 1,500 г",
+                    "description": "Песок с ракушками, для птиц.",
+                    "image_url": "https://garfield.by/upload/resize_cache/iblock/bcc/4kqlv7w8lmxtp4qgdeok17rzro57e0ei/200_200_1/6a917fc266f3d4b82a2391ea94da3f3e.jpg",
+                    "amount": "за 1 ед.",
+                    "cost": "4,70 руб."
+                },
+                {
+                    "name": "RIO Универсальный мягкий корм, 350 г",
+                    "description": "Источник витаминов для всех видов птиц.",
+                    "image_url": "https://garfield.by/upload/iblock/e01/leio9wl87mn7m0qq5vq7v5bswtd8vwgz/93f1b52dfefb542374e495b92d652e32.jpeg",
+                    "amount": "за 1 ед.",
+                    "cost": "9,90 руб."
+                }
+            ]
+        }
+    }
+}
