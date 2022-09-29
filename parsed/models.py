@@ -7,7 +7,7 @@ class Site(models.Model):
     url = models.URLField(verbose_name='URL-адрес')
 
     def __str__(self):
-        return self.name
+        return f'{self.name}: {self.url}'
 
     class Meta:
         verbose_name = 'сайт'
@@ -33,7 +33,7 @@ class Category(models.Model):
     animal = models.ForeignKey(Animal, on_delete=models.PROTECT)
 
     def __str__(self):
-        return f'{self.name} для {self.animal.name}'
+        return f'{self.name} для {self.animal.type}'
 
     class Meta:
         verbose_name = 'категория'
